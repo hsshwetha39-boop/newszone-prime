@@ -68,7 +68,7 @@ This collaboration could mark another major crossover between Bollywood and Sout
 
 Fans are eagerly waiting for an official announcement, and if confirmed, this could become one of the most anticipated projects of the year.`,
     url: "#",
-    image: "images/salman.jfif",
+    image: "salman.jfif",
     category: "film"
   },
   
@@ -88,7 +88,7 @@ Vaibhav Sooryavanshi, who has been gaining attention for his performances, remai
 The IPL governing body continues to reinforce fair play, ensuring that the spirit of the game remains intact even in intense moments.`,
   
   url: "#",
-  image: "images/WhatsApp Image 2026-05-02 at 3.48.08 PM.jpeg",
+  image: "WhatsApp Image 2026-05-02 at 3.48.08 PM.jpeg",
   category: "sports"
   }
 ];
