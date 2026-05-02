@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>News Details</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="navbar">
+    <h2>NewsZone</h2>
+
+    <div class="nav-links">
+        <a href="index.html">Home</a>
+    </div>
+</nav>
+
+<div class="news-details">
+
+    <h1 id="title"></h1>
+    <p class="news-meta">
+      By <span id="author"></span> • <span id="date"></span>
+    </p>
+
+    <img id="image" style="width:100%; margin:20px 0;">
+
+    <p id="desc"></p>
+
+</div>
+
+<script>
+const params = new URLSearchParams(window.location.search);
+
+document.getElementById("title").innerText = params.get("title");
+document.getElementById("desc").innerText = params.get("desc");
+
+document.getElementById("author").innerText = params.get("author");
+document.getElementById("date").innerText = params.get("date");
+
+const img = params.get("img");
+if (img) {
+    document.getElementById("image").src = img;
+}
+</script>
+
+</body>
+</html>

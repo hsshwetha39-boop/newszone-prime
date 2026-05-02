@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NEWSZONE PRIME</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar">
+
+    <h2 class="logo">
+        <img src="WhatsApp Image 2026-04-24 at 10.56.17 AM.jpeg" alt="logo">
+        <span>NEWSZONE PRIME</span>
+    </h2>
+
+    <div class="nav-right">
+        <input type="text" id="searchInput" placeholder="Search..." />
+
+        <button id="darkBtn" onclick="toggleDarkMode()">🌙</button>
+
+        <button class="menu-btn" onclick="toggleMenu()">≡</button>
+    </div>
+
+    <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </div>
+
+</nav>
+
+<!-- BANNER -->
+<div class="banner">
+  <h1>NEWSZONE PRIME</h1>
+  <p>Latest updates from Film, Politics, Sports & Viral</p>
+</div>
+
+<!-- BREAKING NEWS -->
+<div class="breaking-news">
+    <span class="scroll-text">
+        🔴 <strong>Breaking:</strong> Major news update happening now... Stay tuned!
+    </span>
+</div>
+
+<!-- CATEGORIES -->
+<div class="categories">
+    <span onclick="filterNews('all')">All</span>
+    <span onclick="filterNews('film')">Film</span>
+    <span onclick="filterNews('sports')">Sports</span>
+    <span onclick="filterNews('viral')">Viral</span>
+</div>
+
+<div class="loader" id="loader">
+    Loading news...
+</div>
+
+<!-- NEWS CARDS -->
+<div class="news-container" id="newsContainer">
+
+</div>
+
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-content">
+    <h3>📰 NEWSZONE PRIME</h3>
+    <p>Your daily source of trending news, entertainment, and updates.</p>
+
+    <div class="footer-links">
+      <a href="index.html">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </div>
+
+    <p>Contact: <a href="mailto:hsshwetha13@gmail.com">hsshwetha13@gmail.com</a></p>
+
+    <p class="copyright">© 2026 NewsZone. All rights reserved.</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
