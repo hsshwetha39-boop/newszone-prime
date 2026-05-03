@@ -17,7 +17,10 @@
     </h2>
 
     <div class="nav-right">
-        <input type="text" id="searchInput" placeholder="Search..." />
+        <div class="search-box">
+  <input type="text" id="searchInput" placeholder="Search..." />
+  <span id="clearBtn">❌</span>
+</div>
 
         <button id="darkBtn" onclick="toggleDarkMode()">🌙</button>
 
@@ -47,15 +50,14 @@
 
 <!-- CATEGORIES -->
 <div class="categories">
-    <span onclick="filterNews('all')">All</span>
-    <span onclick="filterNews('film')">Film</span>
-    <span onclick="filterNews('sports')">Sports</span>
-    <span onclick="filterNews('viral')">Viral</span>
+
+  <span onclick="filterNews('all', event)" class="category-btn active">All</span>
+  <span onclick="filterNews('film', event)" class="category-btn">Film</span>
+  <span onclick="filterNews('sports', event)" class="category-btn">Sports</span>
+  <span onclick="filterNews('viral', event)" class="category-btn">Viral</span>
+
 </div>
 
-<div class="loader" id="loader">
-    Loading news...
-</div>
 
 <!-- NEWS CARDS -->
 <div class="news-container" id="newsContainer">

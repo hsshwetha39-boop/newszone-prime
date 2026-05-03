@@ -6,7 +6,11 @@ let allArticles = []; // store articles for search
 async function loadNews(category = "") {
   const container = document.getElementById("newsContainer");
 
-  container.innerHTML = "Loading news...";
+  container.innerHTML = `
+  <div class="skeleton-card"></div>
+  <div class="skeleton-card"></div>
+  <div class="skeleton-card"></div>
+`;
 
   try {
     const url = `https://gnews.io/api/v4/top-headlines?country=in&lang=en&topic=${category}&apikey=${API_KEY}`;
@@ -28,7 +32,6 @@ async function loadNews(category = "") {
 // DISPLAY FUNCTION
 function displayNews(articles) {
 
-  document.getElementById("loader").style.display = "none";
 
   const container = document.getElementById("newsContainer");
 
@@ -96,7 +99,18 @@ The IPL governing body continues to reinforce fair play, ensuring that the spiri
 displayNews(manualNews);
 
 // CATEGORY CLICK
-function filterNews(category) {
+function filterNews(category, event) {
+
+  // remove active from all buttons
+  document.querySelectorAll(".category-btn").forEach(btn => {
+    btn.classList.remove("active");
+  });
+
+  // highlight clicked button
+  if (event) {
+    event.target.classList.add("active");
+  }
+
   if (category === "all") {
     displayNews(manualNews);
   } else {
@@ -145,7 +159,28 @@ window.onload = () => {
         (article.description && article.description.toLowerCase().includes(value))
     );
 
+    if (filtered.length === 0) {
+    document.getElementById("newsContainer").innerHTML = `
+        <h2 style="text-align:center; margin-top:40px;">
+            😢 No results found
+        </h2>
+    `;
+} else {
     displayNews(filtered);
+}
+
+});
+
+const clearBtn = document.getElementById("clearBtn");
+
+searchInput.addEventListener("input", () => {
+  clearBtn.style.display = searchInput.value ? "block" : "none";
+});
+
+clearBtn.addEventListener("click", () => {
+  searchInput.value = "";
+  clearBtn.style.display = "none";
+  displayNews(manualNews);
 });
 
 // optional (extra smooth)
