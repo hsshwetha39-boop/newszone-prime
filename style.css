@@ -891,3 +891,10 @@ a {
 body {
     margin: 0;
 }
+
+mark {
+  background: yellow;
+  color: black;
+  padding: 2px;
+  border-radius: 3px;
+}

@@ -134,12 +134,25 @@ window.onload = () => {
   document.getElementById("searchInput").addEventListener("keyup", function () {
     const value = this.value.toLowerCase();
 
+    // reset when empty
+    if (value === "") {
+        displayNews(manualNews);
+        return;
+    }
+
     const filtered = manualNews.filter(article =>
         article.title.toLowerCase().includes(value) ||
         (article.description && article.description.toLowerCase().includes(value))
     );
 
     displayNews(filtered);
+});
+
+// optional (extra smooth)
+document.getElementById("searchInput").addEventListener("blur", function () {
+    if (this.value === "") {
+        displayNews(manualNews);
+    }
 });
 
 };
