@@ -106,16 +106,6 @@ function filterNews(category) {
 }
 
 // SEARCH (WORKS NOW)
-document.getElementById("searchInput").addEventListener("keyup", function () {
-    const value = this.value.toLowerCase();
-
-    const filtered = manualNews.filter(article =>
-        article.title.toLowerCase().includes(value) ||
-        (article.description && article.description.toLowerCase().includes(value))
-    );
-
-    displayNews(filtered);
-});
 
 // DARK MODE
 function toggleDarkMode() {
@@ -140,6 +130,18 @@ window.onload = () => {
   if (savedTheme === "dark") {
     document.body.classList.add("dark-mode");
   }
+
+  document.getElementById("searchInput").addEventListener("keyup", function () {
+    const value = this.value.toLowerCase();
+
+    const filtered = manualNews.filter(article =>
+        article.title.toLowerCase().includes(value) ||
+        (article.description && article.description.toLowerCase().includes(value))
+    );
+
+    displayNews(filtered);
+});
+
 };
 
 function toggleMenu() {
