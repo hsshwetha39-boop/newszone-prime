@@ -107,14 +107,14 @@ function filterNews(category) {
 
 // SEARCH (WORKS NOW)
 document.getElementById("searchInput").addEventListener("keyup", function () {
-  const value = this.value.toLowerCase();
+    const value = this.value.toLowerCase();
 
-  const filtered = allArticles.filter(article =>
-    article.title.toLowerCase().includes(value) ||
-    (article.description && article.description.toLowerCase().includes(value))
-  );
+    const filtered = manualNews.filter(article =>
+        article.title.toLowerCase().includes(value) ||
+        (article.description && article.description.toLowerCase().includes(value))
+    );
 
-  displayNews(filtered);
+    displayNews(filtered);
 });
 
 // DARK MODE
