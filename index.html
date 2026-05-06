@@ -12,20 +12,19 @@
 <nav class="navbar">
 
     <h2 class="logo">
-        <img src="WhatsApp Image 2026-04-24 at 10.56.17 AM.jpeg" alt="logo">
-        <span>NEWSZONE PRIME</span>
-    </h2>
+    <img src="WhatsApp Image 2026-04-24 at 10.56.17 AM.jpeg">
+    <span>NEWSZONE PRIME</span>
+</h2>
 
-    <div class="nav-right">
-        <div class="search-box">
-  <input type="text" id="searchInput" placeholder="Search..." />
-  <span id="clearBtn">❌</span>
+<div class="search-box">
+    <input type="text" id="searchInput" placeholder="Search..." />
+    <span id="clearBtn">❌</span>
 </div>
 
-        <button id="darkBtn" onclick="toggleDarkMode()">🌙</button>
-
-        <button class="menu-btn" onclick="toggleMenu()">≡</button>
-    </div>
+<div class="nav-right">
+    <button id="darkBtn" onclick="toggleDarkMode()">🌙</button>
+    <button class="menu-btn" onclick="toggleMenu()">☰</button>
+</div>
 
     <div class="nav-links">
         <a href="index.html">Home</a>
@@ -51,10 +50,13 @@
 <!-- CATEGORIES -->
 <div class="categories">
 
-  <span onclick="filterNews('all', event)" class="category-btn active">All</span>
-  <span onclick="filterNews('film', event)" class="category-btn">Film</span>
-  <span onclick="filterNews('sports', event)" class="category-btn">Sports</span>
-  <span onclick="filterNews('viral', event)" class="category-btn">Viral</span>
+  <span onclick="filterNews('all', event)" class="category-btn active">📰All</span>
+  <span onclick="filterNews('trending', event)" class="category-btn">📈Trending</span>
+  <span onclick="filterNews('film', event)" class="category-btn">🎬Film</span>
+  <span onclick="filterNews('sports', event)" class="category-btn">🏏Sports</span>
+  <span onclick="filterNews('politics', event)" class="category-btn">🏛️Politics</span>
+  <span onclick="filterNews('viral', event)" class="category-btn">🔥Viral</span>
+  
 
 </div>
 

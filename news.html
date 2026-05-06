@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>News Details</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -15,7 +16,8 @@
     <div class="nav-right">
         <input type="text" id="searchInput" placeholder="Search..." />
 
-        <button class="menu-btn" onclick="toggleMenu()">≡</button>
+        <button class="menu-btn" onclick="toggleMenu()">☰</button>
+
     </div>
 
     <div class="nav-links">
@@ -24,6 +26,10 @@
         <a href="contact.html">Contact</a>
     </div>
 </nav>
+
+<button class="back-btn" onclick="goHome()">
+  ← Back to Home
+</button>
 
 <div class="news-details">
 
@@ -42,7 +48,9 @@
 const params = new URLSearchParams(window.location.search);
 
 document.getElementById("title").innerText = params.get("title");
-document.getElementById("desc").innerText = params.get("desc");
+
+// ✅ THIS IS THE FIX
+document.getElementById("desc").innerHTML = params.get("desc");
 
 document.getElementById("author").innerText = params.get("author");
 document.getElementById("date").innerText = params.get("date");
@@ -52,6 +60,8 @@ if (img) {
     document.getElementById("image").src = img;
 }
 </script>
+
+<script src="script.js"></script>
 
 </body>
 </html>
