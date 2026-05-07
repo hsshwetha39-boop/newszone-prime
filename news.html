@@ -1,64 +1,83 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>News Details</title>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Details - NewsZone Prime</title>
+    <link rel="icon" type="jpeg" href="WhatsApp Image 2026-04-24 at 10.56.17 AM.jpeg">
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="news-page">
 
+<!-- NAVBAR -->
 <nav class="navbar">
-    <h2 class="logo">
+
+    <!-- LEFT: Logo -->
+    <h2 class="logo" onclick="goHome()" style="cursor:pointer;">
         <img src="WhatsApp Image 2026-04-24 at 10.56.17 AM.jpeg" alt="logo">
-        <span>NEWSZONE PRIME</span>
+        <span>NZ PRIME</span>
     </h2>
 
-    <div class="nav-right">
-        <input type="text" id="searchInput" placeholder="Search..." />
-
-        <button class="menu-btn" onclick="toggleMenu()">☰</button>
-
+    <!-- CENTER: Search -->
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search News...">
+        <span id="clearBtn">❌</span>
     </div>
 
+    <!-- RIGHT: Dark mode + Menu -->
+    <div class="nav-right">
+        <button class="menu-btn" onclick="toggleMenu()">☰</button>
+    </div>
+
+    <!-- NAV LINKS -->
     <div class="nav-links">
         <a href="index.html">Home</a>
         <a href="about.html">About</a>
         <a href="contact.html">Contact</a>
     </div>
+
 </nav>
 
-<button class="back-btn" onclick="goHome()">
-  ← Back to Home
-</button>
+<!-- BACK BUTTON — outside the article card -->
+<div style="max-width:750px; margin: 15px auto 8px; padding: 0 20px;">
+    <button onclick="goHome()">← Back to Home</button>
+</div>
 
+<!-- NEWS DETAIL CONTENT -->
 <div class="news-details">
 
     <h1 id="title"></h1>
+
     <p class="news-meta">
-      By <span id="author"></span> • <span id="date"></span>
+        By <span id="author"></span> • <span id="date"></span>
     </p>
 
-    <img id="image" style="width:100%; margin:20px 0;">
+    <img id="image" alt="News Image">
 
-    <p id="desc"></p>
+    <div id="desc"></div>
 
 </div>
 
 <script>
-const params = new URLSearchParams(window.location.search);
+    // Load article data from URL params
+    const params = new URLSearchParams(window.location.search);
 
-document.getElementById("title").innerText = params.get("title");
+    const title = params.get("title");
+    const desc  = params.get("desc");
+    const img   = params.get("img");
+    const author = params.get("author");
+    const date  = params.get("date");
 
-// ✅ THIS IS THE FIX
-document.getElementById("desc").innerHTML = params.get("desc");
+    if (title)  document.getElementById("title").innerText  = title;
+    if (desc)   document.getElementById("desc").innerHTML   = desc;
+    if (author) document.getElementById("author").innerText = author;
+    if (date)   document.getElementById("date").innerText   = date;
 
-document.getElementById("author").innerText = params.get("author");
-document.getElementById("date").innerText = params.get("date");
-
-const img = params.get("img");
-if (img) {
-    document.getElementById("image").src = img;
-}
+    if (img) {
+        document.getElementById("image").src = img;
+    } else {
+        document.getElementById("image").style.display = "none";
+    }
 </script>
 
 <script src="script.js"></script>
