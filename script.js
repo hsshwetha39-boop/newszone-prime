@@ -59,6 +59,69 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Young Cricket Sensation Vaibhav Sooryavanshi Creates New World Record, Stuns Cricket Fans",
+
+  description: "Young batter Vaibhav Sooryavanshi has grabbed nationwide attention after creating a new world record with his remarkable performance, becoming one of the most talked-about names in cricket.",
+
+  content: `Young cricket sensation Vaibhav Sooryavanshi has once again become the center of attention after achieving a major milestone and creating a new world record with his outstanding performance on the field.<br><br>
+
+The youngster’s achievement has created massive excitement among cricket fans, with many calling him one of the brightest upcoming talents in Indian cricket. His fearless batting style, confidence, and consistency have already made him a popular name among sports followers.<br><br>
+
+According to reports, Vaibhav’s latest performance helped him break multiple records, making the moment even more special for cricket lovers. Fans across social media platforms have been celebrating the achievement, while several former players and experts also praised the young batter for his remarkable talent.<br><br>
+
+At such a young age, Vaibhav Sooryavanshi has managed to achieve something many experienced players dream of accomplishing during their careers. His dedication, hard work, and calm approach under pressure are being widely appreciated by coaches and cricket analysts.<br><br>
+
+The record-breaking performance has also increased discussions about his future in Indian cricket. Many believe the youngster has the potential to become one of the country’s biggest cricket stars in the coming years if he continues performing with the same confidence and discipline.<br><br>
+
+Videos and highlights from the match quickly went viral online, with fans praising both his shot selection and maturity on the field. The achievement has now become one of the most discussed topics among cricket followers.<br><br>
+
+As the cricket world continues to react to his historic performance, Vaibhav Sooryavanshi’s growing popularity shows no signs of slowing down. His latest achievement has not only created history but has also inspired many young aspiring cricketers across the country.<br><br>
+
+With records already being broken at such an early stage of his journey, fans are now eagerly waiting to see what the young batter achieves next in his promising cricket career.`,
+
+  url: "#",
+
+  image: "vaibhav.jpeg",
+
+  category: "sports"
+},
+
+
+
+  {
+  title: "TVK Chief Vijay Sworn In as Tamil Nadu Chief Minister, Marks Major Political Shift in State",
+
+  description: "Actor-turned-politician Vijay officially took oath as the Chief Minister of Tamil Nadu, marking a historic political moment and the rise of TVK as a major force in the state.",
+
+  content: `Tamilaga Vettri Kazhagam (TVK) chief Vijay officially took oath as the Chief Minister of Tamil Nadu on Sunday, creating one of the biggest political moments in the state’s recent history.<br><br>
+
+The swearing-in ceremony took place in Chennai amid massive celebrations from supporters, party workers, and fans who gathered in large numbers to witness the historic occasion. The event marked Vijay’s official transition from cinema superstar to the state’s top political leader.<br><br>
+
+Vijay’s rise in politics has been closely followed ever since he launched TVK and entered active public life. His party’s strong performance in the Tamil Nadu Assembly elections surprised many political observers and significantly changed the political landscape of the state.<br><br>
+
+For decades, Tamil Nadu politics was largely dominated by the DMK and AIADMK. However, Vijay’s victory and oath-taking are now being viewed by many as the beginning of a new political era in the state.<br><br>
+
+During his speech after taking oath, Vijay reportedly spoke about social justice, welfare, transparency, and development, while promising to focus on governance that directly benefits ordinary people.<br><br>
+
+Supporters across Tamil Nadu celebrated the moment through rallies, fireworks, posters, and social media campaigns. Videos from the ceremony quickly went viral online, with many calling it a historic turning point in Tamil Nadu politics.<br><br>
+
+Several national political leaders, celebrities, and public figures also reacted to Vijay becoming Chief Minister, making the event one of the most discussed topics across news channels and social media platforms.<br><br>
+
+Political analysts believe Vijay’s massive popularity among young voters and first-time voters played a major role in TVK’s rise during the elections. His entry into politics had already generated huge attention over the past few years, but the oath ceremony officially confirmed his arrival as a major political figure.<br><br>
+
+As Vijay begins his tenure as Chief Minister, public attention is now shifting towards the policies, welfare programs, and administrative decisions his government may introduce in the coming months.<br><br>
+
+The historic swearing-in ceremony has now become one of the most talked-about political events in Tamil Nadu, with supporters describing it as the beginning of a completely new chapter in the state’s political journey.`,
+
+  url: "#",
+
+  image: "vijay.jpeg",
+
+  category: "politics"
+},
+
+
+  {
   title: "Delhi CEO Wins Hearts After Offering Employees ₹10,000 And Paid Leave For Parents’ Vacation",
 
   description: "A Delhi-based CEO has gone viral online after announcing a thoughtful Mother’s Day initiative offering employees ₹10,000 and a paid three-day break to spend quality time with their parents.",
