@@ -59,6 +59,122 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "‘Krishnavataram Part 1’ Sees Massive Box Office Growth With Huge Day 4 Jump",
+
+  description: "Krishnavataram Part 1 continues its strong theatrical run as the mythological drama records a massive rise in collections by Day 4, creating strong buzz among movie audiences nationwide.",
+
+  content: `Krishnavataram Part 1 is continuing its impressive box office journey as the film witnessed a massive rise in collections by Day 4 after a steady opening weekend performance.<br><br>
+
+According to early trade reports, the mythological drama recorded a huge jump compared to its opening day numbers, showing strong audience interest and positive word-of-mouth across several regions. The film’s emotional storytelling, devotional themes, grand visuals, and powerful background score are being widely appreciated by viewers.<br><br>
+
+Social media platforms have also been flooded with reactions from audiences praising the film’s presentation of Lord Krishna’s journey and the spiritual atmosphere created throughout the movie. Several fans described the experience as visually rich and emotionally engaging on the big screen.<br><br>
+
+Trade analysts believe the film is benefiting heavily from family audiences and devotional viewers, especially during weekend shows and evening screenings. Many theatres in multiple cities reportedly witnessed increased occupancy due to strong public response.<br><br>
+
+The film’s rise in collections has surprised many industry observers, especially after its moderate opening. However, positive audience reviews and viral online discussions appear to have boosted the movie significantly over the next few days.<br><br>
+
+Cinema fans are also praising the large-scale production design, VFX work, and traditional mythological presentation, which helped Krishnavataram Part 1 stand out among recent theatrical releases.<br><br>
+
+With the current momentum continuing strongly, the film is now expected to maintain steady collections in the coming days as anticipation around the next chapters of the franchise also continues growing online.<br><br>
+
+As box office numbers keep improving, Krishnavataram Part 1 is quickly becoming one of the most talked-about devotional fantasy films currently running in theatres.`,
+
+  url: "#",
+
+  image: "krishna.jpeg",
+
+  category: "film"
+},
+
+
+  {
+  title: "Ram Charan’s Fierce ‘Peddi’ Poster Sparks Massive Buzz Before Trailer Release",
+
+  description: "Ram Charan’s latest poster from Peddi has gone viral online, with fans praising the actor’s rugged transformation and intense mass look ahead of the film’s trailer launch.",
+
+  content: `Ram Charan has once again grabbed attention across social media after the makers of Peddi unveiled a powerful new poster from the film ahead of its much-awaited trailer launch.<br><br>
+
+The latest poster showcases the actor in a rugged and intense avatar, carrying a raw village-style mass appearance that immediately caught fans’ attention online. With thick hair, a rough beard, fierce expressions, and a gritty background, the poster hints at a high-energy action drama rooted in strong emotions and powerful storytelling.<br><br>
+
+Within minutes of its release, the poster started trending across multiple social media platforms, with fans praising Ram Charan’s screen presence and transformation. Many users compared the look to some of the actor’s most intense performances, while others called it one of his most striking posters in recent years.<br><br>
+
+The excitement around Peddi has been steadily growing ever since the project was officially announced. Industry watchers believe the film could become another major milestone in Ram Charan’s career due to its large-scale production, emotional depth, and strong mass appeal.<br><br>
+
+The makers are now preparing for the official trailer launch, which is expected to reveal more about the film’s story, action sequences, and Ram Charan’s character. Fans have already started countdowns online, eagerly waiting to see the actor in motion after the poster created such strong hype.<br><br>
+
+Several fan pages and cinema trackers also pointed out the detailed design of the poster, especially the earthy visuals, dark tone, and rustic atmosphere that give the film a grounded and intense feel.<br><br>
+
+As anticipation continues to rise, Peddi is quickly becoming one of the most discussed upcoming Indian films on social media, with audiences expecting a powerful theatrical experience from the team behind the project.`,
+
+  url: "#",
+
+  image: "peddi.jpeg",
+
+  category: "film"
+},
+
+
+  {
+  title: "10-Year-Old Boy Killed in Leopard Attack Near Male Mahadeshwara Hills, Authorities Restrict Movement",
+
+  description: "A tragic leopard attack near M.M. Hills claimed the life of a 10-year-old boy, prompting officials to temporarily halt padayatra activities and restrict two-wheeler movement in the forest region.",
+
+  content: `A heartbreaking incident near Male Mahadeshwara Hills in Karnataka has created fear among local residents after a 10-year-old boy lost his life in a leopard attack near Nagamale village.<br><br>
+
+According to officials, the child was reportedly attacked by the wild animal in a forest-side area close to the village. Local people rushed to help after hearing screams, but the boy could not be saved. The incident has left the entire region shocked and saddened.<br><br>
+
+Following the attack, forest department authorities increased surveillance across nearby areas and announced temporary restrictions on padayatra movement and two-wheeler travel through sensitive forest routes around M.M. Hills.<br><br>
+
+Officials stated that the restrictions were introduced mainly as a precautionary measure to ensure the safety of devotees, villagers, and travelers using forest roads during early morning and night hours.<br><br>
+
+Residents in nearby villages have expressed growing concern over repeated wildlife movement near human settlements. Many locals claimed that leopard sightings have increased in recent months due to shrinking forest boundaries and food shortages inside the forest region.<br><br>
+
+Forest teams have now intensified patrolling operations and are monitoring leopard movement using cameras and tracking methods. Authorities also advised people to avoid isolated routes and not allow children to move alone near forest edges.<br><br>
+
+The tragic incident has once again raised discussions about human-wildlife conflict in forest-border regions of Karnataka. Social media users also reacted emotionally, with many demanding stronger safety measures around wildlife-sensitive areas.<br><br>
+
+Officials said further monitoring will continue until the situation becomes safer for public movement in and around the M.M. Hills forest zone.`,
+
+  url: "#",
+
+  image: "mm hills.jpeg",
+
+  category: "viral"
+},
+
+
+  {
+  title: "PM Modi Urges Indians to Work From Home, Avoid Foreign Travel Amid Iran War Concerns",
+
+  description: "Prime Minister Narendra Modi has advised citizens to reduce unnecessary travel, adopt work-from-home practices, and limit fuel consumption as tensions linked to the Iran conflict continue impacting global energy markets.",
+
+  content: `Prime Minister Narendra Modi has urged Indians to follow fuel-saving and cost-control measures as global tensions linked to the ongoing Iran conflict continue affecting international energy markets and economic stability.<br><br>
+
+During a public address, Modi encouraged people to work from home wherever possible, hold online meetings, and avoid unnecessary foreign travel in order to reduce fuel consumption and ease pressure on the economy.<br><br>
+
+The Prime Minister also appealed to citizens to limit non-essential spending on imported luxury items and avoid unnecessary purchases that could increase pressure on foreign exchange reserves. His remarks came amid growing global concerns over rising crude oil prices and disruptions linked to the West Asia crisis.<br><br>
+
+According to reports, the government is closely monitoring the situation as tensions in the region continue impacting fuel supply chains and international markets. Rising oil prices are expected to affect transportation costs, inflation, and several sectors connected to imports and logistics.<br><br>
+
+Modi reportedly asked people to adopt practical habits similar to those followed during the pandemic period, including virtual meetings, reduced fuel usage, public transport, and minimizing unnecessary travel.<br><br>
+
+The appeal quickly became one of the most discussed topics across social media platforms, with many users debating whether work-from-home culture could return again if global fuel prices continue rising.<br><br>
+
+Opposition leaders also reacted strongly to the statement, with some questioning the government’s handling of the economic situation and energy preparedness amid the international crisis.<br><br>
+
+Experts believe India is trying to prepare early for possible economic pressure caused by instability in West Asia, especially because global crude oil prices and shipping routes remain highly sensitive during geopolitical conflicts.<br><br>
+
+As discussions continue nationwide, the Prime Minister’s appeal has sparked wider conversations around fuel conservation, economic preparedness, remote work culture, and the long-term impact of global conflicts on everyday life in India.`,
+
+  url: "#",
+
+  image: "pm modi.jpeg",
+
+  category: "politics"
+},
+
+
+  {
   title: "Young Cricket Sensation Vaibhav Sooryavanshi Creates New World Record, Stuns Cricket Fans",
 
   description: "Young batter Vaibhav Sooryavanshi has grabbed nationwide attention after creating a new world record with his remarkable performance, becoming one of the most talked-about names in cricket.",
