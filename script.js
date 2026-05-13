@@ -59,6 +59,239 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Kannada Actor Dileep Raj Passes Away at 47 After Massive Heart Attack",
+
+  description: "Popular Kannada film and television actor Dileep Raj passed away at the age of 47 following a reported heart attack, leaving the Kannada entertainment industry and fans in shock.",
+
+  content: `The Kannada entertainment industry was left shocked after actor and producer Dileep Raj passed away at the age of 47 following a reported massive heart attack.<br><br>
+
+According to reports, Dileep Raj experienced severe chest pain during the early hours and was rushed to a hospital in Bengaluru. However, despite medical efforts, doctors were unable to revive him. His sudden demise has deeply saddened fans, colleagues, and members of the Kannada film and television industry.<br><br>
+
+Dileep Raj was widely known for his performances in Kannada films, television serials, theatre, and dubbing work. He gained major recognition after appearing alongside Puneeth Rajkumar in the hit Kannada film Milana, which became a turning point in his acting career.<br><br>
+
+Apart from films, he was also a familiar face on Kannada television and acted in several popular serials including Hitler Kalyana, Janani, Kumkuma Bhagya, and Ardha Satya. His natural acting style and emotional performances earned him a strong fan following over the years.<br><br>
+
+Dileep Raj was also involved in television production through his banner DR Creations and contributed to the industry beyond acting. Many colleagues from the Kannada film fraternity expressed grief on social media after the news surfaced online.<br><br>
+
+Fans remembered him as a talented and humble artist who remained connected with audiences through both cinema and television. Several emotional tributes started trending online soon after his passing was reported.<br><br>
+
+The actor had remained active professionally in recent years and continued working in films and television projects. His sudden death at a relatively young age has once again sparked conversations around health awareness and stress in the entertainment industry.<br><br>
+
+Dileep Raj is survived by his wife and children. His passing is being mourned across Karnataka by fans, actors, directors, and members of the television and film industry.`,
+
+  url: "#",
+
+  image: "dileep raj.jpeg",
+
+  category: "trending"
+},
+
+
+  {
+  title: "Chakravarthy Chandrachud Defends Saanvi Sudeep Over Ganesha Tattoo Controversy",
+
+  description: "Writer and public speaker Chakravarthy Chandrachud has strongly reacted to the trolling faced by Saanvi Sudeep over her Ganesha tattoo, saying personal choices about one’s body should not invite public judgment.",
+
+  content: `Saanvi Sudeep recently became the center of online discussion after photos of her Ganesha tattoo began circulating on social media, triggering mixed reactions from users across different platforms.<br><br>
+
+While some people appreciated the tattoo as a personal expression of faith and devotion, others criticized it online, leading to widespread debate and trolling. The controversy quickly gained attention among Kannada cinema followers and social media users.<br><br>
+
+Reacting strongly to the criticism, writer and speaker Chakravarthy Chandrachud publicly supported Saanvi Sudeep and questioned why people were interfering in an individual’s personal choices. His comments defending her soon went viral online.<br><br>
+
+Chandrachud reportedly stated that a person’s body and beliefs are entirely personal matters and outsiders have no right to decide how someone expresses their devotion or spirituality. His statement received support from several users who felt the trolling had become unnecessary and excessive.<br><br>
+
+Many social media users also pointed out that tattoos connected to faith, culture, and spirituality have become common among celebrities and youngsters, and personal choices should not automatically become reasons for public attacks.<br><br>
+
+At the same time, the issue also sparked debates around religious sensitivity, freedom of expression, and online trolling culture. Some users urged people to maintain respect while discussing personal beliefs and appearances.<br><br>
+
+The discussion surrounding Saanvi Sudeep’s tattoo continued trending across Kannada entertainment circles, with fans and followers sharing divided opinions online. However, support messages for Saanvi also increased after Chakravarthy Chandrachud’s public response.<br><br>
+
+As the conversation continues on social media, the incident once again highlights how celebrity personal choices often become topics of intense online discussion and public debate.`,
+
+  url: "#",
+
+  image: "sanvi sudeep.jpeg",
+
+  category: "trending"
+},
+
+
+  {
+  title: "Tamil Nadu CM Vijay Orders Closure of 717 TASMAC Shops Near Public Sensitive Areas",
+
+  description: "Tamil Nadu Chief Minister Vijay has reportedly ordered the closure of 717 TASMAC liquor outlets located near temples, schools, colleges, and bus stands across the state, creating massive public discussion online.",
+
+  content: `Tamil Nadu Chief Minister Vijay has become the center of major public attention after reports surfaced about the government ordering the closure of 717 TASMAC liquor shops functioning near socially sensitive public locations across the state.<br><br>
+
+According to details being widely shared online, the decision includes shutting down 276 liquor outlets located near places of worship, 186 shops operating close to educational institutions, and 255 outlets situated near bus stands and crowded public movement areas.<br><br>
+
+The move has triggered strong reactions on social media, with many users calling it a bold administrative step aimed at addressing long-standing public concerns regarding liquor shops near schools, temples, and heavily populated zones.<br><br>
+
+Supporters of the decision praised the government for focusing on public welfare and social responsibility, especially in areas where students, families, and daily commuters are regularly present. Several social organizations and local residents have reportedly welcomed the development and described it as a positive move for community safety and discipline.<br><br>
+
+At the same time, the announcement has also sparked political discussions online, with people debating the long-term impact such decisions could have on public administration and state revenue systems.<br><br>
+
+The notice circulating across social media platforms quickly went viral after multiple pages and users began sharing screenshots related to the reported order. Many fans of Vijay also praised the decision and described it as a strong leadership move after his transition into politics.<br><br>
+
+Public discussions around TASMAC shops have remained a sensitive topic in Tamil Nadu for several years, especially concerning liquor outlets operating near educational and religious institutions. Various citizen groups had previously raised concerns regarding public inconvenience, safety, and social impact in crowded areas.<br><br>
+
+As conversations continue across social media and news platforms, the reported closure of 717 TASMAC outlets is now being viewed as one of the most talked-about administrative decisions currently trending in Tamil Nadu politics.`,
+
+  url: "#",
+
+  image: "cm vijay.jpeg",
+
+  category: "trending"
+},
+
+
+  {
+  title: "Hardik Pandya Unfollows Mumbai Indians on Instagram, Fans React Online",
+
+  description: "Mumbai Indians captain Hardik Pandya has sparked fresh discussions among cricket fans after reportedly unfollowing the franchise’s official Instagram account.",
+
+  content: `Mumbai Indians captain Hardik Pandya has once again become a major topic of discussion on social media after reports claimed that he unfollowed the official Instagram page of Mumbai Indians.<br><br>
+
+The development quickly went viral among IPL fans, with many users beginning to speculate about possible reasons behind the move. Screenshots and discussions started spreading online soon after fans noticed that the Mumbai Indians account was missing from Hardik Pandya’s following list.<br><br>
+
+Although neither Hardik Pandya nor the franchise has officially commented on the matter, the incident created massive buzz across cricket communities and fan pages. Several supporters described the move as surprising, especially considering Hardik’s leadership role in the team.<br><br>
+
+Social media users immediately started debating whether the action could indicate internal differences, strategic social media management, or simply a temporary change with no major issue involved. Some fans also requested people not to overreact until an official clarification is released.<br><br>
+
+Hardik Pandya has remained one of the most discussed cricketers in recent IPL seasons, especially after taking over Mumbai Indians captaincy. His leadership transition earlier had already triggered strong reactions among fans across social media platforms.<br><br>
+
+Despite online speculation, many cricket analysts believe social media activity should not always be directly connected to professional decisions unless official statements confirm any issue.<br><br>
+
+Meanwhile, Mumbai Indians supporters continue to closely watch the situation, with hashtags related to Hardik Pandya and Mumbai Indians trending online following the reports.<br><br>
+
+As discussions continue across fan communities, cricket followers are now waiting to see whether either Hardik Pandya or the franchise responds publicly regarding the viral social media development.`,
+
+  url: "#",
+
+  image: "hardik.jpeg",
+
+  category: "sports"
+},
+
+{
+  title: "‘We Didn’t Deserve This Win’: Rajat Patidar’s Honest Reaction Stuns RCB Fans",
+
+  description: "RCB captain Rajat Patidar surprised cricket fans after Royal Challengers Bengaluru’s thrilling win over Mumbai Indians by saying the team did not deserve to win the match.",
+
+  content: `Royal Challengers Bengaluru captain Rajat Patidar grabbed attention after making a surprisingly honest statement following RCB’s dramatic last-ball victory over Mumbai Indians in IPL 2026.<br><br>
+
+Despite securing an important win in a tense thriller, Patidar admitted after the match that he felt RCB did not fully deserve the victory because the team should have chased the target more comfortably considering the strength of their batting lineup. His statement quickly went viral across social media platforms and cricket discussions online.<br><br>
+
+RCB were chasing 167 runs but found themselves under heavy pressure after losing early wickets during the powerplay. The team struggled for momentum before Krunal Pandya played a match-saving innings that kept Bengaluru alive in the chase.<br><br>
+
+Eventually, RCB managed to cross the finish line on the final ball, sealing a dramatic win over Mumbai Indians in one of the most intense matches of the season. However, instead of celebrating wildly, Patidar chose to openly speak about the team’s mistakes and batting collapse.<br><br>
+
+“I don’t think we deserved to win the match because with our batting lineup, we should be chasing this target easily,” Patidar reportedly said after the game. <br><br>
+
+Fans online reacted strongly to the statement, with many praising Patidar’s honesty and leadership attitude. Several cricket followers described his comments as refreshing because captains usually focus only on positives after a victory.<br><br>
+
+Krunal Pandya’s fighting innings turned out to be the biggest reason behind RCB’s comeback during the difficult chase. His performance under pressure received appreciation from both fans and cricket experts. <br><br>
+
+The thrilling win also boosted RCB’s playoff hopes significantly in IPL 2026, while Mumbai Indians’ defeat pushed them closer to elimination from the tournament. <br><br>
+
+As discussions around Patidar’s statement continue trending online, many fans now see the RCB captain as a calm and straightforward leader who is willing to honestly evaluate his team even after important victories.`,
+
+  url: "#",
+
+  image: "rcb.jpeg",
+
+  category: "sports"
+},
+
+
+  {
+  title: "Rahul Dravid Enters Franchise Cricket Ownership, Ashwin Named Team Captain",
+
+  description: "Indian cricket legend Rahul Dravid has stepped into franchise cricket ownership after purchasing the Dublin Guardians team, with Ravichandran Ashwin reportedly set to lead the side.",
+
+  content: `Former Indian cricket captain and legendary coach Rahul Dravid has entered the world of franchise cricket ownership by purchasing the Dublin Guardians team in an international cricket league setup.<br><br>
+
+The development has created major excitement among cricket fans, especially because Dravid has mostly stayed away from commercial franchise ownership roles throughout his career. His entry into team ownership is now being viewed as a significant new chapter after his successful coaching stint with the Indian cricket team.<br><br>
+
+According to reports, senior Indian spinner Ravichandran Ashwin is expected to captain the Dublin Guardians side. The combination of Rahul Dravid’s leadership experience and Ashwin’s tactical cricketing mind has already generated strong discussions among fans online.<br><br>
+
+Cricket followers praised Dravid’s decision, with many believing his calm approach, deep cricket knowledge, and strong focus on player development could help build a competitive franchise culture. Fans also expressed curiosity about the type of young talent the team may target in the coming seasons.<br><br>
+
+Rahul Dravid is widely respected across world cricket for his discipline, mentoring ability, and contribution to Indian cricket both as a player and coach. Under his coaching period, several young Indian players developed into key international performers.<br><br>
+
+Meanwhile, Ashwin’s reported leadership role has also attracted attention due to his experience in multiple T20 leagues and his reputation as one of the smartest strategists in modern cricket.<br><br>
+
+Social media users reacted positively after the news surfaced, with many calling the Dravid–Ashwin combination one of the most intelligent cricket partnerships in franchise leagues today.<br><br>
+
+As more official announcements are expected soon, cricket fans are eagerly waiting to see how Rahul Dravid shapes the future of the Dublin Guardians franchise in the coming tournaments.`,
+
+  url: "#",
+
+  image: "rahul dravid.jpeg",
+
+  category: "sports"
+},
+
+
+  {
+  title: "Who Is Jason Sanjay? Inside Vijay’s Son’s Education, Career & Directorial Journey",
+
+  description: "While actor Vijay focuses on politics, his son Jason Sanjay is preparing for a career in cinema with filmmaking and direction, creating strong curiosity among fans across South India.",
+
+  content: `Jason Sanjay, the son of Tamil superstar Vijay, has once again become a trending topic among cinema fans after fresh discussions about his career journey and directorial debut started circulating online.<br><br>
+
+Unlike many star kids who choose acting as their first step into the film industry, Jason Sanjay appears to be taking a different route by focusing more on filmmaking and direction. His decision has surprised many fans and also increased excitement about his future in cinema.<br><br>
+
+Jason Sanjay completed his education abroad and reportedly developed a strong interest in filmmaking, storytelling, and technical aspects of cinema during his studies. Over the years, he has maintained a relatively low public profile despite being the son of one of the biggest stars in South Indian cinema.<br><br>
+
+According to industry discussions, Jason Sanjay has been learning filmmaking professionally and preparing himself carefully before officially entering the industry. Reports about his directorial debut have already created massive buzz among Vijay fans and cinema audiences.<br><br>
+
+Meanwhile, Vijay’s growing involvement in politics has also shifted public attention toward Jason Sanjay’s future role in the entertainment industry. Many fans now believe that Jason could eventually carry forward the family’s connection with cinema while Vijay focuses on political activities.<br><br>
+
+Social media users have been actively discussing whether Jason Sanjay will eventually step into acting in the future or continue purely as a filmmaker. However, his current focus appears to be more aligned with direction and behind-the-scenes creative work.<br><br>
+
+Fans are especially curious because several young filmmakers from South India have recently delivered successful films with fresh storytelling styles, and many believe Jason Sanjay could also bring a modern cinematic approach to Tamil cinema.<br><br>
+
+Although official details about his upcoming projects are still limited, the growing buzz around Jason Sanjay clearly shows that audiences are eagerly waiting to see how Vijay’s son builds his own identity in the film industry.`,
+
+  url: "#",
+
+  image: "jason.jpeg",
+
+  category: "film"
+},
+
+
+  {
+  title: "From Ghilli to Leo: Iconic Vijay–Trisha Movies That Won Hearts Over the Years",
+
+  description: "The on-screen chemistry between Thalapathy Vijay and Trisha Krishnan has remained one of the most loved pairings in South Indian cinema, delivering several blockbuster films from Ghilli to Leo.",
+
+  content: `The pairing of Thalapathy Vijay and Trisha Krishnan continues to remain one of the most iconic and celebrated combinations in South Indian cinema. Over the years, the duo has delivered multiple memorable films that created a huge impact among audiences and became fan favorites across generations.<br><br>
+
+Their journey together began with Ghilli, the blockbuster action entertainer that turned into a massive success and established their chemistry as one of the strongest on-screen pairings in Tamil cinema. The film’s songs, emotional scenes, comedy moments, and energetic performances are still loved by audiences even today.<br><br>
+
+After the success of Ghilli, Vijay and Trisha appeared together in several successful films including Thirupaachi, Aathi, Kuruvi, and more. Fans admired the natural chemistry between the two stars, which became a major attraction in every film they worked on together.<br><br>
+
+Years later, the duo reunited once again in Leo, directed by Lokesh Kanagaraj. Their comeback created massive excitement among cinema lovers, especially because audiences had been waiting for years to see the pair share screen space again.<br><br>
+
+In Leo, fans appreciated the emotional connection between Vijay and Trisha along with the mature performances delivered by both actors. Social media platforms were flooded with nostalgic reactions, with many users remembering their earlier films while celebrating the reunion.<br><br>
+
+Apart from box office success, Vijay and Trisha’s films also gained strong popularity through songs, romantic scenes, family emotions, and repeat television viewership over the years. Several of their movie tracks continue to trend online even today.<br><br>
+
+Cinema fans often describe the Vijay–Trisha pairing as timeless because their films managed to connect with both younger audiences and family viewers alike. Their chemistry, screen presence, and comfort level together became one of the reasons behind the lasting popularity of their movies.<br><br>
+
+From the energetic days of Ghilli to the intense emotional moments in Leo, Vijay and Trisha’s cinematic journey remains a memorable chapter in Tamil cinema history.`,
+
+  url: "#",
+
+  image: "vijay trisha.jpeg",
+
+  category: "film"
+},
+
+
+  {
   title: "‘Krishnavataram Part 1’ Sees Massive Box Office Growth With Huge Day 4 Jump",
 
   description: "Krishnavataram Part 1 continues its strong theatrical run as the mythological drama records a massive rise in collections by Day 4, creating strong buzz among movie audiences nationwide.",
