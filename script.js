@@ -59,6 +59,112 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Suriya and Trisha’s ‘Karuppu’ Faces Release Chaos as Morning and Noon Shows Get Cancelled",
+
+  description: "The much-awaited Tamil film Karuppu starring Suriya and Trisha Krishnan faced unexpected release-day problems after several morning and afternoon shows were reportedly cancelled across theatres.",
+
+  content: `The release of Suriya and Trisha Krishnan’s highly anticipated Tamil film Karuppu ran into major trouble on release day after multiple theatres reportedly cancelled morning and afternoon shows at the last minute.<br><br>
+
+The film, directed by RJ Balaji, had generated massive buzz before release, with fans gathering early outside theatres for special screenings. However, confusion spread quickly after several cinemas reportedly stopped screenings and paused advance bookings unexpectedly.<br><br>
+
+According to reports, the sudden cancellation was linked to financial and distribution-related issues connected to the film’s release. Some reports claimed that unresolved dues and clearance-related problems created last-minute hurdles for distributors and theatre owners.<br><br>
+
+The situation disappointed many Suriya fans who had already booked tickets for the first-day-first-show celebrations. Videos and reactions from theatres soon went viral on social media as fans expressed frustration over the unexpected cancellations.<br><br>
+
+Director RJ Balaji later shared an emotional message apologising to audiences for the delay and assured fans that the team was working continuously to resolve the issue. Reports also suggested that actor Suriya personally stepped in to help sort out the financial complications surrounding the film’s release.<br><br>
+
+Despite the setback, Karuppu continues to remain one of the most talked-about Tamil films online, with strong buzz surrounding its story, action sequences, and the return of Suriya and Trisha together on screen.<br><br>
+
+The film is set in a rural backdrop and follows the story of a fierce protector who becomes the central figure in a conflict involving power, betrayal, and justice. The movie also stars Yogi Babu, Mansoor Ali Khan, and Indrans in key roles.<br><br>
+
+Meanwhile, fans are now waiting for official confirmation regarding revised show timings and a smooth theatrical rollout in the coming days.`,
+
+  url: "#",
+
+  image: "karuppu.jpeg",
+
+  category: "film"
+},
+
+  {
+  title: "German Influencer Lizelaj Speaks Out Amid Virat Kohli Social Media Controversy",
+
+  description: "German influencer Lizelaj has reacted to the online controversy linked to Virat Kohli, claiming that some people allegedly offered her money to make false statements against the Indian cricketer.",
+
+  content: `Virat Kohli has once again become the center of online discussion after German influencer and model Lizelaj reacted publicly to the recent social media controversy involving the Indian cricket star.<br><br>
+
+The controversy reportedly started after claims surfaced online suggesting that Kohli had allegedly liked one of Lizelaj’s social media posts. The matter quickly went viral across cricket fan pages and social media platforms, leading to widespread discussion online.<br><br>
+
+Reacting to the situation, Lizelaj reportedly said that she felt bad for Virat Kohli because the issue had been unnecessarily exaggerated on social media. She also mentioned that even she was surprised by how quickly the topic became viral online.<br><br>
+
+The biggest talking point emerged after the influencer claimed that certain journalists and individuals allegedly approached her with offers of money to make false or negative statements against the Indian cricketer. Her statement immediately grabbed attention across social media.<br><br>
+
+Many fans of Virat Kohli came forward in support of the cricketer and criticized the way the controversy was handled online. Several users also pointed out how celebrity social media activities often become massive discussions within minutes.<br><br>
+
+The controversy has continued trending across Instagram, X, Threads, and cricket discussion pages, with users debating whether the entire issue was blown out of proportion unnecessarily.<br><br>
+
+As discussions continue online, neither Virat Kohli nor his official representatives have released any detailed public response regarding the latest claims made by the influencer.`,
+
+  url: "#",
+
+  image: "controvarcy.jpeg",
+
+  category: "trending"
+},
+
+  {
+  title: "Indonesian Man Arrested After Neighbour Dies Following Argument Over Marriage Questions",
+
+  description: "A shocking incident from Indonesia has gone viral after a man was arrested for allegedly attacking his neighbour following repeated comments about his unmarried status.",
+
+  content: `A disturbing incident from North Sumatra, Indonesia, has sparked massive discussion online after a 45-year-old man was arrested for allegedly attacking and killing his elderly neighbour following repeated personal remarks about his unmarried life.<br><br>
+
+According to local reports, the accused reportedly became frustrated after his 60-year-old neighbour repeatedly questioned why he was still unmarried at the age of 45. Authorities say tensions between the two individuals had reportedly been building for some time before the situation turned violent.<br><br>
+
+Reports further claim that the accused allegedly attacked the neighbour using a wooden object during a heated confrontation near the victim’s residence. Local residents reportedly intervened after hearing the disturbance, and the injured man was rushed to a hospital for treatment.<br><br>
+
+However, despite medical efforts, the victim later succumbed to his injuries. Police officials reportedly arrested the suspect shortly after the incident and launched an investigation into the matter.<br><br>
+
+The shocking case quickly went viral across social media platforms after international pages and users began sharing the incident online. Many internet users expressed sadness over how repeated personal comments and emotional frustration allegedly escalated into a deadly incident.<br><br>
+
+The case has also triggered wider conversations online regarding mental health, social pressure surrounding marriage, and the emotional impact personal remarks can sometimes have on individuals.<br><br>
+
+Authorities in Indonesia are continuing their investigation, and further legal proceedings are expected as officials examine all aspects connected to the case.`,
+
+  url: "#",
+
+  image: "man kills.jpeg",
+
+  category: "trending"
+},
+
+  {
+  title: "Workplace Murder Case Shocks Social Media After Employee Arrested Over Colleague’s Death",
+
+  description: "A disturbing workplace crime involving an employee and his colleague has sparked massive discussions online after reports revealed shocking details connected to the investigation.",
+
+  content: `A shocking workplace crime case has gone viral on social media after reports emerged about the murder of a woman employee allegedly linked to personal disputes and rejection of a love proposal.<br><br>
+
+According to reports circulating online, the accused, identified as Vinay Singh, was allegedly involved in the killing of his colleague Minky Sharma, who reportedly worked as an HR manager at the same company. The incident has triggered widespread reactions and concern across social media platforms.<br><br>
+
+Initial reports suggest that personal disagreements and emotional conflict may have led to tensions between the two individuals. Authorities are reportedly investigating the sequence of events and gathering evidence connected to the case.<br><br>
+
+The disturbing nature of the crime has shocked many internet users, especially after details related to the investigation began spreading online. Several people expressed concern over workplace safety, emotional instability, and rising incidents connected to personal obsession and rejection-related crimes.<br><br>
+
+Police officials are continuing their investigation into the matter, and further legal proceedings are expected as authorities examine all available evidence and statements connected to the case.<br><br>
+
+The incident has also sparked conversations online about mental health awareness, workplace boundaries, and the importance of handling personal conflicts responsibly.<br><br>
+
+As the case continues to gain public attention, many users on social media have urged people not to spread unverified information and to allow authorities to complete the investigation officially.`,
+
+  url: "#",
+
+  image: "murder case.jpeg",
+
+  category: "trending"
+},
+
+  {
   title: "Kannada Actor Dileep Raj Passes Away at 47 After Massive Heart Attack",
 
   description: "Popular Kannada film and television actor Dileep Raj passed away at the age of 47 following a reported heart attack, leaving the Kannada entertainment industry and fans in shock.",
