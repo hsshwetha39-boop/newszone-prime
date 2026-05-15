@@ -59,6 +59,62 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Alia Bhatt Reacts After Cannes Film Festival Video Goes Viral and Faces Massive Trolling",
+
+  description: "Bollywood actress Alia Bhatt has responded after a video from the Cannes Film Festival went viral online and sparked heavy trolling across social media platforms.",
+
+  content: `Bollywood actress Alia Bhatt has become the center of online discussion after a video from the Cannes Film Festival went viral and triggered massive reactions across social media platforms.<br><br>
+
+The actress, who attended the prestigious international film festival in a glamorous designer outfit, quickly grabbed headlines after clips and photos from the event began circulating online. While many fans praised her appearance and confidence, several users started trolling certain moments from the viral video.<br><br>
+
+According to online discussions, the trolling mainly focused on Alia Bhatt’s expressions, walk, styling choices, and interactions captured during the event. Memes and edited clips soon spread rapidly across Instagram, X, and entertainment pages.<br><br>
+
+Reacting to the controversy, Alia Bhatt reportedly addressed the criticism calmly and positively. Reports suggest that the actress stated she prefers focusing on her work and experiences rather than reacting emotionally to online negativity.<br><br>
+
+Many fans came out strongly in support of the actress and criticized the culture of unnecessary trolling targeting celebrities during global appearances and public events.<br><br>
+
+The Cannes Film Festival remains one of the biggest international cinema events in the world, and Indian celebrities attending the festival often receive huge attention online for their fashion and public appearances.<br><br>
+
+Despite the trolling, Alia Bhatt’s Cannes appearance continued trending across entertainment platforms, with many fashion pages and fans praising her overall presence at the event.<br><br>
+
+As the viral discussion continues online, the actress remains one of the most talked-about Indian celebrities from this year’s Cannes Film Festival.`,
+
+  url: "#",
+
+  image: "alia bhatt.jpeg",
+
+  category: "film"
+},
+
+  {
+  title: "Big Shock for Actor Darshan: No Immediate Relief as Supreme Court Orders Fast-Track Trial",
+
+  description: "Kannada actor Darshan has reportedly suffered a major legal setback after the Supreme Court directed that the trial in the case be completed within one year, while immediate bail relief remains uncertain.",
+
+  content: `Kannada actor Darshan has reportedly faced a major setback in the ongoing legal case after the Supreme Court directed authorities to complete the trial within one year.<br><br>
+
+According to reports, the apex court stressed the need for a speedy investigation and trial process in the high-profile case that has remained under intense public and media attention for several months.<br><br>
+
+The latest development reportedly came during a hearing connected to the actor’s bail proceedings. Reports suggest that Darshan did not receive immediate relief regarding bail, making the court’s direction a major talking point across Karnataka.<br><br>
+
+The case involving the popular Kannada actor has generated widespread discussion among fans, legal experts, and political observers ever since the controversy first surfaced. Supporters of the actor have continued expressing hope for legal relief, while others have closely followed every court update.<br><br>
+
+Soon after news of the Supreme Court’s observation became public, social media platforms were flooded with reactions from fans and netizens. Hashtags related to Darshan and the case quickly started trending online.<br><br>
+
+Legal experts believe the Supreme Court’s direction to complete the trial within a fixed timeframe could accelerate proceedings significantly in the coming months.<br><br>
+
+Meanwhile, fans of the actor continue waiting for further legal developments and clarity regarding future hearings connected to the case.<br><br>
+
+The matter remains one of the most closely followed entertainment-related legal controversies in Karnataka, with every update receiving massive public attention online and across television media.`,
+
+  url: "#",
+
+  image: "darshan.jpeg",
+
+  category: "film"
+},
+
+  {
   title: "‘This Is The End Of Our Relationship’: KGF Fame Mouni Roy Reportedly Parts Ways After Four Years Of Marriage",
 
   description: "Actress Mouni Roy has become the center of discussion online after reports claimed that her four-year marriage has reportedly come to an end.",
