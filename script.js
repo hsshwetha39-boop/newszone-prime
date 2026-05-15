@@ -59,6 +59,90 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "‘This Is The End Of Our Relationship’: KGF Fame Mouni Roy Reportedly Parts Ways After Four Years Of Marriage",
+
+  description: "Actress Mouni Roy has become the center of discussion online after reports claimed that her four-year marriage has reportedly come to an end.",
+
+  content: `Popular actress Mouni Roy has once again grabbed attention on social media after reports surfaced claiming that her four-year marriage has reportedly come to an end.<br><br>
+
+The actress, who gained massive popularity across television, Bollywood, and South Indian cinema — including her appearance in the KGF universe — has now become the subject of intense online discussion following reports about trouble in her personal life.<br><br>
+
+According to viral reports and online discussions, Mouni Roy and her husband are reportedly heading toward separation after being married for nearly four years. The reports gained even more attention after a statement allegedly linked to the actress saying, “This is the end of our relationship,” started circulating online.<br><br>
+
+Soon after the news began trending, fans flooded social media with reactions, expressing shock and sadness over the reported development. Many users also shared old photos and videos of the couple while discussing their relationship journey.<br><br>
+
+However, neither Mouni Roy nor her husband has officially released a detailed public confirmation regarding the reports circulating online. Because of this, several fans have urged people not to spread unverified information until an official statement is issued.<br><br>
+
+The topic quickly started trending across Instagram, X, Reddit, and entertainment pages, with many entertainment portals discussing the possibility of separation and the reasons behind the reported fallout.<br><br>
+
+Mouni Roy remains one of the most recognized actresses in Indian entertainment, known for her work in television serials, reality shows, Bollywood films, and major pan-Indian projects.<br><br>
+
+As discussions continue online, fans are now waiting for official clarification from the actress regarding the rumors surrounding her personal life and marriage.`,
+
+  url: "#",
+
+  image: "mouni roy.jpeg",
+
+  category: "film"
+},  
+  
+  {
+  title: "Kejriwal Says India Needs Gen Z-Style Political Change Like Bangladesh and Nepal",
+
+  description: "AAP chief Arvind Kejriwal has sparked fresh political debate after saying India also needs a Gen Z-led transformation similar to recent political changes seen in Bangladesh and Nepal.",
+
+  content: `AAP national convener Arvind Kejriwal has triggered fresh political discussion after making remarks about the need for a new generation-led transformation in India similar to developments seen in neighbouring countries like Bangladesh and Nepal.<br><br>
+
+Speaking during a public interaction, Kejriwal reportedly said that India also needs a “Gen Z transformation,” referring to the growing influence of young voters, digital awareness, and youth-driven political movements shaping modern politics across South Asia.<br><br>
+
+His statement quickly went viral on social media platforms, with supporters praising the emphasis on youth participation in politics, while critics accused him of making controversial comparisons involving India and neighbouring countries.<br><br>
+
+Kejriwal’s remarks reportedly focused on how younger generations are increasingly demanding accountability, transparency, employment opportunities, and governance reforms from political leaders.<br><br>
+
+The AAP leader also highlighted the importance of social media, digital activism, and youth engagement in influencing political narratives and public opinion in recent years.<br><br>
+
+Soon after the statement surfaced online, political reactions started pouring in from various parties and leaders. Supporters described the comments as a call for democratic participation by young citizens, while opponents criticized the statement and questioned the comparison with political situations in other countries.<br><br>
+
+The topic has now become a major discussion point online, especially among young users and political commentators debating the future role of Gen Z in Indian politics.<br><br>
+
+As the debate continues across television channels and social media, Kejriwal’s remarks have once again placed youth politics and generational change at the center of national political conversations.`,
+
+  url: "#",
+
+  image: "kejriwal.jpeg",
+
+  category: "politics"
+},
+
+  {
+  title: "TVK MLA’s Remarks on Sanatan Dharma Spark Fresh Political Controversy in Tamil Nadu",
+
+  description: "A fresh political controversy has erupted after a TVK MLA reportedly supported Udhayanidhi Stalin’s earlier remarks and said that they too have entered the arena to eradicate Sanatan Dharma.",
+
+  content: `Tamil Nadu politics has once again witnessed fresh controversy after a TVK MLA reportedly made remarks supporting Udhayanidhi Stalin’s earlier statements regarding Sanatan Dharma.<br><br>
+
+According to reports, the MLA allegedly stated that they too had “entered the arena to eradicate Sanatan Dharma,” a comment that quickly triggered strong reactions across political and social circles. The statement soon went viral online and sparked heated debates on social media platforms.<br><br>
+
+The controversy gained attention because the remarks appeared to echo earlier comments made by Tamil Nadu minister Udhayanidhi Stalin, whose statements on Sanatan Dharma had already created major nationwide political discussions in the past.<br><br>
+
+Supporters of the statement argued that the comments were aimed at criticizing social discrimination and outdated practices, while critics strongly condemned the remarks and accused the leaders of hurting religious sentiments.<br><br>
+
+Several political parties and Hindu organizations reacted sharply after the statement surfaced online. Social media users also remained divided, with some backing the ideological stand while others demanded clarification and apology from the leaders involved.<br><br>
+
+The controversy has now become a major talking point in Tamil Nadu politics, especially as political tensions continue to rise ahead of future electoral battles in the state.<br><br>
+
+Meanwhile, discussions around religion, politics, and freedom of expression continue to dominate online conversations, with hashtags related to the issue trending across multiple platforms.<br><br>
+
+As reactions continue pouring in, political observers believe the latest controversy could further intensify debates surrounding religion and political narratives in Tamil Nadu.`,
+
+  url: "#",
+
+  image: "sanathani.jpeg",
+
+  category: "politics"
+},
+
+  {
   title: "Suriya and Trisha’s ‘Karuppu’ Faces Release Chaos as Morning and Noon Shows Get Cancelled",
 
   description: "The much-awaited Tamil film Karuppu starring Suriya and Trisha Krishnan faced unexpected release-day problems after several morning and afternoon shows were reportedly cancelled across theatres.",
