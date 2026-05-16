@@ -58,6 +58,62 @@ function displayNews(articles) {
 
 // MANUAL NEWS DATA
 const manualNews = [
+  {
+  title: "Bigg Boss Fame Shehnaaz Gill Sparks Dating Rumours With RCB Cricketer Devdutt Padikkal",
+
+  description: "Rumours linking Bigg Boss contestant Shehnaaz Gill with Royal Challengers Bengaluru cricketer Devdutt Padikkal have gone viral after fans noticed reactions and discussions during a recent IPL match.",
+
+  content: `Bigg Boss fame Shehnaaz Gill has once again become the center of online discussion after fresh dating rumours linked her with Royal Challengers Bengaluru (RCB) cricketer Devdutt Padikkal.<br><br>
+
+The rumours started spreading across social media platforms after fans noticed conversations and reactions connected to a recent IPL match involving RCB. Several fan pages and entertainment accounts began discussing the possibility of a relationship between the actress and the Bengaluru-based cricketer.<br><br>
+
+According to viral discussions online, Shehnaaz Gill’s name started trending alongside Devdutt Padikkal during the match day, creating huge curiosity among both cricket and entertainment fans.<br><br>
+
+While some social media users claimed there were subtle hints pointing towards a possible connection, others called it pure fan speculation with no official confirmation from either side.<br><br>
+
+Neither Shehnaaz Gill nor Devdutt Padikkal has publicly reacted to the dating rumours so far. Despite this, the topic continues trending widely across Instagram, X, and fan communities.<br><br>
+
+Shehnaaz Gill remains one of the most popular celebrities to emerge from Bigg Boss, while Devdutt Padikkal continues to enjoy strong fan support in the IPL and Indian cricket circles.<br><br>
+
+As speculation continues online, fans are eagerly waiting to see whether the viral rumours are true or simply another social media buzz surrounding celebrities and cricketers.`,
+
+  url: "#",
+
+  image: "devdatt padikal.jpeg",
+
+  category: "trending"
+
+},
+
+  {
+  title: "Actor Ravi Mohan Breaks Down During Emotional Press Meet Amid Divorce Controversy",
+
+  description: "Tamil actor Ravi Mohan made shocking emotional statements during a recent press meet, opening up about his troubled marriage, divorce issues, cyberbullying, and mental health struggles.",
+
+  content: `Tamil actor Ravi Mohan has become the center of massive discussion online after an emotional press meet where he openly spoke about his ongoing divorce controversy and personal struggles.<br><br>
+
+During the emotional interaction with media reporters, Ravi Mohan reportedly revealed that he has been going through a painful phase in his personal life for a long time. The actor claimed that his marriage had become mentally exhausting and said he had been silently suffering for years.<br><br>
+
+Several viral clips from the press meet spread rapidly across social media platforms after the actor made shocking allegations regarding emotional pressure, cyberbullying, and family issues connected to his divorce situation.<br><br>
+
+In one of the most emotional moments from the press conference, Ravi Mohan reportedly stated that he feels isolated from his children and emotionally broken due to the ongoing situation. He also claimed that online trolling and organized PR attacks were affecting his mental health severely.<br><br>
+
+The actor further shocked fans after revealing that he had even harmed himself during the difficult period and admitted he was struggling mentally while trying to stay strong publicly.<br><br>
+
+Another major statement that grabbed public attention was Ravi Mohan’s announcement that he would stay away from acting and films until his divorce and personal issues are legally resolved.<br><br>
+
+Following the viral videos, social media platforms were flooded with reactions from fans and celebrities. While some people expressed sympathy and support for the actor, others questioned the seriousness of the allegations and demanded privacy for everyone involved.<br><br>
+
+The emotional press meet has now become one of the most discussed entertainment controversies online, with hashtags related to Ravi Mohan trending across Instagram, X, YouTube, and entertainment pages.<br><br>
+
+Despite the controversy, many supporters have urged people not to spread hate online and instead focus on mental health awareness and respectful discussion surrounding personal family matters.`,
+
+  url: "#",
+
+  image: "jayam ravi.jpeg",
+
+  category: "film"
+},
 
   {
   title: "Actress Urvashi Rautela Stuns Cannes In Rs 1300 Crore Luxury Look",
