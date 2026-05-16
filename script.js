@@ -58,6 +58,79 @@ function displayNews(articles) {
 
 // MANUAL NEWS DATA
 const manualNews = [
+
+  {
+  title: "Actress Urvashi Rautela Stuns Cannes In Rs 1300 Crore Luxury Look",
+
+  description: "Actress Urvashi Rautela grabbed massive attention at the Cannes Film Festival after reports claimed her luxury outfit, jewellery, and accessories together were worth nearly Rs 1300 crore.",
+
+  content: `The prestigious Cannes Film Festival once again became the center of global fashion discussions as celebrities from around the world appeared in glamorous and luxurious outfits. This time, Indian actress Urvashi Rautela grabbed huge attention with her extravagant red carpet appearance.<br><br>
+
+Urvashi Rautela, who also acted alongside Darshan in the Kannada film ‘Mr. Airavata’, reportedly wore a luxury Cannes look worth nearly Rs 1300 crore, according to several entertainment reports circulating online.<br><br>
+
+Reports suggest that the actress wore a specially designed gown created by famous designer Michael Cinco. Inspired by Mexican artistic themes, the outfit featured an extremely grand and royal appearance, with reports claiming the gown itself was worth several crores.<br><br>
+
+Along with the designer outfit, Urvashi also wore rare diamond jewellery, luxury accessories, and a crystal-styled clutch that added even more attention to her overall appearance on the red carpet.<br><br>
+
+Photos and videos of Urvashi Rautela from the Cannes Film Festival quickly went viral across social media platforms. While many fans praised her glamorous international appearance and fashion sense, some users also reacted with surprise over the reported price of the entire look.<br><br>
+
+Every year, Indian celebrities attending Cannes receive massive global attention for their fashion choices and red carpet moments. This year, Urvashi Rautela’s luxury appearance has become one of the most talked-about celebrity fashion moments from the festival.<br><br>
+
+The actress continues to trend online as discussions around her extravagant Cannes outfit and jewellery remain viral across entertainment and fashion platforms.`,
+
+  url: "urvashi-rautela-rs-1300-crore-cannes-look",
+
+  image: "urvashi.jpeg",
+
+  category: "film"
+},
+
+  {
+  title: "Hansika Motwani Breaks Silence On Divorce From Sohael Khaturiya After Months Of Silence",
+
+  description: "Actress Hansika Motwani has finally reacted to her divorce from Sohael Khaturiya. The actress admitted the phase was emotionally difficult but revealed that she has moved forward stronger and without regrets.",
+
+  content: `Popular actress Hansika Motwani has finally opened up about her divorce from businessman Sohael Khaturiya after remaining silent for several months.<br><br>
+
+The actress recently spoke about the emotional phase and revealed that the journey was personally difficult for her. However, Hansika stated that she has now come out of the situation stronger and without any regrets.<br><br>
+
+Without revealing detailed reasons behind the separation, Hansika shared that some matters are best kept private between two individuals. The actress chose to maintain dignity and privacy while speaking about the sensitive issue.<br><br>
+
+Hansika also thanked her family members for supporting her throughout the difficult period and standing beside her during challenging times. Her latest statement has now gone viral across entertainment pages and social media platforms.<br><br>
+
+Fans reacted emotionally to her comments, with many praising the actress for handling the situation maturely and positively despite the public attention surrounding her personal life.<br><br>
+
+Hansika Motwani and Sohael Khaturiya’s wedding had earlier grabbed massive attention online because of its grand celebrations and luxurious visuals. Their separation later became one of the most discussed topics in entertainment circles.<br><br>
+
+With her latest comments finally addressing the issue publicly, Hansika has once again become a trending topic across Bollywood and entertainment platforms.`,
+
+  url: "hansika-motwani-breaks-silence-on-divorce-from-sohael-khaturiya",
+
+  image: "hansika.jpeg",
+
+  category: "film"
+},
+
+  {
+  title: "3-year-old girl raped by staff on the FIRST DAY of her school: Rapist granted bail by Delhi court",
+
+  description: "shocking incident from Delhi has sparked nationwide outrage after a three-year-old girl was allegedly assaulted by a school staff member on the very first day of her school..",
+
+  content: `shocking incident from Delhi has sparked nationwide outrage after a three-year-old girl was allegedly assaulted by a school staff member on the very first day of her school. According to reports, the accused was later granted bail by a Delhi court, triggering intense criticism across social media and public platforms.<br><br>
+
+The case quickly gained attention online, with many users questioning the handling of the investigation and demanding stricter action against those involved. Activists and local groups have also called for accountability from officials connected to the case.<br><br> 
+
+Following growing public pressure, authorities reportedly announced an inquiry into the matter, including the role of police and administrative officials linked to the investigation. Several women leaders and social activists welcomed the decision but stressed that the inquiry should be transparent and meaningful.<br><br>
+
+The incident has reignited conversations across the country about child safety, school security measures, and the speed of justice in sensitive cases. Social media platforms continue to witness strong reactions from people demanding tougher laws and better protection for children..`,
+
+  url: "#",
+
+  image: "delhi.jpeg",
+
+  category: "trending"
+},
+
   {
   title: "Alia Bhatt Reacts After Cannes Film Festival Video Goes Viral and Faces Massive Trolling",
 
