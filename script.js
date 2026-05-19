@@ -59,6 +59,84 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Sreeleela’s Mother Responds To Dating Rumours With Cricketer Tilak Varma",
+
+  description: "Actress Sreeleela’s mother, Dr Swarnalatha, has reportedly dismissed ongoing dating rumours linking the actress with cricketer Tilak Varma, stating that there is absolutely no truth to the speculation.",
+
+  content: `Dating rumours surrounding actress Sreeleela and Indian cricketer Tilak Varma have been circulating widely on social media platforms for the past few weeks.<br><br>
+
+Although neither Sreeleela nor Tilak Varma publicly reacted to the rumours, the actress’s mother, Dr Swarnalatha, has now reportedly addressed the ongoing speculation and denied the claims completely.<br><br>
+
+According to reports, Dr Swarnalatha stated that there is “absolutely no truth” behind the dating rumours currently being discussed online involving Sreeleela and the young cricketer.<br><br>
+
+She further mentioned that Sreeleela is presently focused on her acting career and upcoming film projects while also preparing for her NEET-PG examination.<br><br>
+
+The clarification from Sreelelea’s family has now become a major talking point among fans and entertainment followers online, with many users reacting to the statement across social media platforms.<br><br>
+
+Sreeleela continues to remain one of the most popular young actresses in South Indian cinema, while Tilak Varma has also gained strong attention among cricket fans with his recent performances.<br><br>
+
+Despite the rumours trending online, there has been no official confirmation or public statement from either Sreeleela or Tilak Varma regarding any relationship rumours.`,
+
+  url: "#",
+
+  image: "shreleela.jpeg",
+
+  category: "film"
+},
+
+  {
+  title: "Thalapathy Vijay’s Former Manager Makes Shocking Claims About Keerthy Suresh",
+
+  description: "Actor Vijay’s former manager has sparked controversy after making shocking comments involving Keerthy Suresh and Vijay’s personal life, creating massive discussions online.",
+
+  content: `Tamil superstar Thalapathy Vijay has once again become the center of social media discussion after his former manager reportedly made controversial remarks involving actress Keerthy Suresh.<br><br>
+
+According to viral reports and online discussions, Vijay’s former manager questioned why the actor would leave his wife and children during festival occasions like Pongal, while also making indirect comments linked to actress Keerthy Suresh.<br><br>
+
+The statements quickly went viral across entertainment pages and fan communities, with many users debating whether the comments were aimed at ongoing rumours that have circulated online for years.<br><br>
+
+Fans of Vijay strongly reacted to the remarks, with several people criticizing the former manager for bringing personal matters into public discussion. Others called the comments unnecessary and disrespectful toward both Vijay and Keerthy Suresh.<br><br>
+
+Neither Vijay nor Keerthy Suresh has officially responded to the latest viral controversy. Despite the silence from both celebrities, social media platforms continue to witness heated reactions and discussions surrounding the issue.<br><br>
+
+Thalapathy Vijay remains one of the biggest stars in South Indian cinema, while Keerthy Suresh continues to enjoy huge popularity across Tamil, Telugu, and Malayalam film industries.<br><br>
+
+As the controversy spreads online, fans are waiting to see whether either side will address the viral comments publicly or choose to ignore the speculation entirely.`,
+
+  url: "#",
+
+  image: "keerthi.jpeg",
+
+  category: "film"
+},
+
+  {
+  title: "Prashanth Sambargi Reacts To Rishab Shetty And Darshan’s Possible Political Entry",
+
+  description: "Social activist and Bigg Boss contestant Prashanth Sambargi has shared his views on the possibility of actors Rishab Shetty and Darshan entering politics, creating fresh discussions online.",
+
+  content: `Social activist and former Bigg Boss contestant Prashanth Sambargi has reacted to the ongoing discussions surrounding Kannada actors Rishab Shetty and Darshan Thoogudeepa possibly entering politics in the future.<br><br>
+
+During a recent interaction, Prashanth Sambargi reportedly shared his opinion about film stars entering political life and specifically mentioned actors Rishab Shetty and Darshan, whose names are often discussed by fans in political conversations online.<br><br>
+
+According to reports, Sambargi stated that celebrities already enjoy massive public support and influence, which naturally creates curiosity whenever political entry rumours begin circulating around popular stars.<br><br>
+
+The comments quickly grabbed attention across Kannada entertainment and political discussion pages, with social media users debating whether actors should remain focused on cinema or actively participate in politics.<br><br>
+
+Rishab Shetty, who gained nationwide popularity after the success of ‘Kantara’, continues to enjoy strong support among Kannada audiences. Meanwhile, Darshan also remains one of the biggest mass stars in Karnataka with a huge fan following.<br><br>
+
+Although there has been no official confirmation regarding political plans from either actor, discussions involving celebrity political entry often become major talking points among fans and media platforms.<br><br>
+
+Prashanth Sambargi’s latest comments have now added fresh attention to the topic, with fans actively sharing opinions and reactions online regarding the future of Kannada film stars in politics.`,
+
+  url: "#",
+
+  image: "rishab.jpeg",
+
+  category: "film"
+},
+
+  {
   title: "Bigg Boss Fame Shehnaaz Gill Sparks Dating Rumours With RCB Cricketer Devdutt Padikkal",
 
   description: "Rumours linking Bigg Boss contestant Shehnaaz Gill with Royal Challengers Bengaluru cricketer Devdutt Padikkal have gone viral after fans noticed reactions and discussions during a recent IPL match.",
