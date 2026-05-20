@@ -106,7 +106,8 @@ Her Cannes appearance has now gained widespread attention online, with many appr
 
   image: "disha madan.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 20, 2026"
 },
 
   {
@@ -132,7 +133,8 @@ Meanwhile, fans are now waiting for further updates regarding ‘Bombay Stories�
 
   image: "mouny roy cannes.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 20, 2026"
   },
 
   {
@@ -158,7 +160,8 @@ Meanwhile, the actress continues to remain active internationally through fashio
 
   image: "gigi hadid.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 20, 2026"
 },
 
   {
@@ -183,8 +186,8 @@ Despite the rumours trending online, there has been no official confirmation or 
   url: "#",
 
   image: "shreleela.jpeg",
-
-  category: "film"
+  category: "film",
+  date: "May 19, 2026"
 },
 
   {
@@ -210,7 +213,8 @@ As the controversy spreads online, fans are waiting to see whether either side w
 
   image: "keerthi.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 19, 2026"
 },
 
   {
@@ -236,7 +240,8 @@ Prashanth Sambargi’s latest comments have now added fresh attention to the top
 
   image: "rishab.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 19, 2026"
 },
 
   {
