@@ -268,7 +268,8 @@ As speculation continues online, fans are eagerly waiting to see whether the vir
 
   image: "devdatt padikal.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 18, 2026"
 
 },
 
@@ -299,7 +300,8 @@ Despite the controversy, many supporters have urged people not to spread hate on
 
   image: "jayam ravi.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 18, 2026"
 },
 
   {
@@ -325,7 +327,8 @@ The actress continues to trend online as discussions around her extravagant Cann
 
   image: "urvashi.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 18, 2026"
 },
 
   {
@@ -351,7 +354,8 @@ With her latest comments finally addressing the issue publicly, Hansika has once
 
   image: "hansika.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 18, 2026"
 },
 
   {
@@ -371,7 +375,8 @@ The incident has reignited conversations across the country about child safety, 
 
   image: "delhi.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 17, 2026"
 },
 
   {
@@ -399,7 +404,8 @@ As the viral discussion continues online, the actress remains one of the most ta
 
   image: "alia bhatt.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 17, 2026"
 },
 
   {
@@ -427,7 +433,8 @@ The matter remains one of the most closely followed entertainment-related legal 
 
   image: "darshan.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 17, 2026"
 },
 
   {
@@ -455,7 +462,8 @@ As discussions continue online, fans are now waiting for official clarification 
 
   image: "mouni roy.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 17, 2026"
 },  
   
   {
@@ -483,7 +491,8 @@ As the debate continues across television channels and social media, Kejriwal’
 
   image: "kejriwal.jpeg",
 
-  category: "politics"
+  category: "politics",
+  date: "May 16, 2026"
 },
 
   {
@@ -511,7 +520,8 @@ As reactions continue pouring in, political observers believe the latest controv
 
   image: "sanathani.jpeg",
 
-  category: "politics"
+  category: "politics",
+  date: "May 16, 2026"
 },
 
   {
@@ -539,7 +549,8 @@ Meanwhile, fans are now waiting for official confirmation regarding revised show
 
   image: "karuppu.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 16, 2026"
 },
 
   {
@@ -565,7 +576,8 @@ As discussions continue online, neither Virat Kohli nor his official representat
 
   image: "controvarcy.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 16, 2026"
 },
 
   {
@@ -591,7 +603,8 @@ Authorities in Indonesia are continuing their investigation, and further legal p
 
   image: "man kills.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 16, 2026"
 },
 
   {
@@ -617,7 +630,8 @@ As the case continues to gain public attention, many users on social media have 
 
   image: "murder case.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 15, 2026"
 },
 
   {
@@ -645,7 +659,8 @@ Dileep Raj is survived by his wife and children. His passing is being mourned ac
 
   image: "dileep raj.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 15, 2026"
 },
 
 
@@ -674,7 +689,8 @@ As the conversation continues on social media, the incident once again highlight
 
   image: "sanvi sudeep.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 15, 2026"
 },
 
 
@@ -703,7 +719,8 @@ As conversations continue across social media and news platforms, the reported c
 
   image: "cm vijay.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 14, 2026"
 },
 
 
@@ -732,7 +749,8 @@ As discussions continue across fan communities, cricket followers are now waitin
 
   image: "hardik.jpeg",
 
-  category: "sports"
+  category: "sports",
+  date: "May 14, 2026"
 },
 
 {
@@ -762,7 +780,8 @@ As discussions around Patidar’s statement continue trending online, many fans 
 
   image: "rcb.jpeg",
 
-  category: "sports"
+  category: "sports",
+  date: "May 13, 2026"
 },
 
 
@@ -791,7 +810,8 @@ As more official announcements are expected soon, cricket fans are eagerly waiti
 
   image: "rahul dravid.jpeg",
 
-  category: "sports"
+  category: "sports",
+  date: "May 13, 2026"
 },
 
 
@@ -820,7 +840,8 @@ Although official details about his upcoming projects are still limited, the gro
 
   image: "jason.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 13, 2026"
 },
 
 
@@ -849,7 +870,8 @@ From the energetic days of Ghilli to the intense emotional moments in Leo, Vijay
 
   image: "vijay trisha.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 13, 2026"
 },
 
 
@@ -878,7 +900,8 @@ As box office numbers keep improving, Krishnavataram Part 1 is quickly becoming 
 
   image: "krishna.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 12, 2026"
 },
 
 
@@ -905,7 +928,8 @@ As anticipation continues to rise, Peddi is quickly becoming one of the most dis
 
   image: "peddi.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 12, 2026"
 },
 
 
@@ -934,7 +958,8 @@ Officials said further monitoring will continue until the situation becomes safe
 
   image: "mm hills.jpeg",
 
-  category: "viral"
+  category: "viral",
+  date: "May 12, 2026"
 },
 
 
@@ -965,7 +990,8 @@ As discussions continue nationwide, the Prime Minister’s appeal has sparked wi
 
   image: "pm modi.jpeg",
 
-  category: "politics"
+  category: "politics",
+  date: "May 12, 2026"
 },
 
 
@@ -994,7 +1020,8 @@ With records already being broken at such an early stage of his journey, fans ar
 
   image: "vaibhav.jpeg",
 
-  category: "sports"
+  category: "sports",
+  date: "May 12, 2026"
 },
 
 
@@ -1028,7 +1055,8 @@ The historic swearing-in ceremony has now become one of the most talked-about po
 
   image: "vijay.jpeg",
 
-  category: "politics"
+  category: "politics",
+  date: "May 12, 2026"
 },
 
 
@@ -1055,7 +1083,8 @@ As Mother’s Day approaches, the story continues gaining attention online, spar
 
   image: "Mothers_Day.avif",
 
-  category: "trending"
+  category: "trending",
+  date: "May 11, 2026"
 },
 
 
@@ -1080,7 +1109,8 @@ As the video continues gaining attention, internet users remain divided, with de
 
   image: "haridwar incident.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 11, 2026"
 },
 
 
@@ -1105,7 +1135,8 @@ With the franchise gaining huge popularity, audience curiosity around the future
 
   image: "dhurandhar2.jpeg",
 
-  category: "film"
+  category: "film",
+  date: "May 11, 2026"
 },
 
 
@@ -1138,7 +1169,8 @@ The inspiring journey has now become one of the most widely shared trending stor
 
   image: "couple made history.jpeg",
 
-  category: "trending"
+  category: "trending",
+  date: "May 10, 2026"
 },
 
 
@@ -1171,7 +1203,8 @@ With expectations continuing to rise among supporters, all eyes are now on the n
 
   image: "vijay tvk.jpeg",
 
-  category: "politics"
+  category: "politics",
+  date: "May 10, 2026"
 },
 
 
@@ -1189,7 +1222,8 @@ Vaibhav Sooryavanshi, who has been gaining attention for his performances, remai
 The IPL governing body continues to reinforce fair play, ensuring that the spirit of the game remains intact even in intense moments.`,
     url: "#",
     image: "soorya.jpeg",
-    category: "sports"
+    category: "sports",
+    date: "May 10, 2026"
   },
 
   {
@@ -1206,7 +1240,8 @@ Observers believe that while the main contest remains between the two major part
 As the counting progresses, all eyes remain on the final results and the potential implications they may have on Tamil Nadu's political future. The developments are expected to influence strategies and alignments in the coming years.`,
     url: "#",
     image: "politics news.jpeg",
-    category: "politics"
+    category: "politics",
+    date: "May 9, 2026"
   },
 
   {
@@ -1229,7 +1264,8 @@ Beyond the record, this initiative also serves as a reminder of the importance o
 Overall, this record-setting underwater flag display stands as a powerful symbol of unity, dedication, and innovation, leaving a lasting impact on everyone who witnesses it.`,
     url: "#",
     image: "india flag.jpeg",
-    category: "viral"
+    category: "viral",
+    date: "May 9, 2026"
   },
 
   {
@@ -1248,7 +1284,8 @@ Political analysts believe that any future alliance involving TVK could signific
 While there has been no official confirmation yet, the ongoing discussions have already become one of the most talked-about political developments in the state.`,
     url: "",
     image: "tvk vs cng.png",
-    category: "politics"
+    category: "politics",
+    date: "May 9, 2026"
   },
 
   {
@@ -1265,7 +1302,8 @@ Photos and videos of the mirrors quickly spread across social media platforms, w
 The viral attention has turned the initiative into an example of how behavioural psychology can be used in public administration to solve everyday civic problems in a simple yet impactful way.`,
     url: "#",
     image: "mysore.jpeg",
-    category: "trending"
+    category: "trending",
+    date: "May 9, 2026"
   },
 
   {
@@ -1286,7 +1324,8 @@ While there is still time before the film officially arrives in theatres, the gr
 If the film manages to connect with viewers emotionally and deliver solid entertainment, it could play an important role in reviving the actor's box office momentum once again.`,
     url: "#",
     image: "Bhooth bangla.jpeg",
-    category: "film"
+    category: "film",
+    date: "May 9, 2026"
   }
 ];
 
