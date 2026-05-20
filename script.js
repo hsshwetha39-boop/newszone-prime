@@ -107,6 +107,7 @@ Her Cannes appearance has now gained widespread attention online, with many appr
   image: "disha madan.jpeg",
 
   category: "trending",
+  
   date: "May 20, 2026"
 },
 
