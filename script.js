@@ -38,8 +38,7 @@ function displayNews(articles) {
 
   articles.forEach(article => {
     const card = document.createElement("a");
-
-    card.href = `news.html?title=${encodeURIComponent(article.title)}&desc=${encodeURIComponent(article.content)}&img=${article.image}&author=NewsZone&date=May 02 2026`;
+    card.href = `news.html?title=${encodeURIComponent(article.title)}&desc=${encodeURIComponent(article.content)}&img=${article.image}&author=NewsZone&date=${encodeURIComponent(article.date)}`;
     card.target = "_blank";
     card.classList.add("card-link");
 
@@ -58,6 +57,110 @@ function displayNews(articles) {
 
 // MANUAL NEWS DATA
 const manualNews = [
+  {
+  title: "GOAT Director Venkat Prabhu Gifts Iconic Movie Number Plate To CM Vijay",
+
+  description: "Director Venkat Prabhu has gifted the iconic 'TN07 CM 2026' number plate from GOAT to Tamil Nadu Chief Minister Vijay, bringing back memories from the blockbuster film and creating buzz among fans online.",
+
+  content: `Director Venkat Prabhu recently met Tamil Nadu Chief Minister Vijay and presented him with the iconic 'TN07 CM 2026' number plate featured in the blockbuster film GOAT (The Greatest Of All Time). The special gift has now become a major talking point among fans and social media users.<br><br>
+
+The number plate gained popularity after appearing on the vehicle driven by Vijay’s character in GOAT. At the time of the film’s release, fans noticed the unique registration number, but it has now gained even more attention due to Vijay’s political journey.<br><br>
+
+Venkat Prabhu also shared pictures from the meeting, making the moment even more special for fans. The filmmaker reportedly described the occasion as a memorable milestone while sharing his excitement online.<br><br>
+
+The symbolic number plate has sparked fresh discussions among fans, with many revisiting scenes from GOAT and connecting them to Vijay’s public and political journey.<br><br>
+
+Social media platforms were flooded with reactions soon after images from the meeting surfaced online, with supporters calling the gesture emotional and meaningful.<br><br>
+
+GOAT remains one of Vijay’s widely discussed films, and this latest moment has once again brought the film back into conversations among cinema followers and fans.`,
+
+  url: "#",
+
+  image: "goat.jpeg",
+
+  category: "film",
+
+  date: "May 20, 2026"
+},
+
+  {
+  title: "Kannada Actress Disha Madan Shines At Cannes In A Gown Made From 80-Year-Old Vintage Sarees",
+
+  description: "Kannada actress and digital creator Disha Madan grabbed attention at Cannes with a unique outfit created using two 80-year-old vintage silk sarees, celebrating Indian heritage and sustainable fashion.",
+
+  content: `Kannada actress and digital creator Disha Madan has impressed audiences with her stunning appearance at the Cannes Film Festival 2026, where her outfit became a major talking point online.<br><br>
+
+Disha Madan chose a fashion statement that went beyond glamour, highlighting Indian craftsmanship, heritage, and sustainability on an international platform.<br><br>
+
+Her special gown was reportedly designed using two 80-year-old vintage silk sarees, giving traditional Indian textiles a modern and global presentation. The outfit was designed by Bengaluru-based designer Niharika Vivek.<br><br>
+
+The gown featured a stylish silhouette blending contemporary fashion with traditional Indian artistry. Reports suggest that skilled women artisans spent nearly 2,500 hours creating the detailed design.<br><br>
+
+The outfit was also inspired by South Indian temple architecture and traditional embroidery influences, adding cultural depth to the overall look.<br><br>
+
+Disha completed her appearance with elegant accessories, while social media users praised her effort to showcase Indian heritage through sustainable fashion at one of the world’s biggest film events.<br><br>
+
+Her Cannes appearance has now gained widespread attention online, with many appreciating the combination of vintage craftsmanship and modern fashion showcased on a global stage.`,
+
+  url: "#",
+
+  image: "disha madan.jpeg",
+
+  category: "trending"
+},
+
+  {
+  title: "Mouni Roy Arrives At Cannes 2026 Amid Personal Life Buzz, Focus Shifts To ‘Bombay Stories’",
+
+   description: "Actress Mouni Roy has reached Cannes 2026 for her upcoming project ‘Bombay Stories’, with her latest appearance drawing attention online amid discussions surrounding her personal life.",
+
+  content: `Actress Mouni Roy has arrived at the Cannes Film Festival 2026, making headlines with her latest appearance at the global event held on the French Riviera.<br><br>
+
+The actress recently grabbed public attention after reports surrounding her personal life surfaced online. Amid ongoing discussions, Mouni has now shifted focus towards her professional commitments and upcoming film project ‘Bombay Stories’.<br><br>
+
+Photos and videos from Cannes quickly began circulating online, where Mouni Roy was seen in a stylish black outfit paired with a bold fashion statement, attracting attention from entertainment followers and social media users.<br><br>
+
+Her appearance at Cannes has triggered discussions among fans, with many praising her confidence and dedication towards work despite personal challenges being discussed publicly.<br><br>
+
+Social media users have been actively sharing opinions regarding the actress balancing professional commitments while remaining in the spotlight during major international events.<br><br>
+
+Mouni Roy continues to remain one of the prominent names in the entertainment industry, regularly making headlines for both her projects and public appearances.<br><br>
+
+Meanwhile, fans are now waiting for further updates regarding ‘Bombay Stories’ and Mouni Roy’s upcoming work in cinema.`,
+
+  url: "#",
+
+  image: "mouny roy cannes.jpeg",
+
+  category: "film"
+  },
+
+  {
+  title: "Urvashi Rautela’s Cannes 2026 Saree Look Sparks Comparison With Gigi Hadid’s Iconic NMACC Outfit",
+
+  description: "Actress Urvashi Rautela has become the center of online discussions after netizens compared her Cannes 2026 ivory-and-gold saree appearance with Gigi Hadid’s popular NMACC 2023 look.",
+
+  content: `Bollywood actress Urvashi Rautela has sparked major fashion discussions online following her appearance at the Cannes Film Festival 2026.<br><br>
+
+The actress walked the red carpet wearing an ivory-and-gold saree paired with a heavily embellished golden blouse, instantly grabbing attention across social media platforms and entertainment pages.<br><br>
+
+Soon after photos from the event surfaced online, several users began comparing Urvashi Rautela’s outfit with supermodel Gigi Hadid’s widely discussed 2023 NMACC look, which featured a similar ivory saree and ornate golden detailing.<br><br>
+
+Fashion enthusiasts and netizens pointed out the noticeable similarities between the two looks, leading to fresh online debates regarding celebrity fashion inspiration and styling choices.<br><br>
+
+The comparison quickly went viral across entertainment platforms, with fans sharing side-by-side images of both appearances and discussing the resemblance in styling, colour palette, and overall presentation.<br><br>
+
+Despite the online buzz, Urvashi Rautela has not publicly responded to the comparisons or controversy surrounding her Cannes appearance.<br><br>
+
+Meanwhile, the actress continues to remain active internationally through fashion events, film promotions, and public appearances, frequently making headlines for her glamorous red-carpet looks.`,
+
+  url: "#",
+
+  image: "gigi hadid.jpeg",
+
+  category: "trending"
+},
+
   {
   title: "Sreeleela’s Mother Responds To Dating Rumours With Cricketer Tilak Varma",
 
