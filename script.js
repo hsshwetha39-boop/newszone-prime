@@ -62,17 +62,17 @@ const manualNews = [
 
   description: "Businessman Suraj Nambiar has addressed growing speculation surrounding his separation from actress Mouni Roy, denying rumours about alimony, disputes, and third-party involvement.",
 
-  content: `Businessman Suraj Nambiar has publicly reacted to ongoing discussions surrounding his separation from actress Mouni Roy, putting an end to multiple rumours circulating on social media. :contentReference[oaicite:0]{index=0}<br><br>
+  content: `Businessman Suraj Nambiar has publicly reacted to ongoing discussions surrounding his separation from actress Mouni Roy, putting an end to multiple rumours circulating on social media.<br><br>
 
-In a strong statement shared on social media, Suraj clarified that there is “no alimony,” “no disputes,” and “no third person involved” in their separation. He reportedly described several online claims as misleading and urged people to avoid spreading unverified narratives. :contentReference[oaicite:1]{index=1}<br><br>
+In a strong statement shared on social media, Suraj clarified that there is “no alimony,” “no disputes,” and “no third person involved” in their separation. He reportedly described several online claims as misleading and urged people to avoid spreading unverified narratives.<br><br>
 
-Suraj also stated that both he and Mouni Roy mutually decided to move forward separately while maintaining respect and consideration for each other. He further expressed disappointment over media reports and speculation involving people unrelated to the situation. :contentReference[oaicite:2]{index=2}<br><br>
+Suraj also stated that both he and Mouni Roy mutually decided to move forward separately while maintaining respect and consideration for each other. He further expressed disappointment over media reports and speculation involving people unrelated to the situation.<br><br>
 
-Mouni Roy and Suraj Nambiar recently announced their separation after four years of marriage, requesting privacy as they navigate personal matters away from public attention. :contentReference[oaicite:3]{index=3}<br><br>
+Mouni Roy and Suraj Nambiar recently announced their separation after four years of marriage, requesting privacy as they navigate personal matters away from public attention.<br><br>
 
-The clarification has now sparked conversations online, with social media users discussing celebrity privacy and responsible reporting practices during sensitive personal situations. :contentReference[oaicite:4]{index=4}<br><br>
+The clarification has now sparked conversations online, with social media users discussing celebrity privacy and responsible reporting practices during sensitive personal situations.<br><br>
 
-Meanwhile, Mouni Roy continues focusing on professional commitments, including recent public appearances and upcoming projects. :contentReference[oaicite:5]{index=5}`,
+Meanwhile, Mouni Roy continues focusing on professional commitments, including recent public appearances and upcoming projects.`,
 
   url: "#",
 
@@ -116,15 +116,15 @@ Sara Tendulkar’s reaction has once again highlighted wider concerns surroundin
 
   description: "Actor R Madhavan opened up about relocating to Dubai with his family to support son Vedaant Madhavan’s professional swimming journey, while also sharing concerns about handling fame at a young age.",
 
-  content: `Actor R Madhavan recently opened up about an important decision his family made to support his son Vedaant Madhavan’s swimming ambitions. The actor revealed that they temporarily relocated to Dubai to ensure Vedaant could continue receiving proper training during a crucial phase of his sporting career. :contentReference[oaicite:0]{index=0}<br><br>
+  content: `Actor R Madhavan recently opened up about an important decision his family made to support his son Vedaant Madhavan’s swimming ambitions. The actor revealed that they temporarily relocated to Dubai to ensure Vedaant could continue receiving proper training during a crucial phase of his sporting career.<br><br>
 
-Madhavan shared that during the Covid-19 period, swimming pools across India remained closed, creating challenges for athletes preparing for international competitions. To avoid interruptions in Vedaant’s training, the family shifted to Dubai, where training facilities had resumed operations under strict supervision. :contentReference[oaicite:1]{index=1}<br><br>
+Madhavan shared that during the Covid-19 period, swimming pools across India remained closed, creating challenges for athletes preparing for international competitions. To avoid interruptions in Vedaant’s training, the family shifted to Dubai, where training facilities had resumed operations under strict supervision.<br><br>
 
-The actor also spoke about concerns surrounding early recognition and public attention. Madhavan reportedly expressed that while success and appreciation are encouraging, fame at a young age can sometimes become temporary, emphasizing the importance of staying grounded and continuing hard work. :contentReference[oaicite:2]{index=2}<br><br>
+The actor also spoke about concerns surrounding early recognition and public attention. Madhavan reportedly expressed that while success and appreciation are encouraging, fame at a young age can sometimes become temporary, emphasizing the importance of staying grounded and continuing hard work.<br><br>
 
-Vedaant Madhavan has steadily built his own identity in competitive swimming, earning multiple medals and representing India in international events. His achievements have frequently made headlines, while Madhavan has consistently supported his son’s sporting journey. :contentReference[oaicite:3]{index=3}<br><br>
+Vedaant Madhavan has steadily built his own identity in competitive swimming, earning multiple medals and representing India in international events. His achievements have frequently made headlines, while Madhavan has consistently supported his son’s sporting journey.<br><br>
 
-The actor’s comments have once again highlighted the sacrifices families often make to support young athletes pursuing professional careers, with many fans appreciating Madhavan’s commitment as a parent. :contentReference[oaicite:4]{index=4}`,
+The actor’s comments have once again highlighted the sacrifices families often make to support young athletes pursuing professional careers, with many fans appreciating Madhavan’s commitment as a parent.`,
 
   url: "#",
 
