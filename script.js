@@ -58,6 +58,112 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Suraj Nambiar Breaks Silence On Divorce Rumours With Mouni Roy, Says ‘No Alimony, No Third Person’",
+
+  description: "Businessman Suraj Nambiar has addressed growing speculation surrounding his separation from actress Mouni Roy, denying rumours about alimony, disputes, and third-party involvement.",
+
+  content: `Businessman Suraj Nambiar has publicly reacted to ongoing discussions surrounding his separation from actress Mouni Roy, putting an end to multiple rumours circulating on social media. :contentReference[oaicite:0]{index=0}<br><br>
+
+In a strong statement shared on social media, Suraj clarified that there is “no alimony,” “no disputes,” and “no third person involved” in their separation. He reportedly described several online claims as misleading and urged people to avoid spreading unverified narratives. :contentReference[oaicite:1]{index=1}<br><br>
+
+Suraj also stated that both he and Mouni Roy mutually decided to move forward separately while maintaining respect and consideration for each other. He further expressed disappointment over media reports and speculation involving people unrelated to the situation. :contentReference[oaicite:2]{index=2}<br><br>
+
+Mouni Roy and Suraj Nambiar recently announced their separation after four years of marriage, requesting privacy as they navigate personal matters away from public attention. :contentReference[oaicite:3]{index=3}<br><br>
+
+The clarification has now sparked conversations online, with social media users discussing celebrity privacy and responsible reporting practices during sensitive personal situations. :contentReference[oaicite:4]{index=4}<br><br>
+
+Meanwhile, Mouni Roy continues focusing on professional commitments, including recent public appearances and upcoming projects. :contentReference[oaicite:5]{index=5}`,
+
+  url: "#",
+
+  image: "divorse mouni roy.jpeg",
+
+  category: "film",
+
+  date: "May 22, 2026"
+},
+
+  {
+  title: "Sara Tendulkar Calls Out Body-Shaming Post, Says ‘This Is Not Journalism’",
+
+  description: "Sara Tendulkar has reacted strongly against an alleged body-shaming social media post, criticizing the content and calling it unacceptable while sparking discussions online about responsible journalism and online behavior.",
+
+  content: `Sara Tendulkar has grabbed social media attention after reportedly reacting to an alleged body-shaming post shared by a paparazzi-related social media account.<br><br>
+
+According to viral screenshots circulating online, Sara Tendulkar publicly expressed disappointment over the content and criticized the nature of such posts, reportedly stating that “this is not journalism.”<br><br>
+
+The incident quickly triggered discussions across social media platforms, with users debating online responsibility, body-shaming culture, and ethical reporting standards in digital entertainment coverage.<br><br>
+
+Many social media users supported Sara Tendulkar’s reaction, calling for greater sensitivity while covering celebrities and public personalities online.<br><br>
+
+Body-shaming and online trolling continue to remain major concerns across digital platforms, with several public figures previously speaking about the emotional impact of negative commentary and social media criticism.<br><br>
+
+The incident has now become a talking point among entertainment followers and internet users, with conversations growing around respectful reporting practices and responsible online engagement.<br><br>
+
+Sara Tendulkar’s reaction has once again highlighted wider concerns surrounding social media accountability and how public personalities are discussed across digital spaces.`,
+
+  url: "#",
+
+  image: "sara tendulkar.jpeg",
+
+  category: "viral",
+
+  date: "May 22, 2026"
+},
+
+  {
+  title: "R Madhavan Reveals Why He Moved To Dubai For Son Vedaant’s Swimming Career",
+
+  description: "Actor R Madhavan opened up about relocating to Dubai with his family to support son Vedaant Madhavan’s professional swimming journey, while also sharing concerns about handling fame at a young age.",
+
+  content: `Actor R Madhavan recently opened up about an important decision his family made to support his son Vedaant Madhavan’s swimming ambitions. The actor revealed that they temporarily relocated to Dubai to ensure Vedaant could continue receiving proper training during a crucial phase of his sporting career. :contentReference[oaicite:0]{index=0}<br><br>
+
+Madhavan shared that during the Covid-19 period, swimming pools across India remained closed, creating challenges for athletes preparing for international competitions. To avoid interruptions in Vedaant’s training, the family shifted to Dubai, where training facilities had resumed operations under strict supervision. :contentReference[oaicite:1]{index=1}<br><br>
+
+The actor also spoke about concerns surrounding early recognition and public attention. Madhavan reportedly expressed that while success and appreciation are encouraging, fame at a young age can sometimes become temporary, emphasizing the importance of staying grounded and continuing hard work. :contentReference[oaicite:2]{index=2}<br><br>
+
+Vedaant Madhavan has steadily built his own identity in competitive swimming, earning multiple medals and representing India in international events. His achievements have frequently made headlines, while Madhavan has consistently supported his son’s sporting journey. :contentReference[oaicite:3]{index=3}<br><br>
+
+The actor’s comments have once again highlighted the sacrifices families often make to support young athletes pursuing professional careers, with many fans appreciating Madhavan’s commitment as a parent. :contentReference[oaicite:4]{index=4}`,
+
+  url: "#",
+
+  image: "madhavan.jpeg",
+
+  category: "film",
+
+  date: "May 22, 2026"
+},
+
+  {
+  title: "How Parle’s Re 1 Melody Toffee Became A Symbol Of Modi-Meloni Diplomacy",
+
+  description: "Parle’s iconic Re 1 Melody toffee has unexpectedly become a viral diplomatic symbol after Prime Minister Narendra Modi gifted it to Italian Prime Minister Giorgia Meloni, turning an everyday Indian candy into a global talking point.",
+
+  content: `A small caramel-chocolate candy that has been part of Indian childhood memories for decades has now found an unexpected place in international diplomacy. Parle’s iconic Melody toffee recently grabbed global attention after Prime Minister Narendra Modi gifted packets of the popular candy to Italian Prime Minister Giorgia Meloni during a meeting in Rome.<br><br>
+
+The gesture instantly caught social media attention, largely because of the internet-famous “Melodi” trend — a nickname created by combining Modi and Meloni’s names. The playful online trend first gained popularity during international events where the two leaders appeared together publicly.<br><br>
+
+Soon after the gift exchange video surfaced online, social media users linked the iconic Melody candy with the already viral “Melodi” meme, making the toffee an unexpected diplomatic symbol.<br><br>
+
+Melody, introduced by Parle Products in 1983, has remained one of India’s most recognizable affordable confectionery brands for decades. Known for its caramel outer layer and chocolate-filled center, the candy became a nostalgic part of Indian snack culture and remains popular across generations.<br><br>
+
+What made the moment stand out was the symbolism behind it. Rather than presenting a luxury item, the gift highlighted an everyday Indian brand familiar to millions, showcasing India’s cultural identity through a simple and relatable product.<br><br>
+
+The viral moment also sparked discussions about India’s growing soft power influence, where homegrown products, digital culture, and internet trends increasingly become part of global conversations.<br><br>
+
+From neighborhood stores to international diplomacy, Melody’s journey from a Re 1 candy to a viral diplomatic symbol has now become one of the internet’s most talked-about stories.`,
+
+  url: "#",
+
+  image: "modi.jpeg",
+
+  category: "trending",
+
+  date: "May 22, 2026"
+},
+
+  {
   title: "GOAT Director Venkat Prabhu Gifts Iconic Movie Number Plate To CM Vijay",
 
   description: "Director Venkat Prabhu has gifted the iconic 'TN07 CM 2026' number plate from GOAT to Tamil Nadu Chief Minister Vijay, bringing back memories from the blockbuster film and creating buzz among fans online.",
