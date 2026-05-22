@@ -58,6 +58,32 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Cockroach Janta Party’s X Account Blocked In India: Who Is Founder Abhijeet Dipke?",
+
+  description: "The viral satirical movement Cockroach Janta Party has landed in controversy after its X account was withheld in India. The development has also put founder Abhijeet Dipke into the national spotlight.",
+
+  content: `The X account of the rapidly growing satirical political movement 'Cockroach Janta Party' (CJP) has reportedly been withheld in India, triggering widespread discussions across social media platforms.<br><br>
+
+Users attempting to access the account inside India reportedly received an “Account Withheld” notice. Founder Abhijeet Dipke confirmed the development and stated that the restriction came following a legal demand. Reports suggest the account later returned through an alternate handle.<br><br>
+
+Abhijeet Dipke, the founder behind Cockroach Janta Party, is a political communications strategist originally from Pune with experience in journalism, public relations, and political communication. Reports also suggest he previously worked with social media operations connected to political campaigns.<br><br>
+
+The satirical movement gained major online traction after controversy surrounding remarks linked to unemployed youth, eventually turning into a wider internet-driven campaign discussing issues such as unemployment, rising costs, education concerns, and youth-related topics. The movement witnessed explosive growth across social media platforms within days.<br><br>
+
+Despite the X account restriction, Cockroach Janta Party continues to attract online attention, with supporters actively discussing censorship concerns, satire, and digital freedom. The development has now sparked larger conversations surrounding social media regulation and online political expression in India.<br><br>
+
+Meanwhile, Abhijeet Dipke has continued sharing updates online, with the issue becoming one of the most discussed digital stories in recent days.`,
+
+  url: "#",
+
+  image: "cacroach.jpeg",
+
+  category: "trending",
+
+  date: "May 22, 2026"
+},
+
+  {
   title: "Suraj Nambiar Breaks Silence On Divorce Rumours With Mouni Roy, Says ‘No Alimony, No Third Person’",
 
   description: "Businessman Suraj Nambiar has addressed growing speculation surrounding his separation from actress Mouni Roy, denying rumours about alimony, disputes, and third-party involvement.",
