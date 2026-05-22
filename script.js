@@ -58,6 +58,32 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Ram Charan Praises Janhvi Kapoor’s Dedication At ‘Peddi’ Trailer Launch",
+
+  description: "Ram Charan appreciated Janhvi Kapoor’s hard work and dedication during the ‘Peddi’ trailer launch event, saying she performed ‘100 times better’ than him in a recent song shoot.",
+
+  content: `The trailer launch event of 'Peddi' created excitement among cinema fans as lead actor Ram Charan openly praised co-star Janhvi Kapoor for her dedication and commitment during the film's production.<br><br>
+
+Speaking during the event, Ram Charan highlighted Janhvi Kapoor’s preparation process and work ethic on set. He revealed that during the filming of a recent song, Janhvi quietly prepared and practiced extensively, impressing everyone with her performance.<br><br>
+
+Ram Charan reportedly said Janhvi performed “100 times better” than him in the final song they filmed together, appreciating her discipline and dedication towards her role. He also praised her ability to prepare silently and deliver strongly on screen.<br><br>
+
+The actor also spoke about the emotional connection between their families, mentioning how his father Chiranjeevi and Janhvi Kapoor’s mother Sridevi shared a long professional association in cinema.<br><br>
+
+Directed by Buchi Babu Sana, ‘Peddi’ stars Ram Charan and Janhvi Kapoor in lead roles and has generated major anticipation ahead of its theatrical release. The film’s trailer launch event also featured members of the production team and industry personalities.<br><br>
+
+The event has now become a major talking point online, with fans appreciating the chemistry between the lead actors and Ram Charan’s heartfelt praise for Janhvi Kapoor’s dedication and effort.`,
+
+  url: "ram-charan-praises-janhvi-kapoor-dedication-peddi-trailer-launch",
+
+  image: "ram-charan-janhvi-kapoor-peddi-trailer-launch.jpeg",
+
+  category: "film",
+
+  date: "May 22, 2026"
+},
+
+  {
   title: "Cockroach Janta Party’s X Account Blocked In India: Who Is Founder Abhijeet Dipke?",
 
   description: "The viral satirical movement Cockroach Janta Party has landed in controversy after its X account was withheld in India. The development has also put founder Abhijeet Dipke into the national spotlight.",
@@ -74,7 +100,7 @@ Despite the X account restriction, Cockroach Janta Party continues to attract on
 
 Meanwhile, Abhijeet Dipke has continued sharing updates online, with the issue becoming one of the most discussed digital stories in recent days.`,
 
-  url: "#",
+  url: "cockroach-janta-party-x-account-blocked-india-abhijeet-dipke",
 
   image: "cacroach.jpeg",
 
