@@ -58,6 +58,32 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Film Lovers, Don’t Miss This Sunday: 10 Movies In 10 Hours With Free Food And Snacks",
+
+  description: "Cinema enthusiasts are in for a special treat this weekend as a unique film festival event promises 10 films in 10 hours along with complimentary food and refreshments for attendees.",
+
+  content: `Movie lovers are set for a celebration this Sunday as a special film screening event promises an exciting experience filled with cinema, entertainment, and food.<br><br>
+
+The event is expected to offer audiences an opportunity to watch 10 films over a span of 10 hours, creating a festival-like atmosphere for cinema enthusiasts looking to spend an entire day enjoying movies.<br><br>
+
+Apart from the film marathon, organizers are also expected to provide free meals and snacks for attendees, making the experience even more appealing for people planning a weekend outing centered around films and entertainment.<br><br>
+
+Film festivals have become increasingly popular among audiences who enjoy exploring diverse storytelling styles, independent cinema, and community-driven movie experiences beyond regular theatrical releases.<br><br>
+
+The upcoming event has already generated attention among cinema fans, with discussions growing online about the combination of back-to-back movie screenings and complimentary food arrangements.<br><br>
+
+For movie enthusiasts looking to enjoy a unique cinema experience, the special Sunday event promises entertainment, films, and festival energy all packed into one full-day celebration of cinema.`,
+
+  url: "film-festival-10-movies-10-hours-free-food-sunday-event",
+
+  image: "film-festival-10-movies-free-food.jpeg",
+
+  category: "viral",
+
+  date: "May 22, 2026"
+},
+
+  {
   title: "Ram Charan Praises Janhvi Kapoor’s Dedication At ‘Peddi’ Trailer Launch",
 
   description: "Ram Charan appreciated Janhvi Kapoor’s hard work and dedication during the ‘Peddi’ trailer launch event, saying she performed ‘100 times better’ than him in a recent song shoot.",
