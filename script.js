@@ -42,6 +42,18 @@ function displayNews(articles) {
     card.target = "_blank";
     card.classList.add("card-link");
 
+    card.addEventListener("click", () => {
+
+  if (typeof gtag === "function") {
+
+    gtag("event", "article_open", {
+      article_title: article.title
+    });
+
+  }
+
+});
+
     card.innerHTML = `
       <div class="news-card">
         <img src="${article.image || 'https://via.placeholder.com/300'}">
@@ -1589,6 +1601,12 @@ function filterNews(category, event) {
 function toggleDarkMode() {
   document.body.classList.toggle("dark-mode");
 
+  if (typeof gtag === "function") {
+
+  gtag("event", "dark_mode_used");
+
+}
+
   const btn = document.getElementById("darkBtn");
 
   if (document.body.classList.contains("dark-mode")) {
@@ -1641,10 +1659,22 @@ window.onload = () => {
     searchInput.addEventListener("keyup", function () {
       const value = this.value.toLowerCase();
 
-      if (value === "") {
-        displayNews(manualNews);
-        return;
-      }
+  if (value.length >= 3) {
+
+  if (typeof gtag === "function") {
+
+    gtag("event", "news_search", {
+      search_term: value
+    });
+
+  }
+
+}
+
+  if (value === "") {
+    displayNews(manualNews);
+    return;
+  }
 
       const filtered = manualNews.filter(article =>
         article.title.toLowerCase().includes(value) ||
