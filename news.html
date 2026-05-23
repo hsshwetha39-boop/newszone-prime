@@ -6,6 +6,52 @@
     <title>News Details - NewsZone Prime</title>
     <link rel="icon" type="jpeg" href="WhatsApp Image 2026-04-24 at 10.56.17 AM.jpeg">
     <link rel="stylesheet" href="style.css">
+
+    <script
+type="application/ld+json"
+id="news-schema">
+
+{
+ "@context":"https://schema.org",
+
+ "@type":"NewsArticle",
+
+ "headline":"NewsZone Prime",
+
+ "author":{
+   "@type":"Organization",
+   "name":"NewsZone Prime"
+ },
+
+ "publisher":{
+   "@type":"Organization",
+   "name":"NewsZone Prime"
+ }
+
+}
+
+</script>
+
+<meta property="og:type" content="article">
+
+<meta property="og:site_name"
+content="NewsZone Prime">
+
+<meta property="og:title"
+content="NewsZone Prime">
+
+<meta property="og:description"
+content="Latest India news and breaking updates">
+
+<meta property="og:image"
+content="">
+
+<meta property="og:url"
+content="">
+
+<meta name="twitter:card"
+content="summary_large_image">
+
 </head>
 <body class="news-page">
 
@@ -34,6 +80,7 @@
         <a href="index.html">Home</a>
         <a href="about.html">About</a>
         <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy Policy</a>
     </div>
 
 </nav>
@@ -48,9 +95,13 @@
 
     <h1 id="title"></h1>
 
-    <p class="news-meta">
-        By <span id="author"></span> • <span id="date"></span>
-    </p>
+<p class="news-meta">
+  By <span id="author"></span>
+  •
+  <span id="date"></span>
+  •
+  <span id="readingTime"></span>
+</p>
 
     <img id="image" alt="News Image">
 
@@ -78,6 +129,78 @@
     } else {
         document.getElementById("image").style.display = "none";
     }
+
+    const schema =
+document.getElementById("news-schema");
+
+if(schema){
+
+schema.textContent =
+JSON.stringify({
+
+"@context":"https://schema.org",
+
+"@type":"NewsArticle",
+
+"headline": title,
+
+"image": [img],
+
+"datePublished": date,
+
+"author":{
+ "@type":"Organization",
+ "name":"NewsZone Prime"
+},
+
+"publisher":{
+ "@type":"Organization",
+ "name":"NewsZone Prime"
+}
+
+});
+
+}
+
+document.title =
+title + " - NewsZone Prime";
+
+document
+.querySelector(
+'meta[property="og:title"]'
+)
+.setAttribute(
+"content",
+title
+);
+
+document
+.querySelector(
+'meta[property="og:description"]'
+)
+.setAttribute(
+"content",
+desc
+);
+
+document
+.querySelector(
+'meta[property="og:image"]'
+)
+.setAttribute(
+"content",
+img
+);
+
+document
+.querySelector(
+'meta[property="og:url"]'
+)
+.setAttribute(
+"content",
+window.location.href
+);
+
 </script>
 
 <script src="script.js"></script>
