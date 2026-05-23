@@ -92,7 +92,7 @@ Aishwarya Rai's Cannes appearance continues to highlight India's growing influen
 
   image: "aishwarya-rai-cannes-film-festival.jpeg",
 
-  category: "entertainment",
+  category: "trending",
 
   date: "May 23, 2026"
 },
