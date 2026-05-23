@@ -70,6 +70,134 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Aishwarya Rai Turns Heads at Cannes Film Festival With Stunning Appearance",
+
+  description: "Aishwarya Rai once again captured global attention at the Cannes International Film Festival with her elegant appearance, becoming one of the most talked-about celebrities at the prestigious event.",
+
+  content: `Aishwarya Rai drew major attention at the Cannes International Film Festival with her latest appearance, once again proving why she remains one of India's biggest global style icons.<br><br>
+
+The actress impressed fans and fashion enthusiasts with her elegant red carpet presence, with photos and videos quickly going viral across social media platforms.<br><br>
+
+<img src="aishwarya rai cannes 2026.jpeg"
+style="width:100%;max-width:750px;height:auto;display:block;margin:20px auto;border-radius:10px;"
+alt="News Image">
+
+Known for her long-standing association with Cannes, Aishwarya has represented Indian cinema at the international festival for more than two decades and continues to remain among the most anticipated celebrities every year.<br><br>
+
+Her appearance this year once again sparked discussions online, with fans praising her style, confidence, and global presence at one of the world's biggest film festivals.<br><br>
+
+Aishwarya Rai's Cannes appearance continues to highlight India's growing influence at international entertainment and fashion events, while her red carpet moments remain a major attraction for fans worldwide.`,
+
+  url: "aishwarya-rai-cannes-film-festival-global-attention",
+
+  image: "aishwarya-rai-cannes-film-festival.jpeg",
+
+  category: "entertainment",
+
+  date: "May 23, 2026"
+},
+
+  {
+  title: "Record Crowd at Subrahmanya as Over 2,500 Devotees Perform Ashlesha Bali Seva",
+
+  description: "A large number of devotees gathered at Subrahmanya following Ashlesha Nakshatra, with more than 2,500 devotees participating in the Ashlesha Bali seva, creating a record turnout.",
+
+  content: `Subrahmanya witnessed a massive spiritual gathering as thousands of devotees arrived to participate in Ashlesha Bali seva on the occasion of Ashlesha Nakshatra.<br><br>
+
+According to reports, more than 2,500 devotees took part in the ritual service, marking one of the biggest turnouts witnessed during the occasion.<br><br>
+
+Ashlesha Bali is a significant ritual performed by devotees seeking blessings and spiritual well-being, especially at Subrahmanya, which is known for such religious practices and attracts devotees from different regions. :contentReference[oaicite:0]{index=0}<br><br>
+
+Temple premises witnessed heavy crowds from early morning, with devotees patiently waiting to participate in the seva activities.<br><br>
+
+The large participation once again highlighted the deep faith and spiritual importance attached to Ashlesha Nakshatra rituals among devotees visiting Subrahmanya.`,
+
+  url: "subrahmanya-record-devotees-ashlesha-bali-seva",
+
+  image: "subrahmanya-ashlesha-bali-record-devotees.jpeg",
+
+  category: "viral",
+
+  date: "May 23, 2026"
+},
+
+  {
+  title: "Virat Kohli-Travis Head Handshake Row Goes Viral After RCB vs SRH Clash",
+
+  description: "A heated moment between Virat Kohli and Travis Head during the RCB vs SRH IPL 2026 match has become a major talking point online after a viral post-match handshake incident grabbed fans’ attention.",
+
+  content: `A tense on-field exchange between Virat Kohli and Travis Head during the IPL 2026 clash between Royal Challengers Bengaluru (RCB) and Sunrisers Hyderabad (SRH) has sparked major discussion across social media.<br><br>
+
+The incident reportedly began during RCB’s chase when Kohli and Head were involved in a verbal exchange on the field. The intense atmosphere of the match quickly turned into one of the biggest talking points among cricket fans.<br><br>
+
+According to reports, emotions continued after the match as a handshake moment between Kohli and Head attracted widespread attention online. Videos and clips from the incident rapidly went viral, leading fans to debate what exactly happened between the two star players.<br><br>
+
+Several reports suggested that Travis Head made comments during the heated on-field exchange, which reportedly added to the tension between both cricketers. However, no official statement has been released by either player regarding the viral moment.<br><br>
+
+The RCB vs SRH encounter itself remained a high-intensity contest, but the Kohli-Head interaction eventually became one of the most discussed moments from the match.<br><br>
+
+As discussions continue online, cricket fans remain divided over the incident, while videos related to the handshake row continue gaining attention across social media platforms.`,
+
+  url: "virat-kohli-travis-head-handshake-row-ipl-2026-viral",
+
+  image: "kohli-travis-head-handshake-row.jpeg",
+
+  category: "sports",
+
+  date: "May 23, 2026"
+},
+
+  {
+  title: "Mouni Roy-Disha Patani Viral Relationship Rumours Spark Online Buzz; Here’s What Reports Say",
+
+  description: "Social media speculation surrounding actresses Mouni Roy and Disha Patani has gained attention online after a viral post triggered relationship rumours, leading to widespread discussion among fans.",
+
+  content: `Actresses Mouni Roy and Disha Patani have recently found themselves at the centre of social media discussions after a viral post sparked rumours about their relationship status.<br><br>
+
+The speculation reportedly began after screenshots and online posts started circulating across social media platforms, leading fans to question whether Mouni Roy had indirectly confirmed something personal involving Disha Patani.<br><br>
+
+However, reports suggest that the viral claims are not based on any official confirmation from either actress. Multiple discussions online appear to have originated from fan interpretations and social media speculation rather than verified statements.<br><br>
+
+Mouni Roy and Disha Patani are publicly known to share a close friendship and have frequently appeared together during vacations, celebrations, and social gatherings, which has often attracted fan attention.<br><br>
+
+The viral discussions also surfaced during ongoing public attention surrounding Mouni Roy’s personal life, adding further curiosity among social media users.<br><br>
+
+As of now, neither Mouni Roy nor Disha Patani has officially confirmed any relationship-related rumours. The viral trend currently remains part of social media speculation, while fans continue sharing reactions online.`,
+
+  url: "mouni-roy-disha-patani-viral-relationship-rumours-truth",
+
+  image: "mouni-roy-disha-patani-viral-rumours.jpeg",
+
+  category: "film",
+
+  date: "May 23, 2026"
+},
+
+  {
+  title: "HC Directs State To Enforce Injunction Orders In Favour Of Veerendra Heggade Against Media Outlets",
+
+  description: "The High Court has reportedly directed authorities to enforce injunction orders issued in favour of Veerendra Heggade in a case involving certain media outlets, drawing attention to legal responsibilities and compliance with court directives.",
+
+  content: `A High Court directive involving Veerendra Heggade and certain media outlets has drawn public attention following developments related to enforcement of injunction orders.<br><br>
+
+According to reports, the court directed the State to ensure implementation and enforcement of previously issued injunction orders connected to the matter. The development has sparked discussions surrounding legal compliance and responsibilities involving media-related cases.<br><br>
+
+The case reportedly concerns issues linked to publication and dissemination of certain content, with legal proceedings focusing on court-issued protections and adherence to judicial directions.<br><br>
+
+Court intervention in matters involving media reporting and legal restrictions often highlights the balance between freedom of expression, legal safeguards, and compliance with judicial orders.<br><br>
+
+The latest development has now become a topic of discussion across legal and public circles, with attention turning towards how authorities implement court directives in sensitive matters involving public figures and media platforms.`,
+
+  url: "hc-directs-state-enforce-injunction-orders-veerendra-heggade-media-outlets",
+
+  image: "veerendra-heggade-hc-media-case.jpeg",
+
+  category: "viral",
+
+  date: "May 23, 2026"
+},
+
+  {
   title: "Family Allegedly Hired Contract Killer To Murder Son After Years Of Domestic Conflict: Police",
 
   description: "A shocking case from Uttar Pradesh has drawn nationwide attention after police alleged that a family hired a contract killer to murder their own son following years of tension, alcohol-related disputes, and domestic conflict.",
