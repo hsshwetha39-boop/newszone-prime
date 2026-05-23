@@ -58,6 +58,60 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Family Allegedly Hired Contract Killer To Murder Son After Years Of Domestic Conflict: Police",
+
+  description: "A shocking case from Uttar Pradesh has drawn nationwide attention after police alleged that a family hired a contract killer to murder their own son following years of tension, alcohol-related disputes, and domestic conflict.",
+
+  content: `A disturbing case from Uttar Pradesh has come to light after police alleged that a family planned the murder of their own son following years of domestic conflict and repeated disputes inside the home.<br><br>
+
+According to police officials, 32-year-old Dushyant Kumar allegedly struggled with alcohol addiction and was frequently involved in arguments at home. Investigators claimed repeated tensions and disturbances had created a stressful situation for family members over a long period.<br><br>
+
+Police alleged that Dushyant’s parents and younger brother planned the murder and reportedly struck a deal worth ₹5 lakh with a local contract killer. Officials also claimed an advance payment was arranged during the alleged planning process.<br><br>
+
+The victim’s body was later recovered from a dry canal area near Shyampur village. During the investigation, police tracked suspicious activity and questioned multiple people, eventually uncovering what officials described as a planned conspiracy.<br><br>
+
+Investigators suspect a sharp weapon may have been used in the crime. Authorities stated that further investigation remains underway to identify all details connected to the case.<br><br>
+
+Police have arrested some accused individuals while efforts continue to trace others linked to the case. The incident has sparked public discussions over family disputes, addiction-related struggles, and the serious consequences of unresolved domestic conflicts.`,
+
+  url: "uttar-pradesh-family-contract-killer-son-domestic-conflict-case",
+
+  image: "uttar-pradesh-family-contract-killer-case.jpeg",
+
+  category: "crime",
+
+  date: "May 22, 2026"
+},
+
+  {
+  title: "Cockroach Janata Party Sparks Political Debate Online Amid BJP Unfollow Calls",
+
+  description: "Cockroach Janata Party (CJP), a viral social media movement that recently gained attention online, is now witnessing political discussions after social media users raised questions about its messaging and campaigns.",
+
+  content: `Cockroach Janata Party (CJP), which recently gained major attention across social media platforms, has now become part of a larger political discussion online.<br><br>
+
+The movement initially attracted attention through content focused on public issues and youth-related conversations, helping it gain visibility among internet users and social media audiences.<br><br>
+
+However, discussions intensified after online users pointed to social media campaigns encouraging people to unfollow BJP-related accounts. This triggered debates among users regarding whether the movement was remaining issue-focused or moving towards a political direction.<br><br>
+
+Several social media users have also raised questions regarding reported political connections linked to individuals associated with the movement. These discussions have further increased online attention surrounding CJP and its growing digital presence.<br><br>
+
+Online discussions have also included screenshots and claims circulating on social media regarding founder Abhijeet Dipke and alleged past controversies. However, multiple claims currently remain part of public online discussions, and official verification remains important before drawing conclusions.<br><br>
+
+Supporters argue that digital movements have the right to express opinions and encourage public participation, while critics believe social media campaigns should maintain neutrality and transparency.<br><br>
+
+The development has now turned Cockroach Janata Party into one of the widely discussed topics online, with conversations continuing across social media platforms regarding digital influence, public opinion, and political messaging.`,
+
+  url: "cockroach-janata-party-political-debate-online-bjp-unfollow-campaign",
+
+  image: "cockroach-janata-party-online-political-debate.jpeg",
+
+  category: "news",
+
+  date: "May 22, 2026"
+},
+
+  {
   title: "Film Lovers, Don’t Miss This Sunday: 10 Movies In 10 Hours With Free Food And Snacks",
 
   description: "Cinema enthusiasts are in for a special treat this weekend as a unique film festival event promises 10 films in 10 hours along with complimentary food and refreshments for attendees.",
