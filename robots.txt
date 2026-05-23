@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://hsshwetha39-boop.github.io/newszone-prime/sitemap.xml

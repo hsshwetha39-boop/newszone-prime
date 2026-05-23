@@ -92,7 +92,7 @@ Police have arrested some accused individuals while efforts continue to trace ot
 
   category: "crime",
 
-  date: "May 22, 2026"
+  date: "May 23, 2026"
 },
 
   {
@@ -120,7 +120,7 @@ The development has now turned Cockroach Janata Party into one of the widely dis
 
   category: "news",
 
-  date: "May 22, 2026"
+  date: "May 23, 2026"
 },
 
   {
