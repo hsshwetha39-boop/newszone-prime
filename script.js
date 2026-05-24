@@ -90,7 +90,7 @@ The Twisha Sharma case has become one of the widely discussed developments natio
 
   image: "twisha-sharma-case-cbi-second-postmortem.jpeg",
 
-  category: "news",
+  category: "viral",
 
   date: "May 24, 2026"
 },
