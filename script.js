@@ -70,6 +70,136 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Shreyas Iyer Wants MI To Beat RR, Punjab Kings Captain Shares Playoff Wish",
+
+  description: "Punjab Kings captain Shreyas Iyer openly shared his thoughts ahead of the Rajasthan Royals vs Mumbai Indians clash, saying his team would be hoping for a Mumbai Indians victory as the IPL playoff race heats up.",
+
+  content: `Punjab Kings captain Shreyas Iyer has sparked discussion among cricket fans after openly expressing support for Mumbai Indians ahead of their important IPL 2026 clash against Rajasthan Royals.<br><br>
+
+Punjab Kings remain involved in the tight playoff race, and upcoming match results could significantly impact qualification scenarios. Speaking after Punjab's recent performance, Shreyas Iyer admitted that his side would prefer Mumbai Indians to secure a victory against Rajasthan Royals.<br><br>
+
+The Punjab captain's statement quickly grabbed fan attention online, with cricket followers discussing how closely teams are now monitoring other fixtures as the tournament enters its final stage.<br><br>
+
+IPL 2026 has witnessed an intense playoff battle, with multiple franchises competing for limited qualification spots. Every match result now carries major importance for teams hoping to secure a place in the knockout rounds.<br><br>
+
+Punjab Kings supporters also reacted strongly across social media platforms after Iyer's comments, highlighting how closely the playoff equation is being followed by players and fans alike.<br><br>
+
+As the league phase approaches its final stretch, all eyes remain on key fixtures that could decide the final playoff picture in IPL 2026.`,
+
+  url: "shreyas-iyer-mi-vs-rr-punjab-kings-playoff-race",
+
+  image: "shreyas-iyer-mi-rr-playoff-statement.jpeg",
+
+  category: "sports",
+
+  date: "May 24, 2026"
+},
+
+  {
+  title: "Cockroach Janata Party Ban Row: What Intelligence Inputs Reportedly Flagged",
+
+  description: "Cockroach Janata Party (CJP), which recently gained massive social media attention, is now at the center of fresh discussions after reports emerged about intelligence inputs linked to the movement and concerns raised over online activities.",
+
+  content: `Cockroach Janata Party (CJP), a social media-driven movement that rapidly gained online popularity, has entered a new phase of discussion after reports suggested intelligence agencies raised concerns regarding its growing digital reach and activities.<br><br>
+
+The movement, which gained visibility following online discussions around youth issues and public concerns, quickly attracted large attention across social media platforms. Its rapid growth and increasing online engagement turned it into one of the most talked-about topics in recent days.<br><br>
+
+Reports indicate that intelligence-related inputs reportedly highlighted concerns over large-scale online mobilization, possible misuse of sensitive issues, and the role of rapidly expanding digital networks. Discussions have also emerged regarding foreign-linked online accounts allegedly participating in related conversations.<br><br>
+
+Authorities reportedly examined certain aspects linked to online campaigns associated with the movement as part of wider monitoring efforts. Meanwhile, conversations surrounding digital influence, social media activism, and online public mobilization continue to grow.<br><br>
+
+The development has triggered mixed reactions online. While supporters view internet-based campaigns as a form of modern public expression, others believe greater transparency and safeguards are important as large-scale digital movements gain influence.<br><br>
+
+Cockroach Janata Party continues to remain a widely discussed topic across online platforms, with debates continuing around social media influence, youth participation, and the growing role of digital movements in shaping public conversations.`,
+
+  url: "cockroach-janata-party-ban-intelligence-warning-online-discussion",
+
+  image: "cockroach-janata-party-ban-intelligence-warning.jpeg",
+
+  category: "news",
+
+  date: "May 24, 2026"
+},
+
+  {
+  title: "Kangana Ranaut Reacts To Viral Mangalsutra Photo, Clears Air On Secret Wedding Rumours",
+
+  description: "Kangana Ranaut recently sparked online discussion after photos of her wearing a mangalsutra went viral on social media. The actress has now reacted to the growing speculation surrounding her personal life.",
+
+  content: `Bollywood actress Kangana Ranaut recently became the center of online discussion after pictures of her wearing a mangalsutra and traditional attire started circulating widely across social media platforms.<br><br>
+
+The viral photos quickly triggered speculation among fans and internet users, with many questioning whether the actress had secretly tied the knot. As discussions gained momentum online, social media platforms saw growing curiosity surrounding Kangana's personal life.<br><br>
+
+However, Kangana Ranaut has now addressed the rumours and clarified that there is no secret marriage. Reports suggest the viral appearance was linked to a professional project, where the actress was seen in a character look related to filming activities.<br><br>
+
+The actress reportedly stated that she would not hide such an important life decision from people and made it clear that online assumptions should not always be treated as facts.<br><br>
+
+Known for frequently making headlines through both films and public statements, Kangana once again found herself trending online as fans continued discussing the viral images and speculation around them.<br><br>
+
+The clarification has now helped put an end to the rumours, with attention shifting back toward Kangana Ranaut's upcoming work and future projects.`,
+
+  url: "kangana-ranaut-reacts-viral-mangalsutra-photo-secret-wedding-rumours",
+
+  image: "kangana-ranaut-mangalsutra-viral.jpeg",
+
+  category: "film",
+
+  date: "May 24, 2026"
+},
+
+  {
+  title: "Sonam Wangchuk Calls Himself ‘Honorary Cockroach’, Supports CJP And Urges Centre To Hear Youth Voices",
+
+  description: "Environmentalist and education reformer Sonam Wangchuk voiced support for the viral Cockroach Janata Party (CJP) movement, calling himself an ‘honorary cockroach’ while urging authorities to listen to concerns raised by young people.",
+
+  content: `Environmentalist and education reformer Sonam Wangchuk has extended support to the viral online movement linked to the Cockroach Janata Party (CJP), a satirical digital campaign that has gained major traction across social media platforms in recent days. :contentReference[oaicite:0]{index=0}<br><br>
+
+Speaking about the movement, Wangchuk described himself as an “honorary cockroach” while emphasizing that he personally does not qualify as a regular member of the campaign. He added that he is “neither unemployed nor lazy,” but said he connects with the larger message being raised by young people. :contentReference[oaicite:1]{index=1}<br><br>
+
+The Cockroach Janata Party movement has attracted attention online by using satire, humour and social media campaigns to discuss issues such as unemployment, examination concerns and public accountability. The movement gained momentum after recent debates surrounding remarks related to unemployed youth. :contentReference[oaicite:2]{index=2}<br><br>
+
+Wangchuk urged authorities to treat such online campaigns as democratic feedback instead of viewing them as a threat. He said the concerns raised by younger generations deserve attention and dialogue rather than suppression. :contentReference[oaicite:3]{index=3}<br><br>
+
+The activist also highlighted that creative public expression should be seen as part of democratic participation, encouraging policymakers to engage with youth voices and understand growing concerns among younger citizens. :contentReference[oaicite:4]{index=4}<br><br>
+
+As discussions continue across social media, the Cockroach Janata Party campaign remains one of the most talked-about digital movements currently gaining attention online, particularly among younger audiences. :contentReference[oaicite:5]{index=5}`,
+
+  url: "sonam-wangchuk-supports-cjp-honorary-cockroach-youth-voices",
+
+  image: "sonam-wangchuk-cjp-support-youth-voices.jpeg",
+
+  category: "news",
+
+  date: "May 24, 2026"
+},
+
+  {
+  title: "Allu Arjun Meets Venkatesh Iyer; RCB Player Gifts Special Jersey To Pushpa Star’s Son",
+
+  description: "Actor Allu Arjun recently met cricketer Venkatesh Iyer in a special interaction that grabbed fans’ attention online. The memorable meeting became even more special after the RCB player gifted a jersey to Allu Arjun’s son.",
+
+  content: `Actor Allu Arjun and cricketer Venkatesh Iyer recently shared a memorable moment that has now become a talking point among sports and cinema fans alike. The interaction between the Pushpa star and the Royal Challengers Bengaluru player quickly attracted attention online after photos and updates from their meeting started circulating across social media platforms.<br><br>
+
+The meeting turned extra special after Venkatesh Iyer gifted a signed Royal Challengers Bengaluru (RCB) jersey to Allu Arjun’s son, Allu Ayaan. The thoughtful gesture immediately won the hearts of fans, especially cricket lovers who appreciated the connection between cinema and sports.<br><br>
+
+Reports suggest that Allu Ayaan is fond of cricket, making the jersey gift a memorable surprise. Fans online reacted positively, with many calling it a wholesome crossover moment between Indian entertainment and cricket worlds.<br><br>
+
+Photos from the interaction quickly gained traction across social media platforms, with fans sharing their excitement and admiration for the sportsmanship and warmth shown during the meeting.<br><br>
+
+Allu Arjun, who enjoys massive popularity across India following the success of the Pushpa franchise, continues to remain one of the biggest stars in Indian cinema. Meanwhile, Venkatesh Iyer remains a key figure in Indian cricket and IPL, earning appreciation from fans for both his performances and personality off the field.<br><br>
+
+The special meeting between the actor and cricketer has now become one of the trending celebrity-cricket moments online, once again showing how sports and entertainment continue to connect audiences across the country.`,
+
+  url: "allu-arjun-meets-venkatesh-iyer-rcb-jersey-gift-allu-ayaan",
+
+  image: "allu-arjun-venkatesh-iyer-rcb-jersey.jpeg",
+
+  category: "sports",
+
+  date: "May 24, 2026"
+},
+
+  {
   title: "Aishwarya Rai Turns Heads at Cannes Film Festival With Stunning Appearance",
 
   description: "Aishwarya Rai once again captured global attention at the Cannes International Film Festival with her elegant appearance, becoming one of the most talked-about celebrities at the prestigious event.",
