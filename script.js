@@ -70,6 +70,40 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Aishwarya Rai Bachchan Stuns Cannes 2026 With Elegant Blush Pink Couture Look",
+
+  description: "Aishwarya Rai Bachchan once again captured global attention at Cannes 2026 after making a breathtaking appearance in a blush pink couture outfit, adding another memorable fashion moment to her long Cannes journey.",
+
+  content: `Aishwarya Rai Bachchan has once again become one of the biggest highlights of Cannes Film Festival 2026 after her stunning second red carpet appearance created massive discussion across fashion and entertainment circles.<br><br>
+
+The Bollywood icon appeared in an elegant blush pink couture outfit that immediately attracted global attention. Known for delivering memorable fashion moments at Cannes over the years, Aishwarya once again impressed fans with her graceful presence and signature style.<br><br>
+
+<img src="aishwarya-rai-cannes-2026-blush-pink-couture 1st.jpeg"
+style="width:100%;max-width:750px;height:auto;display:block;margin:20px auto;border-radius:10px;"
+alt="News Image">
+
+The look featured detailed craftsmanship, elegant styling, and a glamorous red carpet appearance that quickly started trending across social media platforms. Fans and fashion enthusiasts praised the actress for maintaining her iconic Cannes legacy while presenting a fresh and modern style statement.<br><br>
+
+Adding to the special moment, daughter Aaradhya Bachchan also accompanied Aishwarya during the Cannes appearance, further drawing attention from fans and media coverage.<br><br>
+
+<img src="aishwarya-rai-cannes-2026-blush-pink-couture 2nd.jpeg"
+style="width:100%;max-width:750px;height:auto;display:block;margin:20px auto;border-radius:10px;"
+alt="News Image">
+
+Aishwarya Rai Bachchan, who has represented India at Cannes for several years, continues to remain one of the most recognized global fashion faces from Indian cinema. Her Cannes 2026 appearance has once again strengthened her reputation as one of the festival's most celebrated stars.<br><br>
+
+Social media platforms continue witnessing praise for Aishwarya's latest fashion appearance, with many fans calling it one of her standout Cannes looks in recent years.`,
+
+  url: "aishwarya-rai-bachchan-cannes-2026-blush-pink-couture-look",
+
+  image: "aishwarya-rai-cannes-2026-blush-pink-couture.jpeg",
+
+  category: "entertainment",
+
+  date: "May 24, 2026"
+},
+
+  {
   title: "Shreyas Iyer Wants MI To Beat RR, Punjab Kings Captain Shares Playoff Wish",
 
   description: "Punjab Kings captain Shreyas Iyer openly shared his thoughts ahead of the Rajasthan Royals vs Mumbai Indians clash, saying his team would be hoping for a Mumbai Indians victory as the IPL playoff race heats up.",
@@ -152,17 +186,17 @@ The clarification has now helped put an end to the rumours, with attention shift
 
   description: "Environmentalist and education reformer Sonam Wangchuk voiced support for the viral Cockroach Janata Party (CJP) movement, calling himself an ‘honorary cockroach’ while urging authorities to listen to concerns raised by young people.",
 
-  content: `Environmentalist and education reformer Sonam Wangchuk has extended support to the viral online movement linked to the Cockroach Janata Party (CJP), a satirical digital campaign that has gained major traction across social media platforms in recent days. :contentReference[oaicite:0]{index=0}<br><br>
+  content: `Environmentalist and education reformer Sonam Wangchuk has extended support to the viral online movement linked to the Cockroach Janata Party (CJP), a satirical digital campaign that has gained major traction across social media platforms in recent days.<br><br>
 
-Speaking about the movement, Wangchuk described himself as an “honorary cockroach” while emphasizing that he personally does not qualify as a regular member of the campaign. He added that he is “neither unemployed nor lazy,” but said he connects with the larger message being raised by young people. :contentReference[oaicite:1]{index=1}<br><br>
+Speaking about the movement, Wangchuk described himself as an “honorary cockroach” while emphasizing that he personally does not qualify as a regular member of the campaign. He added that he is “neither unemployed nor lazy,” but said he connects with the larger message being raised by young people.<br><br>
 
-The Cockroach Janata Party movement has attracted attention online by using satire, humour and social media campaigns to discuss issues such as unemployment, examination concerns and public accountability. The movement gained momentum after recent debates surrounding remarks related to unemployed youth. :contentReference[oaicite:2]{index=2}<br><br>
+The Cockroach Janata Party movement has attracted attention online by using satire, humour and social media campaigns to discuss issues such as unemployment, examination concerns and public accountability. The movement gained momentum after recent debates surrounding remarks related to unemployed youth.<br><br>
 
-Wangchuk urged authorities to treat such online campaigns as democratic feedback instead of viewing them as a threat. He said the concerns raised by younger generations deserve attention and dialogue rather than suppression. :contentReference[oaicite:3]{index=3}<br><br>
+Wangchuk urged authorities to treat such online campaigns as democratic feedback instead of viewing them as a threat. He said the concerns raised by younger generations deserve attention and dialogue rather than suppression.<br><br>
 
-The activist also highlighted that creative public expression should be seen as part of democratic participation, encouraging policymakers to engage with youth voices and understand growing concerns among younger citizens. :contentReference[oaicite:4]{index=4}<br><br>
+The activist also highlighted that creative public expression should be seen as part of democratic participation, encouraging policymakers to engage with youth voices and understand growing concerns among younger citizens.<br><br>
 
-As discussions continue across social media, the Cockroach Janata Party campaign remains one of the most talked-about digital movements currently gaining attention online, particularly among younger audiences. :contentReference[oaicite:5]{index=5}`,
+As discussions continue across social media, the Cockroach Janata Party campaign remains one of the most talked-about digital movements currently gaining attention online, particularly among younger audiences.`,
 
   url: "sonam-wangchuk-supports-cjp-honorary-cockroach-youth-voices",
 
@@ -236,7 +270,7 @@ Aishwarya Rai's Cannes appearance continues to highlight India's growing influen
 
 According to reports, more than 2,500 devotees took part in the ritual service, marking one of the biggest turnouts witnessed during the occasion.<br><br>
 
-Ashlesha Bali is a significant ritual performed by devotees seeking blessings and spiritual well-being, especially at Subrahmanya, which is known for such religious practices and attracts devotees from different regions. :contentReference[oaicite:0]{index=0}<br><br>
+Ashlesha Bali is a significant ritual performed by devotees seeking blessings and spiritual well-being, especially at Subrahmanya, which is known for such religious practices and attracts devotees from different regions.<br><br>
 
 Temple premises witnessed heavy crowds from early morning, with devotees patiently waiting to participate in the seva activities.<br><br>
 
