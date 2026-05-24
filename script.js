@@ -70,6 +70,32 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Twisha Sharma Case: High Court Orders CBI Probe, Second Post-Mortem Examination",
+
+  description: "The Twisha Sharma case has taken a major turn after the High Court ordered a CBI investigation and directed a second post-mortem examination, bringing renewed focus to the high-profile case.",
+
+  content: `The Twisha Sharma case has witnessed a major development after the High Court directed that the investigation be handed over to the Central Bureau of Investigation (CBI) while also ordering a second post-mortem examination.<br><br>
+
+The case has attracted widespread public attention following concerns raised by family members regarding the circumstances surrounding Twisha Sharma's death. Legal proceedings and public discussions surrounding the matter have continued to intensify in recent days.<br><br>
+
+The High Court reportedly directed that a fresh forensic examination be conducted to ensure clarity regarding medical findings connected to the case. A specialized medical team has also been involved as part of the process.<br><br>
+
+The transfer of the investigation to CBI is expected to bring an expanded probe into the matter. Authorities are likely to examine available evidence, medical reports, timelines, and related details during the investigation process.<br><br>
+
+Family members have expressed hope that the latest developments could help bring greater clarity to the case. The matter continues to remain under legal scrutiny as further proceedings move ahead.<br><br>
+
+The Twisha Sharma case has become one of the widely discussed developments nationally, with public attention remaining focused on the outcome of the investigation and judicial process.`,
+
+  url: "twisha-sharma-case-cbi-probe-second-postmortem-high-court-order",
+
+  image: "twisha-sharma-case-cbi-second-postmortem.jpeg",
+
+  category: "news",
+
+  date: "May 24, 2026"
+},
+
+  {
   title: "Aishwarya Rai Bachchan Stuns Cannes 2026 With Elegant Blush Pink Couture Look",
 
   description: "Aishwarya Rai Bachchan once again captured global attention at Cannes 2026 after making a breathtaking appearance in a blush pink couture outfit, adding another memorable fashion moment to her long Cannes journey.",
@@ -98,7 +124,7 @@ Social media platforms continue witnessing praise for Aishwarya's latest fashion
 
   image: "aishwarya-rai-cannes-2026-blush-pink-couture.jpeg",
 
-  category: "entertainment",
+  category: "trending",
 
   date: "May 24, 2026"
 },
@@ -150,7 +176,7 @@ Cockroach Janata Party continues to remain a widely discussed topic across onlin
 
   image: "cockroach-janata-party-ban-intelligence-warning.jpeg",
 
-  category: "news",
+  category: "viral",
 
   date: "May 24, 2026"
 },
@@ -202,7 +228,7 @@ As discussions continue across social media, the Cockroach Janata Party campaign
 
   image: "sonam-wangchuk-cjp-support-youth-voices.jpeg",
 
-  category: "news",
+  category: "viral",
 
   date: "May 24, 2026"
 },
