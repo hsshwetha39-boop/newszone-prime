@@ -70,6 +70,88 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Bigg Boss Fame Jahnavi Joins JDS In Presence Of HD Kumaraswamy, Political Entry Creates Buzz",
+
+  description: "Television anchor, actress, and former Bigg Boss Kannada contestant Jahnavi has officially entered politics after joining Janata Dal (Secular) in the presence of HD Kumaraswamy. Her entry has created discussion among supporters and political followers across Karnataka.",
+
+  content: `Television anchor and actress Jahnavi, who gained popularity through Kannada television and later became familiar to audiences through Bigg Boss Kannada, has officially entered Karnataka politics by joining Janata Dal (Secular) (JDS). The joining ceremony took place in Bengaluru in the presence of Union Minister and senior JDS leader HD Kumaraswamy.<br><br>
+
+Jahnavi was welcomed into the party during an official event where party leaders extended support as she began a new phase in public life. Photos and visuals from the event quickly started circulating online, creating discussion among supporters, television audiences, and political followers.<br><br>
+
+Having built recognition through entertainment and anchoring, Jahnavi's move into politics has drawn significant public attention. Social media platforms witnessed strong reactions after news of her political entry surfaced, with supporters wishing her success while many discussed what responsibilities she could receive within the party organization.<br><br>
+
+Though the party has not yet officially announced a major organizational role for Jahnavi, political observers believe personalities from entertainment backgrounds can help parties strengthen outreach efforts, particularly among younger voters and television audiences.<br><br>
+
+Celebrity entries into politics have often generated public curiosity in Karnataka, and Jahnavi's move continues that trend. Several actors, television personalities, and public figures have previously entered political life, bringing attention and wider public engagement to party activities.<br><br>
+
+JDS leaders believe bringing individuals with public recognition can improve communication and connect political messaging with broader audiences. Jahnavi's presence within the party is expected to attract attention from entertainment followers who have known her through television over the years.<br><br>
+
+The development has now become one of Karnataka's notable entertainment-political crossover stories, drawing discussion across both political circles and social media platforms as people watch closely to see what role Jahnavi takes up in the future.`,
+
+  url: "bigg-boss-jahnavi-joins-jds-hd-kumaraswamy-political-entry",
+
+  image: "jahnavi-jds-entry-hd-kumaraswamy.jpeg",
+
+  category: "politics",
+
+  date: "May 25, 2026"
+},
+
+  {
+  title: "Rakshit Shetty Family Celebrates Parents’ 50th Wedding Anniversary With Traditional Rituals And Family Gathering",
+
+  description: "Actor Rakshit Shetty’s family celebrated an emotional milestone as his parents completed 50 years of married life. The special occasion was marked with traditional rituals, homa, havan, and joyful family moments.",
+
+  content: `Kannada actor Rakshit Shetty's family recently celebrated a memorable occasion as his parents completed 50 years of marriage, marking an important milestone in their family journey.<br><br>
+
+The golden wedding anniversary celebration was organized with traditional homa, havan rituals, and spiritual ceremonies attended by close family members and loved ones. The event reflected gratitude, togetherness, and celebration of a relationship that has completed five decades.<br><br>
+
+Photos shared from the celebration captured emotional family moments, rituals, prayers, and joyful memories from the special occasion. Family members gathered together to celebrate the milestone with warmth and happiness.<br><br>
+
+The celebration quickly gained attention among Rakshit Shetty fans after pictures from the family event started circulating online. Many fans extended wishes and congratulatory messages to the actor's parents while appreciating the beautiful family celebration.<br><br>
+
+Rakshit Shetty, one of Kannada cinema's popular actors and filmmakers, is known for keeping his personal life largely private. Because of this, glimpses from the family celebration attracted special attention from admirers and social media users.<br><br>
+
+Golden wedding anniversaries are often celebrated as major family milestones representing love, commitment, and togetherness built over decades. Rakshit Shetty's family celebration has now become a heartwarming moment for fans celebrating alongside the actor and his loved ones.<br><br>
+
+The pictures and family moments from the event continue receiving appreciation online, with many calling it a beautiful celebration of family values and lifelong companionship.`,
+
+  url: "rakshit-shetty-parents-50th-wedding-anniversary-family-celebration",
+
+  image: "rakshit-shetty-family-50th-wedding-anniversary.jpeg",
+
+  category: "viral",
+
+  date: "May 25, 2026"
+},
+
+  {
+  title: "Kalaburagi Student Death Sparks Discussion On Academic Pressure And Mental Health",
+
+  description: "A heartbreaking incident from Karnataka has triggered conversations around student mental health, academic expectations, and emotional well-being after a young NEET aspirant from Kalaburagi reportedly died by suicide.",
+
+  content: `A tragic incident from Karnataka has drawn widespread attention after a NEET aspirant from Kalaburagi reportedly died by suicide, leaving family members, friends, and social media users deeply shocked.<br><br>
+
+According to reports, the student had performed strongly in academics and had secured high marks in examinations. Family members reportedly stated that there were no visible signs of major distress at home, making the incident even more heartbreaking for those close to her.<br><br>
+
+The incident has once again brought focus to conversations surrounding academic pressure, competitive examinations, emotional well-being, and the silent struggles students may experience internally.<br><br>
+
+Many people online are urging families, educational institutions, and society to encourage open conversations around emotional health and create supportive environments for students facing pressure or stress.<br><br>
+
+Mental health experts often emphasize that emotional struggles may not always be visible externally, making communication, support systems, and timely help extremely important.<br><br>
+
+If someone is struggling emotionally or feeling overwhelmed, reaching out to trusted family members, friends, teachers, or mental health professionals can make a meaningful difference.`,
+
+  url: "kalaburagi-student-death-academic-pressure-mental-health-discussion",
+
+  image: "kalaburagi-neet-student-mental-health-discussion.jpeg",
+
+  category: "viral",
+
+  date: "May 25, 2026"
+},
+
+  {
   title: "Twisha Sharma Case: High Court Orders CBI Probe, Second Post-Mortem Examination",
 
   description: "The Twisha Sharma case has taken a major turn after the High Court ordered a CBI investigation and directed a second post-mortem examination, bringing renewed focus to the high-profile case.",
