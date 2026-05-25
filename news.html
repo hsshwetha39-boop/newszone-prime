@@ -3,9 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+content="Latest India news and breaking updates from NewsZone Prime">
+
+<meta name="robots"
+content="index,follow">
     <title>News Details - NewsZone Prime</title>
     <link rel="icon" type="jpeg" href="WhatsApp Image 2026-04-24 at 10.56.17 AM.jpeg">
     <link rel="stylesheet" href="style.css">
+
+    <link rel="canonical"
+href="https://hsshwetha39-boop.github.io/newszone-prime/news.html">
 
     <script
 type="application/ld+json"
@@ -24,9 +32,18 @@ id="news-schema">
  },
 
  "publisher":{
-   "@type":"Organization",
-   "name":"NewsZone Prime"
+ "@type":"Organization",
+ "name":"NewsZone Prime",
+
+ "logo":{
+
+ "@type":"ImageObject",
+
+ "url":"https://hsshwetha39-boop.github.io/newszone-prime/WhatsApp%20Image%202026-04-24%20at%2010.56.17%20AM.jpeg"
+
  }
+
+}
 
 }
 
@@ -51,6 +68,9 @@ content="https://hsshwetha39-boop.github.io/newszone-prime/">
 
 <meta name="twitter:card"
 content="summary_large_image">
+
+<meta name="twitter:image"
+content="https://hsshwetha39-boop.github.io/newszone-prime/WhatsApp%20Image%202026-04-24%20at%2010.56.17%20AM.jpeg">
 
 </head>
 <body class="news-page">
@@ -160,11 +180,19 @@ JSON.stringify({
 
 "@type":"NewsArticle",
 
-"headline": title,
+"headline": title || "NewsZone Prime",
 
-"image": [img],
+"image": img ? [img] : [],
 
 "datePublished": date,
+
+"dateModified": date,
+
+"mainEntityOfPage":{
+ "@type":"WebPage",
+
+ "@id":window.location.href
+},
 
 "author":{
  "@type":"Organization",
@@ -173,15 +201,32 @@ JSON.stringify({
 
 "publisher":{
  "@type":"Organization",
- "name":"NewsZone Prime"
+
+ "name":"NewsZone Prime",
+
+ "logo":{
+
+ "@type":"ImageObject",
+
+ "url":"https://hsshwetha39-boop.github.io/newszone-prime/WhatsApp%20Image%202026-04-24%20at%2010.56.17%20AM.jpeg"
+
+ }
+
 }
 
 });
 
 }
 
+if(title){
+
 document.title =
-title + " - NewsZone Prime";
+title +
+" - NewsZone Prime";
+
+}
+
+if(title){
 
 document
 .querySelector(
@@ -192,6 +237,10 @@ document
 title
 );
 
+}
+
+if(desc){
+
 document
 .querySelector(
 'meta[property="og:description"]'
@@ -201,6 +250,10 @@ document
 desc
 );
 
+}
+
+if(img){
+
 document
 .querySelector(
 'meta[property="og:image"]'
@@ -209,6 +262,8 @@ document
 "content",
 img
 );
+
+}
 
 document
 .querySelector(

@@ -54,17 +54,20 @@ function displayNews(articles) {
 
 });
 
-    card.innerHTML = `
-      <div class="news-card">
-        <img src="${article.image || 'https://via.placeholder.com/300'}">
-        <h3>${article.title}</h3>
-        <p>${article.description || "No description available"}</p>
-        <span class="read-btn">Read More</span>
-      </div>
-    `;
+card.innerHTML = `
+<div class="news-card">
+<img
+src="${article.image || 'https://via.placeholder.com/300'}"
+alt="${article.title}"
+loading="lazy">
+<h3>${article.title}</h3>
+<p>${article.description || "No description available"}</p>
+<span class="read-btn">Read More</span>
+</div>
+ `;
 
-    container.appendChild(card);
-  });
+container.appendChild(card);
+});
 }
 
 // MANUAL NEWS DATA
@@ -620,7 +623,7 @@ Police have arrested some accused individuals while efforts continue to trace ot
 
   image: "uttar-pradesh-family-contract-killer-case.jpeg",
 
-  category: "crime",
+  category: "viral",
 
   date: "May 23, 2026"
 },
@@ -648,7 +651,7 @@ The development has now turned Cockroach Janata Party into one of the widely dis
 
   image: "cockroach-janata-party-online-political-debate.jpeg",
 
-  category: "news",
+  category: "viral",
 
   date: "May 23, 2026"
 },
@@ -748,7 +751,7 @@ The clarification has now sparked conversations online, with social media users 
 
 Meanwhile, Mouni Roy continues focusing on professional commitments, including recent public appearances and upcoming projects.`,
 
-  url: "#",
+  url: "suraj-nambiar-divorce-rumours-mouni-roy",
 
   image: "divorse mouni roy.jpeg",
 
@@ -776,7 +779,7 @@ The incident has now become a talking point among entertainment followers and in
 
 Sara Tendulkar’s reaction has once again highlighted wider concerns surrounding social media accountability and how public personalities are discussed across digital spaces.`,
 
-  url: "#",
+  url:"sara-tendulkar-body-shaming-response",
 
   image: "sara tendulkar.jpeg",
 
@@ -800,7 +803,7 @@ Vedaant Madhavan has steadily built his own identity in competitive swimming, ea
 
 The actor’s comments have once again highlighted the sacrifices families often make to support young athletes pursuing professional careers, with many fans appreciating Madhavan’s commitment as a parent.`,
 
-  url: "#",
+  url:"r-madhavan-dubai-son-vedaant-swimming",
 
   image: "madhavan.jpeg",
 
@@ -828,7 +831,7 @@ The viral moment also sparked discussions about India’s growing soft power inf
 
 From neighborhood stores to international diplomacy, Melody’s journey from a Re 1 candy to a viral diplomatic symbol has now become one of the internet’s most talked-about stories.`,
 
-  url: "#",
+  url: "Melody-Toffee-Became-A-Symbol-Of-Modi-Meloni-Diplomacy",
 
   image: "modi.jpeg",
 
