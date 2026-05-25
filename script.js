@@ -70,6 +70,136 @@ function displayNews(articles) {
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Ananya Panday Faces Social Media trolled Over Bharatanatyam Scene In 'Chand Mera Dil'",
+
+  description: "Bollywood actress Ananya Panday has become the center of online discussion after a Bharatanatyam sequence from her latest film 'Chand Mera Dil' sparked mixed reactions across social media platforms.",
+
+  content: `Actress Ananya Panday has found herself trending online after a Bharatanatyam performance scene from her newly released film 'Chand Mera Dil' triggered heavy discussion among movie viewers and dance enthusiasts.<br><br>
+
+A short clip featuring Ananya performing Bharatanatyam in the film started circulating widely on social media soon after the movie's release. While some viewers appreciated the cinematic presentation and styling of the sequence, several others questioned the execution of the classical dance form, leading to criticism online. :contentReference[oaicite:0]{index=0}<br><br>
+
+The discussion quickly expanded across social platforms, where users shared mixed opinions regarding the dance performance. Some classical dance followers expressed disappointment, saying the traditional style deserved stronger presentation and technique, while others defended the actress, arguing that filmmakers often adapt artistic forms for commercial storytelling. :contentReference[oaicite:1]{index=1}<br><br>
+
+'Chand Mera Dil', featuring Ananya Panday alongside Lakshya, recently arrived in theatres and has continued attracting public attention through both audience reactions and online conversations surrounding the film. :contentReference[oaicite:2]{index=2}<br><br>
+
+Despite the criticism, several fans extended support to Ananya, highlighting that actors frequently perform scenes based on creative direction and cinematic requirements. The debate has once again opened conversations around authenticity in portraying traditional art forms in mainstream cinema. :contentReference[oaicite:3]{index=3}<br><br>
+
+As conversations continue online, the Bharatanatyam scene has become one of the most discussed moments from 'Chand Mera Dil', further pushing the film into social media spotlight. :contentReference[oaicite:4]{index=4}`,
+
+  url: "ananya-panday-bharatanatyam-scene-chand-mera-dil-social-media-reaction",
+
+  image: "ananya-panday-chand-mera-dil-bharatanatyam-scene.jpeg",
+
+  category: "film",
+
+  date: "May 25, 2026"
+},
+
+  {
+  title: "KL Rahul Scripts IPL History With Rare Milestone, Continues Remarkable T20 Journey",
+
+  description: "Indian batter KL Rahul added another major achievement to his career after reaching a unique IPL milestone, becoming the first cricketer to accomplish a rare feat across multiple franchises.",
+
+  content: `KL Rahul once again showcased why he remains one of the most dependable performers in T20 cricket after achieving a historic milestone during IPL 2026. The stylish batter added another special record to his growing career achievements and created fresh buzz among cricket fans.<br><br>
+
+The experienced wicketkeeper-batter became the first player in IPL history to cross the 1000-run mark for three different franchises. The achievement reflects Rahul's ability to consistently deliver performances despite changing teams, different batting roles, and varying match situations.<br><br>
+
+Over the years, KL Rahul has built a strong reputation for combining stability with aggressive stroke play. Whether opening the innings or guiding a chase under pressure, the Karnataka cricketer has repeatedly delivered important contributions for his teams.<br><br>
+
+Cricket followers quickly reacted online after the latest milestone, with fans praising Rahul's adaptability and long-term consistency in franchise cricket. Many supporters highlighted how maintaining high standards across multiple IPL teams makes the record even more impressive.<br><br>
+
+IPL 2026 has seen several players create memorable moments, but Rahul's latest accomplishment further strengthens his standing among modern T20 cricket's most reliable performers.<br><br>
+
+As the tournament enters its crucial phase, KL Rahul continues playing an important role while adding another historic achievement to an already impressive cricket journey.`,
+
+  url: "kl-rahul-historic-ipl-milestone-2026",
+
+  image: "kl-rahul-ipl-history-record-2026.jpeg",
+
+  category: "sports",
+
+  date: "May 25, 2026"
+},
+
+  {
+  title: "Arjun Shines Despite LSG Defeat, Sachin Tendulkar Shares Emotional Message After IPL 2026 Debut",
+
+  description: "Lucknow Super Giants may have ended their IPL 2026 campaign with defeat, but Arjun Tendulkar’s debut performance became one of the biggest talking points after Sachin Tendulkar shared an emotional message for his son.",
+
+  content: `Lucknow Super Giants may not have finished on the winning side, but young pacer Arjun Tendulkar managed to leave a strong impression during his IPL 2026 debut appearance. The left-arm bowler finally received his opportunity after waiting throughout the season and delivered a performance that quickly grabbed cricket fans' attention. :contentReference[oaicite:0]{index=0}<br><br>
+
+Making his first appearance for Lucknow Super Giants against Punjab Kings, Arjun showed calmness under pressure and produced important moments despite playing in a difficult situation. One of the standout highlights came when he picked up his maiden wicket with an impressive yorker delivery, giving fans a glimpse of his potential on a major IPL stage. :contentReference[oaicite:1]{index=1}<br><br>
+
+The emotional moment became even more special after legendary cricketer Sachin Tendulkar shared a heartfelt social media message praising his son's patience, discipline, and dedication. Sachin highlighted how Arjun continued working hard quietly despite waiting an entire season for an opportunity. The message quickly went viral across social media platforms and received appreciation from cricket fans. :contentReference[oaicite:2]{index=2}<br><br>
+
+Arjun's debut also sparked discussions among supporters about perseverance in professional sport. Many fans praised the youngster for staying prepared and making an impact when finally given his chance late in the tournament. :contentReference[oaicite:3]{index=3}<br><br>
+
+While Lucknow Super Giants closed their campaign with disappointment, Arjun Tendulkar's first outing provided a positive takeaway and added another memorable chapter to his growing cricket journey. Cricket followers will now closely watch how the young pacer builds on this milestone in the coming seasons. :contentReference[oaicite:4]{index=4}`,
+
+  url: "arjun-tendulkar-lsg-debut-sachin-emotional-post-ipl-2026",
+
+  image: "arjun-tendulkar-lsg-debut-ipl2026.jpeg",
+
+  category: "sports",
+
+  date: "May 25, 2026"
+},
+
+  {
+  title: "Rukmini Vasanth Unveils Avantra’s ‘The Gulistan Edit’ Collection In Bengaluru",
+
+  description: "Actress Rukmini Vasanth launched Avantra’s latest festive collection ‘The Gulistan Edit’, a fashion line inspired by royal garden aesthetics, traditional craftsmanship, and ethnic elegance.",
+
+  content: `Kannada actress Rukmini Vasanth unveiled Avantra’s latest festive collection, ‘The Gulistan Edit’, at a special launch event held in Bengaluru. The collection blends heritage-inspired fashion with contemporary styling and celebrates India’s traditional textile artistry. :contentReference[oaicite:0]{index=0}<br><br>
+
+‘The Gulistan Edit’ takes inspiration from royal gardens and palace aesthetics, featuring floral motifs, intricate patterns, and elegant craftsmanship woven into sarees and ethnic wear collections. The designs aim to combine timeless Indian tradition with modern fashion sensibilities. :contentReference[oaicite:1]{index=1}<br><br>
+
+Rukmini Vasanth, who serves as the brand face for Avantra, shared her appreciation for Indian ethnic fashion and highlighted how traditional clothing continues to carry identity, culture, and individuality. The actress praised the collection’s balance between heritage and personal expression. :contentReference[oaicite:2]{index=2}<br><br>
+
+The launch event attracted attention from fashion enthusiasts and fans of the actress, with images and videos from the unveiling circulating widely across social media platforms. The collection includes festive sarees, ethnic ensembles, and handcrafted textile designs inspired by historic artistic elements. :contentReference[oaicite:3]{index=3}<br><br>
+
+Rukmini Vasanth remains one of Kannada cinema’s rising stars and continues expanding her presence across South Indian entertainment while also associating with major fashion and lifestyle brands. :contentReference[oaicite:4]{index=4}`,
+
+  url: "rukmini-vasanth-avantra-gulistan-edit-collection-launch",
+
+  image: "rukmini-vasanth-avantra-gulistan-edit.jpeg",
+
+  category: "film",
+
+  date: "May 25, 2026"
+},
+
+  {
+  title: "LSG vs PBKS Match Overshadowed By Fan Misconduct With Cheerleaders, Police Step In",
+
+  description: "An unpleasant incident during the IPL 2026 match between Lucknow Super Giants and Punjab Kings has drawn criticism after some spectators allegedly behaved inappropriately with cheerleaders, forcing police officials to intervene.",
+
+  content: `IPL 2026 witnessed an unfortunate moment during the Lucknow Super Giants (LSG) versus Punjab Kings (PBKS) match at Ekana Cricket Stadium in Lucknow after allegations surfaced regarding inappropriate behaviour by a section of spectators towards cheerleaders present inside the venue.<br><br>
+
+Punjab Kings secured an important victory in the match to keep their playoff hopes alive, but the on-field cricket action was overshadowed by an incident involving crowd behaviour that quickly started circulating across social media platforms.<br><br>
+
+According to reports and visuals shared online, a few spectators allegedly attempted to disturb cheerleaders during the match. Police officials and ground security personnel reportedly intervened immediately to bring the situation under control and prevent further disturbance.<br><br>
+
+Videos from the stadium later went viral online, triggering criticism from cricket fans and social media users. Many users demanded stronger crowd discipline measures inside stadiums and highlighted the need for ensuring a safe working environment for everyone involved in sporting events.<br><br>
+
+The incident has also restarted discussions about crowd responsibility, spectator behaviour, and the importance of maintaining respectful conduct during major sporting events. Cricket followers pointed out that stadiums should remain spaces where players, support staff, performers, and fans can participate safely without facing uncomfortable situations.<br><br>
+
+While no detailed official statement explaining the exact nature of the incident has been released, reports suggest stadium authorities and police personnel acted quickly after noticing the situation. Some online discussions claimed objects may have been thrown towards cheerleaders, though authorities have not publicly confirmed complete details regarding the allegations.<br><br>
+
+The discussion has once again highlighted conversations around safety standards, security arrangements, and fan behaviour management during high-profile cricket tournaments like the IPL.<br><br>
+
+Despite Punjab Kings' impressive performance on the field, the off-field controversy became one of the major talking points following the LSG vs PBKS IPL 2026 fixture.`,
+
+  url: "lsg-vs-pbks-cheerleaders-fan-misconduct-police-action-ipl-2026",
+
+  image: "lsg-pbks-cheerleaders-police-action-ipl2026.jpeg",
+
+  category: "sports",
+
+  date: "May 25, 2026"
+},
+
+  {
   title: "Bigg Boss Fame Jahnavi Joins JDS In Presence Of HD Kumaraswamy, Political Entry Creates Buzz",
 
   description: "Television anchor, actress, and former Bigg Boss Kannada contestant Jahnavi has officially entered politics after joining Janata Dal (Secular) in the presence of HD Kumaraswamy. Her entry has created discussion among supporters and political followers across Karnataka.",
