@@ -73,6 +73,36 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Bihar Woman Allegedly Dies Four Days After Wedding In Suspected Dowry Harassment Case",
+
+  description: "A 23-year-old woman from Bihar allegedly lost her life just four days after her wedding in a disturbing dowry-related case that has triggered police investigation and renewed concerns over dowry harassment in society.",
+
+  content: `A disturbing incident from Bihar has drawn widespread attention after a 23-year-old newly married woman allegedly died just four days after her wedding in a suspected dowry harassment case.<br><br>
+
+According to reports, the bride's family claimed they had already provided several gifts during the marriage, including cash, jewellery, furniture, a motorcycle and other household items. However, family members alleged that additional demands continued even after the wedding ceremony was completed.<br><br>
+
+Reports claimed that one more gold chain was allegedly demanded after marriage, leading to tension between both families. Relatives of the woman alleged that she faced harassment and pressure inside her husband's home over the matter.<br><br>
+
+Family members further claimed that the woman had secretly informed them about the difficulties she was experiencing after marriage. They alleged she had spoken about being mentally troubled and facing continued pressure related to dowry demands.<br><br>
+
+Police officials said the woman was later found dead under suspicious circumstances. Authorities are investigating allegations linked to attempts to destroy evidence after the incident. Reports further stated that police registered a case and began legal proceedings connected to the matter.<br><br>
+
+The case has once again raised discussions about dowry-related crimes and women's safety after marriage. Social media users and members of the public expressed concern over such incidents and demanded strict action against those found guilty.<br><br>
+
+Dowry-related harassment remains a serious social issue in many parts of the country despite legal restrictions and awareness campaigns. Cases involving alleged harassment and violence continue to raise questions about social attitudes and protection mechanisms available for women.<br><br>
+
+Police officials continue investigating the case, and further details are expected to emerge as the investigation progresses.`,
+
+  url: "bihar-woman-dowry-harassment-case-four-days-after-wedding",
+
+  image: "bihar-woman-dowry-case-investigation.jpeg",
+
+  category: "viral",
+
+  date: "May 26, 2026"
+},
+
+  {
   title: "Rashmika Mandanna Shines At Crunchyroll Anime Awards 2026, Global Appearance Grabs Attention",
 
   description: "Actor Rashmika Mandanna made a stylish appearance at the Crunchyroll Anime Awards 2026 in Tokyo, once again representing India on an international stage and drawing attention from fans worldwide.",
