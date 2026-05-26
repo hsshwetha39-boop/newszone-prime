@@ -73,6 +73,84 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Ranveer Singh ‘Banned’ By FWICE? Don 3 Exit Controversy Triggers Bollywood Storm",
+
+  description: "Ranveer Singh has landed in major controversy after FWICE issued a non-cooperation directive linked to his reported Don 3 exit, sparking intense debate across Bollywood.",
+
+  content: `Bollywood star Ranveer Singh has found himself at the centre of a major entertainment controversy after the Federation of Western India Cine Employees (FWICE) issued a non-cooperation directive against the actor amid the ongoing Don 3 dispute. :contentReference[oaicite:0]{index=0}<br><br>
+
+The controversy reportedly began following Ranveer Singh’s sudden departure from Don 3, the upcoming film directed by Farhan Akhtar. Reports suggest the film’s production team raised concerns regarding the actor’s exit after substantial work had already been completed for pre-production. :contentReference[oaicite:1]{index=1}<br><br>
+
+FWICE stated that Ranveer Singh allegedly did not respond to multiple invitations to personally discuss the matter, eventually leading to the organisation issuing a non-cooperation directive. Industry discussions intensified after reports claimed significant financial impact connected to the project’s preparations. :contentReference[oaicite:2]{index=2}<br><br>
+
+Reacting to the controversy, Ranveer Singh’s team reportedly said that the actor continues to hold respect for everyone associated with the Don franchise and believes professional matters should be handled with dignity and maturity. :contentReference[oaicite:3]{index=3}<br><br>
+
+The situation has triggered heavy reactions across social media, with Bollywood fans divided over the issue. While some supported the actor, others questioned the developments surrounding one of Bollywood’s most anticipated films. :contentReference[oaicite:4]{index=4}<br><br>
+
+With Don 3 carrying huge expectations among cinema audiences, fans are now closely watching upcoming developments as the controversy continues dominating entertainment headlines. :contentReference[oaicite:5]{index=5}`,
+
+  url: "ranveer-singh-banned-fwice-don3-controversy",
+
+  image: "ranveer-singh-fwice-don3-ban-row.jpeg",
+
+  category: "film",
+
+  date: "May 26, 2026"
+},
+
+  {
+  title: "Karnataka: Bhatkal Boat Tragedy Leaves 8 Dead, Rescue Teams Continue Operations",
+
+  description: "A tragic boat accident reported near Bhatkal in Karnataka has shocked people after multiple casualties were reported. Rescue efforts and emergency response teams continue operations following the incident.",
+
+  content: `A heartbreaking tragedy from Karnataka's Uttara Kannada district has left people shocked after a boat accident near Bhatkal reportedly claimed multiple lives.<br><br>
+
+According to details visible in local updates shared online on May 24, 2026, around 11 people were reportedly involved in the incident. Information circulating online indicates that 8 people lost their lives in the tragedy.<br><br>
+
+The details shown in local reports suggest that among the deceased, 7 were women and 1 was a man. Rescue efforts were immediately launched after authorities and local residents learned about the accident.<br><br>
+
+Images and videos connected to the incident spread rapidly across social media platforms, with people expressing grief and condolences for affected families. Emergency response teams and local authorities continued coordination efforts following the incident.<br><br>
+
+The tragedy has triggered emotional reactions across Karnataka, with many social media users mourning the victims and demanding stronger safety measures to prevent such incidents in the future.<br><br>
+
+Authorities are expected to continue investigation and official verification regarding circumstances surrounding the boat tragedy while support efforts continue for families affected by the incident.`,
+
+  url: "minchal-karnataka-bhatkal-boat-tragedy-uttara-kannada",
+
+  image: "bhatkal-boat-tragedy-karnataka.jpeg",
+
+  category: "viral",
+
+  date: "May 25, 2026"
+},
+
+  {
+  title: "Tamil Nadu Viral Video Sparks Outrage After Police Briefing Clip Triggers Public Reaction",
+
+  description: "A viral video from Tamil Nadu has created widespread discussion online after social media users reacted strongly to a police press interaction connected to a sensitive child case in Sulur.",
+
+  content: `A video from Tamil Nadu has gone viral across social media platforms, triggering strong public reactions and widespread debate over official conduct during sensitive criminal investigations.<br><br>
+
+The discussion began after a clip from a police media interaction related to a child case in Sulur circulated online. Several social media users questioned the behaviour and expressions of certain officials seen during the briefing, leading to criticism and public outrage across multiple platforms.<br><br>
+
+According to reports circulating online, the incident is connected to the tragic death of a 10-year-old girl whose case has drawn emotional responses from local residents and people across the country. The matter has intensified discussions surrounding sensitivity, public communication, and the responsibilities of officials while addressing serious incidents.<br><br>
+
+As the video spread rapidly online, many users expressed disappointment and demanded greater seriousness and professionalism during official press interactions involving highly sensitive cases. Others urged people to avoid drawing conclusions from short clips alone and wait for complete context before making judgments.<br><br>
+
+The incident has once again highlighted how social media can rapidly amplify public sentiment, especially in cases involving children and emotionally sensitive investigations.<br><br>
+
+Authorities continue handling the matter while conversations around accountability, public trust, and responsible communication remain active online.`,
+
+  url: "tamil-nadu-viral-police-briefing-video-public-reaction",
+
+  image: "tamil-nadu-police-viral-video-public-reaction.jpeg",
+
+  category: "trending",
+
+  date: "May 25, 2026"
+},
+
+  {
   title: "Ananya Panday Faces Social Media trolled Over Bharatanatyam Scene In 'Chand Mera Dil'",
 
   description: "Bollywood actress Ananya Panday has become the center of online discussion after a Bharatanatyam sequence from her latest film 'Chand Mera Dil' sparked mixed reactions across social media platforms.",
