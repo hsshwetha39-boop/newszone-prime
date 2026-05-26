@@ -73,6 +73,32 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "18-Year-Old Woman Arrested After Fatal Shooting Case Linked To Child Abuse Allegation",
+
+  description: "An 18-year-old woman was arrested after a fatal shooting case that reportedly followed allegations involving inappropriate behaviour toward a child, according to reports.",
+
+  content: `A shocking criminal case has drawn widespread attention after an 18-year-old woman identified as Alishon Torres was arrested in connection with a fatal shooting incident, according to reports.<br><br>
+
+Authorities said the incident allegedly occurred after claims surfaced involving inappropriate behaviour toward a young child. Reports stated that the accused allegedly confronted the man before the situation escalated into violence.<br><br>
+
+Police officials reportedly said the victim's body was later discovered inside a vehicle that had allegedly been repainted and abandoned. Investigators continued examining evidence connected to the case.<br><br>
+
+According to reports, authorities later arrested the 18-year-old woman and recovered a firearm believed to be connected to the investigation. Officials said legal proceedings are currently underway.<br><br>
+
+The case has triggered discussions online regarding crime, child protection concerns and the importance of allowing legal authorities to handle criminal allegations through proper legal processes.<br><br>
+
+Police officials continue investigating the matter, and further details are expected as the case moves forward.`,
+
+  url: "18-year-old-woman-arrested-fatal-shooting-child-abuse-allegation",
+
+  image: "alishon-torres-crime-case.jpeg",
+
+  category: "world",
+
+  date: "May 26, 2026"
+},
+
+  {
   title: "Bihar Woman Allegedly Dies Four Days After Wedding In Suspected Dowry Harassment Case",
 
   description: "A 23-year-old woman from Bihar allegedly lost her life just four days after her wedding in a disturbing dowry-related case that has triggered police investigation and renewed concerns over dowry harassment in society.",
