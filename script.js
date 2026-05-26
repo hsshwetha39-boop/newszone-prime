@@ -73,21 +73,99 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Rashmika Mandanna Shines At Crunchyroll Anime Awards 2026, Global Appearance Grabs Attention",
+
+  description: "Actor Rashmika Mandanna made a stylish appearance at the Crunchyroll Anime Awards 2026 in Tokyo, once again representing India on an international stage and drawing attention from fans worldwide.",
+
+  content: `Actor Rashmika Mandanna attended the Crunchyroll Anime Awards 2026 held in Tokyo, Japan, adding another global appearance to her growing international journey. The actor participated in the prestigious anime event and once again became a talking point among fans online.<br><br>
+
+Reports suggest Rashmika returned to the global event for another year, where she appeared as a presenter during the ceremony. Her presence highlighted India's growing representation at major international entertainment events.<br><br>
+
+<img src="rashmika-mandanna-crunchyroll-anime-awards 01.jpeg"
+style="width:100%;max-width:750px;height:auto;display:block;margin:20px auto;border-radius:10px;"
+alt="News Image">
+
+The actor also grabbed attention for her fashion appearance during the event, with social media users sharing images and reactions shortly after the ceremony. Fans praised her international presence and celebrated another major milestone in her career.<br><br>
+
+Crunchyroll Anime Awards remains one of the biggest global celebrations recognising achievements in anime entertainment, bringing together artists, creators and celebrities from different parts of the world.<br><br>
+
+Rashmika Mandanna's appearance has now become a widely discussed topic online, with many fans appreciating her continued rise on global entertainment platforms.`,
+
+  url: "rashmika-mandanna-crunchyroll-anime-awards-2026-global-event",
+
+  image: "rashmika-mandanna-crunchyroll-anime-awards.jpeg",
+
+  category: "film",
+
+  date: "May 26, 2026"
+},
+
+  {
+  title: "Yuvraj Singh’s ‘Slipper’ Comment Goes Viral After Punjab Kings IPL 2026 Exit",
+
+  description: "Former India cricketer Yuvraj Singh grabbed attention online after his humorous yet sharp comment aimed at Punjab Kings players following the team’s IPL 2026 playoff exit.",
+
+  content: `Punjab Kings’ IPL 2026 campaign ended in disappointment after the team narrowly missed out on a playoff spot despite a strong start to the season. The exit triggered reactions from cricket fans and experts, but one comment from former India star Yuvraj Singh quickly grabbed social media attention.<br><br>
+
+Reports suggest Punjab Kings had looked like playoff contenders after winning six of their opening seven matches. However, inconsistent performances later in the tournament affected their momentum, ultimately leaving them outside the playoff race.<br><br>
+
+The viral moment reportedly began after Punjab Kings player Harpreet Brar shared a social media post featuring teammates Arshdeep Singh and Priyansh Arya. Responding to the post, Yuvraj Singh jokingly wrote a comment that roughly translated to ‘time to hit you with slippers’, a playful reaction that quickly spread online among cricket followers.<br><br>
+
+Several fans viewed the remark as light-hearted frustration from a senior cricketer who has guided young Punjab-based players over the years. Social media discussions intensified as fans debated Punjab Kings’ season and individual performances.<br><br>
+
+Punjab Kings’ latest IPL season has once again become a major talking point among cricket followers, while Yuvraj Singh’s viral comment has added another discussion point to the franchise’s difficult finish this year.`,
+
+  url: "yuvraj-singh-slams-punjab-kings-trio-ipl-2026-exit-viral-comment",
+
+  image: "yuvraj-singh-punjab-kings-slipper-comment.jpeg",
+
+  category: "sports",
+
+  date: "May 26, 2026"
+},
+
+  {
+  title: "Yogi Adityanath Issues Strict Bakrid Guidelines, Says No Public Animal Sacrifice Or Road Block For Namaz",
+
+  description: "Uttar Pradesh Chief Minister Yogi Adityanath has issued fresh guidelines ahead of Bakrid celebrations, stating that animal sacrifice should not take place in public areas and roads must remain free during prayer gatherings.",
+
+  content: `Ahead of Bakrid celebrations, Uttar Pradesh Chief Minister Yogi Adityanath has instructed officials to ensure public order and proper festival management across the state.<br><br>
+
+The administration stated that animal sacrifice should not take place in open public spaces. Authorities were also directed to ensure that roads and public movement areas remain unobstructed during Namaz gatherings to avoid inconvenience to citizens.<br><br>
+
+Officials have reportedly been asked to maintain law and order while ensuring that religious events are conducted peacefully and within administrative guidelines. The state government emphasised that public safety and smooth management of festival arrangements remain a priority.<br><br>
+
+The announcement has triggered discussions across political and social circles, with reactions emerging from different sections of the public regarding the measures introduced ahead of Bakrid celebrations.<br><br>
+
+Festival-related administrative decisions often draw public attention, and officials are expected to closely monitor arrangements in the coming days as preparations continue across the state.<br><br>
+
+The development has now become a widely discussed topic, with many closely watching how authorities implement the new instructions during upcoming festival activities.`,
+
+  url: "yogi-adityanath-bakrid-guidelines-public-animal-sacrifice-namaz-road-ban",
+
+  image: "yogi-adityanath-bakrid-guidelines.jpeg",
+
+  category: "politics",
+
+  date: "May 26, 2026"
+},
+
+  {
   title: "Ranveer Singh ‘Banned’ By FWICE? Don 3 Exit Controversy Triggers Bollywood Storm",
 
   description: "Ranveer Singh has landed in major controversy after FWICE issued a non-cooperation directive linked to his reported Don 3 exit, sparking intense debate across Bollywood.",
 
-  content: `Bollywood star Ranveer Singh has found himself at the centre of a major entertainment controversy after the Federation of Western India Cine Employees (FWICE) issued a non-cooperation directive against the actor amid the ongoing Don 3 dispute. :contentReference[oaicite:0]{index=0}<br><br>
+  content: `Bollywood star Ranveer Singh has found himself at the centre of a major entertainment controversy after the Federation of Western India Cine Employees (FWICE) issued a non-cooperation directive against the actor amid the ongoing Don 3 dispute.<br><br>
 
-The controversy reportedly began following Ranveer Singh’s sudden departure from Don 3, the upcoming film directed by Farhan Akhtar. Reports suggest the film’s production team raised concerns regarding the actor’s exit after substantial work had already been completed for pre-production. :contentReference[oaicite:1]{index=1}<br><br>
+The controversy reportedly began following Ranveer Singh’s sudden departure from Don 3, the upcoming film directed by Farhan Akhtar. Reports suggest the film’s production team raised concerns regarding the actor’s exit after substantial work had already been completed for pre-production.<br><br>
 
-FWICE stated that Ranveer Singh allegedly did not respond to multiple invitations to personally discuss the matter, eventually leading to the organisation issuing a non-cooperation directive. Industry discussions intensified after reports claimed significant financial impact connected to the project’s preparations. :contentReference[oaicite:2]{index=2}<br><br>
+FWICE stated that Ranveer Singh allegedly did not respond to multiple invitations to personally discuss the matter, eventually leading to the organisation issuing a non-cooperation directive. Industry discussions intensified after reports claimed significant financial impact connected to the project’s preparations.<br><br>
 
-Reacting to the controversy, Ranveer Singh’s team reportedly said that the actor continues to hold respect for everyone associated with the Don franchise and believes professional matters should be handled with dignity and maturity. :contentReference[oaicite:3]{index=3}<br><br>
+Reacting to the controversy, Ranveer Singh’s team reportedly said that the actor continues to hold respect for everyone associated with the Don franchise and believes professional matters should be handled with dignity and maturity.<br><br>
 
-The situation has triggered heavy reactions across social media, with Bollywood fans divided over the issue. While some supported the actor, others questioned the developments surrounding one of Bollywood’s most anticipated films. :contentReference[oaicite:4]{index=4}<br><br>
+The situation has triggered heavy reactions across social media, with Bollywood fans divided over the issue. While some supported the actor, others questioned the developments surrounding one of Bollywood’s most anticipated films.<br><br>
 
-With Don 3 carrying huge expectations among cinema audiences, fans are now closely watching upcoming developments as the controversy continues dominating entertainment headlines. :contentReference[oaicite:5]{index=5}`,
+With Don 3 carrying huge expectations among cinema audiences, fans are now closely watching upcoming developments as the controversy continues dominating entertainment headlines.`,
 
   url: "ranveer-singh-banned-fwice-don3-controversy",
 
@@ -157,15 +235,15 @@ Authorities continue handling the matter while conversations around accountabili
 
   content: `Actress Ananya Panday has found herself trending online after a Bharatanatyam performance scene from her newly released film 'Chand Mera Dil' triggered heavy discussion among movie viewers and dance enthusiasts.<br><br>
 
-A short clip featuring Ananya performing Bharatanatyam in the film started circulating widely on social media soon after the movie's release. While some viewers appreciated the cinematic presentation and styling of the sequence, several others questioned the execution of the classical dance form, leading to criticism online. :contentReference[oaicite:0]{index=0}<br><br>
+A short clip featuring Ananya performing Bharatanatyam in the film started circulating widely on social media soon after the movie's release. While some viewers appreciated the cinematic presentation and styling of the sequence, several others questioned the execution of the classical dance form, leading to criticism online.<br><br>
 
-The discussion quickly expanded across social platforms, where users shared mixed opinions regarding the dance performance. Some classical dance followers expressed disappointment, saying the traditional style deserved stronger presentation and technique, while others defended the actress, arguing that filmmakers often adapt artistic forms for commercial storytelling. :contentReference[oaicite:1]{index=1}<br><br>
+The discussion quickly expanded across social platforms, where users shared mixed opinions regarding the dance performance. Some classical dance followers expressed disappointment, saying the traditional style deserved stronger presentation and technique, while others defended the actress, arguing that filmmakers often adapt artistic forms for commercial storytelling.<br><br>
 
-'Chand Mera Dil', featuring Ananya Panday alongside Lakshya, recently arrived in theatres and has continued attracting public attention through both audience reactions and online conversations surrounding the film. :contentReference[oaicite:2]{index=2}<br><br>
+'Chand Mera Dil', featuring Ananya Panday alongside Lakshya, recently arrived in theatres and has continued attracting public attention through both audience reactions and online conversations surrounding the film.<br><br>
 
-Despite the criticism, several fans extended support to Ananya, highlighting that actors frequently perform scenes based on creative direction and cinematic requirements. The debate has once again opened conversations around authenticity in portraying traditional art forms in mainstream cinema. :contentReference[oaicite:3]{index=3}<br><br>
+Despite the criticism, several fans extended support to Ananya, highlighting that actors frequently perform scenes based on creative direction and cinematic requirements. The debate has once again opened conversations around authenticity in portraying traditional art forms in mainstream cinema.<br><br>
 
-As conversations continue online, the Bharatanatyam scene has become one of the most discussed moments from 'Chand Mera Dil', further pushing the film into social media spotlight. :contentReference[oaicite:4]{index=4}`,
+As conversations continue online, the Bharatanatyam scene has become one of the most discussed moments from 'Chand Mera Dil', further pushing the film into social media spotlight.`,
 
   url: "ananya-panday-bharatanatyam-scene-chand-mera-dil-social-media-reaction",
 
@@ -207,15 +285,15 @@ As the tournament enters its crucial phase, KL Rahul continues playing an import
 
   description: "Lucknow Super Giants may have ended their IPL 2026 campaign with defeat, but Arjun Tendulkar’s debut performance became one of the biggest talking points after Sachin Tendulkar shared an emotional message for his son.",
 
-  content: `Lucknow Super Giants may not have finished on the winning side, but young pacer Arjun Tendulkar managed to leave a strong impression during his IPL 2026 debut appearance. The left-arm bowler finally received his opportunity after waiting throughout the season and delivered a performance that quickly grabbed cricket fans' attention. :contentReference[oaicite:0]{index=0}<br><br>
+  content: `Lucknow Super Giants may not have finished on the winning side, but young pacer Arjun Tendulkar managed to leave a strong impression during his IPL 2026 debut appearance. The left-arm bowler finally received his opportunity after waiting throughout the season and delivered a performance that quickly grabbed cricket fans' attention.<br><br>
 
-Making his first appearance for Lucknow Super Giants against Punjab Kings, Arjun showed calmness under pressure and produced important moments despite playing in a difficult situation. One of the standout highlights came when he picked up his maiden wicket with an impressive yorker delivery, giving fans a glimpse of his potential on a major IPL stage. :contentReference[oaicite:1]{index=1}<br><br>
+Making his first appearance for Lucknow Super Giants against Punjab Kings, Arjun showed calmness under pressure and produced important moments despite playing in a difficult situation. One of the standout highlights came when he picked up his maiden wicket with an impressive yorker delivery, giving fans a glimpse of his potential on a major IPL stage.<br><br>
 
-The emotional moment became even more special after legendary cricketer Sachin Tendulkar shared a heartfelt social media message praising his son's patience, discipline, and dedication. Sachin highlighted how Arjun continued working hard quietly despite waiting an entire season for an opportunity. The message quickly went viral across social media platforms and received appreciation from cricket fans. :contentReference[oaicite:2]{index=2}<br><br>
+The emotional moment became even more special after legendary cricketer Sachin Tendulkar shared a heartfelt social media message praising his son's patience, discipline, and dedication. Sachin highlighted how Arjun continued working hard quietly despite waiting an entire season for an opportunity. The message quickly went viral across social media platforms and received appreciation from cricket fans.<br><br>
 
-Arjun's debut also sparked discussions among supporters about perseverance in professional sport. Many fans praised the youngster for staying prepared and making an impact when finally given his chance late in the tournament. :contentReference[oaicite:3]{index=3}<br><br>
+Arjun's debut also sparked discussions among supporters about perseverance in professional sport. Many fans praised the youngster for staying prepared and making an impact when finally given his chance late in the tournament.<br><br>
 
-While Lucknow Super Giants closed their campaign with disappointment, Arjun Tendulkar's first outing provided a positive takeaway and added another memorable chapter to his growing cricket journey. Cricket followers will now closely watch how the young pacer builds on this milestone in the coming seasons. :contentReference[oaicite:4]{index=4}`,
+While Lucknow Super Giants closed their campaign with disappointment, Arjun Tendulkar's first outing provided a positive takeaway and added another memorable chapter to his growing cricket journey. Cricket followers will now closely watch how the young pacer builds on this milestone in the coming seasons.`,
 
   url: "arjun-tendulkar-lsg-debut-sachin-emotional-post-ipl-2026",
 
@@ -231,15 +309,15 @@ While Lucknow Super Giants closed their campaign with disappointment, Arjun Tend
 
   description: "Actress Rukmini Vasanth launched Avantra’s latest festive collection ‘The Gulistan Edit’, a fashion line inspired by royal garden aesthetics, traditional craftsmanship, and ethnic elegance.",
 
-  content: `Kannada actress Rukmini Vasanth unveiled Avantra’s latest festive collection, ‘The Gulistan Edit’, at a special launch event held in Bengaluru. The collection blends heritage-inspired fashion with contemporary styling and celebrates India’s traditional textile artistry. :contentReference[oaicite:0]{index=0}<br><br>
+  content: `Kannada actress Rukmini Vasanth unveiled Avantra’s latest festive collection, ‘The Gulistan Edit’, at a special launch event held in Bengaluru. The collection blends heritage-inspired fashion with contemporary styling and celebrates India’s traditional textile artistry.<br><br>
 
-‘The Gulistan Edit’ takes inspiration from royal gardens and palace aesthetics, featuring floral motifs, intricate patterns, and elegant craftsmanship woven into sarees and ethnic wear collections. The designs aim to combine timeless Indian tradition with modern fashion sensibilities. :contentReference[oaicite:1]{index=1}<br><br>
+‘The Gulistan Edit’ takes inspiration from royal gardens and palace aesthetics, featuring floral motifs, intricate patterns, and elegant craftsmanship woven into sarees and ethnic wear collections. The designs aim to combine timeless Indian tradition with modern fashion sensibilities.<br><br>
 
-Rukmini Vasanth, who serves as the brand face for Avantra, shared her appreciation for Indian ethnic fashion and highlighted how traditional clothing continues to carry identity, culture, and individuality. The actress praised the collection’s balance between heritage and personal expression. :contentReference[oaicite:2]{index=2}<br><br>
+Rukmini Vasanth, who serves as the brand face for Avantra, shared her appreciation for Indian ethnic fashion and highlighted how traditional clothing continues to carry identity, culture, and individuality. The actress praised the collection’s balance between heritage and personal expression.<br><br>
 
-The launch event attracted attention from fashion enthusiasts and fans of the actress, with images and videos from the unveiling circulating widely across social media platforms. The collection includes festive sarees, ethnic ensembles, and handcrafted textile designs inspired by historic artistic elements. :contentReference[oaicite:3]{index=3}<br><br>
+The launch event attracted attention from fashion enthusiasts and fans of the actress, with images and videos from the unveiling circulating widely across social media platforms. The collection includes festive sarees, ethnic ensembles, and handcrafted textile designs inspired by historic artistic elements.<br><br>
 
-Rukmini Vasanth remains one of Kannada cinema’s rising stars and continues expanding her presence across South Indian entertainment while also associating with major fashion and lifestyle brands. :contentReference[oaicite:4]{index=4}`,
+Rukmini Vasanth remains one of Kannada cinema’s rising stars and continues expanding her presence across South Indian entertainment while also associating with major fashion and lifestyle brands.`,
 
   url: "rukmini-vasanth-avantra-gulistan-edit-collection-launch",
 
