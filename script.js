@@ -73,6 +73,54 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "IndiGo Pilot Shares Rare India-Pakistan Border View From Sky, Viral Video Stuns Internet",
+
+  description: "A rare aerial video shared by an IndiGo pilot showing the illuminated India-Pakistan border from thousands of feet above ground has gone viral, leaving social media users fascinated by the dramatic night-time visuals.",
+
+  content: `A rare cockpit video captured during a late-night IndiGo flight has grabbed major attention online after showing a breathtaking aerial view of the India-Pakistan border from the night sky. The video, shared by IndiGo pilot Captain Pradeep Krishnan, quickly spread across social media platforms and attracted massive public interest. 0<br><br>
+
+The footage showed a long illuminated stretch of lights cutting through the darkness below, creating a striking visual contrast visible from high altitude. The glowing border line surprised many viewers, with social media users describing the visuals as emotional, fascinating and unlike anything they had seen before. 01<br><br>
+
+During the flight announcement, the pilot reportedly informed passengers that they were witnessing one of the world's most sensitive and heavily monitored international borders. The visuals highlighted sections of the Radcliffe Line along with visible security infrastructure and floodlighting near border areas. 02<br><br>
+
+The viral video triggered thousands of reactions online. While some users praised the stunning night-time view from the aircraft, others reflected on the historical significance and emotional impact associated with the India-Pakistan border. 12<br><br>
+
+The rare aerial perspective has now become one of the most discussed viral moments online, giving people a unique glimpse of a location that few get the opportunity to witness from the sky.`,
+
+  url: "indigo-pilot-india-pakistan-border-aerial-video-viral",
+
+  image: "india-pakistan-border-indigo-pilot-viral-video.jpeg",
+
+  category: "viral",
+
+  date: "May 27, 2026"
+},
+
+  {
+  title: "Karnataka Leadership Buzz Grows As Rahul Gandhi Reportedly Tries To Resolve Siddaramaiah Issue",
+
+  description: "Fresh political discussions have intensified in Karnataka after reports claimed Congress leadership is attempting to address internal leadership questions involving Chief Minister Siddaramaiah and Deputy Chief Minister DK Shivakumar.",
+
+  content: `Political developments in Karnataka have once again become a major talking point after reports suggested Congress leadership held important discussions regarding the state's future leadership structure. Political circles witnessed increased attention following meetings involving senior party leaders in New Delhi. 01<br><br>
+
+According to reports, Congress leader Rahul Gandhi held discussions with Karnataka Chief Minister Siddaramaiah and Deputy Chief Minister DK Shivakumar amid growing speculation over possible leadership decisions within the state government. The developments have triggered strong political conversations across Karnataka. 01<br><br>
+
+Several reports claimed party leaders are exploring options aimed at maintaining balance within the state leadership while ensuring organisational stability ahead of future political challenges. Discussions regarding potential political roles and responsibilities have further intensified public attention. 01<br><br>
+
+However, Congress leaders have also publicly dismissed some reports surrounding leadership disputes and maintained that no final decisions have been officially announced regarding any change in the state's top leadership position. 01<br><br>
+
+The developments continue attracting significant political interest, with supporters and observers closely monitoring upcoming announcements from Congress leadership regarding Karnataka politics in the coming days.`,
+
+  url: "karnataka-leadership-buzz-rahul-gandhi-siddaramaiah-dk-shivakumar",
+
+  image: "karnataka-congress-leadership-discussion.jpeg",
+
+  category: "politics",
+
+  date: "May 27, 2026"
+},
+
+  {
   title: "RCB Storm Into IPL 2026 Final After Dominant Qualifier Victory, Fans Celebrate Historic Moment",
 
   description: "Royal Challengers Bengaluru secured a place in the IPL 2026 final after a commanding performance in Qualifier 1, creating massive excitement among cricket fans across the country.",
