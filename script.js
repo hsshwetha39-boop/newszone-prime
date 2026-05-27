@@ -73,6 +73,30 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "RCB Storm Into IPL 2026 Final After Dominant Qualifier Victory, Fans Celebrate Historic Moment",
+
+  description: "Royal Challengers Bengaluru secured a place in the IPL 2026 final after a commanding performance in Qualifier 1, creating massive excitement among cricket fans across the country.",
+
+  content: `Royal Challengers Bengaluru have officially booked their place in the IPL 2026 final after delivering a dominant performance in Qualifier 1. The victory sparked celebrations among RCB supporters, with social media platforms flooded with reactions, videos and messages from cricket fans. 0<br><br>
+
+RCB defeated Gujarat Titans by a massive margin to directly enter the tournament final. The team produced an impressive all-round display with strong batting performances and disciplined bowling throughout the match. Reports stated that captain Rajat Patidar played a crucial role with an explosive unbeaten innings that helped RCB build a commanding total. 01<br><br>
+
+Virat Kohli also contributed important runs before RCB bowlers maintained pressure and restricted Gujarat Titans during the chase. The victory further strengthened Bengaluru's growing confidence as the franchise moved one step closer to another IPL title opportunity. 0<br><br>
+
+The qualification created huge excitement among supporters, especially with fans hoping RCB can continue their momentum in the final. Social media witnessed celebration posts, emotional fan reactions and praise for the team's performance after securing direct qualification. 1<br><br>
+
+With the final now approaching, cricket followers will closely watch whether Royal Challengers Bengaluru can convert their impressive campaign into championship success and create another memorable chapter in IPL history.`,
+
+  url: "rcb-qualified-ipl-2026-final-qualifier-win",
+
+  image: "rcb-ipl-2026-final-qualification.jpeg",
+
+  category: "sports",
+
+  date: "May 27, 2026"
+},
+
+  {
   title: "Ranveer Singh Visits Chamundi Temple, Offers Apology Amid Controversy Over Daiva Remark",
 
   description: "Bollywood actor Ranveer Singh visited Chamundi Hills temple in Mysuru and offered prayers amid controversy linked to remarks connected to Daiva tradition, drawing public attention.",
@@ -91,7 +115,7 @@ The controversy had earlier generated discussions among cinema audiences and fol
 
   image: "ranveer-singh-chamundi-temple-mysuru.jpeg",
 
-  category: "entertainment",
+  category: "film",
 
   date: "May 27, 2026"
 },
