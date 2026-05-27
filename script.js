@@ -73,17 +73,41 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Samantha Ruth Prabhu Packs Action And Emotion In ‘Maa Inti Bangaaram’ Trailer, Fans Excited",
+
+  description: "The trailer of Samantha Ruth Prabhu’s upcoming film ‘Maa Inti Bangaaram’ has created excitement online, showcasing a mix of family emotions, action sequences and a powerful new character avatar.",
+
+  content: `Actor Samantha Ruth Prabhu has grabbed attention once again after the makers unveiled the official trailer of her upcoming film ‘Maa Inti Bangaaram’. The trailer quickly gained traction online, with fans discussing Samantha’s intense transformation and action-packed role.<br><br>
+
+The trailer introduces Samantha in a family-oriented setting where her character initially appears to handle everyday responsibilities and family expectations. However, the story later shifts into an action-driven narrative as danger enters her life and forces her to protect her family.<br><br>
+
+The film combines emotional family moments with large-scale action sequences, presenting Samantha in a more intense and powerful screen appearance. Reports suggest the actor performed several action scenes herself, adding to fan anticipation surrounding the film.<br><br>
+
+Directed by Nandini Reddy, the film is scheduled for theatrical release on June 19, 2026. Apart from playing the lead role, Samantha is also associated with the project’s production side, making the film an important release in her career journey.<br><br>
+
+Shortly after the trailer launch, social media platforms witnessed strong reactions from fans praising Samantha’s screen presence, action sequences and the emotional tone of the upcoming film. The trailer has now become a major talking point among cinema audiences ahead of the movie’s release.`,
+
+  url: "samantha-ruth-prabhu-maa-inti-bangaaram-trailer-action-family-drama",
+
+  image: "samantha-maa-inti-bangaaram-trailer.jpeg",
+
+  category: "film",
+
+  date: "May 27, 2026"
+},
+
+  {
   title: "IndiGo Pilot Shares Rare India-Pakistan Border View From Sky, Viral Video Stuns Internet",
 
   description: "A rare aerial video shared by an IndiGo pilot showing the illuminated India-Pakistan border from thousands of feet above ground has gone viral, leaving social media users fascinated by the dramatic night-time visuals.",
 
-  content: `A rare cockpit video captured during a late-night IndiGo flight has grabbed major attention online after showing a breathtaking aerial view of the India-Pakistan border from the night sky. The video, shared by IndiGo pilot Captain Pradeep Krishnan, quickly spread across social media platforms and attracted massive public interest. 0<br><br>
+  content: `A rare cockpit video captured during a late-night IndiGo flight has grabbed major attention online after showing a breathtaking aerial view of the India-Pakistan border from the night sky. The video, shared by IndiGo pilot Captain Pradeep Krishnan, quickly spread across social media platforms and attracted massive public interest.<br><br>
 
-The footage showed a long illuminated stretch of lights cutting through the darkness below, creating a striking visual contrast visible from high altitude. The glowing border line surprised many viewers, with social media users describing the visuals as emotional, fascinating and unlike anything they had seen before. 01<br><br>
+The footage showed a long illuminated stretch of lights cutting through the darkness below, creating a striking visual contrast visible from high altitude. The glowing border line surprised many viewers, with social media users describing the visuals as emotional, fascinating and unlike anything they had seen before.<br><br>
 
-During the flight announcement, the pilot reportedly informed passengers that they were witnessing one of the world's most sensitive and heavily monitored international borders. The visuals highlighted sections of the Radcliffe Line along with visible security infrastructure and floodlighting near border areas. 02<br><br>
+During the flight announcement, the pilot reportedly informed passengers that they were witnessing one of the world's most sensitive and heavily monitored international borders. The visuals highlighted sections of the Radcliffe Line along with visible security infrastructure and floodlighting near border areas.<br><br>
 
-The viral video triggered thousands of reactions online. While some users praised the stunning night-time view from the aircraft, others reflected on the historical significance and emotional impact associated with the India-Pakistan border. 12<br><br>
+The viral video triggered thousands of reactions online. While some users praised the stunning night-time view from the aircraft, others reflected on the historical significance and emotional impact associated with the India-Pakistan border.<br><br>
 
 The rare aerial perspective has now become one of the most discussed viral moments online, giving people a unique glimpse of a location that few get the opportunity to witness from the sky.`,
 
@@ -101,13 +125,13 @@ The rare aerial perspective has now become one of the most discussed viral momen
 
   description: "Fresh political discussions have intensified in Karnataka after reports claimed Congress leadership is attempting to address internal leadership questions involving Chief Minister Siddaramaiah and Deputy Chief Minister DK Shivakumar.",
 
-  content: `Political developments in Karnataka have once again become a major talking point after reports suggested Congress leadership held important discussions regarding the state's future leadership structure. Political circles witnessed increased attention following meetings involving senior party leaders in New Delhi. 01<br><br>
+  content: `Political developments in Karnataka have once again become a major talking point after reports suggested Congress leadership held important discussions regarding the state's future leadership structure. Political circles witnessed increased attention following meetings involving senior party leaders in New Delhi.<br><br>
 
-According to reports, Congress leader Rahul Gandhi held discussions with Karnataka Chief Minister Siddaramaiah and Deputy Chief Minister DK Shivakumar amid growing speculation over possible leadership decisions within the state government. The developments have triggered strong political conversations across Karnataka. 01<br><br>
+According to reports, Congress leader Rahul Gandhi held discussions with Karnataka Chief Minister Siddaramaiah and Deputy Chief Minister DK Shivakumar amid growing speculation over possible leadership decisions within the state government. The developments have triggered strong political conversations across Karnataka.<br><br>
 
-Several reports claimed party leaders are exploring options aimed at maintaining balance within the state leadership while ensuring organisational stability ahead of future political challenges. Discussions regarding potential political roles and responsibilities have further intensified public attention. 01<br><br>
+Several reports claimed party leaders are exploring options aimed at maintaining balance within the state leadership while ensuring organisational stability ahead of future political challenges. Discussions regarding potential political roles and responsibilities have further intensified public attention.<br><br>
 
-However, Congress leaders have also publicly dismissed some reports surrounding leadership disputes and maintained that no final decisions have been officially announced regarding any change in the state's top leadership position. 01<br><br>
+However, Congress leaders have also publicly dismissed some reports surrounding leadership disputes and maintained that no final decisions have been officially announced regarding any change in the state's top leadership position.<br><br>
 
 The developments continue attracting significant political interest, with supporters and observers closely monitoring upcoming announcements from Congress leadership regarding Karnataka politics in the coming days.`,
 
@@ -125,13 +149,13 @@ The developments continue attracting significant political interest, with suppor
 
   description: "Royal Challengers Bengaluru secured a place in the IPL 2026 final after a commanding performance in Qualifier 1, creating massive excitement among cricket fans across the country.",
 
-  content: `Royal Challengers Bengaluru have officially booked their place in the IPL 2026 final after delivering a dominant performance in Qualifier 1. The victory sparked celebrations among RCB supporters, with social media platforms flooded with reactions, videos and messages from cricket fans. 0<br><br>
+  content: `Royal Challengers Bengaluru have officially booked their place in the IPL 2026 final after delivering a dominant performance in Qualifier 1. The victory sparked celebrations among RCB supporters, with social media platforms flooded with reactions, videos and messages from cricket fans.<br><br>
 
-RCB defeated Gujarat Titans by a massive margin to directly enter the tournament final. The team produced an impressive all-round display with strong batting performances and disciplined bowling throughout the match. Reports stated that captain Rajat Patidar played a crucial role with an explosive unbeaten innings that helped RCB build a commanding total. 01<br><br>
+RCB defeated Gujarat Titans by a massive margin to directly enter the tournament final. The team produced an impressive all-round display with strong batting performances and disciplined bowling throughout the match. Reports stated that captain Rajat Patidar played a crucial role with an explosive unbeaten innings that helped RCB build a commanding total.<br><br>
 
-Virat Kohli also contributed important runs before RCB bowlers maintained pressure and restricted Gujarat Titans during the chase. The victory further strengthened Bengaluru's growing confidence as the franchise moved one step closer to another IPL title opportunity. 0<br><br>
+Virat Kohli also contributed important runs before RCB bowlers maintained pressure and restricted Gujarat Titans during the chase. The victory further strengthened Bengaluru's growing confidence as the franchise moved one step closer to another IPL title opportunity.<br><br>
 
-The qualification created huge excitement among supporters, especially with fans hoping RCB can continue their momentum in the final. Social media witnessed celebration posts, emotional fan reactions and praise for the team's performance after securing direct qualification. 1<br><br>
+The qualification created huge excitement among supporters, especially with fans hoping RCB can continue their momentum in the final. Social media witnessed celebration posts, emotional fan reactions and praise for the team's performance after securing direct qualification.<br><br>
 
 With the final now approaching, cricket followers will closely watch whether Royal Challengers Bengaluru can convert their impressive campaign into championship success and create another memorable chapter in IPL history.`,
 
@@ -149,13 +173,13 @@ With the final now approaching, cricket followers will closely watch whether Roy
 
   description: "Bollywood actor Ranveer Singh visited Chamundi Hills temple in Mysuru and offered prayers amid controversy linked to remarks connected to Daiva tradition, drawing public attention.",
 
-  content: `Bollywood actor Ranveer Singh has once again become a talking point after visiting the Chamundeshwari Temple in Mysuru following controversy surrounding comments related to Daiva traditions. Reports stated that the actor visited the temple and offered special prayers before Goddess Chamundeshwari. 0<br><br>
+  content: `Bollywood actor Ranveer Singh has once again become a talking point after visiting the Chamundeshwari Temple in Mysuru following controversy surrounding comments related to Daiva traditions. Reports stated that the actor visited the temple and offered special prayers before Goddess Chamundeshwari.<br><br>
 
-According to reports, the visit was linked to an earlier controversy where remarks associated with traditional Daiva culture had triggered criticism among sections of people. The issue reportedly reached legal discussions, following which the actor was said to have expressed regret regarding the matter. 1<br><br>
+According to reports, the visit was linked to an earlier controversy where remarks associated with traditional Daiva culture had triggered criticism among sections of people. The issue reportedly reached legal discussions, following which the actor was said to have expressed regret regarding the matter.<br><br>
 
-Sources claimed Ranveer Singh arrived at the temple quietly without prior public announcement. He reportedly stood in line like other devotees and entered the temple premises without any major public appearance or celebration surrounding the visit. 0<br><br>
+Sources claimed Ranveer Singh arrived at the temple quietly without prior public announcement. He reportedly stood in line like other devotees and entered the temple premises without any major public appearance or celebration surrounding the visit.<br><br>
 
-Reports further stated that the actor offered prayers before the deity and spent time inside the temple seeking blessings. Visuals and discussions related to the temple visit later gained attention across social media platforms. 1<br><br>
+Reports further stated that the actor offered prayers before the deity and spent time inside the temple seeking blessings. Visuals and discussions related to the temple visit later gained attention across social media platforms.<br><br>
 
 The controversy had earlier generated discussions among cinema audiences and followers of traditional cultural practices. With Ranveer Singh now visiting the temple and offering prayers, reactions continue emerging online as fans closely watch further developments.`,
 
@@ -197,13 +221,13 @@ The visuals continue gaining attention online as discussions grow regarding urba
 
   description: "Indian cricketer Arshdeep Singh surprised fans after deleting more than 200 Instagram posts, including a viral reel featuring Virat Kohli, sparking major discussion across social media.",
 
-  content: `Indian fast bowler Arshdeep Singh has created a major buzz online after reportedly removing more than 200 posts from his Instagram account. The unexpected social media activity quickly attracted attention among cricket fans, with many trying to understand the reason behind the sudden digital cleanup. 0<br><br>
+  content: `Indian fast bowler Arshdeep Singh has created a major buzz online after reportedly removing more than 200 posts from his Instagram account. The unexpected social media activity quickly attracted attention among cricket fans, with many trying to understand the reason behind the sudden digital cleanup.<br><br>
 
-One of the biggest surprises for followers was the removal of a highly popular Instagram reel featuring Virat Kohli from India's Champions Trophy celebrations. Reports stated that the reel had gained massive engagement online and was among Arshdeep's widely viewed posts. 0<br><br>
+One of the biggest surprises for followers was the removal of a highly popular Instagram reel featuring Virat Kohli from India's Champions Trophy celebrations. Reports stated that the reel had gained massive engagement online and was among Arshdeep's widely viewed posts.<br><br>
 
-Apart from deleting posts, Arshdeep Singh also reportedly changed his display picture, adding further curiosity among fans. Following the update, only a limited number of posts remained visible on his account, mainly featuring personal moments, career highlights and promotional content. 0<br><br>
+Apart from deleting posts, Arshdeep Singh also reportedly changed his display picture, adding further curiosity among fans. Following the update, only a limited number of posts remained visible on his account, mainly featuring personal moments, career highlights and promotional content.<br><br>
 
-The move triggered strong reactions across social media platforms, with fans sharing different theories ranging from a personal social media reset to image rebranding. However, Arshdeep Singh has not publicly explained the reason behind the changes at the time of reporting. 0<br><br>
+The move triggered strong reactions across social media platforms, with fans sharing different theories ranging from a personal social media reset to image rebranding. However, Arshdeep Singh has not publicly explained the reason behind the changes at the time of reporting.<br><br>
 
 The social media development comes during an important cricket period, making the incident an unexpected talking point among cricket followers. Fans now continue waiting for any official clarification regarding the sudden Instagram activity.`,
 
