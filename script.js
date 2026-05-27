@@ -73,6 +73,78 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Ranveer Singh Visits Chamundi Temple, Offers Apology Amid Controversy Over Daiva Remark",
+
+  description: "Bollywood actor Ranveer Singh visited Chamundi Hills temple in Mysuru and offered prayers amid controversy linked to remarks connected to Daiva tradition, drawing public attention.",
+
+  content: `Bollywood actor Ranveer Singh has once again become a talking point after visiting the Chamundeshwari Temple in Mysuru following controversy surrounding comments related to Daiva traditions. Reports stated that the actor visited the temple and offered special prayers before Goddess Chamundeshwari. 0<br><br>
+
+According to reports, the visit was linked to an earlier controversy where remarks associated with traditional Daiva culture had triggered criticism among sections of people. The issue reportedly reached legal discussions, following which the actor was said to have expressed regret regarding the matter. 1<br><br>
+
+Sources claimed Ranveer Singh arrived at the temple quietly without prior public announcement. He reportedly stood in line like other devotees and entered the temple premises without any major public appearance or celebration surrounding the visit. 0<br><br>
+
+Reports further stated that the actor offered prayers before the deity and spent time inside the temple seeking blessings. Visuals and discussions related to the temple visit later gained attention across social media platforms. 1<br><br>
+
+The controversy had earlier generated discussions among cinema audiences and followers of traditional cultural practices. With Ranveer Singh now visiting the temple and offering prayers, reactions continue emerging online as fans closely watch further developments.`,
+
+  url: "ranveer-singh-chamundi-temple-apology-daiva-controversy",
+
+  image: "ranveer-singh-chamundi-temple-mysuru.jpeg",
+
+  category: "entertainment",
+
+  date: "May 27, 2026"
+},
+
+  {
+  title: "Man Found Living Inside Bengaluru Flyover Pillar Sparks Discussion On Urban Housing Struggles",
+
+  description: "A surprising incident near Bengaluru’s Jalahalli Cross gained attention after a man was reportedly found staying inside a hollow flyover pillar, raising discussions about housing challenges and urban living conditions.",
+
+  content: `An unusual incident reported near Jalahalli Cross in Bengaluru has drawn widespread attention after a man was allegedly discovered living inside the hollow section of a flyover pillar. The incident quickly became a talking point online after visuals from the location spread across social media platforms.<br><br>
+
+According to information circulating online, passersby and local residents noticed the man inside the narrow space beneath the flyover structure. The unexpected sight reportedly attracted public attention, with several people gathering near the location to understand how the individual managed to access and stay inside the pillar area.<br><br>
+
+Reports suggested that the man may have been staying there for some time. While official details regarding his situation were not immediately available, the incident triggered conversations around rising living costs, housing affordability, and challenges faced by economically weaker sections in large cities.<br><br>
+
+The situation also raised concerns regarding public infrastructure access and safety monitoring in urban areas. Social media users reacted with mixed emotions, with some expressing concern over housing struggles while others questioned how such a space remained unnoticed for a long period.<br><br>
+
+The visuals continue gaining attention online as discussions grow regarding urban homelessness, living conditions and affordable housing concerns in rapidly growing metropolitan cities like Bengaluru.`,
+
+  url: "bengaluru-man-living-inside-flyover-pillar-housing-concern",
+
+  image: "bengaluru-flyover-pillar-living-space.jpeg",
+
+  category: "viral",
+
+  date: "May 27, 2026"
+},
+
+  {
+  title: "Arshdeep Singh Deletes 200+ Instagram Posts, Viral Virat Kohli Reel Also Removed",
+
+  description: "Indian cricketer Arshdeep Singh surprised fans after deleting more than 200 Instagram posts, including a viral reel featuring Virat Kohli, sparking major discussion across social media.",
+
+  content: `Indian fast bowler Arshdeep Singh has created a major buzz online after reportedly removing more than 200 posts from his Instagram account. The unexpected social media activity quickly attracted attention among cricket fans, with many trying to understand the reason behind the sudden digital cleanup. 0<br><br>
+
+One of the biggest surprises for followers was the removal of a highly popular Instagram reel featuring Virat Kohli from India's Champions Trophy celebrations. Reports stated that the reel had gained massive engagement online and was among Arshdeep's widely viewed posts. 0<br><br>
+
+Apart from deleting posts, Arshdeep Singh also reportedly changed his display picture, adding further curiosity among fans. Following the update, only a limited number of posts remained visible on his account, mainly featuring personal moments, career highlights and promotional content. 0<br><br>
+
+The move triggered strong reactions across social media platforms, with fans sharing different theories ranging from a personal social media reset to image rebranding. However, Arshdeep Singh has not publicly explained the reason behind the changes at the time of reporting. 0<br><br>
+
+The social media development comes during an important cricket period, making the incident an unexpected talking point among cricket followers. Fans now continue waiting for any official clarification regarding the sudden Instagram activity.`,
+
+  url: "arshdeep-singh-instagram-posts-deleted-virat-kohli-reel-removed",
+
+  image: "arshdeep-singh-instagram-cleanup-kohli-reel.jpeg",
+
+  category: "sports",
+
+  date: "May 27, 2026"
+},
+
+  {
   title: "18-Year-Old Woman Arrested After Fatal Shooting Case Linked To Child Abuse Allegation",
 
   description: "An 18-year-old woman was arrested after a fatal shooting case that reportedly followed allegations involving inappropriate behaviour toward a child, according to reports.",
