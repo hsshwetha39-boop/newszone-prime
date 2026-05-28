@@ -73,6 +73,32 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Netflix Faces Backlash Over AI Use In Squid Game Promo, Social Media Reacts Strongly",
+
+  description: "Streaming giant Netflix has landed in controversy after social media users alleged that AI-generated visuals were used in a recent promotional campaign linked to Squid Game.",
+
+  content: `Streaming platform Netflix has sparked fresh online debate after social media users claimed that artificial intelligence-generated visuals were used in a recent promotional campaign connected to the popular series ‘Squid Game’. The discussion quickly went viral across multiple platforms.<br><br>
+
+According to viral posts circulating online, some users noticed unusual visual details and editing patterns in promotional materials linked to the series. Many internet users alleged that the content appeared to be AI-generated rather than traditionally designed or photographed.<br><br>
+
+The controversy intensified after screenshots and comparison posts began spreading widely on social media. Several users criticised the increasing use of AI-generated visuals in entertainment promotions, arguing that it could affect opportunities for designers, editors and creative artists working in the industry.<br><br>
+
+Meanwhile, another section of users defended the use of AI technology, saying entertainment companies across the world are increasingly experimenting with new digital tools for marketing and promotions. The debate has now become part of a larger global discussion surrounding artificial intelligence in creative industries.<br><br>
+
+Reports also suggested that Netflix has not officially responded to several online claims linked to the viral visuals. However, the topic continued trending online as users debated whether AI-generated content should be clearly disclosed in entertainment campaigns.<br><br>
+
+The incident once again highlights how rapidly evolving AI technology is changing digital entertainment and social media culture, with audiences now paying closer attention to authenticity in online promotional content.`,
+
+  url: "netflix-ai-squid-game-promo-controversy",
+
+  image: "netflix-ai-squid-game-controversy.jpeg",
+
+  category: "viral",
+
+  date: "May 28, 2026"
+},
+
+  {
   title: "15-Year-Old Vaibhav Sooryavanshi Breaks Chris Gayle’s Historic IPL Six-Hitting Record",
 
   description: "Rajasthan Royals youngster Vaibhav Sooryavanshi created history in IPL 2026 after breaking Chris Gayle’s long-standing record for the most sixes in a single IPL season.",
