@@ -73,6 +73,58 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "‘Drishyam 3’ Box Office Storm: Mohanlal Thriller Beats ‘Aadujeevitham’ Record In Just 6 Days",
+
+  description: "Mohanlal’s ‘Drishyam 3’ continues its sensational box office run as the Malayalam thriller reportedly surpassed the lifetime collection of ‘Aadujeevitham’ within just six days of release.",
+
+  content: `Malayalam superstar Mohanlal’s much-awaited thriller ‘Drishyam 3’ is creating history at the box office with an extraordinary worldwide run. Directed by Jeethu Joseph, the film has now reportedly crossed the lifetime worldwide earnings of Prithviraj Sukumaran’s blockbuster survival drama ‘Aadujeevitham’ within just six days of release. 0<br><br>
+
+The film opened to massive excitement among audiences across Kerala and overseas markets, with fans returning to witness Georgekutty’s story once again on the big screen. Trade reports suggest that the film crossed over Rs 170 crore globally during its first week itself, making it one of the fastest Malayalam films to achieve the milestone. 1<br><br>
+
+Industry trackers noted that ‘Drishyam 3’ maintained strong occupancy even during weekdays, which is considered a major achievement for a suspense thriller. The film reportedly performed exceptionally well in Kerala, Karnataka, Gulf countries, and other overseas regions where Malayalam cinema enjoys a huge fan base. 2<br><br>
+
+The movie has also become one of the highest-grossing Malayalam films globally within a very short period. Reports claim the film surpassed the worldwide collection record of ‘Aadujeevitham: The Goat Life’, which had earlier received huge appreciation for its emotional storytelling and box office success. 3<br><br>
+
+Fans and cinema lovers on social media have been praising Mohanlal’s performance along with Jeethu Joseph’s gripping screenplay. Many viewers described the film as an emotional yet suspense-filled continuation of the iconic ‘Drishyam’ franchise. 4<br><br>
+
+The massive response has once again highlighted the growing global reach of Malayalam cinema. With the film continuing its strong theatrical run, trade experts now believe ‘Drishyam 3’ could break several more records in the coming days. 5`,
+
+  url: "drishyam-3-box-office-collection-beats-aadujeevitham-record",
+
+  image: "drishyam-3-box-office-record.jpeg",
+
+  category: "film",
+
+  date: "May 28, 2026"
+},
+
+  {
+  title: "Rocking Star Yash Enters BGMI Universe As ‘Toxic’ Collaboration Excites Fans",
+
+  description: "BGMI players and Rocking Star Yash fans have a major reason to celebrate as Battlegrounds Mobile India officially announced a special collaboration linked to Yash’s upcoming film ‘Toxic’.",
+
+  content: `Gaming and cinema are coming together in a major way after Battlegrounds Mobile India (BGMI) officially revealed its collaboration with Rocking Star Yash’s upcoming film ‘Toxic’. The announcement quickly grabbed attention online, creating excitement among both gaming enthusiasts and Yash fans. 0<br><br>
+
+BGMI shared promotional visuals featuring Yash along with ‘Toxic’ themed content, confirming that special in-game experiences will soon arrive for players. One of the biggest highlights includes exclusive Toxic voice packs inspired by the film, giving players a new gaming experience connected to the much-anticipated movie. 1<br><br>
+
+According to official updates, players can expect themed rewards, collectibles and special collaboration content as part of BGMI’s latest update. The partnership marks another major entertainment crossover for the gaming platform, bringing cinema and mobile gaming communities together. 2<br><br>
+
+Fans flooded social media soon after the announcement, with many celebrating Rocking Star Yash’s arrival into the BGMI universe. Several users described it as one of the biggest collaborations involving Indian gaming and cinema in recent times. 3<br><br>
+
+‘Toxic’, one of Yash’s most anticipated upcoming projects, has already generated strong buzz among audiences. With BGMI now joining hands with the film, anticipation has grown even further among fans waiting to experience the collaboration inside the game. 4<br><br>
+
+The announcement has now become a trending topic online, with gamers eagerly waiting for the new update and exclusive Yash-themed content to officially roll out across Battlegrounds Mobile India. 5`,
+
+  url: "rocking-star-yash-bgmi-toxic-collaboration-update",
+
+  image: "yash-bgmi-toxic-collaboration.jpeg",
+
+  category: "film",
+
+  date: "May 28, 2026"
+},
+
+  {
   title: "Samantha Ruth Prabhu Packs Action And Emotion In ‘Maa Inti Bangaaram’ Trailer, Fans Excited",
 
   description: "The trailer of Samantha Ruth Prabhu’s upcoming film ‘Maa Inti Bangaaram’ has created excitement online, showcasing a mix of family emotions, action sequences and a powerful new character avatar.",
