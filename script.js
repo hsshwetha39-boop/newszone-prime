@@ -73,21 +73,99 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "15-Year-Old Vaibhav Sooryavanshi Breaks Chris Gayle’s Historic IPL Six-Hitting Record",
+
+  description: "Rajasthan Royals youngster Vaibhav Sooryavanshi created history in IPL 2026 after breaking Chris Gayle’s long-standing record for the most sixes in a single IPL season.",
+
+  content: `Teenage batting sensation Vaibhav Sooryavanshi has become one of the biggest talking points of IPL 2026 after breaking Chris Gayle’s historic record for the most sixes in a single IPL season. The Rajasthan Royals opener achieved the milestone during the high-voltage Eliminator clash against Sunrisers Hyderabad.<br><br>
+
+The 15-year-old batter continued his fearless batting approach and smashed multiple sixes during his explosive innings, taking his season tally beyond Chris Gayle’s previous record of 59 sixes set in IPL 2012. Vaibhav’s remarkable power-hitting ability has surprised cricket fans and experts throughout the tournament.<br><br>
+
+Reports stated that Vaibhav played a stunning knock of 97 runs off just 29 balls in the Eliminator match, narrowly missing out on a century while still producing one of the most destructive innings of the season. His innings reportedly included 12 massive sixes, helping Rajasthan Royals post a commanding total.<br><br>
+
+Social media platforms quickly exploded with reactions after the youngster shattered one of IPL’s most iconic batting records. Many fans compared his aggressive batting style to Chris Gayle, while others described him as the future superstar of Indian cricket.<br><br>
+
+Cricket experts and former players also praised the teenager’s confidence and fearless mindset at such a young age. Rajasthan Royals supporters celebrated the achievement online, calling Vaibhav Sooryavanshi one of the biggest discoveries of IPL 2026.<br><br>
+
+With his extraordinary season continuing to create headlines, Vaibhav Sooryavanshi has now firmly established himself as one of the most exciting young talents in world cricket, while his record-breaking six-hitting spree has added another unforgettable chapter to IPL history.`,
+
+  url: "vaibhav-sooryavanshi-breaks-chris-gayle-ipl-sixes-record",
+
+  image: "vaibhav-sooryavanshi-ipl-sixes-record.jpeg",
+
+  category: "sports",
+
+  date: "May 28, 2026"
+},
+
+  {
+  title: "Kangana Ranaut Defends Aishwarya Rai Bachchan Against Cannes Trolls, Viral Reaction Sparks Debate",
+
+  description: "Actor Kangana Ranaut strongly reacted against online trolls targeting Aishwarya Rai Bachchan over her Cannes appearance, saying the former Miss World does not attend the festival to impress critics.",
+
+  content: `Bollywood actor Kangana Ranaut has once again grabbed attention online after strongly reacting to social media trolls targeting Aishwarya Rai Bachchan during her recent Cannes Film Festival appearance. Kangana’s comments quickly went viral and triggered major discussions across entertainment circles.<br><br>
+
+The controversy began after some social media users criticised Aishwarya Rai Bachchan’s appearance and body image following her Cannes red carpet visuals. Several online comments reportedly used offensive language while discussing the actor’s fashion choices and physical appearance.<br><br>
+
+Reacting to the criticism, Kangana Ranaut defended Aishwarya Rai Bachchan and questioned the growing culture of body shaming online. According to reports, Kangana stated that Aishwarya does not attend Cannes to seek validation or impress critics, adding that such negativity toward women was unnecessary and disrespectful.<br><br>
+
+Kangana’s reaction received mixed responses online. While many social media users appreciated her support for Aishwarya and praised her stand against trolling, others debated the larger issue of celebrity criticism and unrealistic beauty expectations in the entertainment industry.<br><br>
+
+Aishwarya Rai Bachchan has remained one of India’s most recognised global fashion and cinema icons for years, especially at the Cannes Film Festival where her appearances regularly attract worldwide attention. Despite online criticism, many fans praised her confidence and elegance during this year’s event.<br><br>
+
+The incident has now reignited conversations surrounding online trolling, celebrity body shaming and the pressure faced by public figures on social media platforms.`,
+
+  url: "kangana-ranaut-defends-aishwarya-rai-cannes-trolls",
+
+  image: "kangana-ranaut-aishwarya-rai-cannes-controversy.jpeg",
+
+  category: "film",
+
+  date: "May 28, 2026"
+},
+
+  {
+  title: "Karnataka Power Shift Buzz Intensifies As Siddaramaiah Exit Speculation Grows, DK Shivakumar In Spotlight",
+
+  description: "Political discussions in Karnataka have intensified after reports claimed growing pressure within Congress leadership regarding a possible leadership transition involving Chief Minister Siddaramaiah and Deputy Chief Minister DK Shivakumar.",
+
+  content: `Karnataka politics has entered a high-voltage phase after fresh reports suggested that Congress leadership is actively discussing a possible leadership transition in the state government. Speculation surrounding Chief Minister Siddaramaiah’s future and Deputy Chief Minister DK Shivakumar’s role has now become one of the biggest political talking points in Karnataka.<br><br>
+
+According to reports, senior Congress leaders, including Rahul Gandhi and Mallikarjun Kharge, recently held multiple discussions with Siddaramaiah and DK Shivakumar in Delhi amid growing internal political developments. Several reports claimed the Congress high command is attempting to maintain balance within the party while addressing leadership-related expectations.<br><br>
+
+Political speculation further increased after reports emerged suggesting Siddaramaiah could step aside if the party leadership finalises a transition plan. However, Congress leaders have publicly maintained that no official announcement has yet been made regarding any leadership change in Karnataka.<br><br>
+
+Meanwhile, DK Shivakumar’s supporters reportedly celebrated across parts of Karnataka following intense rumours surrounding a possible power shift. Political observers believe any future decision could significantly impact Congress strategies ahead of upcoming elections and internal party management.<br><br>
+
+Reports also suggested discussions around alternative political responsibilities and organisational roles within the Congress party. However, no formal confirmation has been issued regarding reports linked to Rajya Sabha opportunities or future arrangements involving senior leaders.<br><br>
+
+The developments have triggered massive public interest across Karnataka, with political supporters and opposition leaders closely watching every update connected to the state’s leadership situation. As speculation continues growing, all eyes now remain on the Congress high command for any official clarity in the coming days.`,
+
+  url: "karnataka-congress-power-shift-siddaramaiah-dkshivakumar",
+
+  image: "siddaramaiah-dkshivakumar-karnataka-politics.jpeg",
+
+  category: "politics",
+
+  date: "May 28, 2026"
+},
+
+  {
   title: "‘Drishyam 3’ Box Office Storm: Mohanlal Thriller Beats ‘Aadujeevitham’ Record In Just 6 Days",
 
   description: "Mohanlal’s ‘Drishyam 3’ continues its sensational box office run as the Malayalam thriller reportedly surpassed the lifetime collection of ‘Aadujeevitham’ within just six days of release.",
 
-  content: `Malayalam superstar Mohanlal’s much-awaited thriller ‘Drishyam 3’ is creating history at the box office with an extraordinary worldwide run. Directed by Jeethu Joseph, the film has now reportedly crossed the lifetime worldwide earnings of Prithviraj Sukumaran’s blockbuster survival drama ‘Aadujeevitham’ within just six days of release. 0<br><br>
+  content: `Malayalam superstar Mohanlal’s much-awaited thriller ‘Drishyam 3’ is creating history at the box office with an extraordinary worldwide run. Directed by Jeethu Joseph, the film has now reportedly crossed the lifetime worldwide earnings of Prithviraj Sukumaran’s blockbuster survival drama ‘Aadujeevitham’ within just six days of release.<br><br>
 
-The film opened to massive excitement among audiences across Kerala and overseas markets, with fans returning to witness Georgekutty’s story once again on the big screen. Trade reports suggest that the film crossed over Rs 170 crore globally during its first week itself, making it one of the fastest Malayalam films to achieve the milestone. 1<br><br>
+The film opened to massive excitement among audiences across Kerala and overseas markets, with fans returning to witness Georgekutty’s story once again on the big screen. Trade reports suggest that the film crossed over Rs 170 crore globally during its first week itself, making it one of the fastest Malayalam films to achieve the milestone.<br><br>
 
-Industry trackers noted that ‘Drishyam 3’ maintained strong occupancy even during weekdays, which is considered a major achievement for a suspense thriller. The film reportedly performed exceptionally well in Kerala, Karnataka, Gulf countries, and other overseas regions where Malayalam cinema enjoys a huge fan base. 2<br><br>
+Industry trackers noted that ‘Drishyam 3’ maintained strong occupancy even during weekdays, which is considered a major achievement for a suspense thriller. The film reportedly performed exceptionally well in Kerala, Karnataka, Gulf countries, and other overseas regions where Malayalam cinema enjoys a huge fan base.<br><br>
 
-The movie has also become one of the highest-grossing Malayalam films globally within a very short period. Reports claim the film surpassed the worldwide collection record of ‘Aadujeevitham: The Goat Life’, which had earlier received huge appreciation for its emotional storytelling and box office success. 3<br><br>
+The movie has also become one of the highest-grossing Malayalam films globally within a very short period. Reports claim the film surpassed the worldwide collection record of ‘Aadujeevitham: The Goat Life’, which had earlier received huge appreciation for its emotional storytelling and box office success.<br><br>
 
-Fans and cinema lovers on social media have been praising Mohanlal’s performance along with Jeethu Joseph’s gripping screenplay. Many viewers described the film as an emotional yet suspense-filled continuation of the iconic ‘Drishyam’ franchise. 4<br><br>
+Fans and cinema lovers on social media have been praising Mohanlal’s performance along with Jeethu Joseph’s gripping screenplay. Many viewers described the film as an emotional yet suspense-filled continuation of the iconic ‘Drishyam’ franchise.<br><br>
 
-The massive response has once again highlighted the growing global reach of Malayalam cinema. With the film continuing its strong theatrical run, trade experts now believe ‘Drishyam 3’ could break several more records in the coming days. 5`,
+The massive response has once again highlighted the growing global reach of Malayalam cinema. With the film continuing its strong theatrical run, trade experts now believe ‘Drishyam 3’ could break several more records in the coming days.`,
 
   url: "drishyam-3-box-office-collection-beats-aadujeevitham-record",
 
@@ -103,17 +181,17 @@ The massive response has once again highlighted the growing global reach of Mala
 
   description: "BGMI players and Rocking Star Yash fans have a major reason to celebrate as Battlegrounds Mobile India officially announced a special collaboration linked to Yash’s upcoming film ‘Toxic’.",
 
-  content: `Gaming and cinema are coming together in a major way after Battlegrounds Mobile India (BGMI) officially revealed its collaboration with Rocking Star Yash’s upcoming film ‘Toxic’. The announcement quickly grabbed attention online, creating excitement among both gaming enthusiasts and Yash fans. 0<br><br>
+  content: `Gaming and cinema are coming together in a major way after Battlegrounds Mobile India (BGMI) officially revealed its collaboration with Rocking Star Yash’s upcoming film ‘Toxic’. The announcement quickly grabbed attention online, creating excitement among both gaming enthusiasts and Yash fans.<br><br>
 
-BGMI shared promotional visuals featuring Yash along with ‘Toxic’ themed content, confirming that special in-game experiences will soon arrive for players. One of the biggest highlights includes exclusive Toxic voice packs inspired by the film, giving players a new gaming experience connected to the much-anticipated movie. 1<br><br>
+BGMI shared promotional visuals featuring Yash along with ‘Toxic’ themed content, confirming that special in-game experiences will soon arrive for players. One of the biggest highlights includes exclusive Toxic voice packs inspired by the film, giving players a new gaming experience connected to the much-anticipated movie.<br><br>
 
-According to official updates, players can expect themed rewards, collectibles and special collaboration content as part of BGMI’s latest update. The partnership marks another major entertainment crossover for the gaming platform, bringing cinema and mobile gaming communities together. 2<br><br>
+According to official updates, players can expect themed rewards, collectibles and special collaboration content as part of BGMI’s latest update. The partnership marks another major entertainment crossover for the gaming platform, bringing cinema and mobile gaming communities together.<br><br>
 
-Fans flooded social media soon after the announcement, with many celebrating Rocking Star Yash’s arrival into the BGMI universe. Several users described it as one of the biggest collaborations involving Indian gaming and cinema in recent times. 3<br><br>
+Fans flooded social media soon after the announcement, with many celebrating Rocking Star Yash’s arrival into the BGMI universe. Several users described it as one of the biggest collaborations involving Indian gaming and cinema in recent times.<br><br>
 
-‘Toxic’, one of Yash’s most anticipated upcoming projects, has already generated strong buzz among audiences. With BGMI now joining hands with the film, anticipation has grown even further among fans waiting to experience the collaboration inside the game. 4<br><br>
+‘Toxic’, one of Yash’s most anticipated upcoming projects, has already generated strong buzz among audiences. With BGMI now joining hands with the film, anticipation has grown even further among fans waiting to experience the collaboration inside the game.<br><br>
 
-The announcement has now become a trending topic online, with gamers eagerly waiting for the new update and exclusive Yash-themed content to officially roll out across Battlegrounds Mobile India. 5`,
+The announcement has now become a trending topic online, with gamers eagerly waiting for the new update and exclusive Yash-themed content to officially roll out across Battlegrounds Mobile India.`,
 
   url: "rocking-star-yash-bgmi-toxic-collaboration-update",
 
