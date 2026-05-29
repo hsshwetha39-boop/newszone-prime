@@ -73,6 +73,34 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Ankita Lokhande Trolled for Wearing Hijab During Abu Dhabi Mosque Visit with Vicky Jain",
+
+  description: "Television actress Ankita Lokhande faced online criticism after sharing photos from her Abu Dhabi mosque visit with husband Vicky Jain. The pictures sparked a debate on social media, with many users defending her for respecting local customs.",
+
+  content: `Television actress Ankita Lokhande has found herself at the center of an online debate after sharing photographs from her recent trip to the United Arab Emirates with husband Vicky Jain. The couple's visit to a mosque in Abu Dhabi attracted significant attention across social media platforms.<br><br>
+
+In the photographs, Ankita was seen wearing a hijab while exploring the mosque premises. The actress shared the images as part of a collection of memories from her UAE vacation, giving fans a glimpse into her travels with Vicky Jain.<br><br>
+
+However, the pictures soon sparked mixed reactions online. While many social media users appreciated the actress for following the dress code and respecting local customs, others criticized her choice of attire, leading to widespread discussion on various platforms.<br><br>
+
+Supporters of Ankita pointed out that covering the head is a standard requirement for women visiting many mosques around the world. They argued that the actress was simply showing respect for the religious site and adhering to local traditions during her visit.<br><br>
+
+The images quickly went viral, drawing thousands of reactions and comments. Several fans defended Ankita, stating that travelers should respect the customs and cultural practices of the places they visit. Others viewed her appearance as a positive example of cultural sensitivity.<br><br>
+
+Despite the criticism, Ankita Lokhande has not publicly responded to the controversy. Meanwhile, the photographs continue to circulate widely on social media, generating conversations among fans and critics alike.<br><br>
+
+The incident once again highlights how celebrity posts often become topics of public debate, attracting both praise and criticism from different sections of the internet.`,
+
+  url: "ankita-lokhande-trolled-hijab-abu-dhabi-mosque-visit",
+
+  image: "ankita-lokhande-hijab-mosque.jpeg",
+
+  category: "film",
+
+  date: "May 29, 2026"
+},
+
+  {
   title: "Viral Video Allegedly Showing Youth Attacking Mother Carrying Newborn Sparks Outrage Online",
 
   description: "A disturbing viral video allegedly showing an intoxicated youth attacking a woman carrying a newborn baby has triggered massive outrage and emotional reactions across social media platforms.",
