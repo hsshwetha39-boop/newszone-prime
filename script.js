@@ -73,6 +73,267 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Viral Video Allegedly Showing Youth Attacking Mother Carrying Newborn Sparks Outrage Online",
+
+  description: "A disturbing viral video allegedly showing an intoxicated youth attacking a woman carrying a newborn baby has triggered massive outrage and emotional reactions across social media platforms.",
+
+  content: `A disturbing video circulating widely on social media has sparked outrage after allegedly showing a young man behaving violently towards a woman carrying a newborn baby. The visuals, which rapidly spread across multiple platforms, have left many internet users shocked and concerned.<br><br>
+
+According to claims shared online, the youth was allegedly under the influence of intoxicants during the incident. In the viral clip, he is reportedly seen threatening and attacking the woman and her child during what social media users described as a money-related dispute. The incident has triggered intense discussions online regarding public safety, substance abuse and violence against women.<br><br>
+
+Several users reacted emotionally to the visuals, with many calling the incident disturbing and deeply inhuman. The clip has already gathered significant attention online, with thousands sharing their opinions and demanding strict legal action against those involved.<br><br>
+
+Despite the outrage, the exact location and authenticity of the viral video could not be independently verified at the time of publishing. No official statement confirming where the incident took place has been released publicly so far, and administrative verification is reportedly still awaited.<br><br>
+
+The viral circulation of the clip has once again highlighted growing concerns surrounding violent behaviour in public spaces and the increasing influence of substance abuse-related incidents. Many users on social media also urged authorities to take stronger action to ensure the safety of women and children.<br><br>
+
+Officials are yet to release complete details regarding the matter, while the video continues to generate widespread debate and concern across online platforms.`,
+
+  url: "viral-video-youth-attacking-mother-newborn-outrage",
+
+  image: "viral-mother-newborn-attack-video.jpeg",
+
+  category: "viral",
+
+  date: "May 29, 2026"
+},
+
+  {
+  title: "CRPF Constable Dies of Heart Attack During Duty, Family Donates Organs",
+
+  description: "A young CRPF constable who suffered a sudden heart attack while on duty passed away despite medical efforts. In a remarkable act of generosity, her family decided to donate her organs, giving new hope to several patients.",
+
+  content: `In a heartbreaking incident, a young woman serving as a constable in the Central Reserve Police Force (CRPF) lost her life after reportedly suffering a sudden heart attack while on duty. The unexpected tragedy has left her family, colleagues and well-wishers in deep grief.<br><br>
+
+According to reports, the constable experienced severe health complications and was rushed for medical treatment. Despite the efforts of doctors and medical staff, she could not be saved and was declared dead. The news of her passing spread quickly, drawing condolences from people across different regions.<br><br>
+
+While the family was struggling to cope with the loss, they made an inspiring and humanitarian decision. Instead of allowing their grief to define the moment, they chose to donate her organs so that others could receive a second chance at life.<br><br>
+
+Medical experts stated that organ donation can help multiple patients suffering from critical illnesses. The family's decision has been widely appreciated, with many people praising their courage and selflessness during an extremely difficult time.<br><br>
+
+Friends, relatives and fellow security personnel paid tribute to the young constable, remembering her dedication to service and commitment to duty. Many also described her final contribution through organ donation as a noble act that will continue to impact lives even after her passing.<br><br>
+
+The incident has once again highlighted the importance of organ donation awareness in India. Health experts often encourage people to consider organ donation, noting that a single donor can help save several lives.<br><br>
+
+As tributes continue to pour in, the constable's sacrifice and her family's compassionate decision have become a source of inspiration for many, turning a moment of tragedy into a message of hope and humanity.`,
+
+  url: "crpf-constable-dies-heart-attack-family-donates-organs",
+
+  image: "crpf-constable-organ-donation.jpeg",
+
+  category: "viral",
+
+  date: "May 29, 2026"
+},
+
+  {
+  title: "China’s Humanoid Robot Delivers Smartphone In Minutes, Viral Incident Stuns Internet",
+
+  description: "A humanoid robot delivering a smartphone to a customer within minutes in China has gone viral online, highlighting the country’s rapid advancements in autonomous delivery technology.",
+
+  content: `China’s fast-growing robotics industry has once again grabbed global attention after a humanoid robot reportedly delivered a newly ordered smartphone to a customer within minutes in Hangzhou, Zhejiang Province. The unusual delivery incident quickly went viral across social media platforms.<br><br>
+
+According to reports shared online, a young woman placed an order for a smartphone through a live-stream shopping platform. Just over ten minutes later, a humanoid robot allegedly arrived at her location carrying the package, marking a major milestone for autonomous delivery technology in China.<br><br>
+
+The viral incident has reignited discussions about China’s rapidly expanding humanoid robotics industry. Reports suggest that more than 140 domestic robotics manufacturers are currently operating in China, while hundreds of humanoid robot models were introduced during the past year alone.<br><br>
+
+Technology experts believe robot delivery systems are gradually moving beyond industrial and research purposes into real-world public usage. Several Chinese companies have already been testing autonomous delivery systems for food, groceries and online shopping orders in major cities.<br><br>
+
+Social media users reacted with surprise after visuals and details related to the delivery began circulating online. While many users praised the technological advancement, others raised concerns regarding future employment changes, privacy and growing dependence on artificial intelligence-based systems.<br><br>
+
+Industry observers say the development could significantly transform urban logistics and last-mile delivery systems in the coming years. As robotics and AI technology continue evolving rapidly, many experts believe autonomous delivery could soon become a common part of daily life across major global cities.`,
+
+  url: "china-humanoid-robot-smartphone-delivery-viral",
+
+  image: "china-humanoid-robot-phone-delivery.jpeg",
+
+  category: "viral",
+
+  date: "May 29, 2026"
+},
+  {
+  title: "Shaadi.com Founder Anupam Mittal Offers To Sponsor Entire Wedding Of Lucky Winner, Internet Reacts",
+
+  description: "Shaadi.com founder and Shark Tank India judge Anupam Mittal has gone viral after announcing that he would personally sponsor one lucky winner’s wedding expenses using his own credit card.",
+
+  content: `Entrepreneur and Shark Tank India judge Anupam Mittal has become the centre of massive online attention after announcing a unique wedding sponsorship initiative through social media. The Shaadi.com founder’s latest announcement quickly went viral across Instagram and startup communities.<br><br>
+
+According to posts shared online, Anupam Mittal revealed that he would personally sponsor the complete wedding expenses of one lucky winner using his own credit card. Referring to the campaign as “Your Shaadi, My Money,” the announcement instantly grabbed public attention and triggered huge reactions online.<br><br>
+
+The viral announcement was reportedly shared through Mittal’s verified Instagram account, where social media users flooded the comments section with excitement, jokes and curiosity about the contest details. Many users described the campaign as one of the most unexpected and entertaining startup founder moments of the year.<br><br>
+
+Anupam Mittal, widely recognised as the founder of Shaadi.com and one of the popular investors on Shark Tank India, often remains active on social media and startup discussions. His latest announcement further boosted conversations surrounding modern marketing strategies and viral internet campaigns.<br><br>
+
+Several internet users praised the creative promotional idea, while others humorously discussed how expensive weddings have become in India. The campaign also sparked debates around destination weddings, luxury celebrations and the rising costs associated with modern marriages.<br><br>
+
+The viral post continues gaining traction online, with many social media users eagerly waiting for additional details regarding participation rules and the final selection process.`,
+
+  url: "anupam-mittal-sponsors-wedding-viral",
+
+  image: "anupam-mittal-shaadi-wedding-sponsorship.jpeg",
+
+  category: "viral",
+
+  date: "May 29, 2026"
+},
+
+  {
+  title: "Elon Musk’s Viral Warning About Car Startups Resurfaces Online, Sparks Business Debate",
+
+  description: "A resurfaced statement by Tesla CEO Elon Musk about the extreme difficulty of building a successful car company has once again gone viral across social media platforms.",
+
+  content: `Tesla CEO Elon Musk is once again trending online after an older statement about the automobile industry resurfaced across social media platforms. The viral quote reignited discussions about the challenges involved in building and sustaining a successful car company.<br><br>
+
+In the resurfaced statement, Elon Musk reportedly said that anyone who believes starting a car company is easy is “a fool,” highlighting the intense financial and operational pressure faced by automobile manufacturers. The quote quickly gained attention among entrepreneurs, startup founders and business communities online.<br><br>
+
+Musk has previously explained that the automobile sector remains one of the toughest industries globally due to manufacturing costs, supply chain management, research investments and the difficulty of maintaining positive cash flow. According to the viral discussion, Musk claimed that Ford and Tesla are among the very few American car companies that managed to avoid bankruptcy over the years.<br><br>
+
+The resurfaced clip and quotes triggered major reactions online, with many users praising Tesla’s survival journey while others debated Musk’s leadership style and controversial business decisions. Several startup founders also shared the quote while discussing the harsh realities of entrepreneurship and scaling manufacturing businesses.<br><br>
+
+Industry experts often describe the automotive sector as highly competitive because companies must manage technology, logistics, regulations, production and consumer demand simultaneously. Electric vehicle competition has further intensified pressure on both traditional and emerging car manufacturers worldwide.<br><br>
+
+The viral statement once again reflects how Elon Musk’s comments continue influencing online business conversations, especially among technology enthusiasts and startup communities closely following Tesla and the future of electric mobility.`,
+
+  url: "elon-musk-car-startup-warning-viral",
+
+  image: "elon-musk-tesla-car-company-warning.jpeg",
+
+  category: "viral",
+
+  date: "May 29, 2026"
+},
+
+  {
+  title: "Google’s Gemini Omni AI Video Tool Goes Viral, Internet Calls It ‘Future Of Content Creation’",
+
+  description: "Google’s newly launched Gemini Omni AI model is creating massive online buzz after demonstrations showcased its ability to generate and edit videos through simple conversations.",
+
+  content: `Google has once again captured global attention after unveiling Gemini Omni, a next-generation artificial intelligence model designed to generate and edit videos using natural conversations. The AI tool quickly became one of the most talked-about technology launches following Google I/O 2026.<br><br>
+
+According to reports, Gemini Omni allows users to create and modify videos using combinations of text prompts, images, audio clips and existing footage. The technology is designed to simplify content creation through conversational AI interactions rather than traditional editing methods.<br><br>
+
+The launch triggered major reactions across social media after demonstration videos showcased highly realistic AI-generated visuals. Many internet users described the technology as revolutionary, while others expressed concern about how AI-generated media could blur the line between reality and digital creation.<br><br>
+
+Google reportedly introduced the first version, Gemini Omni Flash, across several products including the Gemini app, Google Flow and YouTube Shorts. Reports also suggested that the company added invisible SynthID watermarking to identify AI-generated content and improve transparency.<br><br>
+
+Industry experts believe Gemini Omni could directly compete with advanced AI video generation platforms developed by companies such as OpenAI and Adobe. Analysts have described the launch as a potentially major turning point for digital video production and online content ecosystems.<br><br>
+
+The viral discussions surrounding Gemini Omni also reignited debates about artificial intelligence ethics, misinformation risks and the future of creative jobs in media industries. Despite concerns, many creators and technology enthusiasts praised the tool’s powerful capabilities and future potential.`,
+
+  url: "google-gemini-omni-ai-video-tool-viral",
+
+  image: "google-gemini-omni-ai-video.jpeg",
+
+  category: "viral",
+
+  date: "May 29, 2026"
+},
+
+  {
+  title: "Elon Musk Predicts Tesla Cars Will Soon Drive Passengers Automatically While They Sleep",
+
+  description: "Tesla CEO Elon Musk has once again sparked massive discussion online after claiming that fully autonomous Tesla cars could soon allow passengers to sleep during journeys and wake up at their destination.",
+
+  content: `Tesla CEO Elon Musk has gone viral once again after making bold claims regarding the future of autonomous driving technology. The billionaire entrepreneur stated that Tesla vehicles could soon allow passengers to sleep during travel while the car automatically drives them to their destination.<br><br>
+
+According to reports, Musk said during an interview that hundreds of thousands — and possibly more than a million — Tesla vehicles may operate using advanced full self-driving capabilities in the United States by the end of 2026. The statement quickly triggered huge reactions across technology and automobile communities online.<br><br>
+
+Musk reportedly explained that future Tesla systems could become advanced enough for passengers to avoid paying attention to the road entirely, allowing them to relax or sleep during journeys before waking up at their destination automatically. The announcement is being viewed as part of Tesla’s larger push toward robotaxi and autonomous mobility systems.<br><br>
+
+Reports also highlighted Tesla’s growing focus on self-driving infrastructure, including ongoing robotaxi testing initiatives in parts of the United States. The company has been working aggressively on AI-powered driving technology, cameras, sensors and automated navigation systems for several years.<br><br>
+
+The viral claim generated mixed reactions online. While many Tesla supporters praised the technological ambition and future possibilities, critics raised concerns regarding road safety, government regulations and the reliability of fully autonomous driving systems in real-world conditions.<br><br>
+
+Experts believe self-driving technology could eventually transform transportation, urban mobility and logistics industries globally. However, large-scale deployment still faces legal, technical and public trust challenges before becoming fully mainstream.`,
+
+  url: "elon-musk-tesla-self-driving-sleep-claim",
+
+  image: "elon-musk-tesla-autonomous-driving.jpeg",
+
+  category: "viral",
+
+  date: "May 29, 2026"
+},
+
+  {
+  title: "Delhi Traffic Police Introduces Solar-Powered AC Helmets Amid Extreme Heatwave",
+
+  description: "Delhi Traffic Police has started testing solar-assisted AC helmets and portable cooling devices for officers working under intense summer heat as temperatures cross 45 degrees Celsius in the capital.",
+
+  content: `Delhi Traffic Police has launched a new pilot initiative aimed at protecting traffic personnel from extreme summer temperatures by introducing solar-powered AC helmets and portable cooling devices. The move has quickly gained attention online as Delhi continues facing severe heatwave conditions.<br><br>
+
+According to reports, the specially designed helmets are capable of reducing internal temperature levels by nearly 8 to 12 degrees Celsius. Traffic officers stationed at busy roads and high-congestion areas have reportedly started using the cooling equipment during duty hours.<br><br>
+
+Apart from solar-assisted AC helmets, authorities have also introduced battery-operated handheld fans, portable ventilators and collar cooling devices for traffic personnel working under direct sunlight. Reports suggested that chilled drinking water and ORS packets are also being distributed regularly to help officers stay hydrated during long outdoor shifts.<br><br>
+
+The pilot project is currently being observed at several major traffic junctions and roundabouts across Delhi NCR, where temperatures recently crossed 45 degrees Celsius. Officials are reportedly monitoring the effectiveness of the equipment before considering a larger citywide rollout.<br><br>
+
+Social media users reacted positively after visuals of officers wearing the cooling helmets began circulating online. Many users praised the initiative and described it as an important step toward improving working conditions for frontline traffic personnel during dangerous heatwave periods.<br><br>
+
+Experts believe extreme weather conditions are forcing cities across India to explore innovative solutions for outdoor workers, especially police officers, construction workers and public service employees who spend long hours exposed to direct heat.`,
+
+  url: "delhi-traffic-police-solar-ac-helmets-heatwave",
+
+  image: "delhi-police-solar-ac-helmet.jpeg",
+
+  category: "viral",
+
+  date: "May 29, 2026"
+},
+
+  {
+  title: "‘Pinjara’ Song From Bobby Deol’s ‘Bandar’ Creates Buzz Online After Saregama Release",
+
+  description: "The newly released track ‘Pinjara’ from the upcoming film ‘Bandar’ has started trending online, with fans praising Bobby Deol’s intense look and Amit Trivedi’s emotional composition.",
+
+  content: `Music label Saregama Music has officially released the song ‘Pinjara’ from the upcoming film ‘Bandar’, and the track is already creating strong buzz across social media platforms. Featuring Bobby Deol in an intense avatar, the emotional track quickly grabbed attention from cinema and music lovers online.<br><br>
+
+The song has been sung by popular composer and singer Amit Trivedi, while the project also features artists including Sudip Sharma, Sanya Malhotra, Sapna and several other contributors connected to the film. Within hours of release, the track collected massive views and engagement across YouTube and social media platforms.<br><br>
+
+According to the song description shared by Saregama Music, ‘Pinjara’ explores themes of emotions, obsession and chaos, matching the intense tone associated with the film ‘Bandar’. Fans online particularly praised the haunting visuals, emotional composition and Bobby Deol’s serious screen presence in the promotional video.<br><br>
+
+Social media users flooded the comments section with reactions shortly after the release. Many listeners appreciated Amit Trivedi’s musical style and described the song as emotionally powerful and cinematic. Several users also expressed excitement for the film’s theatrical release scheduled for June 5.<br><br>
+
+Bobby Deol has recently been enjoying a major resurgence in popularity following several successful performances and viral appearances in intense roles. The release of ‘Pinjara’ has further increased anticipation surrounding ‘Bandar’ among movie audiences and music fans alike.<br><br>
+
+As the song continues trending online, entertainment followers are now closely watching how the film’s promotions and soundtrack perform ahead of its official release in theatres worldwide.`,
+
+  url: "pinjara-song-bandar-bobby-deol-release",
+
+  image: "pinjara-song-bandar-bobby-deol.jpeg",
+
+  category: "film",
+
+  date: "May 29, 2026"
+},
+
+  {
+  title: "Three Youths Arrested After Alleged Harassment Incident Near Waterfall In Karnataka’s Belthangady",
+
+  description: "Police in Karnataka’s Belthangady reportedly arrested three youths after an alleged harassment incident involving college students near Didupe waterfall triggered public outrage online.",
+
+  content: `A police case has reportedly been registered in Karnataka’s Dakshina Kannada district after an alleged harassment incident involving three college students near Didupe waterfall in Belthangady surfaced online and triggered strong public reactions.<br><br>
+
+According to reports circulating on social media, three young women studying at a private college in Mangaluru had reportedly travelled to the Didupe waterfall area along with three youths identified as Abdul Altaf, Faizal Adil and Usman Salim. During the outing, the accused allegedly misbehaved with and harassed the women.<br><br>
+
+Reports claimed the incident took place on May 20 when the group visited the tourist location in Belthangady taluk. Following the alleged harassment, the women reportedly raised objections and shouted for help, attracting the attention of people nearby. Local residents and bystanders allegedly intervened and informed the police about the situation.<br><br>
+
+Belthangady police later reportedly took the three accused into custody and rescued the women involved in the incident. Authorities are said to have registered a formal case and also seized the vehicle allegedly used by the accused during the trip.<br><br>
+
+The incident quickly spread across social media platforms, where users expressed concern regarding women’s safety at tourist destinations and demanded strict legal action in such cases. Several online discussions also focused on public security and safety measures in isolated tourist areas.<br><br>
+
+Police officials have not yet released complete official details regarding the investigation, while further inquiry into the incident is reportedly ongoing.`,
+
+  url: "belthangady-waterfall-harassment-case-karnataka",
+
+  image: "belthangady-waterfall-harassment-incident.jpeg",
+
+  category: "viral",
+
+  date: "May 29, 2026"
+},
+
+  {
   title: "Netflix Faces Backlash Over AI Use In Squid Game Promo, Social Media Reacts Strongly",
 
   description: "Streaming giant Netflix has landed in controversy after social media users alleged that AI-generated visuals were used in a recent promotional campaign linked to Squid Game.",
