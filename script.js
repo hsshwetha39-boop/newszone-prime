@@ -73,6 +73,200 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Aneet Padda Wraps ‘Shakti Shalini’ as Dark Bengali Folklore Twist Comes to Light",
+
+  description: "The makers of ‘Shakti Shalini’ have completed filming for the upcoming horror-comedy, with new details revealing Aneet Padda in a powerful double role rooted in Bengali folklore, revenge and supernatural mystery.",
+
+  content: `Maddock Films’ upcoming horror-comedy ‘Shakti Shalini’ has officially completed its final shooting schedule, with fresh details about the film’s dark storyline generating excitement among fans of the studio’s expanding horror universe.
+
+According to reports, the film is deeply inspired by Bengali folklore and mythology, blending horror, revenge drama and supernatural elements. Actress Aneet Padda will be seen in a challenging double role, portraying two contrasting characters named Shakti and Shalini. Reports suggest that the conflict between these two characters forms the central theme of the story. :contentReference[oaicite:0]{index=0}
+
+Shakti is described as an ordinary woman who gradually transforms into a protector, while Shalini is portrayed as a vengeful spirit who returns after suffering betrayal and a tragic death. Their eventual confrontation is expected to drive the film’s supernatural narrative. :contentReference[oaicite:1]{index=1}
+
+Directed by Aditya Sarpotdar, the movie recently wrapped up its final schedule at Chitrarth Studio in Powai, Mumbai. The climax reportedly featured an elaborate sequence centered on the defeat of evil, with large sets recreating village environments and dramatic supernatural scenes. :contentReference[oaicite:2]{index=2}
+
+The production team also shot important portions across Rajasthan and Madhya Pradesh, including locations such as Chambal, Morena, Gwalior, Datia and Dholpur. Actor Viineet Kumar Singh reportedly plays the antagonist, while Vishal Jethwa also features in a key role. Veteran actors Nana Patekar and Seema Biswas joined the cast during later schedules. :contentReference[oaicite:3]{index=3}
+
+‘Shakti Shalini’ is part of Maddock Films’ growing horror-comedy universe, which includes popular titles such as ‘Stree’, ‘Bhediya’ and ‘Munjya’. The film is expected to expand the franchise with a darker folklore-driven storyline and a stronger supernatural backdrop. :contentReference[oaicite:4]{index=4}
+
+With filming now complete, the movie is moving into post-production. Industry reports indicate that the makers are targeting a theatrical release in late 2026 or early 2027, depending on scheduling decisions. :contentReference[oaicite:5]{index=5}`,
+
+  url: "aneet-padda-wraps-shakti-shalini-bengali-folklore-dark-twist",
+
+  image: "shakti-shalini-aneet-padda-double-role.jpeg",
+
+  category: "film",
+
+  date: "May 30, 2026"
+},
+
+  {
+  title: "Actor Sayaji Shinde Plants Over 6.5 Lakh Trees to Fulfill Promise Made to His Mother",
+
+  description: "Veteran actor Sayaji Shinde has earned praise for an environmental mission that reportedly began with a promise to his mother. What started as a pledge to plant 5,000 trees has grown into an initiative responsible for nurturing more than 6.5 lakh trees across Maharashtra.",
+
+  content: `Known for portraying powerful and often villainous characters on screen, actor Sayaji Shinde has emerged as a real-life environmental champion through his large-scale tree plantation efforts across Maharashtra.
+
+According to reports, Shinde made a heartfelt promise to his mother during her final days that he would plant 5,000 trees in her memory. Determined to honor that commitment, he began working towards the goal, but eventually expanded the mission far beyond his original pledge.
+
+Through the Sahyadri Devrayi initiative, the actor has reportedly helped plant and nurture more than 6.5 lakh native trees across different parts of Maharashtra. The project focuses on restoring natural ecosystems, increasing green cover and supporting biodiversity in the region.
+
+Instead of building monuments or memorials, Shinde chose to create a living legacy by planting species such as banyan, peepal and tamarind trees. Environmental supporters say such native trees play an important role in maintaining ecological balance and providing long-term benefits to communities.
+
+The initiative has received appreciation from environmentalists and citizens alike, with many praising the actor for turning a personal promise into a movement that benefits nature and future generations.
+
+Sayaji Shinde's journey serves as a reminder that meaningful change often begins with a simple commitment. His efforts continue to inspire people to contribute towards environmental conservation and leave behind a positive impact on society.`,
+
+  url: "sayaji-shinde-plants-6-5-lakh-trees-maharashtra",
+
+  image: "sayaji-shinde-tree-plantation.jpeg",
+
+  category: "film",
+
+  date: "May 30, 2026"
+},
+
+  {
+  title: "CBI Arrests Former Judge Giribala Singh in Twisha Sharma Death Case",
+
+  description: "The Central Bureau of Investigation (CBI) has arrested former judge Giribala Singh in connection with the high-profile Twisha Sharma death case after intensifying its probe and conducting a crime scene reconstruction exercise.",
+
+  content: `The investigation into the death of Twisha Sharma has taken a significant turn with the Central Bureau of Investigation (CBI) arresting former judge Giribala Singh. The arrest comes after the agency intensified its probe into the high-profile case and carried out a detailed crime scene reconstruction exercise.
+
+According to reports, investigators recreated the sequence of events surrounding Twisha Sharma's death in an effort to verify statements and gather additional evidence. Samarth Singh and Giribala Singh were reportedly present during the reconstruction process as CBI officials examined various aspects of the case.
+
+Sources claim that Samarth Singh participated in the recreation of the incident before investigators. The exercise was aimed at helping officials better understand the circumstances leading to Twisha Sharma's death and to cross-check information collected during the investigation.
+
+Following the developments, the CBI reportedly sought the cancellation of Giribala Singh's bail. After several hours of questioning and interrogation at her residence, officials arrested her and placed her in judicial custody for further investigation.
+
+The case has attracted widespread public attention since Twisha Sharma's death on May 12. The incident sparked debates on social media and generated demands for a thorough and impartial investigation into the circumstances surrounding her death.
+
+Investigators are continuing to examine evidence, witness statements and forensic findings as part of the ongoing probe. The CBI has not yet disclosed all details of its findings, stating that the investigation remains active.
+
+The arrest of Giribala Singh marks a major development in the case and is expected to play an important role in the next phase of the investigation. Authorities have indicated that further legal proceedings and questioning may follow as they work to establish the full sequence of events related to Twisha Sharma's death.`,
+
+  url: "twisha-sharma-death-case-giribala-singh-arrested-cbi",
+
+  image: "twisha-sharma-case-giribala-singh-arrest.jpeg",
+
+  category: "india",
+
+  date: "May 30, 2026"
+},
+
+  {
+  title: "Tanveer Ahmed's Remarks on Vaibhav Suryavanshi Spark Debate Among Cricket Fans",
+
+  description: "Comments attributed to former Pakistan cricketer Tanveer Ahmed regarding young Indian batting sensation Vaibhav Suryavanshi have triggered discussion across social media, with fans divided over his assessment of the teenager's aggressive style of play.",
+
+  content: `A statement attributed to former Pakistan cricketer Tanveer Ahmed about rising Indian cricket talent Vaibhav Suryavanshi has generated significant discussion among cricket fans on social media.
+
+According to posts circulating online, Ahmed questioned the young batter's aggressive approach and suggested that Suryavanshi should allow himself more time to settle and develop his game. He reportedly warned that a lack of patience could shorten the youngster's career and prevent him from achieving long-term success at the highest level.
+
+Vaibhav Suryavanshi has emerged as one of the most talked-about young cricketers in recent months, earning praise for his fearless batting and ability to score quickly against quality opposition. His performances have attracted attention from cricket experts, former players and fans across the world.
+
+The remarks attributed to Ahmed quickly sparked mixed reactions online. While some cricket followers agreed that young players need time to build a strong technical foundation and adapt to international-level competition, others defended Suryavanshi's attacking style, arguing that modern cricket rewards aggressive intent and fearless stroke play.
+
+Several fans also pointed out that many successful contemporary cricketers have built their careers around attacking cricket, making comparisons with established stars known for their aggressive batting approaches.
+
+As discussions continue, neither Suryavanshi nor his representatives have publicly responded to the comments. The debate has nevertheless highlighted the contrasting views that often emerge regarding the development of young sporting talents and the balance between aggression and consistency.
+
+With his career still in its early stages, cricket observers believe Suryavanshi's future progress will ultimately depend on his ability to adapt, learn and perform consistently across different formats and conditions. For now, the young batter remains one of the most closely watched prospects in Indian cricket.`,
+
+  url: "tanveer-ahmed-comments-vaibhav-suryavanshi-cricket-debate",
+
+  image: "vaibhav-suryavanshi-tanveer-ahmed-comments.jpeg",
+
+  category: "sports",
+
+  date: "May 30, 2026"
+},
+
+  {
+  title: "LeT Deputy Chief's Remarks on Israel Recognition Trigger Political Debate in Pakistan",
+
+  description: "Comments attributed to Lashkar-e-Taiba deputy chief Saifullah Kasuri regarding Pakistan's potential recognition of Israel have sparked discussion and renewed attention on the country's internal political and security challenges.",
+
+  content: `Remarks attributed to Saifullah Kasuri, identified in reports as a deputy chief of the Pakistan-based militant group Lashkar-e-Taiba (LeT), have generated controversy and debate after a video of a public address circulated online.<br><br>
+
+According to claims shared on social media and various online platforms, Kasuri warned Pakistan's leadership against any move toward recognizing Israel. The comments were reportedly made during a public gathering attended by supporters and have since drawn widespread attention across the region.<br><br>
+
+The reported remarks were allegedly directed at Pakistan's top civilian and military leadership, including Prime Minister Shehbaz Sharif and Army Chief General Asim Munir. The statements have fueled discussions about the influence of extremist organizations and their role in shaping public discourse within Pakistan.<br><br>
+
+The issue comes amid recurring speculation over whether Pakistan could reconsider its longstanding policy regarding diplomatic recognition of Israel. Pakistan currently does not maintain formal diplomatic relations with Israel and has traditionally linked any policy shift to developments surrounding the Palestinian issue.<br><br>
+
+Security analysts and political observers have noted that statements from individuals associated with banned or militant organizations often attract significant attention because of their potential impact on regional stability and domestic politics. The latest controversy has reignited conversations about extremism, counterterrorism efforts and the challenges faced by authorities in addressing radical narratives.<br><br>
+
+The video and related claims continue to circulate online, prompting reactions from political commentators, security experts and social media users. However, official responses regarding the remarks and their broader implications remain limited at the time of writing.<br><br>
+
+The incident has once again highlighted the sensitive nature of Pakistan's foreign policy discussions, particularly on issues involving Israel, regional geopolitics and national security.`,
+
+  url: "let-deputy-chief-remarks-israel-recognition-pakistan-debate",
+
+  image: "saifullah-kasuri-israel-recognition-remarks.jpeg",
+
+  category: "viral",
+
+  date: "May 30, 2026"
+},
+
+  {
+  title: "Nashik Woman Arrested in Alleged Religious Conversion Network Case; Probe Underway",
+
+  description: "A woman identified as Nida Khan has been arrested in Nashik as authorities investigate allegations related to religious conversion activities and suspected links with multiple organizations. Officials are examining digital devices and online communications as part of the ongoing probe.",
+
+  content: `A woman identified as Nida Khan was arrested in Nashik, Maharashtra, following an investigation into alleged religious conversion activities. The case has attracted significant public attention after claims regarding the contents of her electronic devices circulated widely on social media.<br><br>
+
+According to reports, investigators seized digital devices, including a laptop and mobile phones, during the course of the operation. Authorities are examining the devices and communication records to determine the nature and extent of her alleged activities.<br><br>
+
+Social media posts have claimed that contacts linked to numerous organizations were discovered during the investigation. However, officials have not publicly confirmed all of the claims circulating online, and the findings remain subject to verification as the probe continues.<br><br>
+
+Investigators are also reportedly examining online communications and video interactions allegedly connected to individuals and groups located outside India. Authorities are working to establish whether any unlawful activities were conducted through these networks.<br><br>
+
+Law enforcement agencies stated that the investigation is ongoing and that all evidence recovered from electronic devices will undergo detailed forensic analysis. Officials have urged the public to avoid spreading unverified information until the inquiry is completed.<br><br>
+
+The case has sparked widespread debate on social media, with users expressing concerns over issues related to religious conversion, online radicalization and digital communication networks. Political and social groups have also reacted strongly to the developments.<br><br>
+
+Authorities have emphasized that the allegations are currently under investigation and that legal proceedings will be based on evidence collected during the probe. Further details are expected to emerge as investigators continue their examination of the case.`,
+
+  url: "nashik-woman-arrested-alleged-religious-conversion-network-probe",
+
+  image: "nashik-woman-arrested-alleged-religious-conversion.jpeg",
+
+  category: "viral",
+
+  date: "May 30, 2026"
+},
+
+  {
+  title: "FIR Filed Against Mamata Banerjee Over Controversial 'Ganda Dharam' Remark at Eid Event",
+
+  description: "West Bengal Chief Minister Mamata Banerjee has landed in controversy after remarks made during an Eid gathering were interpreted as referring to Hinduism as a 'ganda dharam'. The statement has triggered political backlash and an FIR has reportedly been filed against her.",
+
+  content: `West Bengal Chief Minister and Trinamool Congress chief Mamata Banerjee has found herself at the center of a political controversy following comments made during an Eid-related public event in the state. The remarks, which quickly went viral on social media, have sparked criticism from political opponents and various groups.<br><br>
+
+According to posts circulating online, Banerjee stated that she does not believe in the "ganda dharm" created by what she referred to as the "Jumla Party." Supporters of the Chief Minister have argued that the remark was directed at political ideology and divisive politics rather than any religion itself. However, critics interpreted the statement differently, leading to widespread outrage on social media.<br><br>
+
+The controversy intensified after several social media accounts and political commentators claimed that the statement was an insult to Hinduism and Sanatana Dharma. Images and clips from the event were widely shared online, prompting strong reactions from various sections of the public.<br><br>
+
+Amid the growing debate, reports emerged that an FIR had been filed against Banerjee, alleging criminal intimidation and objectionable remarks. The legal complaint has further fueled political discussions, with opposition leaders demanding action and clarification regarding the statement.<br><br>
+
+The issue has also become a major talking point in West Bengal's political landscape, with supporters and critics offering sharply different interpretations of what was said during the event. While opponents accused the Chief Minister of disrespecting Hindu sentiments, her supporters maintained that the comments were aimed at a political party rather than any religious community.<br><br>
+
+As the controversy continues to unfold, officials have not yet issued detailed information regarding the progress of the FIR or any potential legal proceedings. Meanwhile, the debate surrounding the remarks remains active across social media and political circles.<br><br>
+
+The incident once again highlights how political speeches and public statements can quickly become subjects of national discussion, especially when issues involving religion and politics intersect.`,
+
+  url: "fir-filed-mamata-banerjee-ganda-dharam-remark-eid-event",
+
+  image: "mamata-banerjee-ganda-dharam-controversy.jpeg",
+
+  category: "politics",
+
+  date: "May 30, 2026"
+},
+
+ {
   title: "Ankita Lokhande Trolled for Wearing Hijab During Abu Dhabi Mosque Visit with Vicky Jain",
 
   description: "Television actress Ankita Lokhande faced online criticism after sharing photos from her Abu Dhabi mosque visit with husband Vicky Jain. The pictures sparked a debate on social media, with many users defending her for respecting local customs.",
