@@ -73,6 +73,90 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Viral High-Rise Video Sparks Speculation, Raises Serious Safety Concerns",
+
+  description: "A viral video showing an elderly man leaning dangerously out of a high-rise apartment window while holding a mobile phone has triggered widespread discussion online. Social media users speculated about his intentions, but no evidence has emerged confirming any wrongdoing.",
+
+  content: `A video circulating widely on social media has sparked debate and concern after showing an elderly man leaning far outside a high-rise apartment window while holding a mobile phone. The footage, which appears to have been recorded from a nearby building, has drawn attention due to the extreme risk involved.
+
+In the video, the man can be seen extending his body outside the window and reaching toward a neighboring section of the apartment complex. The unusual scene led some social media users to speculate that he may have been attempting to observe or record activities inside nearby flats.
+
+However, no verified information has emerged regarding the man's actual intentions. At present, there is no evidence confirming that he was spying on neighboring residents or engaging in any unlawful activity. The claims circulating online remain based largely on speculation.
+
+While opinions on social media remain divided, many viewers have focused less on the allegations and more on the apparent danger of the act itself. Several users expressed concern that a single slip at such a height could have resulted in a fatal accident.
+
+The viral footage has also reignited discussions about safety in high-rise residential buildings. Experts often warn against risky behavior near windows and balconies, particularly in multi-storey apartment complexes where falls can have devastating consequences.
+
+As the video continues to spread online, the circumstances behind the incident remain unclear. No official statement or investigation confirming wrongdoing has been reported so far. Until verified information becomes available, the incident remains a subject of public curiosity rather than a confirmed case of surveillance or misconduct.
+
+Authorities and safety advocates have urged people not to jump to conclusions based solely on viral clips and to avoid sharing unverified allegations. The incident serves as a reminder of both the power of social media speculation and the importance of personal safety in residential buildings.`,
+
+  url: "viral-high-rise-video-sparks-speculation-safety-concerns",
+
+  image: "high-rise-viral-video.jpeg",
+
+  category: "viral",
+
+  date: "May 31, 2026"
+},
+
+  {
+  title: "Dallas Neighbor Dispute Ends in Double Murder, Elderly Man Sentenced to Life in Prison",
+
+  description: "A long-running neighborhood dispute in Dallas, Texas, escalated into a fatal shooting that left two people dead. Authorities said years of complaints and growing tensions between neighbors ultimately culminated in a double murder case that shocked the community.",
+
+  content: `A tragic neighborhood dispute in Dallas, Texas, turned deadly after a long-standing conflict between residents escalated into a double murder. The case involved 75-year-old Chung Kim and his upstairs neighbors, Michelle Jackson and her boyfriend, Jamie Stafford.
+
+According to court records and reports, tensions had been building for months over sanitation concerns at the apartment complex. Kim allegedly complained that waste and urine from a dog kept by his upstairs neighbors regularly fell onto his patio area. He also claimed that dirty diapers were being thrown from the balcony onto his property, creating what he described as an unbearable living situation.
+
+Kim reportedly documented the conditions and filed complaints with multiple authorities, including the homeowners association, local health officials and law enforcement agencies. However, the dispute remained unresolved, leading to continued frustration between the neighbors.
+
+On February 4, 2013, the situation took a violent turn. Prosecutors stated that Kim armed himself with a handgun and confronted the couple. During the incident, Michelle Jackson was fatally shot on her balcony, while Jamie Stafford was later pursued and also shot dead.
+
+Following his arrest, Kim argued during trial that he acted in self-defense. Prosecutors, however, maintained that the shootings were deliberate and not justified under the circumstances. After reviewing the evidence, a Dallas jury rejected the self-defense claim and found him guilty of capital murder.
+
+The court subsequently sentenced Chung Kim to life imprisonment without the possibility of parole. The case drew widespread attention across the United States because of the unusual circumstances surrounding the dispute and the tragic consequences that followed.
+
+Legal experts and community leaders later pointed to the case as an example of how unresolved neighborhood conflicts can escalate if tensions continue to grow without effective intervention. The incident remains one of the most widely discussed neighbor-dispute homicide cases in recent Dallas history.`,
+
+  url: "dallas-neighbor-dispute-double-murder-chung-kim-case",
+
+  image: "chung-kim-dallas-neighbor-dispute.jpeg",
+
+  category: "viral",
+
+  date: "May 31, 2026"
+},
+
+  {
+  title: "Naga Chaitanya Moves Delhi High Court Against AI-Generated Divorce Claims",
+
+  description: "Actor Naga Chaitanya has approached the Delhi High Court seeking protection against AI-generated and manipulated online content that allegedly spreads false claims regarding his divorce from Samantha Ruth Prabhu.",
+
+  content: `Actor Naga Chaitanya has taken legal action against the spread of allegedly false and defamatory content related to his personal life. According to reports, the actor has approached the Delhi High Court seeking protection from AI-generated, manipulated and misleading content circulating online about his divorce from actress Samantha Ruth Prabhu.
+
+The legal move comes amid the growing circulation of videos, posts and articles that reportedly link the couple's separation to unverified claims and fabricated narratives. Chaitanya's legal team has argued that several platforms and content creators have been spreading misinformation primarily to attract traffic and engagement.
+
+Sources indicate that the petition seeks action against the publication and distribution of AI-generated material that allegedly misrepresents facts and damages the actor's reputation. The filing also raises concerns about the misuse of artificial intelligence tools to create misleading content involving public figures.
+
+Naga Chaitanya and Samantha Ruth Prabhu announced their separation in 2021 after years of marriage. Since then, various rumors and speculative reports have continued to circulate on social media despite the absence of official confirmation regarding many of the claims.
+
+The actor's legal representatives have emphasized that false narratives not only affect the individuals involved but also contribute to the growing problem of digital misinformation. They have urged authorities to take appropriate measures against defamatory content and unauthorized AI-generated material.
+
+The case highlights increasing concerns within the entertainment industry over the use of artificial intelligence to create manipulated images, videos and stories that can rapidly spread across digital platforms. Legal experts believe the outcome of the matter could have wider implications for protecting celebrities and individuals from online misinformation.
+
+The Delhi High Court is expected to examine the petition and determine the appropriate legal remedies regarding the circulation of the disputed content.`,
+
+  url: "naga-chaitanya-delhi-high-court-ai-generated-divorce-claims",
+
+  image: "naga-chaitanya-ai-content-divorce-case.jpeg",
+
+  category: "film",
+
+  date: "May 31, 2026"
+},
+
+  {
   title: "Aneet Padda Wraps ‘Shakti Shalini’ as Dark Bengali Folklore Twist Comes to Light",
 
   description: "The makers of ‘Shakti Shalini’ have completed filming for the upcoming horror-comedy, with new details revealing Aneet Padda in a powerful double role rooted in Bengali folklore, revenge and supernatural mystery.",
