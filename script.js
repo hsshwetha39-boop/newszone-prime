@@ -73,6 +73,166 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Ram Charan Jokes About Viral Fame of Bodyguard Kevin Kunta: ‘I’m Not Letting Him Go Out’",
+
+  description: "Telugu superstar Ram Charan has reacted to the growing popularity of his bodyguard Kevin Kunta, who has become a social media sensation during the promotions of ‘Peddi’. The actor jokingly said he is no longer allowing Kevin to go out because of his newfound fame.",
+
+  content: `Actor Ram Charan is currently busy promoting his much-awaited pan-India film ‘Peddi’, but surprisingly, one of the biggest talking points surrounding the promotional tour has not been the film itself. Instead, it has been his bodyguard Kevin Kunta, who has gone viral across social media platforms for his imposing appearance and strong screen presence during public events.<br><br>
+
+Over the past few weeks, photos and videos of Kevin accompanying Ram Charan at airports, promotional events and public appearances have flooded the internet. Fans quickly became curious about the security professional, with many searching for information about his background and career. The unexpected attention eventually turned Kevin into a social media celebrity in his own right.<br><br>
+
+Responding to the buzz during a recent promotional interview, Ram Charan addressed the popularity of his bodyguard with his trademark sense of humor. The actor jokingly remarked that the media and fans had made Kevin so famous that he was no longer allowing him to step outside freely. Ram Charan laughed that people might try to offer him chocolates and biscuits in exchange for information about him, turning Kevin into an accidental celebrity.<br><br>
+
+The actor also revealed that Kevin has been working closely with him and his family for nearly four years. According to Ram Charan, the bodyguard has accompanied them during family outings and public appearances, becoming a trusted member of their security team. His long association with the actor has helped him earn the trust of the entire family.<br><br>
+
+Kevin Kunta is reportedly an international mixed martial arts (MMA) fighter originally from Gambia in West Africa and is currently based in Florence, Italy. His professional fighting background and physical fitness have contributed significantly to his reputation as an elite security professional. Reports suggest that his expertise in combat sports played a key role in his selection for high-profile celebrity protection assignments.<br><br>
+
+The viral attention surrounding Kevin has led to widespread discussions online. Many social media users compared him to action movie characters, while others praised his disciplined and professional demeanor. Several fan pages dedicated to Ram Charan even began sharing exclusive posts and edits focused entirely on the bodyguard.<br><br>
+
+Adding to the curiosity, reports circulating online claimed that Kevin receives between ₹2 lakh and ₹4 lakh per day for high-profile security assignments. Although these figures have not been officially confirmed, they have contributed to the growing fascination surrounding his role and professional career.<br><br>
+
+Meanwhile, Ram Charan continues to focus on the release of ‘Peddi’, one of the most anticipated Telugu films of the year. The film features an ensemble cast including Janhvi Kapoor and Shiva Rajkumar and is scheduled for a theatrical release in June. Despite the excitement surrounding the movie, Kevin Kunta's unexpected rise to internet fame has become an entertaining side story during the promotional campaign.<br><br>
+
+While celebrity bodyguards usually stay away from the spotlight, Kevin Kunta's case has been quite different. Without giving interviews or seeking attention, he has managed to become one of the most talked-about personalities associated with Ram Charan's promotional tour. As fans continue sharing his photos and videos online, Kevin's popularity shows no signs of slowing down anytime soon.`,
+
+  url: "ram-charan-reacts-bodyguard-kevin-kunta-viral-fame",
+
+  image: "ram-charan-bodyguard-kevin-kunta-viral.jpeg",
+
+  category: "film",
+
+  date: "June 2, 2026"
+},
+
+  {
+  title: "Raveena Tandon’s Mother Loses Jewellery Worth ₹25 Lakh, Trusted Aide Arrested In Theft Case",
+
+  description: "A close aide of veteran actress Raveena Tandon’s family has been arrested after jewellery worth nearly ₹25 lakh reportedly went missing from her mother’s residence. Police investigations revealed that the accused had allegedly been trusted by the family for several years.",
+
+  content: `A shocking theft case involving the family of Bollywood actress Raveena Tandon has come to light after jewellery worth approximately ₹25 lakh was allegedly stolen from the residence of her mother, Veena Tandon. The incident has attracted widespread attention due to the alleged involvement of a trusted aide who had been associated with the family for several years.<br><br>
+
+According to reports, the missing jewellery included several valuable ornaments and family possessions that were kept inside the residence. The theft reportedly came to light after family members noticed that multiple items were missing and informed the authorities. Following the complaint, police launched an investigation to trace the missing valuables and identify those responsible.<br><br>
+
+During the course of the investigation, suspicion reportedly fell on a woman who had been working closely with the family and had access to the residence. Authorities conducted inquiries and gathered evidence before taking the accused into custody. Police officials later confirmed that the woman had been arrested in connection with the case and further investigation was underway.<br><br>
+
+Investigators believe that the accused may have taken advantage of the trust placed in her by the family. Reports suggest that she had been associated with the household for a considerable period, making it easier for her to move around the residence without raising suspicion. Police are now examining whether the theft was carried out alone or if additional individuals were involved.<br><br>
+
+Officials have reportedly recovered a portion of the stolen valuables and are continuing efforts to trace the remaining jewellery. Authorities are also reviewing financial transactions and communication records connected to the accused to determine if there were any prior plans behind the alleged theft.<br><br>
+
+The incident has sparked conversations about security and trust within households, particularly when valuable possessions are involved. Many social media users expressed sympathy for the Tandon family, while others pointed out how theft cases involving close associates often leave families emotionally affected in addition to financial losses. <br><br>
+
+Raveena Tandon has not issued a detailed public statement regarding the case at the time of writing. However, sources indicate that the family is cooperating fully with the investigation and hopes that the remaining valuables will be recovered soon. <br><br>
+
+Police officials have assured that the matter is being investigated thoroughly and that appropriate legal action will be taken based on the evidence collected. The case serves as a reminder of the importance of security measures and background verification, even when dealing with long-time employees or trusted associates.`,
+
+  url: "raveena-tandon-mother-jewellery-theft-close-aide-arrested",
+
+  image: "raveena-tandon-mother-jewellery-theft.jpeg",
+
+  category: "entertainment",
+
+  date: "June 2, 2026"
+},
+
+  {
+  title: "RJ Balaji Credits Suriya’s Generosity for ‘Karuppu’ Release After ₹300 Crore Box Office Success",
+
+  description: "Director RJ Balaji has revealed that ‘Karuppu’ reached theatres only because of Suriya’s support and generosity during a difficult period for the film. The blockbuster has now crossed ₹300 crore worldwide and become one of the biggest Tamil hits of the year.",
+
+  content: `The massive success of ‘Karuppu’ has become one of the biggest talking points in the Tamil film industry, but director RJ Balaji has now revealed that the journey to release the film was far from smooth. Speaking about the blockbuster's success, the filmmaker credited actor Suriya's generosity and unwavering support for helping the project reach audiences despite several challenges.<br><br>
+
+‘Karuppu’, which released on May 15, has emerged as one of the highest-grossing Tamil films of 2026. Starring Suriya and Trisha Krishnan in lead roles, the fantasy action entertainer has crossed the ₹300 crore mark at the worldwide box office and continues to attract audiences even weeks after its release. The film's success has been celebrated by fans and industry members alike.<br><br>
+
+Reflecting on the film's journey, RJ Balaji revealed that ‘Karuppu’ faced multiple delays and financial hurdles before finally making it to theatres. According to the director, the production experienced several unexpected challenges, creating uncertainty around the film's release schedule. Despite these setbacks, the team remained committed to completing the project and bringing it to audiences.<br><br>
+
+RJ Balaji specifically praised Suriya for standing by the film during difficult times. The director stated that the actor's magnanimity and selfless approach played a major role in ensuring that the project moved forward. He explained that the film's eventual release was possible because of the support and confidence shown by the star when the production faced obstacles.<br><br>
+
+The filmmaker also described the success of ‘Karuppu’ as a rewarding conclusion to a long journey. Reports indicate that RJ Balaji had been working on the project for nearly three years, making the film's blockbuster performance even more meaningful for him. He noted that overcoming delays and uncertainty made the eventual success feel even sweeter.<br><br>
+
+Apart from audience appreciation, ‘Karuppu’ has also received praise from some of Indian cinema's biggest names. RJ Balaji revealed that actors Rajinikanth and Aamir Khan shared positive feedback about the film, something he described as a memorable moment for the entire team. Their appreciation further boosted morale among the cast and crew following the film's strong box office run.<br><br>
+
+The success of ‘Karuppu’ has also strengthened the collaboration between Suriya and RJ Balaji. Industry observers have praised the film for balancing mass entertainment with emotional storytelling, mythology-inspired themes and powerful performances. Many critics believe the movie has expanded RJ Balaji's reputation beyond comedy-driven social dramas and established him as a filmmaker capable of delivering large-scale commercial entertainers.<br><br>
+
+Adding to the excitement, RJ Balaji has already confirmed that a sequel titled ‘Karuppu 2’ is in development. Following the overwhelming response to the first installment, fans are eagerly waiting to see how the story will continue in the next chapter. citeturn0news11<br><br>
+
+For now, ‘Karuppu’ continues its successful theatrical run while the team celebrates both its commercial achievements and the journey that brought the film to the big screen. RJ Balaji's latest comments have also highlighted the importance of trust, teamwork and perseverance in filmmaking, with Suriya's support being remembered as a key factor behind one of Tamil cinema's biggest success stories of the year.`,
+
+  url: "rj-balaji-credits-suriya-generosity-karuppu-release",
+
+  image: "rj-balaji-suriya-karuppu-success.jpeg",
+
+  category: "film",
+
+  date: "June 2, 2026"
+},
+
+  {
+  title: "Suriya Gifts Luxury ‘Batman Edition’ Car to Cinematographer GK Vishnu After ‘Karuppu’ Crosses ₹300 Crore",
+
+  description: "Actor Suriya has won hearts once again after gifting a luxury Mahindra BE6 Batman Edition electric SUV to cinematographer GK Vishnu as a token of appreciation for his contribution to the blockbuster success of ‘Karuppu’.",
+
+  content: `Tamil superstar Suriya has once again demonstrated his appreciation for the people behind a film's success. Following the blockbuster performance of his latest film ‘Karuppu’, the actor reportedly gifted a luxury Mahindra BE6 Batman Edition electric SUV to the movie's cinematographer GK Vishnu. The gesture has received widespread praise from fans and industry members alike.<br><br>
+
+‘Karuppu’, directed by RJ Balaji and starring Suriya and Trisha Krishnan, has emerged as one of the biggest Tamil blockbusters of the year. The film has crossed the ₹300 crore mark at the worldwide box office, making it one of the most successful projects in Suriya's career. The movie's blend of action, emotion and mythology has been widely appreciated by audiences across India and overseas markets.<br><br>
+
+The spotlight now shifted to a heartwarming off-screen moment after GK Vishnu shared photographs of his newly received vehicle on social media. In his post, the cinematographer thanked Suriya and expressed his gratitude for the unexpected gift. Fans quickly flooded the comments section, praising the actor for recognizing the efforts of his technical team and celebrating success collectively.<br><br>
+
+GK Vishnu's cinematography was considered one of the major highlights of ‘Karuppu’. His visual style, action sequences and dramatic frames played a significant role in enhancing the film's cinematic appeal. Critics and audiences alike praised the film's visuals, with many pointing out that the cinematography elevated several key moments throughout the story.<br><br>
+
+Reports also suggest that Suriya extended similar gestures to other members of the film's technical crew. Music composer Sai Abhyankkar and editor Kalaivanan were also reportedly gifted luxury Mahindra BE6 electric vehicles as a mark of appreciation for their contributions to the film's massive success. The move has further strengthened Suriya's reputation as an actor who values teamwork and acknowledges the efforts of everyone involved in a project.<br><br>
+
+Social media users praised the actor's generosity, with many describing the gesture as an example of strong leadership and gratitude. Fans noted that while actors often receive most of the public attention, technicians such as cinematographers, editors and composers play an equally important role in shaping a film's success. The gifts were therefore viewed as a meaningful recognition of their hard work.<br><br>
+
+The success of ‘Karuppu’ has been a significant milestone for Suriya. The film not only delivered impressive box office numbers but also received appreciation from fellow actors, filmmakers and critics. Director RJ Balaji recently credited Suriya's support and commitment as a major reason behind the film's successful journey from production to release.<br><br>
+
+As ‘Karuppu’ continues its successful theatrical run, Suriya's thoughtful gesture toward his team has become another talking point among fans. The actor's decision to celebrate the film's achievement by rewarding key technicians has added an emotional chapter to the movie's blockbuster journey and further strengthened his bond with collaborators in the industry.`,
+
+  url: "suriya-gifts-batman-edition-car-gk-vishnu-karuppu-success",
+
+  image: "suriya-gk-vishnu-batman-edition-car.jpeg",
+
+  category: "film",
+
+  date: "June 2, 2026"
+},
+
+  {
+  title: "Krunal Pandya Becomes IPL’s Unbeaten Champion, Wins All 5 Finals He Has Played",
+
+  description: "Royal Challengers Bengaluru all-rounder Krunal Pandya has achieved a remarkable IPL milestone by winning every final he has played in. The veteran cricketer now boasts a perfect record of five IPL finals and five championship titles.",
+
+  content: `Royal Challengers Bengaluru's IPL triumph has not only brought joy to millions of fans but has also helped all-rounder Krunal Pandya create a unique piece of cricket history. The experienced player has now won all five IPL finals he has played in, making him one of the most successful performers in the tournament's history.
+
+Krunal Pandya's incredible journey in the Indian Premier League began with Mumbai Indians, where he quickly established himself as a dependable all-rounder. Over the years, he became an important member of one of the most successful franchises in IPL history, contributing with both bat and ball during crucial matches.<br><br>
+
+His first IPL title came with Mumbai Indians in 2017. The team went on to lift the trophy again in 2019 and 2020, with Krunal playing a key role in their championship campaigns. Each of those finals ended in victory, giving him a perfect record on the biggest stage of the tournament.
+
+After moving on from Mumbai Indians, Krunal eventually joined Royal Challengers Bengaluru. While RCB had spent years chasing IPL glory, the franchise finally managed to break its title drought. Krunal's experience proved valuable as the team successfully navigated pressure situations and reached the final.<br><br>
+
+The latest championship victory added another milestone to Krunal's already impressive career. With this triumph, he extended his unbeaten record in IPL finals to five wins from five appearances. Very few players in the league's history can claim such a flawless record in title-deciding matches.
+
+One of the reasons behind Krunal's success has been his ability to perform under pressure. Whether contributing with economical bowling spells, crucial breakthroughs or useful runs lower down the order, he has consistently delivered when his teams needed him the most.<br><br>
+
+Cricket analysts often point out that winning a single IPL final requires a combination of skill, preparation and composure. Achieving victory in five separate finals without suffering a defeat is a rare accomplishment that highlights Krunal's consistency and ability to handle high-pressure situations.
+
+Fans on social media were quick to celebrate the achievement after the final. Many described him as an IPL lucky charm, while others praised his record as one of the most underrated achievements in the tournament's history. Several supporters even joked that any team featuring Krunal Pandya in an IPL final is almost guaranteed to lift the trophy.<br><br>
+
+The veteran all-rounder has also built a reputation for stepping up in important matches. Throughout his IPL career, he has produced several memorable performances and has often been trusted by captains to deliver in crucial moments.
+
+As the celebrations continue, Krunal Pandya's perfect finals record stands as one of the most unique statistics in IPL history. Five finals, five victories and zero defeats — a remarkable achievement that further strengthens his legacy as one of the league's most successful players.
+
+With his unbeaten run in IPL finals still intact, fans will now be eager to see whether Krunal can continue extending this extraordinary record in the seasons to come.`,
+
+  url: "krunal-pandya-unbeaten-champion-five-ipl-finals-five-trophies",
+
+  image: "krunal-pandya-ipl-final-record.jpeg",
+
+  category: "sports",
+
+  date: "June 2, 2026"
+},
+
+  {
   title: "Viral High-Rise Video Sparks Speculation, Raises Serious Safety Concerns",
 
   description: "A viral video showing an elderly man leaning dangerously out of a high-rise apartment window while holding a mobile phone has triggered widespread discussion online. Social media users speculated about his intentions, but no evidence has emerged confirming any wrongdoing.",
