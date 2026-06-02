@@ -73,6 +73,34 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Yash Unveils Intense ‘Toxic’ Avatar in New BGMI Collaboration Video, Fans Go Wild",
+
+  description: "Rocking Star Yash has shared a brand-new promotional video as part of BGMI’s collaboration with his upcoming film ‘Toxic’. The stylish teaser introduces Yash’s exclusive voice pack and offers fans a glimpse into the dark world of the highly anticipated action drama.",
+
+  content: `Rocking Star Yash has once again captured the attention of fans after appearing in a new promotional video released as part of the collaboration between Battlegrounds Mobile India (BGMI) and his upcoming film 'Toxic: A Fairy Tale for Grown-Ups'. The video was shared through a collaborative Instagram post featuring BGMI, Yash, KVN Productions and the official Toxic movie account.<br><br>
+
+The teaser showcases Yash in a stylish and mysterious avatar, giving audiences another glimpse into the dark and action-packed world of the upcoming film. One sequence shows him arriving outside a brightly lit establishment named 'Paraiso' as the words 'This War Will Be Different' appear on screen. Another striking visual features Yash relaxing in a bathtub while delivering a dialogue connected to BGMI's iconic location Pochinki, creating a unique blend of cinema and gaming.<br><br>
+
+The latest promotional video is part of BGMI's special collaboration with Toxic, allowing players to access an exclusive voice pack inspired by Yash's character. Through the update, gamers can use signature voice lines within the game, bringing a cinematic experience to their matches and further connecting fans with the film ahead of its release.<br><br>
+
+The crossover has generated significant buzz across social media platforms. Fans have praised the teaser's cinematic visuals, Yash's screen presence and the creative way the film has been integrated into one of India's most popular mobile games. Many users expressed excitement about experiencing the exclusive voice pack while others eagerly discussed the new look and atmosphere showcased in the promotional clip.<br><br>
+
+The collaboration marks another major promotional milestone for Toxic, one of the most anticipated Indian films currently in production. Directed by Geetu Mohandas, the film stars Yash in the lead role alongside an ensemble cast that includes Nayanthara, Kiara Advani, Huma Qureshi, Tara Sutaria and Rukmini Vasanth.<br><br>
+
+Industry experts believe collaborations between major films and gaming platforms are becoming an increasingly important marketing strategy. By bringing movie characters and themes directly into popular games, filmmakers are able to engage younger audiences in new and interactive ways.<br><br>
+
+With the BGMI collaboration now live and the latest teaser generating strong reactions online, excitement surrounding Toxic continues to grow. Fans are now eagerly waiting for more promotional material and updates from what is expected to be one of the biggest film releases in the coming months.`,
+
+  url: "yash-toxic-bgmi-collaboration-video-instagram",
+
+  image: "yash-toxic-bgmi-collaboration-video.jpeg",
+
+  category: "Entertainment",
+
+  date: "June 2, 2026"
+},
+
+  {
 title: "D-Company Reportedly Activates Mumbai Network After ‘Dhurandhar’ Sparks Fresh Speculation Around Dawood Ibrahim",
 
 description: "Intelligence-based reports claim D-Company has become active in Mumbai following the success of the film 'Dhurandhar', which features a character allegedly resembling fugitive gangster Dawood Ibrahim. Agencies are closely monitoring the developments.",
