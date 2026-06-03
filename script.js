@@ -73,6 +73,156 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Khushbu Sundar Meets PM Narendra Modi, Invites Him to Daughter Avantika’s Wedding",
+
+  description: "Actress and BJP leader Khushbu Sundar, along with filmmaker Sundar C and family members, met Prime Minister Narendra Modi in New Delhi to personally invite him to their daughter Avantika's wedding. The meeting photos have since gone viral on social media.",
+
+  content: `Actress-turned-politician Khushbu Sundar recently shared a special family moment after meeting Prime Minister Narendra Modi in New Delhi. Accompanied by her husband, filmmaker Sundar C, and family members, Khushbu personally invited the Prime Minister to attend the wedding of their elder daughter, Avantika. :contentReference[oaicite:0]{index=0}<br><br>
+
+The meeting gained significant attention after Khushbu posted photographs from the visit on social media. In the pictures, the actress and her family can be seen presenting the wedding invitation to the Prime Minister and posing for memorable photographs. The images quickly went viral, drawing reactions from fans, well-wishers and members of the film industry. :contentReference[oaicite:1]{index=1}<br><br>
+
+Sharing details about the meeting, Khushbu expressed gratitude for the Prime Minister's time despite his busy schedule. She revealed that PM Modi warmly received the family and extended his blessings to the couple. According to her, the family felt humbled and honored by the opportunity to personally invite him to the wedding celebrations. :contentReference[oaicite:2]{index=2}<br><br>
+
+Avantika, the elder daughter of Khushbu and Sundar C, is preparing to begin a new chapter in her life with fiancé Shravan Sreenivasan. Apart from the wedding preparations, Avantika has also been making headlines for stepping into the film industry. She is set to make her acting debut in a Malayalam film, marking the beginning of her journey in cinema. :contentReference[oaicite:3]{index=3}<br><br>
+
+Khushbu Sundar remains one of the most recognizable personalities in South Indian entertainment and politics. Having enjoyed a successful acting career spanning decades, she later entered public life and currently serves as a prominent BJP leader in Tamil Nadu. Meanwhile, Sundar C continues to be one of the leading filmmakers in the Tamil film industry. :contentReference[oaicite:4]{index=4}<br><br>
+
+The family meeting with Prime Minister Modi has become a widely discussed topic online, with fans congratulating Avantika and sending their best wishes to the couple. Many social media users also praised the warmth displayed during the interaction and wished the family a joyous wedding celebration.<br><br>
+
+As preparations for the wedding continue, the photographs from the Delhi meeting have added a memorable highlight to the occasion. With blessings from family, friends and well-wishers pouring in, the upcoming wedding is expected to be one of the most talked-about celebrity family events in the coming weeks.`,
+
+  url: "khushbu-sundar-invites-pm-modi-daughter-avantika-wedding",
+
+  image: "khushbu-sundar-pm-modi-wedding-invitation.jpeg",
+
+  category: "Entertainment",
+
+  date: "June 3, 2026"
+},
+
+  {
+  title: "Anushka Sharma’s Unique Ring Sparks Curiosity During RCB vs GT Clash; Here’s What It Really Is",
+
+  description: "Anushka Sharma grabbed attention during the RCB vs GT IPL 2026 match, not just for cheering Virat Kohli but also for a distinctive turquoise ring seen on her finger. The accessory quickly became a talking point among fans online.",
+
+  content: `Anushka Sharma once again found herself in the spotlight during Royal Challengers Bengaluru's high-voltage IPL 2026 clash against Gujarat Titans. While fans were focused on the action unfolding on the field, many eagle-eyed viewers noticed an unusual turquoise-colored ring on the actress's finger, sparking widespread curiosity across social media.<br><br>
+
+Photos and videos from the match quickly went viral, with fans trying to identify the mysterious accessory. Many initially assumed it was a fashion statement or a gemstone ring, while others speculated that it carried a deeper personal or spiritual significance.<br><br>
+
+The ring is reportedly a digital 'Jaap Counter' ring, also known as a prayer counter or mantra counter. Unlike traditional prayer beads used for meditation and spiritual practices, the modern electronic device is worn on a finger and allows users to keep track of mantra repetitions with the press of a button.<br><br>
+
+Designed as a compact and portable alternative to a traditional mala, the digital counter helps devotees maintain focus during prayer or meditation without manually counting repetitions. The small display on the ring records the number of chants, making it a convenient tool for spiritual practice.<br><br>
+
+Anushka Sharma and Virat Kohli have both been associated with spiritual practices in recent years. The couple has frequently visited religious and spiritual destinations, including Vrindavan, and has openly spoken about the importance of faith and mindfulness in their lives. Fans have previously spotted similar prayer counters being used by Virat as well.<br><br>
+
+During the RCB vs GT match, cameras repeatedly captured Anushka cheering from the stands and appearing deeply invested in the game. Several images showed her pressing the ring while watching crucial moments, leading many observers to believe she was engaged in silent prayers for the team's success.<br><br>
+
+The accessory soon became a major discussion point online, with social media users praising the actress for balancing modern lifestyle choices with spiritual traditions. Many fans also shared that they use similar digital counters for meditation, prayer and mantra chanting.<br><br>
+
+Apart from the ring, Anushka's effortless match-day look also attracted attention. Dressed in a floral top paired with denim, she kept her appearance simple and elegant while supporting Virat Kohli and RCB during one of the team's most important matches of the season.<br><br>
+
+Although the IPL clash generated plenty of cricketing headlines, Anushka's unique finger accessory managed to carve out its own moment online. What initially appeared to be a fashion accessory turned out to be a reflection of the actress's spiritual side, making it one of the most talked-about details from the match.`,
+
+  url: "anushka-sharma-jaap-counter-ring-rcb-vs-gt-ipl-2026",
+
+  image: "anushka-sharma-ring-rcb-vs-gt.jpeg",
+
+  category: "film",
+
+  date: "June 3, 2026"
+},
+
+  {
+  title: "Prashanth Neel Reveals NTR Jr’s Surprising Take on Mahabharata: ‘Shakuni Was the Real Winner’",
+
+  description: "Director Prashanth Neel has shared an intriguing conversation with NTR Jr about the Mahabharata. According to Neel, the actor offered an unexpected perspective by naming Shakuni as the true winner of the epic, sparking discussions among fans.",
+
+  content: `Filmmaker Prashanth Neel has revealed an interesting conversation he once had with Telugu superstar NTR Jr, offering fans a glimpse into the actor's unique way of looking at mythology and storytelling. The anecdote has quickly caught the attention of cinema lovers and Mahabharata enthusiasts alike.<br><br>
+
+Recalling the discussion, Prashanth Neel said NTR Jr asked him a simple yet thought-provoking question: "Who was the winner of the Mahabharata?" Like many people familiar with the epic, Neel responded that Lord Krishna was the ultimate winner and possibly Arjuna as well, considering the Pandavas emerged victorious in the Kurukshetra war.<br><br>
+
+However, NTR Jr's answer surprised him. According to Neel, the actor disagreed and instead suggested that Shakuni was the real winner of the Mahabharata. The unexpected response left a lasting impression on the director and highlighted the actor's ability to view stories from unconventional angles.<br><br>
+
+While Neel did not go into extensive detail about NTR Jr's reasoning, the statement has sparked considerable debate online. Fans have been discussing the complex role played by Shakuni in the epic and how his actions shaped the course of events leading to the great war. Many believe the remark reflects NTR Jr's deep interest in character psychology and layered storytelling.<br><br>
+
+The Mahabharata remains one of India's most celebrated epics, with every generation interpreting its characters and events in different ways. While Krishna, Arjuna and the Pandavas are traditionally viewed as central figures in the story's victory narrative, characters such as Karna, Bhishma, Duryodhana and Shakuni continue to inspire alternate interpretations among scholars, writers and filmmakers.<br><br>
+
+The revelation has generated excitement among fans because both NTR Jr and Prashanth Neel are known for their larger-than-life storytelling sensibilities. Their discussions about mythology, character motivations and narrative perspectives have only increased anticipation surrounding their future collaboration.<br><br>
+
+NTR Jr is widely regarded as one of Indian cinema's most versatile performers, while Prashanth Neel has earned acclaim for creating visually grand and emotionally intense films. The director's recollection of this conversation has further strengthened the perception that the actor enjoys exploring stories beyond conventional viewpoints.<br><br>
+
+As the anecdote continues to circulate on social media, fans are praising NTR Jr's thought-provoking perspective and debating whether Shakuni's influence on the events of the Mahabharata could indeed justify such an unconventional interpretation. Regardless of whether people agree with the conclusion, the discussion has once again demonstrated the timeless relevance of the epic and its enduring ability to inspire new perspectives.`,
+
+  url: "prashanth-neel-reveals-ntr-jr-mahabharata-shakuni-real-winner",
+
+  image: "ntr-jr-prashanth-neel-mahabharata-discussion.jpeg",
+
+  category: "film",
+
+  date: "June 3, 2026"
+},
+
+  {
+  title: "Viral Post Claims K Annamalai Has Resigned From BJP, Sparks Political Buzz Ahead of Tamil Nadu Elections",
+
+  description: "A social media post claiming that former Tamil Nadu BJP chief K Annamalai has resigned from the Bharatiya Janata Party and plans to launch a new regional political outfit has gone viral online, triggering widespread discussion across political circles.",
+
+  content: `Political discussions intensified on social media after a viral post claimed that former Tamil Nadu BJP president K Annamalai had submitted his resignation from the Bharatiya Janata Party and was preparing to launch a new regional political party ahead of the state's upcoming electoral battles.<br><br>
+
+The post, which has been widely shared across various social media platforms, alleges that Annamalai submitted a five-page resignation letter to the BJP's national leadership following reported differences over political strategy and alliance decisions. It further claims that the former IPS officer intends to build a Tamil Nadu-focused political movement centered on regional identity, governance reforms and development-oriented politics.<br><br>
+
+The claims quickly attracted attention due to Annamalai's growing influence in Tamil Nadu politics over the past few years. Since entering politics after leaving the Indian Police Service, Annamalai has emerged as one of the BJP's most prominent faces in the state and played a key role in expanding the party's visibility through extensive grassroots campaigns and public outreach programs.<br><br>
+
+One of the major factors behind his popularity has been the widely publicized 'En Mann En Makkal' yatra, which saw him travel across Tamil Nadu interacting with citizens and highlighting local issues. The campaign significantly boosted his public profile and helped establish him as a recognizable political figure beyond traditional party boundaries.<br><br>
+
+The viral post suggests that Annamalai may seek to capitalize on this support base by launching a separate political platform. According to the circulating claims, the proposed party would focus on Tamil interests while maintaining a broader nationalist outlook. However, no official announcement confirming such a move has been made publicly at the time of writing.<br><br>
+
+The speculation has generated mixed reactions among political observers and supporters. Some believe a new regional formation led by Annamalai could reshape political equations in Tamil Nadu, while others remain cautious and are waiting for confirmation from official sources before drawing conclusions.<br><br>
+
+Tamil Nadu's political landscape has traditionally been dominated by regional parties, making any potential new entrant a topic of significant interest. With future elections expected to intensify competition among major political forces, even unconfirmed reports involving influential leaders often attract considerable public attention.<br><br>
+
+As discussions continue online, political watchers are closely monitoring developments for any official clarification regarding Annamalai's future plans. Until a formal statement is issued, the claims circulating on social media remain the subject of speculation and debate rather than confirmed political developments.`,
+
+  url: "viral-claims-k-annamalai-resignation-bjp-new-party",
+
+  image: "k-annamalai-viral-political-post.jpeg",
+
+  category: "Politics",
+
+  date: "June 3, 2026"
+},
+
+  {
+  title: "Kriti Sanon Addresses Rumours Linking Her and Rashmika Mandanna, Says ‘Two Girls Can Simply Be Friends’",
+
+  description: "Actress Kriti Sanon has spoken about the tendency of people to create unnecessary rumours around female friendships. Her comments, reportedly linked to discussions surrounding Rashmika Mandanna and Cocktail 2, have gone viral on social media.",
+
+  content: `Bollywood actress Kriti Sanon has found herself at the center of a viral social media discussion after comments attributed to her regarding female friendships began circulating online. The actress reportedly addressed rumours linking her with fellow actress Rashmika Mandanna and spoke about how friendships between women are often misunderstood by the public.<br><br>
+
+According to the widely shared quote, Kriti pointed out that when two male actors share a close bond, people often celebrate it as a "bromance." However, when two women become close friends, many immediately assume there is rivalry, conflict or some other hidden story behind the relationship. She reportedly described this mindset as unfortunate and unnecessary.<br><br>
+
+The comments have gained significant attention across social media platforms, where fans have been discussing the challenges female celebrities face when it comes to public perception. Many users agreed with Kriti's observations, arguing that women in the entertainment industry are frequently subjected to speculation that their male counterparts rarely experience.<br><br>
+
+The discussion gained further momentum because of ongoing conversations surrounding Cocktail 2, a project that has generated considerable interest among movie fans. Social media users have been actively discussing the reported cast and possible on-screen dynamics between the actresses associated with the film, leading to various rumours and assumptions online.<br><br>
+
+Over the years, both Kriti Sanon and Rashmika Mandanna have established themselves among the most popular actresses in Indian cinema. While Kriti has delivered several successful Bollywood films, Rashmika has built a strong fan following across multiple industries, including Telugu, Kannada, Tamil and Hindi cinema. Their growing popularity has naturally made them frequent subjects of online discussions and fan speculation.<br><br>
+
+Industry observers note that social media often amplifies narratives of competition between actresses, even when there is little evidence to support such claims. In contrast, friendships and professional relationships between male actors are generally viewed more positively by audiences. The issue has been raised by several actresses over the years, many of whom have spoken about the pressure created by constant comparisons and rivalry narratives.<br><br>
+
+The viral quote attributed to Kriti has resonated with many fans because it highlights a broader conversation about gender stereotypes and public perception within the entertainment industry. Supporters believe her remarks serve as a reminder that friendships between women should not automatically become subjects of gossip or speculation.<br><br>
+
+While the original context of the statement continues to be discussed online, the message has sparked widespread debate about how female friendships are portrayed and perceived in popular culture. As the conversation continues, many fans have praised the sentiment, calling for a more balanced and respectful approach toward relationships between women in the film industry.`,
+
+  url: "kriti-sanon-rashmika-mandanna-friendship-rumours-cocktail-2",
+
+  image: "kriti-sanon-rashmika-mandanna-friendship.jpeg",
+
+  category: "film",
+
+  date: "June 3, 2026"
+},
+
+  {
   title: "Yash Unveils Intense ‘Toxic’ Avatar in New BGMI Collaboration Video, Fans Go Wild",
 
   description: "Rocking Star Yash has shared a brand-new promotional video as part of BGMI’s collaboration with his upcoming film ‘Toxic’. The stylish teaser introduces Yash’s exclusive voice pack and offers fans a glimpse into the dark world of the highly anticipated action drama.",
