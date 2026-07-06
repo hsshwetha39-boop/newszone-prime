@@ -72,6 +72,39 @@ container.appendChild(card);
 
 // MANUAL NEWS DATA
 const manualNews = [
+
+  {
+  title: "Aamir Khan Marries Bengaluru-Based Gauri Spratt in an Intimate Ceremony; Couple Begins New Chapter",
+
+  description: "Bollywood superstar Aamir Khan has tied the knot with his longtime partner Gauri Spratt in a private wedding ceremony attended by close family and friends. The Bengaluru-based entrepreneur and Aamir chose to keep the celebrations simple and intimate.",
+
+  content: `Bollywood superstar Aamir Khan has officially begun a new chapter in his personal life by marrying his longtime partner Gauri Spratt in a private ceremony. The wedding, which had been the subject of speculation for several weeks, was held on July 5 at the actor's residence in Mumbai and was attended by close family members and a select group of friends. The couple deliberately opted for a low-key celebration instead of a grand celebrity wedding. :contentReference[oaicite:0]{index=0}<br><br>
+
+Gauri Spratt, who is originally from Bengaluru, has largely stayed away from the limelight despite her association with one of Bollywood's biggest stars. The two have known each other for many years, and their friendship gradually developed into a relationship. Earlier this year, Aamir publicly introduced Gauri to the media during his birthday celebrations, confirming that they had been together for over a year. :contentReference[oaicite:1]{index=1}<br><br>
+
+The wedding ceremony was intentionally kept simple, reflecting the couple's preference for privacy. Instead of hosting a lavish event with hundreds of guests, Aamir and Gauri invited only their closest relatives and trusted friends. Reports indicate that the marriage was conducted under the Special Marriage Act, followed by a private gathering and lunch for guests. :contentReference[oaicite:2]{index=2}<br><br>
+
+The first photographs from the wedding soon surfaced online, creating excitement among fans. Aamir was seen wearing an elegant ivory traditional outfit paired with a dhoti, while Gauri complemented him in a graceful ivory ensemble. Their understated look received widespread appreciation on social media, with many praising the couple for choosing simplicity over extravagance. Aamir's silver anklet also became a talking point among fans after the wedding pictures went viral. :contentReference[oaicite:3]{index=3}<br><br>
+
+Soon after the ceremony, the newlyweds made their first public appearance outside Aamir's residence despite heavy Mumbai rains. The couple greeted photographers and well-wishers with warm smiles, thanking everyone for their blessings. Videos and photographs from the appearance quickly spread across social media, drawing congratulatory messages from fans and celebrities alike. :contentReference[oaicite:4]{index=4}<br><br>
+
+This marks Aamir Khan's third marriage. The actor was previously married to Reena Dutta, with whom he has two children, Junaid and Ira Khan. He later married filmmaker Kiran Rao, and although the couple separated in 2021, they have continued to maintain an amicable relationship while co-parenting their son Azad. Over the years, Aamir has consistently emphasized the importance of family and mutual respect despite personal changes in his life. :contentReference[oaicite:5]{index=5}<br><br>
+
+In the days leading up to the wedding, Aamir had confirmed that the ceremony would be held at home and requested blessings from fans rather than extravagant celebrations. He explained that both he and Gauri preferred an intimate gathering focused on family rather than a high-profile public event. His announcement was met with warm wishes from across the film industry and from fans around the world. :contentReference[oaicite:6]{index=6}<br><br>
+
+The wedding has generated significant attention because of Gauri's Bengaluru roots and her decision to remain away from the glamour of the film industry. Unlike many celebrity spouses, she has maintained a private lifestyle, which has only increased public curiosity about her. Since Aamir officially introduced her earlier, fans have been eager to know more about the woman who has become an important part of the actor's life. :contentReference[oaicite:7]{index=7}<br><br>
+
+With the wedding now complete, congratulatory messages continue to pour in from colleagues, friends and admirers across the entertainment industry. Fans have wished the couple happiness and success as they begin their married life together. For Aamir Khan, one of Indian cinema's most celebrated actors, the occasion marks not only a personal milestone but also the beginning of a new journey with Gauri Spratt, built on years of friendship, trust and companionship. :contentReference[oaicite:8]{index=8}`,
+
+  url: "aamir-khan-marries-bengaluru-gauri-spratt-private-wedding",
+
+  image: "aamir-khan-gauri-spratt-wedding.jpg",
+
+  category: "film",
+
+  date: "July 6, 2026"
+},
+
   {
   title: "Khushbu Sundar Meets PM Narendra Modi, Invites Him to Daughter Avantika’s Wedding",
 
