@@ -98,7 +98,7 @@ With the wedding now complete, congratulatory messages continue to pour in from 
 
   url: "aamir-khan-marries-bengaluru-gauri-spratt-private-wedding",
 
-  image: "aamir-khan-gauri-spratt-wedding.jpg",
+  image: "aamir-khan-gauri-spratt-wedding.jpeg",
 
   category: "film",
 
