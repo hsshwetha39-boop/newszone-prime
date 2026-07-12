@@ -74,6 +74,44 @@ container.appendChild(card);
 const manualNews = [
 
   {
+  title: "R. Madhavan Set to Play ‘Miracle Man’ G.D. Naidu After ‘Dhurandhar’; Biopic to Bring Inventor’s Extraordinary Journey to the Big Screen",
+
+  description: "Fresh off the success of ‘Dhurandhar’, actor R. Madhavan is preparing for another real-life role. The multilingual star will portray legendary inventor G.D. Naidu, popularly known as the 'Miracle Man of India', in an upcoming biographical drama that chronicles the life of one of the country's greatest innovators.",
+
+  content: `Actor R. Madhavan is once again stepping into the shoes of a real-life personality, continuing his remarkable journey of portraying influential historical figures on screen. After impressing audiences with his performance in 'Dhurandhar', the multilingual actor is now set to headline a biographical film based on the life of legendary inventor and industrialist Gopalswamy Doraiswamy Naidu, widely remembered as the 'Miracle Man of India'.<br><br>
+
+The upcoming film, titled 'GDN', aims to introduce modern audiences to the inspiring story of G.D. Naidu, a visionary whose inventions and entrepreneurial achievements earned him global recognition. Despite making groundbreaking contributions to science, engineering and manufacturing, Naidu's life remains relatively unknown to younger generations. The makers believe the biopic will highlight his extraordinary journey while celebrating his lasting impact on India's industrial development.<br><br>
+
+Born in Coimbatore, Tamil Nadu, G.D. Naidu was a self-taught inventor whose curiosity and determination transformed him into one of India's most respected innovators. Often compared to Thomas Edison for his inventive brilliance, Naidu developed numerous mechanical and electrical devices, contributed significantly to the automobile industry and established several industrial ventures during a period when technological resources in India were extremely limited. His pioneering work earned him the nickname 'Miracle Man of India' among contemporaries and historians alike.<br><br>
+
+According to reports, the film will trace Naidu's life from his humble beginnings to his rise as an inventor, entrepreneur and educationist. Rather than focusing only on his achievements, the screenplay is expected to explore the challenges he faced while building industries, encouraging scientific thinking and promoting technical education. His relentless pursuit of innovation despite financial and institutional hurdles is expected to form the emotional core of the narrative.<br><br>
+
+For Madhavan, the project marks yet another significant addition to a career that has increasingly featured real-life characters. Over the years, the actor has portrayed personalities inspired by history, science and national service, earning praise for balancing authenticity with compelling performances. His acclaimed portrayal of aerospace scientist Nambi Narayanan in 'Rocketry: The Nambi Effect' demonstrated his commitment to biographical storytelling and established him as one of Indian cinema's most dependable actors for such roles.<br><br>
+
+Industry observers believe Madhavan's casting is particularly appropriate given his reputation for thoroughly researching his characters. His previous performances have shown his willingness to undergo physical transformations, study mannerisms and understand the emotional lives of the personalities he portrays. Expectations are therefore high that he will bring similar depth and realism to the role of G.D. Naidu.<br><br>
+
+The announcement has also generated excitement because it follows Madhavan's appearance in 'Dhurandhar', where his portrayal of a senior intelligence official received appreciation from both critics and audiences. The success of that film has further strengthened his image as an actor capable of handling complex, layered characters rooted in real events. Moving directly from one fact-inspired project to another reflects his continued interest in meaningful cinema based on historical personalities and true stories.<br><br>
+
+The makers of 'GDN' have indicated that the film will not merely present a chronological account of Naidu's life. Instead, it aims to recreate the social, political and industrial environment of the era, offering viewers a broader understanding of how his inventions influenced Indian manufacturing and technological progress. The production is expected to feature extensive period detailing to authentically recreate the decades during which Naidu made his most significant contributions.<br><br>
+
+Beyond his inventions, G.D. Naidu is remembered for promoting education and encouraging young minds to pursue scientific innovation. He established technical institutions, supported vocational learning and believed that practical knowledge could transform society. Many of his ideas were considered far ahead of their time, making him one of India's earliest champions of indigenous technological development. These aspects of his legacy are also expected to feature prominently in the film.<br><br>
+
+Film enthusiasts and Madhavan's fans have welcomed the announcement on social media, with many expressing excitement about seeing another inspiring true story brought to the big screen. Several users noted that biographical films based on Indian innovators remain relatively rare and appreciated the decision to spotlight a personality whose contributions deserve wider recognition.<br><br>
+
+The first promotional material released by the makers has already attracted attention for Madhavan's striking transformation into G.D. Naidu. His appearance reflects the inventor's distinctive look, reinforcing the actor's reputation for paying close attention to detail while preparing for demanding roles. The visuals have further increased anticipation surrounding the project among cinema lovers and history enthusiasts alike.<br><br>
+
+As production moves forward, 'GDN' is expected to become one of the most anticipated biographical dramas in Indian cinema. With R. Madhavan leading the cast and the story centered on one of India's greatest inventors, the film promises to celebrate innovation, perseverance and the remarkable legacy of a visionary whose contributions continue to inspire generations. If successful, the biopic could introduce millions of viewers to the extraordinary life of G.D. Naidu while reaffirming Madhavan's position as one of the industry's finest performers in real-life roles.`,
+
+  url: "r-madhavan-gd-naidu-biopic-gdn-after-dhurandhar",
+
+  image: "r-madhavan-gdn-biopic.jpeg",
+
+  category: "film",
+
+  date: "July 12, 2026"
+},
+
+  {
   title: "KKRTC Suspends Three Staff After Bus Operated Using Mobile Phone Torch Instead of Headlights",
 
   description: "Three employees of the Kalyana Karnataka Road Transport Corporation (KKRTC) have been suspended after a bus was allegedly driven at night with the help of a mobile phone torch due to non-functional headlights. The incident, which went viral on social media, has triggered widespread concern over passenger safety and bus maintenance.",
