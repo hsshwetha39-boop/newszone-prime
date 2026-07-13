@@ -72,6 +72,77 @@ container.appendChild(card);
 
 // MANUAL NEWS DATA
 const manualNews = [
+  {
+  title: "Protester Breaches Security at PM Modi’s Melbourne Hotel, Raises Anti-India Slogans During Australia Visit",
+
+  description: "A security breach occurred during Prime Minister Narendra Modi’s visit to Australia after a protester allegedly entered the hotel where he was staying in Melbourne and shouted anti-India slogans. The incident has triggered concerns over the security arrangements for visiting world leaders.",
+
+  content: `A security incident during Prime Minister Narendra Modi's official visit to Australia has drawn international attention after a protester allegedly entered the Melbourne hotel where the Indian leader was staying and shouted anti-India slogans. The incident, which occurred shortly after Modi's arrival in Australia, has raised questions about the security arrangements provided for visiting heads of government. citeturn0search0turn0search4<br><br>
+
+According to reports, the protester managed to enter the hotel premises in Melbourne and reached an upper-floor balcony overlooking the lobby. From there, he allegedly shouted anti-India and anti-Modi slogans before security personnel and local police intervened. Videos of the incident soon surfaced on social media, where they were widely shared and discussed. citeturn0search0turn0search7<br><br>
+
+Australian authorities acted quickly after the disturbance was reported. Victoria Police confirmed that a 22-year-old man had entered the hotel and made political statements before being removed from the premises. Officials stated that the individual did not gain access to Prime Minister Modi or members of the Indian delegation, and there was no immediate threat to the Prime Minister's safety. citeturn0search7turn0search4<br><br>
+
+Reports identified the individual as a far-right anti-immigration activist who has previously participated in demonstrations targeting immigration policies in Australia. Authorities are investigating the circumstances under which he was able to enter the hotel and whether any security protocols were breached. The incident has prompted discussions about the need for tighter security during visits by foreign dignitaries. citeturn0search4turn0news11<br><br>
+
+The protest came during Prime Minister Modi's multi-day visit to Australia, where he held bilateral talks with Australian Prime Minister Anthony Albanese and attended the Australia–India Annual Leaders' Summit in Melbourne. The visit focused on strengthening cooperation in trade, defence, clean energy, education and strategic partnerships between the two countries. citeturn0news10turn0news11<br><br>
+
+Apart from official meetings, Modi also addressed a large gathering of the Indian diaspora at Melbourne's Marvel Stadium. Tens of thousands of Indian-Australians attended the event, where both Prime Minister Modi and Prime Minister Albanese highlighted the growing relationship between India and Australia. Cultural performances and community celebrations marked the occasion, reflecting the strong people-to-people ties between the two nations. citeturn0news12turn0news11<br><br>
+
+While the community event received overwhelming support from attendees, Modi's visit also witnessed demonstrations by several groups outside the venue. Human rights organisations, Sikh activists and other protest groups staged peaceful protests expressing concerns over various political issues. Police maintained security throughout the visit to ensure that both the official programme and public demonstrations proceeded without major disruptions. citeturn0news10turn0news12<br><br>
+
+The hotel incident has nevertheless become one of the most discussed developments of the visit. Security experts note that hotels accommodating heads of government are typically placed under extensive protection involving local police, intelligence agencies and diplomatic security personnel. Even though the protester did not reach the Prime Minister, the incident has renewed debate over how such breaches can occur despite multiple layers of security. citeturn0search4turn0search7<br><br>
+
+Australian authorities have not reported any injuries or damage resulting from the protest. Investigations are continuing to determine whether additional security measures are required for future high-profile international visits. Officials have reiterated that the safety of visiting leaders remains a top priority and that appropriate action will be taken based on the findings of the inquiry. citeturn0search7turn0search4<br><br>
+
+Despite the brief disruption, Prime Minister Modi's official engagements in Australia continued as scheduled. The visit concluded with discussions aimed at expanding cooperation across several strategic sectors, reinforcing the growing partnership between India and Australia while also highlighting the challenges of ensuring security during major international diplomatic events. citeturn0news11turn0news12`,
+
+  url: "protester-breaches-security-pm-modi-melbourne-hotel-anti-india-slogans",
+
+  image: "modi-melbourne-hotel-security-breach.jpeg",
+
+  category: "politics",
+
+  date: "July 12, 2026"
+},
+
+  {
+  title: "Indian Railways Suspends TTE After First AC Cabin Turned Into ‘Honeymoon Suite’; Viral Video Sparks Safety Debate",
+
+  description: "A Ticket Travelling Examiner (TTE) has been suspended after a First AC cabin on an Indian Railways train was decorated like a honeymoon suite for a newly married couple. The viral incident has raised serious concerns over railway security, unauthorized access and passenger safety.",
+
+  content: `A unique celebration aboard an Indian Railways train has landed railway officials in trouble after a First AC cabin was transformed into a lavish "honeymoon suite" for a newly married couple. While the beautifully decorated compartment attracted widespread attention on social media, the incident also exposed serious security lapses within the railway system. Following an internal inquiry, the Indian Railways suspended the Ticket Travelling Examiner (TTE) who was on duty when the unauthorized decoration took place. 0<br><br>
+
+The incident took place aboard Train No. 11002 Nandigram Express in Maharashtra. According to reports, a First AC cabin booked by a newlywed couple from Jalna was transformed into a romantic setting before they boarded the train. The compartment featured colourful balloons, decorative lighting, thousands of rose petals spread across the floor and bed, floral arrangements and a prominent "I Love You" message displayed inside the cabin, giving it the appearance of a luxury honeymoon suite rather than a railway coach. 1<br><br>
+
+The decoration was reportedly carried out by a private event decoration company based in Maharashtra. The company later claimed that it had been hired by the couple's family to create a memorable surprise for the newlyweds. According to available information, the couple travelled by road from Aurangabad to Jalna while members of the decoration team entered the train and completed the setup before the passengers boarded at Jalna station. 2<br><br>
+
+Videos showing the fully decorated cabin quickly went viral across social media platforms. Thousands of users shared the footage, with many describing it as a creative and memorable way to celebrate a marriage. Some even jokingly referred to the train as the "Honeymoon Express" and "Honeymoon on Wheels," while humorous memes and edited videos began circulating online soon after the clip gained popularity. 3<br><br>
+
+However, the viral celebration also raised several serious questions. Railway officials pointed out that individuals who were not authorized had gained access to a reserved First AC coach while the train was operational. Authorities viewed the incident as a significant security breach because railway coaches are considered restricted areas where only passengers, railway employees and authorized personnel are permitted entry. The unauthorized access immediately triggered an internal investigation. 4<br><br>
+
+Indian Railways stated that the issue was not the celebration itself but the manner in which outsiders were allowed to enter and decorate the coach without official approval. Officials stressed that permitting unauthorized individuals inside reserved compartments could compromise passenger safety and create potential security risks. The incident also highlighted concerns over compliance with railway operating procedures and access-control regulations. 5<br><br>
+
+As part of the disciplinary action, the Chief Ticket Inspector (TTE) identified as Girish Kumar, who was on duty during the incident, was suspended pending further investigation. Railway authorities believe there was a lapse in supervision that allowed the decoration team to enter the coach without proper authorization. Departmental proceedings have also been initiated to determine whether any additional railway employees were involved or failed to follow established protocols. 6<br><br>
+
+Apart from suspending the railway official, authorities also registered a case under relevant provisions of the Railways Act. The investigation includes allegations of unauthorized entry into railway property, travelling or remaining inside a coach without valid authorization and violating railway security regulations. Officials are examining CCTV footage, station records and statements from those involved to establish exactly how access to the compartment was granted. 7<br><br>
+
+The incident has also reignited discussions about fire safety inside trains. Several transport experts pointed out that decorative materials such as balloons, paper items, artificial lighting and large quantities of flowers may create additional risks inside enclosed railway coaches. While the decorations appeared visually attractive, experts argued that railway compartments must adhere to strict safety standards because they carry hundreds of passengers every day. 8<br><br>
+
+Public opinion remains divided over the controversy. Many social media users appreciated the effort made by the couple's family to create a memorable experience and described the decoration as heartwarming. Others, however, questioned whether such activities should ever be allowed inside railway coaches, regardless of the occasion. Several users argued that public transport should not be used for private celebrations if doing so compromises operational discipline or safety. 9<br><br>
+
+Railway authorities have reiterated that any form of decoration or special arrangement inside trains requires prior official approval and must comply with established safety regulations. They also emphasized that the ongoing investigation will determine whether additional disciplinary or legal action is necessary against other individuals involved in organizing the unauthorized decoration. 10<br><br>
+
+The viral video may have entertained millions online, but for Indian Railways it has become a reminder of the importance of maintaining strict security and operational standards. As the inquiry continues, officials are expected to review existing procedures to ensure that similar incidents involving unauthorized access to reserved coaches do not occur in the future.`,
+
+  url: "indian-railways-tte-suspended-first-ac-cabin-honeymoon-suite-viral",
+
+  image: "train-honeymoon-suite-tte-suspended.jpeg",
+
+  category: "viral",
+
+  date: "July 12, 2026"
+},
 
   {
   title: "R. Madhavan Set to Play ‘Miracle Man’ G.D. Naidu After ‘Dhurandhar’; Biopic to Bring Inventor’s Extraordinary Journey to the Big Screen",
