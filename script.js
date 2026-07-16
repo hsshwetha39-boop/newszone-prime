@@ -73,29 +73,206 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Nick Jonas Reveals the First DM That Started His Love Story With Priyanka Chopra",
+
+  description: "Singer and actor Nick Jonas has revealed the direct message that marked the beginning of his relationship with Priyanka Chopra. The couple's now-famous first Instagram conversation has resurfaced online, giving fans a glimpse into how one of entertainment's most celebrated romances began.",
+
+  content: `Nick Jonas has once again taken fans down memory lane by revealing the first direct message (DM) that sparked his relationship with global star Priyanka Chopra. The conversation, which has resurfaced online and is being widely shared across social media platforms, highlights the simple message that eventually led to one of the entertainment industry's most talked-about love stories.<br><br>
+
+According to Nick Jonas, everything began with a direct message he sent to Priyanka Chopra on social media in 2016. In the message, Nick wrote, "I've heard from a few people that we should meet. I have to agree with these people. Are you in LA anytime soon?" The message was friendly, casual and marked the beginning of what would later become a life-changing relationship for both stars.<br><br>
+
+Priyanka Chopra did not immediately continue the conversation through Instagram. Instead, she responded by saying, "My team can read this. Why don't you just text me?" The actress then shared her phone number privately, allowing the two to continue their conversations away from social media.<br><br>
+
+Over the following months, Nick and Priyanka remained in touch through text messages and phone calls. Their friendship gradually developed into a romantic relationship as they got to know each other better despite living and working in different parts of the world.<br><br>
+
+The pair met in person on several occasions before making their first official public appearance together at the 2017 Met Gala in New York. Although they attended the prestigious fashion event together, both maintained at the time that they were simply friends representing the same designer.<br><br>
+
+Their relationship became public in 2018 when the couple began appearing together more frequently at various events and family gatherings. They later confirmed their engagement in August 2018 through a traditional roka ceremony held in Mumbai, attended by close family members and friends.<br><br>
+
+Just a few months later, Nick Jonas and Priyanka Chopra got married in a grand wedding celebration at Umaid Bhawan Palace in Jodhpur, Rajasthan. The couple celebrated both Christian and Hindu wedding ceremonies, reflecting their different cultural backgrounds. Their lavish wedding quickly became one of the most talked-about celebrity events of the year.<br><br>
+
+Since their marriage, Nick and Priyanka have often shared stories about how their relationship began. Nick has repeatedly described sending that first direct message as one of the best decisions of his life. Fans frequently revisit the conversation as an example of how a simple social media message can unexpectedly change someone's future.<br><br>
+
+Today, the couple is regarded as one of the entertainment industry's most admired international celebrity pairs. They regularly support each other's professional projects while balancing successful careers in music, Hollywood and Bollywood.<br><br>
+
+In January 2022, Nick Jonas and Priyanka Chopra welcomed their daughter, Malti Marie Chopra Jonas, through surrogacy. Since becoming parents, the couple has occasionally shared glimpses of their family life while continuing to maintain privacy around their daughter.<br><br>
+
+The resurfaced screenshots of Nick's first message have once again delighted fans, many of whom described the exchange as sweet, genuine and surprisingly simple considering the remarkable journey that followed. Social media users have widely shared the screenshots, calling the DM "the message that started it all."<br><br>
+
+Although years have passed since that first conversation, the story continues to resonate with fans around the world. From a casual Instagram message to a global love story, Nick Jonas and Priyanka Chopra's relationship remains one of the most memorable celebrity romances of recent years, reminding fans that sometimes a single message can change two lives forever.`,
+
+  url: "nick-jonas-reveals-first-dm-that-started-romance-with-priyanka-chopra",
+
+  image: "nick-jonas-priyanka-chopra-first-instagram-dm.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 16, 2026"
+},
+
+  {
+  title: "Shehnaaz Gill Breaks Silence on Dating Rumours With Raghav Juyal, Calls Him a Close Friend",
+
+  description: "Actress Shehnaaz Gill has finally responded to ongoing dating rumours involving actor and dancer Raghav Juyal. During a recent interview, she avoided discussing her personal life, described Raghav as a close friend, and encouraged fans to support his upcoming film 'Bhai Tera Star Hai'.",
+
+  content: `Actress Shehnaaz Gill has addressed the long-running speculation surrounding her alleged relationship with actor and dancer Raghav Juyal. For months, social media has been filled with rumours linking the two stars after they were seen together on multiple occasions and shared screen space during promotional events. However, Shehnaaz has now made it clear that she does not wish to discuss her personal life publicly.<br><br>
+
+During a recent interview, Shehnaaz was asked directly about the dating rumours involving Raghav Juyal. Instead of confirming or denying the speculation, the actress politely declined to answer questions related to her personal relationships. She simply responded, "Please don't ask me personal questions," making it clear that she prefers to keep that aspect of her life private.<br><br>
+
+Although she avoided discussing the rumours, Shehnaaz spoke warmly about Raghav, referring to him as a close friend. She praised his dedication, hard work and journey in the entertainment industry, saying he has worked tirelessly to build his career over the years.<br><br>
+
+The actress also took the opportunity to support Raghav's upcoming film, 'Bhai Tera Star Hai'. She urged her fans and movie lovers to watch the film and appreciate the effort put in by the actor and the entire team. According to Shehnaaz, Raghav deserves recognition for his commitment and perseverance in the industry.<br><br>
+
+Dating rumours involving Shehnaaz Gill and Raghav Juyal have been circulating for quite some time. The speculation began after the two were spotted together at several public events and industry gatherings. Their friendly chemistry and comfortable interactions led many fans to believe that they were more than just friends. However, neither Shehnaaz nor Raghav has ever officially confirmed being in a relationship.<br><br>
+
+Over the years, Shehnaaz has consistently maintained that she values her privacy and prefers not to discuss her personal life in public interviews. Following the tragic passing of actor Sidharth Shukla, the actress has largely stayed away from commenting on relationship rumours, choosing instead to focus on her work and professional growth.<br><br>
+
+Raghav Juyal, known for his dancing skills, acting performances and hosting abilities, has also remained silent on the rumours. The actor has never publicly confirmed any romantic relationship with Shehnaaz, despite continuous speculation on social media.<br><br>
+
+Fans reacted differently to Shehnaaz's latest comments. While some appreciated her decision to maintain privacy, others continued to speculate about the nature of her friendship with Raghav. Many supporters praised the actress for steering the conversation towards Raghav's professional achievements rather than discussing rumours about their personal lives.<br><br>
+
+Shehnaaz Gill has established herself as one of the most popular personalities in the entertainment industry following her memorable journey on 'Bigg Boss 13'. Since then, she has appeared in films, music videos and television projects while building a strong fan base across the country.<br><br>
+
+Meanwhile, Raghav Juyal continues to expand his acting career with several upcoming projects. His performances in recent films have received positive responses, and expectations are high for his forthcoming release 'Bhai Tera Star Hai'.
+
+For now, neither Shehnaaz Gill nor Raghav Juyal has confirmed any romantic relationship. Shehnaaz's latest remarks indicate that she wishes to keep her personal life away from the spotlight while continuing to support her friends and colleagues professionally. Until either of them chooses to speak further on the matter, the dating rumours remain unconfirmed and should be treated as speculation rather than established fact.`,
+
+  url: "shehnaaz-gill-reacts-dating-rumours-raghav-juyal-close-friend",
+
+  image: "shehnaaz-gill-raghav-juyal-dating-rumours.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 16, 2026"
+},
+
+  {
+  title: "Ranbir Kapoor Expands Real Estate Portfolio With ₹16.42 Crore Purchase of 25-Acre Land Near Pune",
+
+  description: "Bollywood actor Ranbir Kapoor has added another major asset to his growing real estate portfolio by purchasing nearly 25.7 acres of land in Maharashtra's Mulshi taluka for ₹16.42 crore. The acquisition comes just months after his investment in Ayodhya and reflects a growing trend of celebrities investing in premium land parcels outside Mumbai.",
+
+  content: `Bollywood star Ranbir Kapoor has made another significant investment in real estate by purchasing nearly 25.7 acres of land in Pune district's Mulshi taluka. According to property registration documents accessed by real estate data analytics platform CRE Matrix, the actor acquired four adjoining land parcels in Pimpri village for a total consideration of ₹16.42 crore. The transaction further strengthens Kapoor's expanding real estate portfolio, which has seen multiple high-value acquisitions in recent months.<br><br>
+
+The property transaction was officially registered on April 30, 2026. Documents reveal that the purchase consists of four separate yet adjoining land parcels spread across approximately 1,04,000 square metres, equivalent to nearly 25.7 acres. The deal also involved a stamp duty payment of ₹82.13 lakh, making it one of the notable celebrity land acquisitions reported this year.<br><br>
+
+According to the registration details, the first land parcel measures around 21,400 square metres and was purchased for ₹3.31 crore. The second parcel covers nearly 29,900 square metres and cost ₹4.62 crore. The third, which is the largest among the four, spans approximately 43,800 square metres and was acquired for ₹7.07 crore. The fourth parcel measures about 8,900 square metres and was purchased for ₹1.39 crore. Together, the four adjoining plots form a substantial landholding in one of Maharashtra's rapidly developing regions.<br><br>
+
+Mulshi taluka, located on the outskirts of Pune, has increasingly emerged as a preferred destination for premium real estate investments. Known for its scenic landscapes, hills, lakes and pleasant climate, the region has attracted developers, industrialists, entrepreneurs and celebrities looking for large land parcels suitable for luxury homes, private estates, hospitality projects and long-term investments. Industry experts believe the area's growing infrastructure and connectivity have significantly increased its investment potential over the past few years.<br><br>
+
+Ranbir Kapoor's latest acquisition comes only months after reports of his investment in Ayodhya, where he purchased land following the city's rapid transformation into one of India's fastest-growing real estate destinations. The actor's consecutive property purchases indicate a diversified investment strategy focused on high-growth locations rather than limiting investments to Mumbai's residential market.<br><br>
+
+The Kapoor family's association with real estate investments has been well known over the years. However, Ranbir Kapoor has steadily expanded his own portfolio through strategic acquisitions across different parts of the country. Real estate analysts note that many celebrities have recently preferred investing in large land parcels instead of luxury apartments, considering the long-term appreciation potential and future development opportunities such properties offer.<br><br>
+
+Although there has been speculation on social media regarding the intended purpose of the newly acquired land, no official statement has been issued by Ranbir Kapoor or his representatives about future development plans. It remains unclear whether the property will be used for a private residence, a farmhouse, hospitality ventures or retained purely as a long-term investment. At present, all available information confirms only the purchase itself through officially registered property documents.<br><br>
+
+The acquisition has once again drawn attention to the growing trend of Bollywood celebrities investing outside Mumbai. Large parcels of land in destinations such as Pune, Alibaug, Lonavala, Goa and Ayodhya have witnessed increased demand from high-net-worth individuals seeking privacy, future development opportunities and appreciation in land value. Experts believe such investments provide greater flexibility compared to conventional residential properties.<br><br>
+
+Professionally, Ranbir Kapoor continues to remain one of Bollywood's busiest actors. He is currently working on several high-profile projects, including Nitesh Tiwari's ambitious two-part adaptation of 'Ramayana', in which he plays Lord Ram. The film is among the most expensive Indian productions ever mounted and has generated enormous anticipation ahead of its scheduled release. Alongside his film commitments, Kapoor's latest investment reflects his growing interest in building a strong long-term asset portfolio beyond the entertainment industry.<br><br>
+
+With the purchase of nearly 25.7 acres in Mulshi for ₹16.42 crore, Ranbir Kapoor has added yet another valuable property to his investment portfolio. While the future use of the land remains undisclosed, the acquisition reinforces the increasing popularity of large-scale land investments among India's leading film personalities and highlights Mulshi's emergence as one of Maharashtra's most sought-after real estate destinations.`,
+
+  url: "ranbir-kapoor-buys-25-acre-land-near-pune-for-rs-16-42-crore",
+
+  image: "ranbir-kapoor-pune-land-purchase.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 15, 2026"
+},
+
+  {
+  title: "Mahesh Babu-Backed 'Rao Bahadur' Wins Big Praise From Sandeep Reddy Vanga: 'Give This Film Three Hours Of Your Life'",
+
+  description: "Director Sandeep Reddy Vanga has heaped praise on Mahesh Babu-backed Telugu psychological drama 'Rao Bahadur', calling it a rare cinematic experience and urging audiences to spend three hours watching the film. His appreciation comes after the movie also received positive reactions from Mahesh Babu and several members of the Telugu film industry.",
+
+  content: `The Telugu psychological drama 'Rao Bahadur' continues to receive appreciation from across the film industry, with director Sandeep Reddy Vanga becoming the latest filmmaker to publicly endorse the movie. After watching the film, the 'Animal' director shared a heartfelt note on social media, describing 'Rao Bahadur' as one of those rare films that reminds audiences why they fell in love with cinema in the first place.<br><br>
+
+Taking to X (formerly Twitter), Vanga praised the film's storytelling, performances and filmmaking. He wrote that 'Rao Bahadur' is "one of those rare, rich films that reminds you why we fell in love with cinema in the first place." He went on to urge movie lovers to experience the film in theatres, saying, "I have one request to every genuine film lover... give this film three hours of your life. It deserves your attention, your patience, and your applause." His message quickly gained attention among cinema enthusiasts and added fresh momentum to discussions surrounding the film.<br><br>
+
+'Rao Bahadur' is presented by Mahesh Babu's GMB Entertainment and directed by acclaimed filmmaker Venkatesh Maha. The psychological drama stars Satyadev in the lead role and has been praised for its distinctive storytelling, layered screenplay and emotional depth. Set against the backdrop of a fading aristocracy, the film blends psychological drama with elements of suspense, dark comedy and magical realism.<br><br>
+
+Before Sandeep Reddy Vanga's endorsement, superstar Mahesh Babu had also expressed his admiration for the film. Sharing his thoughts after watching it, Mahesh Babu described 'Rao Bahadur' as a gripping and emotionally powerful cinematic experience. He appreciated director Venkatesh Maha's unique vision and praised lead actor Satyadev for delivering an impressive performance. Mahesh Babu also applauded Deepa Thomas, the supporting cast and the technical crew, encouraging audiences to watch the film on the big screen.<br><br>
+
+Industry appreciation for 'Rao Bahadur' has continued to grow in recent days. Apart from Mahesh Babu and Sandeep Reddy Vanga, several prominent personalities from Telugu cinema, including Sukumar, Nani, Naga Chaitanya and Adivi Sesh, have reportedly appreciated the film after special screenings. Their endorsements have further strengthened the movie's positive word-of-mouth among audiences.<br><br>
+
+Director Venkatesh Maha has been working on 'Rao Bahadur' for several years, reportedly spending nearly five years developing the screenplay. The filmmaker has previously said he wanted to create a Telugu story with universal appeal while experimenting with visual storytelling and psychological themes. The film marks one of his most ambitious projects to date.<br><br>
+
+Lead actor Satyadev underwent a significant physical transformation for the role. Reports indicate that he spent nearly five hours each day in prosthetic makeup during a lengthy shooting schedule to portray the character convincingly. The production team also focused heavily on atmospheric cinematography, production design and period detailing to build the film's unique world.<br><br>
+
+Since its theatrical release, 'Rao Bahadur' has drawn praise from many viewers for its unconventional narrative, performances and technical excellence. While psychological dramas are often considered a niche genre, the film has managed to attract attention from both audiences and filmmakers, with many appreciating its willingness to explore complex themes through a visually rich cinematic style.<br><br>
+
+Sandeep Reddy Vanga's endorsement carries particular significance because the filmmaker rarely shares public reviews of newly released films. His enthusiastic recommendation has therefore generated additional curiosity among moviegoers who may not have watched 'Rao Bahadur' yet. Many fans on social media described his praise as one of the strongest endorsements the film has received so far.<br><br>
+
+With appreciation pouring in from leading filmmakers and actors, 'Rao Bahadur' continues to strengthen its reputation as one of the most talked-about Telugu films of the year. The combination of positive critical response, industry endorsements and audience appreciation has helped the Mahesh Babu-backed project gain increasing visibility, while Sandeep Reddy Vanga's message urging audiences to "give this film three hours of your life" has become one of the film's most widely shared moments online.`,
+
+  url: "mahesh-babu-backed-rao-bahadur-praised-by-sandeep-reddy-vanga",
+
+  image: "rao-bahadur-sandeep-reddy-vanga-mahesh-babu.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 15, 2026"
+},
+
+  {
+  title: "Kajal Aggarwal's Food Choices Spark Discussion After Viral Post Claims She Avoids Certain Foods Over Safety Concerns",
+
+  description: "A viral social media post attributed to actress Kajal Aggarwal has sparked discussions about food safety, pesticides, chemicals, and packaged food. The claims suggest the actress prefers homemade dairy products and avoids certain foods due to concerns over quality, though the original source of the statements has not been independently verified.",
+
+  content: `
+A social media post featuring actress Kajal Aggarwal has recently gained attention online after making claims about her personal food choices and concerns regarding the quality of everyday food products. The post, which has been widely shared across platforms, suggests that the actress has changed her eating habits due to concerns related to pesticides, chemicals, fertilisers, and the quality of commercially available food items.<br><br>
+
+According to the viral post, Kajal Aggarwal allegedly said that she stopped consuming certain fruits after hearing about cases involving artificial methods used to increase production. The post also claims that she avoids giving packaged milk to her child, expressing concerns about the quality of commercial milk products.<br><br>
+
+The viral image further states that the actress prefers homemade food items such as curd and paneer and has reduced consumption of several products because of worries about the presence of chemicals and agricultural residues in food.
+
+However, the exact source of these statements is not clear from the viral post. The claims circulating online appear to be based on a social media image, and there is no independently verified information confirming when or where Kajal Aggarwal made these remarks.<br><br>
+
+Food safety has become an increasingly discussed topic among consumers, with many people expressing concerns about pesticide usage, farming practices, food processing methods, and the quality of packaged products. Questions regarding the safety standards of fruits, vegetables, dairy products, and processed foods frequently appear in public discussions.<br><br>
+
+Many celebrities have previously spoken about their preference for healthier lifestyles, organic food, home-cooked meals, and careful dietary choices. Such statements often attract public attention because fans look at celebrity lifestyles for inspiration regarding health and wellness.<br><br>
+
+Kajal Aggarwal, who has worked in multiple Indian film industries, has often shared glimpses of her personal life, fitness routines, and family moments with her followers. After becoming a mother, the actress has also spoken publicly about parenting and maintaining a healthy lifestyle.
+
+The viral post has led to discussions among social media users, with some supporting the idea of being more careful about food choices, while others questioned the authenticity of the claims being circulated.
+
+Experts have often advised consumers to rely on verified information, follow proper food safety practices, wash fresh produce properly, and purchase food products from trusted sources rather than relying only on viral claims online.<br><br>
+
+At present, the statements attributed to Kajal Aggarwal in the viral post remain unverified. The discussion highlights the growing public interest in food quality and the importance of checking the authenticity of information shared on social media platforms.`,
+
+  url: "kajal-aggarwal-food-safety-concerns-viral-post-discussion",
+
+  image: "kajal-aggarwal-food-safety-viral-post.jpeg",
+
+  category: "Entertainment",
+
+  date: "2026-07-14"
+},
+
+  {
   title: "Kerala Man Repays 35-Year-Old ₹1,000 Loan With ₹25,000, Travels Across States to Keep His Promise",
 
   description: "In a heartwarming story of honesty and friendship, a Kerala man travelled hundreds of kilometres to Telangana to repay a ₹1,000 loan he had borrowed from a friend 35 years ago. Unable to forget his promise, he returned ₹25,000 along with what he believed was the accumulated value of the debt.",
 
-  content: `In an age where unpaid loans and broken promises have become increasingly common, a remarkable story from Kerala has captured hearts across the country. A man who had borrowed the equivalent of ₹1,000 from a friend nearly 35 years ago travelled across states to repay the debt with ₹25,000, proving that honesty and gratitude can survive the passage of time. His extraordinary effort to honour a decades-old promise has won widespread appreciation on social media and beyond. :contentReference[oaicite:0]{index=0}<br><br>
+  content: `In an age where unpaid loans and broken promises have become increasingly common, a remarkable story from Kerala has captured hearts across the country. A man who had borrowed the equivalent of ₹1,000 from a friend nearly 35 years ago travelled across states to repay the debt with ₹25,000, proving that honesty and gratitude can survive the passage of time. His extraordinary effort to honour a decades-old promise has won widespread appreciation on social media and beyond.<br><br>
 
-The story revolves around Mohammed Ismail, a native of Kerala, and his long-time friend Edla Lachanna from Telangana. The two first met in 1991 while working in Abqaiq, Saudi Arabia. Like many Indian migrant workers living abroad, they shared accommodation with a few other expatriates and gradually developed a close friendship during the nearly five years they spent together. :contentReference[oaicite:1]{index=1}<br><br>
+The story revolves around Mohammed Ismail, a native of Kerala, and his long-time friend Edla Lachanna from Telangana. The two first met in 1991 while working in Abqaiq, Saudi Arabia. Like many Indian migrant workers living abroad, they shared accommodation with a few other expatriates and gradually developed a close friendship during the nearly five years they spent together.<br><br>
 
-During their stay in Saudi Arabia, Ismail found himself facing financial difficulties and borrowed 120 Saudi Riyals from Lachanna. At that time, the amount was worth roughly ₹1,000 in Indian currency. Although it was not a huge sum, Ismail promised his friend that he would return the money once his financial situation improved. Soon afterwards, Lachanna returned to India, and with no mobile phones, social media or easy means of communication in those days, the two friends gradually lost contact. :contentReference[oaicite:2]{index=2}<br><br>
+During their stay in Saudi Arabia, Ismail found himself facing financial difficulties and borrowed 120 Saudi Riyals from Lachanna. At that time, the amount was worth roughly ₹1,000 in Indian currency. Although it was not a huge sum, Ismail promised his friend that he would return the money once his financial situation improved. Soon afterwards, Lachanna returned to India, and with no mobile phones, social media or easy means of communication in those days, the two friends gradually lost contact.<br><br>
 
-Despite the passing of decades, Ismail never forgot the money he owed. The loan remained on his mind throughout the years, and he was determined to repay it one day. Recently, he decided that it was finally time to fulfil the promise he had made more than three decades earlier. The challenge, however, was locating his old friend. He had neither Lachanna's phone number nor his address. The only detail he could remember was that Lachanna belonged to Dharmapuri in Telangana. :contentReference[oaicite:3]{index=3}<br><br>
+Despite the passing of decades, Ismail never forgot the money he owed. The loan remained on his mind throughout the years, and he was determined to repay it one day. Recently, he decided that it was finally time to fulfil the promise he had made more than three decades earlier. The challenge, however, was locating his old friend. He had neither Lachanna's phone number nor his address. The only detail he could remember was that Lachanna belonged to Dharmapuri in Telangana.<br><br>
 
-Using online searches and Google Maps, Ismail identified the town and travelled from Kerala to Telangana in search of his friend. After reaching Dharmapuri, he sought help from local residents, asking if anyone knew Lachanna. His determination eventually paid off when locals guided him to Lachanna's family home. The emotional search, driven solely by a promise made decades ago, finally came to a successful end. :contentReference[oaicite:4]{index=4}<br><br>
+Using online searches and Google Maps, Ismail identified the town and travelled from Kerala to Telangana in search of his friend. After reaching Dharmapuri, he sought help from local residents, asking if anyone knew Lachanna. His determination eventually paid off when locals guided him to Lachanna's family home. The emotional search, driven solely by a promise made decades ago, finally came to a successful end.<br><br>
 
-When Ismail reached the house, he learned that Lachanna was once again working in a Gulf country and was not in India at the time. Instead of returning disappointed, Ismail handed over ₹25,000 to Lachanna's family as repayment of the old debt. He also spoke to his friend through a WhatsApp video call, allowing the two to reconnect after nearly 35 years. The emotional conversation marked the reunion of two friends separated by time and distance. :contentReference[oaicite:5]{index=5}<br><br>
+When Ismail reached the house, he learned that Lachanna was once again working in a Gulf country and was not in India at the time. Instead of returning disappointed, Ismail handed over ₹25,000 to Lachanna's family as repayment of the old debt. He also spoke to his friend through a WhatsApp video call, allowing the two to reconnect after nearly 35 years. The emotional conversation marked the reunion of two friends separated by time and distance.<br><br>
 
-Lachanna was deeply moved by the unexpected gesture. He admitted that he had never imagined the money would be returned after so many years. Speaking about his friend, he described Ismail as an honest and kind-hearted person who had remained true to his word despite the passage of time. Lachanna also said he did not know exactly how Ismail calculated the repayment amount of ₹25,000, but believed it likely included interest accumulated over the years. :contentReference[oaicite:6]{index=6}<br><br>
+Lachanna was deeply moved by the unexpected gesture. He admitted that he had never imagined the money would be returned after so many years. Speaking about his friend, he described Ismail as an honest and kind-hearted person who had remained true to his word despite the passage of time. Lachanna also said he did not know exactly how Ismail calculated the repayment amount of ₹25,000, but believed it likely included interest accumulated over the years.<br><br>
 
-Recalling their days in Saudi Arabia, Lachanna said the two often cooked meals together and spent evenings talking after work, which strengthened their friendship. He explained that lending the money at the time had simply been an act of helping a friend in need and that he never expected such an extraordinary effort to repay it decades later. For him, the reunion was far more valuable than the money itself. :contentReference[oaicite:7]{index=7}<br><br>
+Recalling their days in Saudi Arabia, Lachanna said the two often cooked meals together and spent evenings talking after work, which strengthened their friendship. He explained that lending the money at the time had simply been an act of helping a friend in need and that he never expected such an extraordinary effort to repay it decades later. For him, the reunion was far more valuable than the money itself.<br><br>
 
-The inspiring incident has drawn widespread admiration online, with thousands of people praising Ismail's honesty and commitment. Many social media users described the story as proof that genuine friendship and integrity still exist, while others remarked that keeping a promise for 35 years is something rarely seen in today's world. The incident has also sparked discussions about trust, gratitude and the importance of honouring one's commitments regardless of the amount involved. :contentReference[oaicite:8]{index=8}<br><br>
+The inspiring incident has drawn widespread admiration online, with thousands of people praising Ismail's honesty and commitment. Many social media users described the story as proof that genuine friendship and integrity still exist, while others remarked that keeping a promise for 35 years is something rarely seen in today's world. The incident has also sparked discussions about trust, gratitude and the importance of honouring one's commitments regardless of the amount involved.<br><br>
 
-While the financial value of the original loan was relatively small, the emotional value attached to the repayment was immeasurable. The journey undertaken by Ismail was not merely about returning borrowed money—it was about fulfilling a promise that had stayed alive in his heart for decades. His determination to track down an old friend using nothing more than a faint memory of his hometown has touched countless people across the country. :contentReference[oaicite:9]{index=9}<br><br>
+While the financial value of the original loan was relatively small, the emotional value attached to the repayment was immeasurable. The journey undertaken by Ismail was not merely about returning borrowed money—it was about fulfilling a promise that had stayed alive in his heart for decades. His determination to track down an old friend using nothing more than a faint memory of his hometown has touched countless people across the country.<br><br>
 
 The story serves as a powerful reminder that honesty, gratitude and friendship are values that never lose their significance, no matter how much time passes. At a time when trust is often questioned, Mohammed Ismail's remarkable act has become an inspiring example of how keeping one's word can leave a lasting impression far greater than any amount of money.`,
 
