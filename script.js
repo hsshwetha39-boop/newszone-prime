@@ -73,6 +73,280 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Viral Video Sparks Debate After Woman Questions Why Top Indian YouTubers Stay Silent on Public Issues",
+
+  description: "A video featuring a young woman questioning why several of India's biggest YouTubers and digital creators rarely speak on issues affecting the country's youth has gone viral on social media. Her remarks have triggered a wider debate over whether influencers with massive audiences have a responsibility to address major public concerns or should remain focused solely on content creation.",
+
+  content: `A viral social media video has ignited a nationwide discussion after a young woman questioned why many of India's most-followed YouTubers and digital creators remain silent on issues that directly affect the country's youth. The clip, widely shared across Instagram, Threads and other platforms, has generated thousands of reactions, with users divided over whether online creators have a responsibility to speak on important social matters.<br><br>
+
+In the now-viral video, the woman argues that millions of young Indians have played a major role in building the careers and platforms of these creators by consistently watching, subscribing and supporting their content. Because of this enormous public influence, she believes their silence during significant national debates and issues affecting young people has become increasingly noticeable.<br><br>
+
+According to the woman, digital creators today possess influence comparable to mainstream celebrities. Their opinions can shape conversations, spread awareness and encourage civic participation among millions of followers. She questions why many of them continue to avoid commenting on issues that concern students, young professionals and the wider public despite having such massive reach.<br><br>
+
+The video does not accuse any specific creator of wrongdoing. Instead, it broadly raises concerns about the role of influencers in modern society and asks whether remaining neutral during important public discussions is the right approach for personalities whose audiences largely consist of young people.<br><br>
+
+As the clip circulated online, it quickly sparked a heated debate across social media platforms. A section of users agreed with the woman's viewpoint, arguing that influencers who benefit from the support of millions should occasionally use their platforms to discuss issues that matter to society. They said creators have the ability to educate audiences, encourage informed discussions and amplify voices that might otherwise go unheard.<br><br>
+
+Others, however, strongly disagreed with the criticism. Many users pointed out that YouTubers and digital creators are entertainers or educators within their chosen fields and should not be expected to comment on every political, social or national issue. According to this view, creators should have the freedom to decide what content they wish to produce without facing pressure from audiences.<br><br>
+
+Several commentators also noted that speaking on controversial issues can expose creators to online abuse, misinformation, legal complications and the risk of alienating sections of their audience. As a result, many influencers may deliberately choose to avoid public controversies and focus only on their core content.<br><br>
+
+The discussion has once again highlighted the growing influence of India's creator economy. With many digital personalities now reaching audiences that rival television channels and traditional celebrities, expectations surrounding their public responsibilities continue to evolve. While some viewers see them as entertainers, others increasingly view them as public figures capable of influencing social conversations.<br><br>
+
+The viral video has therefore become less about individual creators and more about a larger question: Should influencers with millions of followers use their platforms to address important public issues, or should they remain free to avoid such discussions entirely?<br><br>
+
+At the time of writing, none of the creators shown or referenced in the viral post have publicly responded to the video. There is also no indication that the video was directed at any single individual. Instead, it reflects one person's opinion that has resonated widely online and encouraged broader public discussion.<br><br>
+
+Since the clip is based on personal views rather than verified factual claims, it should be understood as commentary that has sparked debate on social media rather than an established news event involving misconduct or official action.`,
+
+  url: "viral-video-woman-questions-top-indian-youtubers-silence-public-issues",
+
+  image: "viral-youtubers-public-issues-debate.jpeg",
+
+  category: "viral",
+
+  date: "July 17, 2026"
+},
+
+  {
+  title: "Viral 'Meher Nolan' Meme Falsely Suggests Christopher Nolan Praised Director Meher Ramesh; Satirical Edit Trends Online",
+
+  description: "A humorous social media post claiming that Hollywood filmmaker Christopher Nolan called Telugu director Meher Ramesh his favourite director has gone viral. The clip is an edited meme created for entertainment and satire, with no evidence that Nolan ever made such a statement.",
+
+  content: `A satirical social media post featuring Hollywood filmmaker Christopher Nolan and Telugu director Meher Ramesh has gone viral across Instagram, Threads and other platforms, leaving many users amused while also confusing some viewers who initially believed it was genuine.<br><br>
+
+The viral post uses footage from an interview featuring Christopher Nolan and digitally edits the subtitles and dialogue to make it appear as though the Oscar-winning filmmaker says that Meher Ramesh is his favourite director. The edited captions even claim that Nolan has watched all of Meher Ramesh's films multiple times and learns something new from them every time.<br><br>
+
+The clip quickly gained traction because of the long-running internet meme surrounding Meher Ramesh, a Telugu filmmaker whose movies have often become the subject of jokes and humorous discussions on social media. The edit exaggerates this meme by placing him alongside one of the world's most celebrated directors.<br><br>
+
+Another post accompanying the viral video describes Meher Ramesh as "Tollywood's own Meher Nolan" and compares his filmography with Christopher Nolan's body of work. The caption mentions films directed by Meher Ramesh, including *Billa*, *Kantri*, *Shakti* and *Bhola Shankar*, while also listing Christopher Nolan's globally acclaimed films such as *Inception*, *Interstellar* and *Oppenheimer*. It even references Nolan's upcoming film *The Odyssey* as part of the humorous comparison.<br><br>
+
+Despite the dramatic captions, there is no credible evidence that Christopher Nolan has ever publicly stated that Meher Ramesh is his favourite filmmaker or that he has praised his films in the manner shown in the edited video. The dialogue, subtitles and context presented in the viral reel have been digitally manipulated for comic effect.<br><br>
+
+The account that shared the content also uses the nickname "Meher Nolan," a phrase that has become a recurring internet joke among sections of Telugu cinema fans. Similar memes have circulated for years, often portraying Meher Ramesh as being on par with internationally acclaimed filmmakers as part of satirical fan culture.<br><br>
+
+Many users in the comments immediately recognised the post as satire, responding with laughing emojis and humorous reactions. Others initially questioned whether the clip was authentic before other users clarified that it was an edited meme and not a real interview.<br><br>
+
+The viral trend once again highlights how AI-assisted editing tools and subtitle manipulation can make parody videos appear convincing, especially when viewed without context. While the content is intended for entertainment, such edits can sometimes mislead viewers who encounter only short clips without additional information.<br><br>
+
+Media experts advise social media users to verify extraordinary claims through official interviews or reliable news sources before accepting them as fact. Edited videos, especially those involving celebrities, are becoming increasingly sophisticated and can easily be mistaken for genuine content.<br><br>
+
+At present, there is no official statement from Christopher Nolan, his representatives or any verified source supporting the claim shown in the viral reel. The circulating video should therefore be viewed as satire rather than factual reporting.<br><br>
+
+**Fact Check:** The claim that Christopher Nolan called Meher Ramesh his favourite director is **false**. The viral video is an edited meme created for humour and has no factual basis.`,
+
+  url: "christopher-nolan-meher-ramesh-viral-meme-fact-check",
+
+  image: "christopher-nolan-meher-ramesh-viral-meme.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 17, 2026"
+},
+
+  {
+  title: "Patna High Court Alters 2008 Conviction, Says Alleged Acts Amount to Outraging Modesty, Not Attempt to Rape",
+
+  description: "A recent Patna High Court judgment in a 2008 case has sparked nationwide debate after the court set aside an attempted rape conviction, ruling that the evidence supported the lesser offence of outraging a woman's modesty. The verdict has drawn sharp public reactions and renewed discussions on the interpretation of sexual offence laws in India.",
+
+  content: `A judgment delivered by the Patna High Court in connection with a 2008 sexual assault case has triggered widespread public debate after the court modified the conviction of the accused. The court held that the evidence presented in the case was insufficient to sustain a conviction for attempted rape and instead found the accused guilty of the lesser offence of outraging the modesty of a woman under the Indian Penal Code.<br><br>
+
+The case dates back to 2008 and involved an incident at a photo studio in Bihar. According to the prosecution, the woman had visited the studio when the accused allegedly pressed her chest, attempted to remove her salwar and behaved in a sexually inappropriate manner. The trial court had earlier convicted the accused for the offence of attempted rape based on the prosecution's version of events.<br><br>
+
+However, while hearing the appeal, the Patna High Court carefully examined the evidence, witness testimonies and legal requirements needed to establish the offence of attempted rape. The bench observed that although the alleged acts were serious and constituted a criminal offence, the prosecution had failed to establish the essential ingredients required to prove an attempt to commit rape beyond reasonable doubt.<br><br>
+
+The High Court noted that every act of sexual assault does not automatically amount to attempted rape under criminal law. According to the judgment, for an offence to qualify as attempted rape, the prosecution must prove not only the intention but also direct acts leading towards the commission of rape. The court observed that the available evidence in this particular case did not meet that legal threshold.<br><br>
+
+Instead, the court concluded that the accused's alleged conduct—pressing the woman's chest and attempting to remove her clothing—amounted to outraging the modesty of a woman, an offence punishable under Section 354 of the Indian Penal Code. Consequently, the court modified the conviction from attempted rape to outraging modesty.<br><br>
+
+Following the verdict, excerpts from the judgment began circulating widely on social media. Several posts highlighted one specific observation from the ruling, claiming that "pressing a woman's chest and trying to remove her salwar amounts to outraging modesty, not attempted rape." These posts quickly went viral, leading to intense public discussions and criticism.<br><br>
+
+Many social media users expressed disappointment with the court's interpretation, arguing that the alleged acts described in the case were grave enough to justify a more severe charge. Women's rights activists and several legal commentators also voiced concern over how such judicial observations might influence future sexual assault cases.<br><br>
+
+At the same time, legal experts pointed out that the judgment does not declare the alleged acts lawful or acceptable. Instead, the ruling focuses on the distinction between different offences defined under criminal law. According to criminal law experts, courts are required to determine whether the evidence satisfies the specific legal ingredients of each offence rather than relying solely on the seriousness of the allegations.<br><br>
+
+The case has once again highlighted the legal distinction between offences such as sexual harassment, assault with intent to outrage modesty, sexual assault and attempted rape. Lawyers note that while these offences may involve similar factual circumstances, each carries different legal requirements, punishments and evidentiary standards under Indian law.<br><br>
+
+The judgment has also reignited discussions about reforms in sexual offence laws and whether existing legal definitions adequately reflect the realities faced by survivors. Some experts have called for greater clarity in legislation, while others stress that judicial decisions must continue to be based strictly on evidence and statutory provisions rather than public opinion.<br><br>
+
+As public reactions intensified, several legal professionals urged people to read the complete judgment instead of relying solely on short excerpts circulating on social media. They argued that isolated quotes often fail to capture the court's full legal reasoning and may lead to misunderstanding of judicial decisions.<br><br>
+
+The Patna High Court's ruling does not acquit the accused. Instead, it modifies the conviction to a different offence after concluding that the evidence was insufficient to sustain the charge of attempted rape. The accused continues to stand convicted under the offence of outraging the modesty of a woman.
+
+The judgment has become one of the most widely discussed legal decisions in recent days, prompting conversations about women's safety, criminal justice, evidentiary standards and the interpretation of sexual offence laws in India. The debate is expected to continue as legal experts, activists and members of the public examine the broader implications of the ruling.`,
+
+  url: "patna-high-court-modifies-attempted-rape-conviction-outraging-modesty-verdict",
+
+  image: "patna-high-court-outraging-modesty-verdict.jpeg",
+
+  category: "viral",
+
+  date: "July 17, 2026"
+},
+
+  {
+  title: "Viral Post on Rising Divorce Rates Sparks Debate Over Changing Marriage Expectations and Gender Roles",
+
+  description: "A social media post claiming that rising divorce rates are linked to changing expectations of men and women in modern marriages has gone viral. The post has sparked widespread discussion online, with users debating gender roles, financial independence, equality, and the evolving nature of relationships.",
+
+  content: `A social media post discussing the reasons behind rising divorce rates has gone viral, prompting widespread debate across platforms such as Instagram, Threads, Facebook and X. The post suggests that divorce rates are increasing because "many men still want to live like their fathers did, while many women no longer want to suffer like their mothers did." The statement has generated thousands of reactions, with users sharing differing perspectives on marriage, equality and changing social expectations.<br><br>
+
+The viral post argues that modern women are increasingly becoming financially independent, emotionally aware and confident enough to recognize unhealthy relationships. According to the message, many women today are more willing to leave marriages where they experience emotional neglect, disrespect, abuse or a lack of mutual support instead of remaining in such relationships solely due to societal pressure.<br><br>
+
+The post further states that independence should not be viewed as a rejection of marriage. Instead, it describes independence as the freedom to choose relationships based on mutual respect, kindness, equality and genuine love rather than obligation or fear. It also emphasizes that lasting marriages require effort, communication, accountability and respect from both partners.<br><br>
+
+Another point highlighted in the viral message is that successful relationships are not built on one person making continuous sacrifices while the other benefits. Rather, it argues that healthy marriages are created when both partners grow together, support each other equally and treat one another with dignity and compassion.<br><br>
+
+The final section of the post concludes by saying that true love should provide peace, security, emotional support and understanding instead of fear, loneliness or disrespect. It also stresses that everyone deserves a relationship where they feel valued, heard and genuinely loved.<br><br>
+
+As the post spread online, it quickly became the subject of intense discussion. Many users agreed with its central message, saying that society has changed significantly over the past few decades. They argued that increased education, financial independence and greater awareness of emotional well-being have encouraged more people to leave relationships they consider unhealthy rather than remaining in them out of social obligation.<br><br>
+
+Supporters of the post also pointed out that previous generations often faced greater social pressure to stay married regardless of personal circumstances. According to these users, changing attitudes toward mental health, domestic violence, emotional compatibility and gender equality have contributed to a shift in how modern couples view marriage.<br><br>
+
+However, the post also attracted criticism from others who felt that the statement oversimplifies the reasons behind rising divorce rates. Some users argued that marital breakdowns cannot be attributed solely to changing gender roles or financial independence. Instead, they suggested that every relationship is unique and that divorce may result from a combination of factors including poor communication, financial stress, incompatibility, family conflicts, unrealistic expectations, infidelity, mental health challenges and lifestyle differences.<br><br>
+
+Several commenters also noted that both men and women face pressures within marriage and that assigning blame to one gender does not accurately reflect the complexity of modern relationships. Others emphasized that successful marriages depend on mutual understanding, compromise and emotional maturity from both partners.<br><br>
+
+Relationship experts have long maintained that no single factor explains divorce trends. Studies conducted in various countries indicate that reasons for marital separation often include communication problems, financial disagreements, lack of trust, emotional distance, domestic violence, substance abuse, differing life goals and changing personal priorities. Experts also note that increased social acceptance of divorce and greater legal accessibility have made it easier for individuals to leave unhappy marriages compared to previous generations.<br><br>
+
+The viral post does not cite any official research or statistical data supporting its claim about the primary cause of rising divorce rates. Instead, it reflects a widely shared opinion circulating on social media. As with many opinion-based posts, it has resonated differently with different audiences depending on their personal experiences and beliefs.<br><br>
+
+While the statement has become popular online, it should not be interpreted as a verified explanation for divorce trends. Marriage and divorce are influenced by numerous personal, cultural, social and economic factors, and no single viewpoint fully explains the experiences of every couple.<br><br>
+
+The discussion nevertheless highlights the evolving expectations surrounding modern relationships. As societies continue to change, conversations about equality, mutual respect, shared responsibilities and emotional well-being are becoming increasingly central to how people define successful marriages.<br><br>
+
+The viral post ultimately serves as a catalyst for a broader conversation rather than a definitive conclusion. Whether people agree or disagree with its message, the widespread reactions demonstrate that discussions about marriage, gender roles and long-term relationships continue to be highly relevant in today's society.`,
+
+  url: "viral-post-rising-divorce-rates-modern-marriage-debate",
+
+  image: "viral-divorce-rates-social-media-post.jpeg",
+
+  category: "trending",
+
+  date: "July 17, 2026"
+},
+
+  {
+  title: "Viral Video Shows Police Stopping Woman From Filming Dance Reel Inside Temple, Sparks Debate Over Respect for Sacred Places",
+
+  description: "A viral video showing police stopping a woman from recording a dance reel inside a temple has sparked widespread discussion on social media. The incident has reignited conversations about maintaining the sanctity of religious places and the growing trend of creating social media content at places of worship.",
+
+  content: `A video circulating widely across social media platforms has sparked a fresh debate over the growing trend of filming social media content inside religious places. The viral clip shows a police officer stopping a young woman from allegedly recording a dance reel inside a temple, reminding her that the premises are meant for worship and spiritual activities rather than entertainment content.<br><br>
+
+The short video, which has amassed thousands of views, captures a crowded temple where devotees are seen offering prayers and moving through the premises. Amid the gathering, the police officer approaches the woman and appears to ask her to stop filming. According to captions accompanying the viral post, the officer reminded her about the sanctity of the temple and instructed her not to record dance videos inside the religious site.<br><br>
+
+Although the exact location of the temple and the date of the incident have not been officially confirmed, the clip has spread rapidly across Instagram, X, Threads and other social media platforms. The incident has generated thousands of comments, with users expressing differing opinions about the officer's intervention.
+
+A large section of social media users praised the police officer for his actions, saying temples, mosques, churches and other places of worship should remain spaces dedicated to prayer, devotion and religious practices. Many argued that the increasing trend of recording dance reels, lip-sync videos and other entertainment content inside sacred places often disturbs devotees and affects the spiritual atmosphere.<br><br>
+
+Several users commented that religious sites deserve the same level of respect regardless of faith, adding that visitors should follow the rules and maintain appropriate behaviour while inside temple premises. Others suggested that authorities should display clearer guidelines regarding photography and videography to avoid similar incidents in the future.<br><br>
+
+At the same time, some social media users questioned whether recording videos should be completely prohibited if it does not disturb other visitors. They argued that many temples are also popular tourist destinations where photography is generally permitted, making it important to distinguish between casual photography and activities that may disrupt the religious environment.<br><br>
+
+As discussions continued online, many people pointed out that numerous religious institutions across India already have specific rules regarding mobile phone usage, photography and videography. Some temples allow visitors to take photographs only in designated areas, while others prohibit cameras and mobile phones entirely within the sanctum or prayer halls.<br><br>
+
+The viral incident has once again highlighted the broader issue of social media content creation in public spaces. Over the past few years, several videos showing influencers recording dance reels, prank videos and other content inside railway stations, airports, hospitals, educational institutions and places of worship have frequently sparked controversy. In several instances, authorities have intervened, citing public inconvenience, safety concerns or violations of local regulations.<br><br>
+
+Despite the widespread circulation of the clip, no official statement has been issued confirming the exact circumstances surrounding the incident. The identity of the woman shown in the video has not been publicly disclosed, and authorities have not announced whether any formal action was taken following the incident.<br><br>
+
+Because the available information comes primarily from viral social media posts, some details remain unverified. NewsZone has not independently verified the location of the temple, the identities of those involved or the complete sequence of events shown in the video.
+
+Nevertheless, the incident has reignited an important conversation about balancing personal content creation with respect for religious traditions and public decorum. Many observers believe that while social media has become a significant part of daily life, places of worship require visitors to prioritize reverence, discipline and consideration for fellow devotees.<br><br>
+
+Until official information is released, the viral clip should be viewed in the context of an ongoing social media discussion rather than as a fully verified account of events. The incident serves as another reminder that respecting the rules and customs of religious places remains essential, regardless of whether visitors are there for worship, tourism or photography.`,
+
+  url: "viral-video-police-stop-woman-filming-dance-reel-inside-temple",
+
+  image: "police-stop-dance-reel-inside-temple-viral-video.jpeg",
+
+  category: "Viral",
+
+  date: "July 17, 2026"
+},
+
+  {
+  title: "Viral Post Claims Sushmita Sen Said 'Pakistan Has Always Been Close to My Heart'; No Verified Evidence Supports Quote",
+
+  description: "A social media post claiming that actress Sushmita Sen said, 'India is my identity, but Pakistan has always been close to my heart,' has gone viral online. However, no verified interview, public speech, or official statement confirming the quote has surfaced, making the claim unverified.",
+
+  content: `A social media post featuring former Miss Universe and Bollywood actress Sushmita Sen has gone viral after claiming that she said, "India is my identity, but Pakistan has always been close to my heart." The image, which has been widely circulated on platforms including Threads and X, has sparked heated discussions among internet users, with many questioning the authenticity of the alleged statement.<br><br>
+
+The viral post includes a photograph of Sushmita Sen alongside the quoted text but does not mention where or when the actress supposedly made the remark. No interview, television appearance, press conference, or social media post has been cited as the source of the statement.<br><br>
+
+As the image gained traction online, users reacted strongly, with some criticizing the actress while others urged people not to believe screenshots circulating on social media without proper verification. The lack of any identifiable source quickly became a major point of discussion.<br><br>
+
+At the time of publication, there is no verified evidence that Sushmita Sen made the statement attributed to her in the viral post. Searches across publicly available interviews, official social media accounts, and reputable news reports have not produced any confirmed record of her saying, "India is my identity, but Pakistan has always been close to my heart."<br><br>
+
+Misinformation involving celebrities has become increasingly common on social media. Images are often edited with fabricated quotes or presented without context, making it difficult for viewers to distinguish between authentic statements and manipulated content. Experts frequently advise users to verify claims through credible news organizations or official statements before sharing them online.<br><br>
+
+Neither Sushmita Sen nor her representatives have publicly responded to this specific viral image as of now. Likewise, no official clarification has been issued confirming or denying the authenticity of the quote.<br><br>
+
+The viral image has nevertheless generated significant engagement, with thousands of comments and shares across multiple social media platforms. While some users accepted the quote as genuine, many others questioned its credibility and pointed out the absence of any reliable source.<br><br>
+
+News reports and fact-checking organizations generally recommend treating unsourced celebrity quotes with caution, especially when they concern sensitive political or national issues. Without supporting evidence such as a verified video, interview transcript, or official publication, such claims should not be presented as established fact.<br><br>
+
+Based on the information currently available, the statement attributed to Sushmita Sen remains an unverified social media claim. Readers are advised to rely on verified sources and official statements before drawing conclusions or sharing similar posts online.`,
+
+  url: "viral-claim-sushmita-sen-pakistan-close-to-my-heart-unverified",
+
+  image: "sushmita-sen-viral-quote-claim.jpeg",
+
+  category: "viral",
+
+  date: "July 17, 2026"
+},
+
+  {
+  title: "Mahesh Babu's Nephew Siddharth Galla Gets Engaged to South Korean Girlfriend Hyein Kim; Bride's Floral Lehenga Wins Hearts",
+
+  description: "Tollywood superstar Mahesh Babu's family is celebrating as his nephew Siddharth Galla got engaged to his longtime South Korean girlfriend Hyein Kim. The intimate ceremony has gone viral online, with the bride's elegant floral lehenga and traditional Indian look receiving widespread praise from fans.",
+
+  content: `Wedding celebrations have begun in the family of Telugu superstar Mahesh Babu as his nephew, Siddharth Galla, officially got engaged to his longtime South Korean girlfriend, Hyein Kim. The engagement ceremony, attended by close family members and friends, has quickly become one of the most talked-about celebrity family events on social media, with photographs from the celebration drawing admiration from fans across India and abroad.<br><br>
+
+Siddharth Galla, who belongs to the influential Ghattamaneni-Galla family, is the son of Mahesh Babu's elder sister Padmavathi Galla and former Member of Parliament Galla Jayadev. While Siddharth has largely stayed away from the film industry and maintains a relatively private life, his engagement to Hyein Kim has attracted significant public attention because of the family's close association with Telugu cinema.<br><br>
+
+The couple's engagement photographs began circulating online shortly after the ceremony, with fans congratulating them and appreciating the beautiful blend of Indian and Korean cultures. Many social media users described the celebration as elegant and intimate, praising the couple's chemistry and the tasteful styling chosen for the occasion.<br><br>
+
+One of the biggest highlights of the engagement was Hyein Kim's traditional Indian outfit. Despite being from South Korea, she embraced Indian fashion with remarkable grace by wearing a stunning yellow floral lehenga that instantly became a talking point online. Her outfit featured large floral prints in shades of pink, green and red spread across the flowing skirt, creating a vibrant and festive appearance that perfectly suited the joyful occasion.<br><br>
+
+The lehenga was designed with a sleeveless blouse featuring a contemporary neckline while maintaining a traditional aesthetic. The embroidered waistband and wide decorative border enhanced the richness of the ensemble, giving it a luxurious appearance without appearing overly elaborate. She completed the outfit with a sheer yellow dupatta draped elegantly over one shoulder in a saree-inspired style, adding another traditional Indian element to her overall look.<br><br>
+
+Fashion enthusiasts particularly admired how the floral patterns were balanced with subtle embroidery instead of excessive embellishments. The outfit managed to combine modern bridal styling with classic Indian craftsmanship, making it one of the most appreciated celebrity engagement looks shared online this week.<br><br>
+
+Hyein complemented her attire with carefully selected jewellery that added a royal touch to her appearance. She wore a statement necklace featuring red stones, matching earrings, a traditional maang tikka, elegant bracelets and additional accessories that blended beautifully with her floral ensemble. During parts of the ceremony, she was also seen wearing gold jewellery, further enhancing her festive look.<br><br>
+
+Her hairstyle remained simple yet elegant. She opted for softly curled hair styled in a half-pinned fashion, allowing her jewellery and outfit to remain the primary focus. Nude-toned makeup with natural shades highlighted her features while maintaining a graceful and understated appearance. Fans noted that her styling reflected an appreciation for Indian bridal traditions without losing her own personal elegance.<br><br>
+
+Another detail that attracted attention on social media was the green digital watch visible on her wrist in some photographs. While unusual for a traditional engagement ceremony, many fans felt the accessory added a personal and modern touch to her otherwise classic ethnic look.<br><br>
+
+Siddharth Galla also received praise for his sophisticated engagement attire. He chose a dark green kurta paired with matching pyjamas, creating a coordinated appearance alongside Hyein's floral yellow outfit. Unlike heavily embroidered ceremonial outfits, Siddharth's kurta featured a clean and minimal design, giving him a refined and elegant appearance.<br><br>
+
+His layered pearl necklace with a decorative pendant added a royal element without overwhelming the simplicity of the outfit. The coordinated colours of the couple's attire created visually appealing engagement photographs that many fans described as tasteful and perfectly matched.<br><br>
+
+The engagement has generated considerable excitement among followers of Mahesh Babu and the Ghattamaneni family. Congratulatory messages have poured in from fans across social media, with many expressing admiration for the cross-cultural relationship and wishing the couple happiness in their upcoming married life.<br><br>
+
+Several users praised Hyein Kim for embracing Indian traditions during the ceremony. Many comments highlighted how naturally she carried the traditional attire, while others appreciated the beautiful cultural exchange represented by the engagement between an Indian groom and a South Korean bride.<br><br>
+
+The engagement has also sparked conversations about the growing number of international marriages involving Indian celebrities and prominent families. Fans viewed the ceremony as an example of how relationships increasingly transcend geographical and cultural boundaries while still respecting local traditions and customs.<br><br>
+
+Although Hyein Kim generally maintains a private profile, her appearance at the engagement has introduced her to a much wider audience. Reports indicate that she and Siddharth have been in a long-term relationship before deciding to take the next step toward marriage. However, the family has largely kept details of their personal relationship private.<br><br>
+
+The engagement ceremony itself was intentionally intimate, with attendance limited primarily to family members and close friends. Images shared online captured warm family moments, candid interactions and the joyous atmosphere surrounding the celebration.
+
+With the engagement now officially announced, attention has naturally shifted toward the couple's wedding plans. While the family has not publicly revealed the wedding date or venue, fans are eagerly awaiting further announcements and hoping to see more glimpses from the celebrations.<br><br>
+
+For now, the engagement remains a memorable milestone for the Ghattamaneni-Galla family, not only because it marks the beginning of Siddharth and Hyein's new journey together but also because it beautifully showcased a blend of Indian tradition and Korean heritage. Hyein Kim's graceful floral lehenga and the couple's coordinated traditional outfits have undoubtedly become one of the standout celebrity engagement looks currently making waves across social media.`,
+
+  url: "mahesh-babu-nephew-siddharth-galla-engagement-korean-girlfriend-hyein-kim-floral-lehenga",
+
+  image: "mahesh-babu-nephew-siddharth-galla-hyein-kim-engagement.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 16, 2026"
+},
+
+  {
   title: "Nick Jonas Reveals the First DM That Started His Love Story With Priyanka Chopra",
 
   description: "Singer and actor Nick Jonas has revealed the direct message that marked the beginning of his relationship with Priyanka Chopra. The couple's now-famous first Instagram conversation has resurfaced online, giving fans a glimpse into how one of entertainment's most celebrated romances began.",
