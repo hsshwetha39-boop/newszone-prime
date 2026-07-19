@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
+    <meta id="metaDesc" name="description"
 content="Latest India news and breaking updates from NewsZone Prime">
 
 <meta name="robots"
@@ -12,7 +12,7 @@ content="index,follow">
     <link rel="icon" type="jpeg" href="logo.png">
     <link rel="stylesheet" href="style.css">
 
-    <link rel="canonical"
+    <link id="canonicalLink" rel="canonical"
 href="https://hsshwetha39-boop.github.io/newszone-prime/news.html">
 
     <script
@@ -54,16 +54,16 @@ id="news-schema">
 <meta property="og:site_name"
 content="NewsZone Prime">
 
-<meta property="og:title"
+<meta id="ogTitle" property="og:title"
 content="NewsZone Prime">
 
-<meta property="og:description"
+<meta id="ogDesc" property="og:description"
 content="Latest India news and breaking updates">
 
-<meta property="og:image"
+<meta id="ogImage" property="og:image"
 content="https://hsshwetha39-boop.github.io/newszone-prime/logo.png">
 
-<meta property="og:url"
+<meta id="ogUrl" property="og:url"
 content="https://hsshwetha39-boop.github.io/newszone-prime/">
 
 <meta name="twitter:card"
@@ -115,17 +115,23 @@ content="https://hsshwetha39-boop.github.io/newszone-prime/logo.png">
 
     <h1 id="title"></h1>
 
-<p class="news-meta">
+<p class="news-meta" id="metaLine">
   By <span id="author"></span>
-  •
+  <span id="metaSep1">•</span>
   <span id="date"></span>
-  •
+  <span id="metaSep2">•</span>
   <span id="readingTime"></span>
 </p>
 
 <img id="image" alt="News Image">
 
 <div id="desc"></div>
+
+<!-- Shown only when this page is opened without article data -->
+<div id="no-article-msg" style="display:none; text-align:center; padding:40px 20px;">
+  <p>No article selected. Please go back to the homepage and choose a story to read.</p>
+  <button onclick="goHome()">← Back to Home</button>
+</div>
 
 <h3>You May Also Like</h3>
 
@@ -159,13 +165,34 @@ Trending Stories
 
     if (title)  document.getElementById("title").innerText  = title;
     if (desc)   document.getElementById("desc").innerHTML   = desc;
-    if (author) document.getElementById("author").innerText = author;
-    if (date)   document.getElementById("date").innerText   = date;
+
+    // Default author name — always show "By Shwetha" unless a specific
+    // author is passed in the URL for that article.
+    document.getElementById("author").innerText = author || "Shwetha";
+
+    if (date) {
+        document.getElementById("date").innerText = date;
+    } else {
+        document.getElementById("metaSep1").style.display = "none";
+    }
+
+    if (!document.getElementById("readingTime").innerText.trim()) {
+        document.getElementById("metaSep2").style.display = "none";
+    }
 
     if (img) {
         document.getElementById("image").src = img;
     } else {
         document.getElementById("image").style.display = "none";
+    }
+
+    // If no article data was passed at all, show a friendly fallback
+    // instead of a blank-looking page, and tell search engines not to
+    // index this bare template URL.
+    if (!title && !desc) {
+        document.getElementById("no-article-msg").style.display = "block";
+        const robotsTag = document.querySelector('meta[name="robots"]');
+        if (robotsTag) robotsTag.setAttribute("content", "noindex,follow");
     }
 
     const schema =
@@ -195,8 +222,8 @@ JSON.stringify({
 },
 
 "author":{
- "@type":"Organization",
- "name":"NewsZone Prime"
+ "@type": "Person",
+ "name": author || "Shwetha"
 },
 
 "publisher":{
@@ -208,7 +235,7 @@ JSON.stringify({
 
  "@type":"ImageObject",
 
- "url":"https://hsshwetha39-boop.github.io/newszone-prime/WhatsApp%20Image%202026-04-24%20at%2010.56.17%20AM.jpeg"
+ "url":"https://hsshwetha39-boop.github.io/newszone-prime/logo.png"
 
  }
 
@@ -224,6 +251,16 @@ document.title =
 title +
 " - NewsZone Prime";
 
+}
+
+// Make canonical + og:url reflect THIS specific article's full URL
+// (including query params), not the bare template page. This is the
+// key fix: previously every article pointed its canonical tag back to
+// the same empty news.html, telling Google all articles were duplicates
+// of one blank page.
+const canonicalTag = document.getElementById("canonicalLink");
+if (canonicalTag) {
+    canonicalTag.setAttribute("href", window.location.href);
 }
 
 if(title){
@@ -249,6 +286,10 @@ document
 "content",
 desc
 );
+
+document
+.getElementById("metaDesc")
+.setAttribute("content", desc);
 
 }
 
