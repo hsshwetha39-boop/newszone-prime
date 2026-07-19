@@ -73,6 +73,116 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Salman Khan and Nayanthara Set for Major Austria and Europe Shooting Schedule for Upcoming Action Entertainer",
+
+  description: "Salman Khan and Nayanthara are reportedly preparing for an extensive international shooting schedule across Austria and other parts of Europe. The next filming leg is expected to feature some of the biggest action sequences of the movie, with large-scale production planned for August.",
+
+  content: `Bollywood superstar Salman Khan and South Indian actress Nayanthara are reportedly gearing up for an important international shooting schedule for their upcoming film, with Austria and several other European locations set to play a major role in the production.<br><br>
+
+According to information shared by entertainment industry trackers and widely circulated on social media, the film's next schedule is expected to begin in August. The overseas leg has reportedly been designed around high-budget action sequences that will form a significant part of the movie's narrative.<br><br>
+
+Austria is expected to host some of the film's most ambitious action scenes. The production team is believed to have selected the country for its picturesque landscapes, modern cityscapes and cinematic locations that can accommodate large-scale stunt choreography and action-heavy filming.<br><br>
+
+Apart from Austria, the team is also expected to shoot in multiple locations across Europe. While the exact countries and filming destinations have not yet been officially disclosed, reports suggest that the international schedule will span several European regions to provide the film with a grand visual appeal.<br><br>
+
+The makers are reportedly aiming to deliver a theatrical spectacle with international production values. Large outdoor sequences, elaborate chase scenes and high-octane action portions are expected to be among the highlights of the European schedule, making it one of the biggest phases of the film's production.<br><br>
+
+The collaboration between Salman Khan and Nayanthara has already generated considerable excitement among movie enthusiasts. While Salman Khan remains one of Bollywood's biggest box office stars, Nayanthara continues to enjoy immense popularity across South Indian cinema after delivering several successful films in recent years.<br><br>
+
+Industry observers believe the combination of Salman Khan's mass-action image and Nayanthara's strong screen presence could make the project one of the most anticipated commercial entertainers currently under production.<br><br>
+
+Although several updates regarding the overseas schedule have surfaced online, the filmmakers have not yet issued an official announcement confirming the complete shooting itinerary, filming dates or specific European locations. More production details are expected to be revealed as the August schedule approaches.<br><br>
+
+Fans have reacted enthusiastically to the latest reports, expressing excitement about seeing Salman Khan and Nayanthara share the screen in what is expected to be a visually grand action entertainer. Many are also eager to witness the large-scale action sequences that are reportedly being planned for the European schedule.<br><br>
+
+As of now, the reports regarding the Austria and Europe filming schedule are based on industry sources and entertainment updates circulating online. Official confirmation from the film's producers regarding the complete schedule and production plans is still awaited.`,
+
+  url: "salman-khan-nayanthara-austria-europe-action-film-shooting-schedule",
+
+  image: "salman-khan-nayanthara-europe-shoot.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 17, 2026"
+},
+
+  {
+  title: "Samay Raina and Medha Shankr Spark Dating Rumours After Viral Public Appearance; Neither Star Confirms Speculation",
+
+  description: "Comedian Samay Raina and '12th Fail' actress Medha Shankr have become the latest celebrities to fuel dating rumours after a viral video of them together surfaced online. While fans continue to speculate about their relationship, neither of the two has publicly confirmed or denied the reports.",
+
+  content: `Comedian and content creator Samay Raina and actress Medha Shankr have become the subject of fresh dating speculation after a recent public appearance sparked widespread discussion across social media. A viral video showing the two together has prompted fans to wonder whether a new celebrity couple may be on the horizon, although neither of them has officially addressed the rumours.<br><br>
+
+The speculation began after paparazzi footage surfaced online showing Samay Raina and Medha Shankr together in public. According to several social media posts, the pair reportedly appeared to walk away in different directions after noticing photographers, a moment that quickly caught the attention of internet users. The brief interaction was enough to trigger numerous discussions across Instagram, Threads and X, where fans began analysing the video and sharing their own theories.<br><br>
+
+This is not the first time Samay and Medha have been linked by fans. Over the past few months, social media users have noticed the two interacting publicly on multiple occasions. Their friendly exchanges, online interactions and occasional appearances together have repeatedly fuelled speculation about a possible relationship, although none of these moments have confirmed anything beyond friendship.<br><br>
+
+As the latest video spread across social media, fans flooded the comments section with reactions. Some users expressed excitement over the possibility of the two dating, calling them a refreshing pairing, while others urged people not to jump to conclusions based on a single viral clip. Several users pointed out that celebrities are often seen together professionally or socially and that such appearances should not automatically be interpreted as confirmation of a romantic relationship.<br><br>
+
+Neither Samay Raina nor Medha Shankr has released any official statement regarding the dating rumours. Both have maintained silence despite the growing online speculation, leaving fans waiting for clarification while discussions continue across social media platforms.<br><br>
+
+Samay Raina has emerged as one of India's most popular comedians and digital creators in recent years. Known for his stand-up performances, online chess streams and comedy content, he has built a massive following among young audiences. His growing popularity has made his personal life a frequent topic of online curiosity, with fans often speculating about his relationships.<br><br>
+
+Medha Shankr, meanwhile, rose to nationwide recognition following her performance in the critically acclaimed film *12th Fail*. Her portrayal in the Vikrant Massey-starrer earned widespread appreciation from both audiences and critics, significantly boosting her popularity. She has since continued to attract attention through new projects, including her upcoming film *Ginny Weds Sunny 2*, making her one of the promising young actresses in the industry.<br><br>
+
+Celebrity dating rumours have become increasingly common in the age of social media, where brief public interactions can quickly turn into trending discussions. Paparazzi videos, photographs and online comments often lead to widespread speculation even before any official confirmation is provided by those involved.<br><br>
+
+At present, there is no verified evidence confirming that Samay Raina and Medha Shankr are in a relationship. The reports are based primarily on social media observations, paparazzi footage and fan discussions rather than statements from either celebrity or their representatives.<br><br>
+
+Until either Samay Raina or Medha Shankr chooses to address the rumours publicly, the speculation remains exactly that—unconfirmed speculation. Fans continue to closely follow both celebrities, but no official confirmation regarding their relationship status has been made.
+
+**Fact Check:** As of now, there is no official confirmation that Samay Raina and Medha Shankr are dating. The reports are based on viral videos, public appearances and social media speculation, and should be treated as unverified.`,
+
+  url: "samay-raina-medha-shankr-dating-rumours-viral-public-appearance",
+
+  image: "samay-raina-medha-shankr-dating-rumours.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 17, 2026"
+},
+
+  {
+  title: "Viral Claim Says Woman Created 25 Fake Accounts to Test Husband's Loyalty; Story Sparks Online Debate",
+
+  description: "A viral social media post claiming that a woman created 25 fake social media accounts to test her husband's loyalty has triggered widespread discussion online. While the story has gained significant attention, there is no verified evidence confirming the incident, making it another example of an unverified viral claim circulating on social media.",
+
+  content: `A social media post claiming that a woman created 25 different fake social media accounts to test her husband's loyalty has gone viral, generating millions of views and sparking intense discussions about trust, relationships and the role of social media in modern marriages.<br><br>
+
+According to the widely shared post, the woman allegedly created 25 separate online identities, each with different names, profile pictures and personalities. The purpose, the post claims, was to see whether her husband would remain loyal when approached by strangers online.<br><br>
+
+The viral claim further alleges that the husband failed every single test by interacting with each of the fake accounts. The post presents the situation as evidence of repeated disloyalty, but it also shifts attention to the woman's actions, questioning why she continued creating more fake profiles after the first alleged failure.<br><br>
+
+The post includes a caption stating that the story eventually became less about the husband's behaviour and more about why the woman felt the need to conduct the same test 25 different times. It asks readers whether the situation reflected dedication, heartbreak or a marriage that had already broken down long before the final test.<br><br>
+
+As expected, the post quickly spread across Instagram, Threads, Facebook and other social media platforms, attracting thousands of comments and shares. Users expressed sharply divided opinions, with many debating who was more at fault in the alleged incident.
+
+Some social media users argued that if the story were true, the husband's repeated interactions with multiple fake profiles would indicate a serious breach of trust within the relationship. They said loyalty should not depend on whether someone is being tested and that repeated failures would naturally destroy confidence between partners.<br><br>
+
+Others focused on the wife's alleged actions instead, suggesting that creating 25 fake identities to test a spouse reflects a relationship already suffering from deep mistrust. According to these users, repeatedly testing a partner rather than addressing concerns through honest communication may only worsen relationship problems.<br><br>
+
+Relationship experts have long noted that trust is one of the most important foundations of a healthy marriage. While suspicions can arise in any relationship, psychologists generally recommend open communication, counselling and mutual understanding instead of secret tests or deception.<br><br>
+
+The rise of fake profiles and anonymous social media accounts has made loyalty tests increasingly common online. Similar stories have gone viral in the past, often involving individuals pretending to be strangers to test romantic partners. However, experts warn that such actions frequently create additional conflict regardless of the outcome.<br><br>
+
+Despite the widespread circulation of this latest story, no credible news organisation or official source has independently verified the claim that a woman actually created 25 fake accounts to test her husband. The identities of the people allegedly involved have not been disclosed, and no supporting evidence has been publicly presented.<br><br>
+
+Because of the lack of verification, the story should be treated as an unconfirmed viral social media claim rather than an established factual incident. Viral posts often circulate with dramatic narratives that attract engagement but may not always be supported by reliable evidence.<br><br>
+
+The incident has nevertheless reignited discussions about trust, digital privacy and the impact of social media on personal relationships. Many users believe technology has made it easier to secretly test partners, while others argue that genuine relationships should rely on honesty rather than hidden investigations.<br><br>
+
+**Fact Check:** As of now, there is no verified evidence confirming that a woman created 25 fake social media accounts to test her husband's loyalty. The story is based on a viral social media post and remains unverified.`,
+
+  url: "viral-claim-woman-created-25-fake-accounts-test-husband-loyalty",
+
+  image: "woman-25-fake-accounts-husband-loyalty-viral.jpeg",
+
+  category: "viral",
+
+  date: "July 17, 2026"
+},
+
+  {
   title: "Viral Video Sparks Debate After Woman Questions Why Top Indian YouTubers Stay Silent on Public Issues",
 
   description: "A video featuring a young woman questioning why several of India's biggest YouTubers and digital creators rarely speak on issues affecting the country's youth has gone viral on social media. Her remarks have triggered a wider debate over whether influencers with massive audiences have a responsibility to address major public concerns or should remain focused solely on content creation.",
