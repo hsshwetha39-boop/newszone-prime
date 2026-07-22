@@ -73,6 +73,76 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Yash Praises Rakul Preet Singh's Performance as Shurpanakha in 'Ramayana'; Says She Has Carried the Role Beautifully",
+
+  description: "Rocking Star Yash has lauded actress Rakul Preet Singh for her portrayal of Shurpanakha in Nitesh Tiwari's upcoming epic 'Ramayana'. His appreciation has heightened anticipation for the film, with fans eagerly waiting to witness Rakul's transformation into one of the epic's most pivotal characters.",
+
+  content: `Kannada superstar Yash has showered praise on actress Rakul Preet Singh for her portrayal of Shurpanakha in Nitesh Tiwari's much-awaited mythological epic 'Ramayana'. During the film's grand promotional event, the actor spoke highly of Rakul's performance and said the way she has carried the character is truly impressive, creating even greater excitement for the film among audiences.<br><br>
+
+Yash, who plays Ravana in the film, shared his thoughts while interacting with the media during the 'Ramayana: Pratham Sankalp' event. While appreciating the performances of his fellow actors, he singled out Rakul Preet Singh and acknowledged the dedication and conviction she brought to the role of Shurpanakha. He indicated that audiences would witness a memorable interpretation of one of the Ramayana's most important characters.<br><br>
+
+Shurpanakha is considered a pivotal character in the Ramayana, as her actions set in motion many of the key events that eventually lead to the war between Lord Ram and Ravana. Although the character has traditionally been portrayed from a single perspective, the makers of the film are expected to present a more layered and emotionally nuanced version, making Rakul's performance one of the most anticipated aspects of the project.<br><br>
+
+Rakul Preet Singh has also expressed her excitement about being part of 'Ramayana'. She recently described the project as something much larger than cinema, saying it represents India's history, heritage and culture before a global audience. The actress added that being associated with such a prestigious film is a matter of immense pride and that she is eager for audiences to experience the cinematic world created by the team.<br><br>
+
+Speaking about the film as a whole, Yash described 'Ramayana' as a dream project for Indian cinema. He praised director Nitesh Tiwari and producer Namit Malhotra for bringing together a talented team with a common vision of presenting one of India's greatest epics on a global stage. According to the actor, every member of the cast and crew is committed to delivering an authentic and emotionally powerful adaptation of the timeless story.<br><br>
+
+Yash also praised Ranbir Kapoor for his dedication to portraying Lord Ram, saying the actor had completely immersed himself in the character. He further appreciated Sai Pallavi's performance as Sita, calling her a flawless performer whose expressive acting adds depth to the role. His admiration for Rakul Preet Singh was another highlight of the event and quickly became a major talking point among fans.<br><br>
+
+Directed by Nitesh Tiwari, 'Ramayana' features an ensemble cast including Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, Yash as Ravana, Sunny Deol as Lord Hanuman, Ravi Dubey as Lakshman, Rakul Preet Singh as Shurpanakha, Kajal Aggarwal as Mandodari, Arun Govil, Lara Dutta, Vivek Oberoi, Kunal Kapoor and several other prominent actors. The film is being produced on an unprecedented scale with world-class visual effects and an internationally acclaimed technical team.<br><br>
+
+The project has already generated enormous anticipation among movie lovers. Since the first official announcements, every update related to the cast, character reveals, promotional events and visual effects has attracted widespread attention across social media. Fans are particularly eager to see how the makers reinterpret the iconic characters while staying faithful to the spirit of the ancient epic.<br><br>
+
+Many fans believe Rakul Preet Singh's portrayal of Shurpanakha could become one of the film's biggest surprises. Yash's praise has further strengthened those expectations, with social media users expressing confidence that the actress will deliver a powerful and emotionally engaging performance. Several fans also noted that appreciation from a co-star like Yash carries special significance because of the close connection between Ravana and Shurpanakha in the Ramayana.<br><br>
+
+'Ramayana' is planned as a two-part cinematic adaptation, with the first installment scheduled for a grand theatrical release during the Diwali 2026 festive season, followed by the second part in 2027. With its star-studded cast, ambitious scale and growing excitement among audiences, the film is expected to become one of the biggest releases in the history of Indian cinema.",
+
+  url: "yash-praises-rakul-preet-singh-performance-shurpanakha-ramayana",
+
+  image: "yash-rakul-preet-singh-ramayana.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 22, 2026"
+},
+
+  {
+  title: "Rishab Rikhiram Sharma to Make Bollywood Music Debut with 'Ramayana'; Sitar Maestro to Compose Trailer Title Track",
+
+  description: "Internationally acclaimed sitar virtuoso Rishab Rikhiram Sharma is set to make his Bollywood music debut with Nitesh Tiwari's epic 'Ramayana'. The renowned musician has been roped in to compose the title track for the film's trailer and create signature themes for key characters, adding a fresh musical dimension to one of India's biggest cinematic projects.",
+
+  content: `Internationally acclaimed sitar maestro Rishab Rikhiram Sharma is all set to make his Bollywood music debut with Nitesh Tiwari's much-awaited mythological epic 'Ramayana'. The celebrated musician has been entrusted with composing the title track for the film's upcoming trailer, marking the beginning of his journey as a composer in mainstream Hindi cinema.<br><br>
+
+Known for blending Indian classical music with contemporary sounds, Rishab Rikhiram Sharma has earned global recognition through his concerts, original compositions and innovative approach to music. His entry into Bollywood comes through one of the most ambitious Indian films ever produced, making the project a significant milestone in his career.<br><br>
+
+According to reports, Sharma's contribution extends well beyond the trailer. He has also been assigned the responsibility of creating unique musical themes for several key characters, including Lord Ram, Ravana and Lord Hanuman. The filmmakers wanted each major character to have a distinctive musical identity that reflects their personality, emotions and importance in the epic.<br><br>
+
+One of the most distinctive elements of Sharma's work will be the use of his custom-designed electronic sitar, known as 'SITARA'. The instrument combines the richness of Indian classical music with modern musical technology, allowing him to blend traditional melodies with large-scale cinematic orchestration while preserving the spiritual essence of the Ramayana.<br><br>
+
+Rishab Rikhiram Sharma belongs to the legendary Rikhi Ram family, internationally respected for crafting handcrafted musical instruments for some of India's greatest musicians. He is also the youngest and last disciple of sitar maestro Pandit Ravi Shankar. Over the years, he has performed at prestigious venues across the world and has earned acclaim for introducing Indian classical music to younger global audiences.<br><br>
+
+Apart from his achievements as a performer, Sharma has become widely known for his 'Sitar for Mental Health' initiative. Through concerts and public events, he uses music to promote mindfulness and emotional well-being, encouraging audiences to view music as a powerful tool for healing and self-reflection.<br><br>
+
+Directed by Nitesh Tiwari, 'Ramayana' stars Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita and Kannada superstar Yash as Ravana. The film also features Sunny Deol as Lord Hanuman, Ravi Dubey as Lakshman, Rakul Preet Singh as Shurpanakha, Kajal Aggarwal as Mandodari and several other prominent actors. Mounted on a massive budget with cutting-edge visual effects and international collaboration, the film is being positioned as one of the biggest cinematic spectacles ever produced in India.<br><br>
+
+The project already boasts an extraordinary music team led by Oscar-winning composer Hans Zimmer and legendary Indian composer A.R. Rahman. While Zimmer is composing the background score, Rahman is handling the film's songs. The addition of Rishab Rikhiram Sharma further strengthens the musical lineup by bringing a fresh blend of classical Indian artistry and modern cinematic composition.<br><br>
+
+Promotions for 'Ramayana' officially began with the grand 'Pratham Sankalp' event, where the makers introduced audiences to the vision behind the film. Since then, every announcement related to the cast, music, visual effects and production has generated widespread excitement among movie lovers. The trailer is expected to be one of the most anticipated promotional launches in recent Indian cinema, and Sharma's title track is expected to play a crucial role in setting its emotional tone.<br><br>
+
+Industry observers believe Sharma's appointment reflects the filmmakers' commitment to creating a soundtrack that appeals to audiences across the world while remaining deeply rooted in Indian culture. His fusion of classical sitar with orchestral arrangements is expected to complement the film's visual grandeur and emotional storytelling, giving 'Ramayana' a unique musical identity.<br><br>
+
+'Ramayana: Part One' is scheduled for a worldwide theatrical release during the Diwali 2026 festive season, while the second installment is expected to release in 2027. With a star-studded cast, an internationally acclaimed music team and an ambitious vision, the film continues to build enormous anticipation among audiences, and Rishab Rikhiram Sharma's Bollywood debut has become one of its most exciting creative highlights.`,
+
+  url: "rishab-rikhiram-sharma-bollywood-debut-ramayana-trailer-title-track",
+
+  image: "rishab-rikhiram-sharma-ramayana-trailer-title-track.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 22, 2026"
+},
+
+  {
   title: "Viral Social Media Post Questions CJP Protest, Compares Sonam Wangchuk's Hunger Strike With Activists' Appearance",
 
   description: "A viral social media post comparing environmentalist Sonam Wangchuk's physical condition during his hunger strike with the appearance of alleged CJP activists has sparked online debate. However, the claims made in the post remain unverified, and no evidence has been presented to support its allegations.",
