@@ -73,6 +73,148 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Viral Social Media Post Questions CJP Protest, Compares Sonam Wangchuk's Hunger Strike With Activists' Appearance",
+
+  description: "A viral social media post comparing environmentalist Sonam Wangchuk's physical condition during his hunger strike with the appearance of alleged CJP activists has sparked online debate. However, the claims made in the post remain unverified, and no evidence has been presented to support its allegations.",
+
+  content: `A social media post comparing environmentalist and education reformer Sonam Wangchuk's hunger strike with the physical appearance of individuals allegedly associated with the Campaign for Justice and Peace (CJP) has gone viral across multiple platforms. The post has triggered widespread discussion online, with users expressing sharply divided opinions over its claims.<br><br>
+
+The viral image features two photographs placed side by side. One image is labelled "Day 1" and the other "Day 19", alongside a caption claiming that Sonam Wangchuk was losing weight during his hunger strike while the founders or members of CJP had gained weight during the same period. The post sarcastically questions the sincerity of the protest and has been widely shared by several social media users.<br><br>
+
+The post, however, does not provide any verified evidence linking the photographs to the specific timeline mentioned or proving that the individuals shown experienced the physical changes claimed in the caption. It also does not include any official statements, medical records or independent verification supporting the allegations made against CJP or its members.<br><br>
+
+Sonam Wangchuk, an engineer, innovator and environmental activist from Ladakh, has been at the forefront of campaigns demanding constitutional safeguards for Ladakh, including statehood, Sixth Schedule protection and stronger environmental conservation measures. His protests have attracted national attention, with several political leaders, activists and citizens expressing support for his demands.<br><br>
+
+Hunger strikes often result in visible physical changes, including weight loss, depending on their duration, an individual's health condition and medical supervision. However, assessing someone's health or weight solely from photographs shared on social media can be misleading, as images may vary due to camera angles, lighting, clothing and other factors.<br><br>
+
+The viral post has generated thousands of reactions online. While some users accepted the claim and criticised those allegedly associated with the protest, others questioned the authenticity of the images and urged people not to draw conclusions based solely on unverified social media posts.<br><br>
+
+Fact-checkers and media experts have repeatedly advised internet users to exercise caution before sharing viral images or claims that lack supporting evidence. Photographs circulated online can sometimes be taken on different dates, edited or presented without proper context, making it difficult to determine whether the accompanying narrative is accurate.<br><br>
+
+As of now, there is no publicly available verified evidence confirming the allegation that the individuals shown in the viral images gained weight while Sonam Wangchuk lost weight during the protest. Similarly, there has been no official response from the Campaign for Justice and Peace (CJP) specifically addressing the viral comparison circulating on social media.<br><br>
+
+The incident highlights how social media posts can quickly shape public opinion even when the information has not been independently verified. Experts recommend relying on official statements, credible news reports and verified sources before accepting or sharing claims involving public figures or ongoing protests.<br><br>
+
+**Fact Check:** The claim circulating on social media comparing Sonam Wangchuk's hunger strike with the alleged appearance of CJP founders or activists remains **unverified**. No credible evidence has been produced to substantiate the allegations made in the viral post, and readers should treat it as a social media claim rather than an established fact.`,
+
+  url: "viral-post-sonam-wangchuk-cjp-protest-claim-unverified",
+
+  image: "sonam-wangchuk-cjp-viral-post.jpeg",
+
+  category: "Viral",
+
+  date: "July 20, 2026"
+},
+
+  {
+  title: "Anjali Anand Reveals Ranveer Singh's Heartwarming Gesture on 'Rocky Aur Rani Kii Prem Kahaani' Set; Says His Apology Left a Lasting Impression",
+
+  description: "Actress Anjali Anand has shared an emotional memory from the sets of 'Rocky Aur Rani Kii Prem Kahaani', revealing how Ranveer Singh personally apologized to her after a scheduling delay disrupted her first day of shooting. Her story has won praise from fans, who are applauding the actor's humility and kindness.",
+
+  content: `Actress Anjali Anand has opened up about a memorable experience from the sets of Karan Johar's blockbuster film 'Rocky Aur Rani Kii Prem Kahaani', recalling how Ranveer Singh's thoughtful gesture made her feel welcomed during her very first day of shooting. Her heartfelt revelation has since gone viral on social media, with fans praising the actor for his humility and professionalism.<br><br>
+
+Speaking about the incident, Anjali said her first day on the film's set did not go as planned. Due to unexpected scheduling delays, the scene she was supposed to film could not be completed. As a newcomer working on such a high-profile project, the situation left her disappointed and emotional.<br><br>
+
+According to Anjali, she later shared her feelings through an Instagram post, expressing her disappointment over how her first day had unfolded. She did not expect the post to receive any attention from the film's lead actor, but what happened next surprised her.<br><br>
+
+After noticing her Instagram post, Ranveer Singh personally approached Anjali on the set and sincerely apologized for the situation. Although the delay was beyond his control, the actor reportedly felt that she should not have had such an experience on her first day of filming and wanted to make sure she felt comfortable and valued.<br><br>
+
+Anjali revealed that Ranveer's gesture deeply touched her. She said he went out of his way to make her feel included and reassured her that everything would be fine. His willingness to personally speak to her and acknowledge her disappointment left a lasting impression, making her feel respected as a fellow actor despite being relatively new to the industry.<br><br>
+
+The actress also recalled that Ranveer ensured he was present during her shoot whenever possible, creating a positive and encouraging atmosphere on the set. His supportive attitude helped ease her nervousness and allowed her to perform with greater confidence.<br><br>
+
+Her comments have resonated with many fans online, with social media users praising Ranveer Singh for treating his co-stars with kindness and respect. Many described his actions as an example of true professionalism, noting that successful actors often leave a lasting impact not only through their performances but also through the way they treat the people around them.<br><br>
+
+Several fans also pointed out that this is not the first time Ranveer Singh has been praised by colleagues for his positive energy and friendly nature on film sets. Over the years, numerous actors and crew members have spoken about his enthusiasm, generosity and ability to make those around him feel comfortable during shoots.<br><br>
+
+Anjali Anand earned appreciation for her performance in 'Rocky Aur Rani Kii Prem Kahaani', where she shared screen space with Ranveer Singh, Alia Bhatt and an ensemble cast. The film, directed by Karan Johar, went on to become both a commercial and critical success, with audiences applauding its performances, music and emotional storytelling.<br><br>
+
+Following Anjali's interview, her story has been widely shared across entertainment pages and social media platforms, with many users calling Ranveer Singh's gesture a reminder that small acts of kindness can make a significant difference in someone's professional journey. While the incident happened during the filming of 'Rocky Aur Rani Kii Prem Kahaani', Anjali says the memory continues to stay with her because of the warmth and empathy Ranveer showed on a day she found particularly challenging.<br><br>
+
+The actress's revelation has added another positive chapter to the many stories shared by members of the film industry about supportive working environments and respectful co-stars. Fans have continued to applaud both Anjali Anand for sharing the experience and Ranveer Singh for demonstrating humility, empathy and professionalism beyond the camera.`,
+
+  url: "anjali-anand-recalls-ranveer-singh-kind-gesture-rocky-aur-rani-set",
+
+  image: "anjali-anand-ranveer-singh-kind-gesture.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 20, 2026"
+},
+
+  {
+  title: "Annu Kapoor Questions Sai Pallavi's Casting as Sita in 'Ramayana'; Remarks Trigger Fresh Debate Ahead of Film's Release",
+
+  description: "Veteran Bollywood actor Annu Kapoor has sparked controversy by questioning Sai Pallavi's casting as Goddess Sita in Nitesh Tiwari's upcoming film 'Ramayana'. His comments have ignited fresh discussions on social media, with fans expressing mixed reactions while the film continues to generate massive anticipation ahead of its release.",
+
+  content: `Veteran Bollywood actor Annu Kapoor has stirred controversy after making critical remarks about actress Sai Pallavi's casting as Goddess Sita in director Nitesh Tiwari's much-awaited film 'Ramayana'. His comments have gone viral on social media, triggering a fresh debate over whether the actress is the right choice to portray one of the most revered characters in Indian mythology.<br><br>
+
+Speaking during a recent media interaction, Annu Kapoor questioned the decision to cast Sai Pallavi as Sita, suggesting that such a sacred and culturally significant role demands an actress who perfectly embodies the image associated with the divine character. His remarks quickly attracted attention online, with clips of the interview being widely shared across social media platforms.<br><br>
+
+The veteran actor reportedly remarked that portraying Goddess Sita is not just another acting assignment but a responsibility because millions of people worship the character with deep faith and devotion. According to Kapoor, audiences naturally have certain expectations regarding actors who portray such iconic mythological figures.<br><br>
+
+Although Annu Kapoor's comments were directed at the casting choice, they immediately divided public opinion. While some social media users agreed that mythological characters should be portrayed by actors who match traditional public expectations, many others defended Sai Pallavi, arguing that an actor should be judged by performance rather than appearance or preconceived notions.<br><br>
+
+Sai Pallavi has been receiving widespread appreciation ever since the makers unveiled promotional material from 'Ramayana'. Her graceful appearance in the teaser and promotional visuals has been praised by many fans, with several viewers describing her as a natural choice for the role of Sita. The actress herself recently said she considers portraying Sita a blessing rather than simply another film role, adding that she feels honoured to be part of such a prestigious project. :contentReference[oaicite:0]{index=0}<br><br>
+
+Nitesh Tiwari's 'Ramayana' is one of the most ambitious Indian films ever mounted. The epic stars Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita and Yash as Ravana, with a large ensemble cast including Ravi Dubey, Sunny Deol, Lara Dutta, Rakul Preet Singh and several other prominent actors. The film has generated enormous excitement among audiences because of its scale, visual effects and star-studded cast. :contentReference[oaicite:1]{index=1}<br><br>
+
+The project has remained in the spotlight since its announcement, with every update—from leaked set photographs to teaser visuals and promotional events—receiving massive attention online. The recently held promotional event in New Delhi further increased anticipation for the film, as fans eagerly await its theatrical release. :contentReference[oaicite:2]{index=2}<br><br>
+
+Annu Kapoor's remarks have also reignited discussions about whether actors portraying mythological characters should be evaluated primarily on their physical appearance, personal image or acting ability. Similar debates have accompanied several mythological films in the past, where casting choices often became topics of intense public discussion even before audiences watched the final performances.<br><br>
+
+Supporters of Sai Pallavi argue that she has consistently earned praise for delivering emotionally powerful performances throughout her career and deserves to be evaluated after the film's release rather than before it. Many fans have pointed out that the actress is known for selecting meaningful roles and maintaining a simple public image, qualities they believe make her well-suited to portray Sita.<br><br>
+
+Others, however, believe that since 'Ramayana' is deeply rooted in Indian culture and religious sentiment, discussions surrounding casting decisions are inevitable. They argue that audiences naturally hold strong opinions whenever beloved mythological characters are brought to the big screen.<br><br>
+
+Neither Sai Pallavi nor the makers of 'Ramayana' have publicly responded to Annu Kapoor's remarks. The production team continues to focus on promoting the film ahead of its release, while discussions surrounding Kapoor's comments continue across social media platforms.<br><br>
+
+At present, Annu Kapoor's remarks represent his personal opinion regarding the film's casting. The makers have not announced any changes to the cast, and Sai Pallavi continues to portray Sita in the upcoming epic. As anticipation builds, audiences are expected to judge the performances after the film reaches theatres rather than solely on pre-release debates.`,
+
+  url: "annu-kapoor-questions-sai-pallavi-casting-as-sita-in-ramayana",
+
+  image: "annu-kapoor-sai-pallavi-ramayana-controversy.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 20, 2026"
+},
+
+  {
+  title: "National-Level Shooter Damayanti Sen Goes Missing After Leaving Home for Groceries; Later Found Safe in Howrah",
+
+  description: "Fifteen-year-old national-level rifle shooter Damayanti Sen from Howrah triggered widespread concern after she went missing while stepping out to buy groceries. Police launched an extensive search after CCTV footage showed her at Howrah railway station. She was later found safe near Ramkrishnapur Ghat, with officials continuing to investigate the circumstances behind her disappearance.",
+
+  content: `A major search operation was launched in West Bengal after 15-year-old national-level rifle shooter Damayanti Sen mysteriously disappeared shortly after leaving her home in Howrah to purchase household groceries. The incident sparked widespread concern among her family, fellow athletes and the sporting community, especially as the young shooter was preparing for upcoming national team trials.<br><br>
+
+Damayanti Sen, a resident of Umacharan Bhattacharya Lane in central Howrah, reportedly left her house to buy a few household essentials from a nearby shop. When she failed to return home for several hours, her family began searching for her by contacting relatives, friends and members of the shooting community. After their efforts proved unsuccessful, a missing person complaint was filed with the local police.<br><br>
+
+Police immediately launched an investigation and started tracing her movements. CCTV footage collected during the inquiry showed Damayanti arriving at Howrah railway station, where she was last seen moving between platforms before disappearing. The footage became the final confirmed sighting of the teenager and prompted authorities to expand the search across several locations.<br><br>
+
+The case drew significant attention because Damayanti is regarded as one of West Bengal's promising young rifle shooters. According to her family, she had recently qualified for national-level trials and maintained a disciplined schedule focused on training and academics. Relatives said there had been no major disputes or unusual incidents at home before she stepped out.<br><br>
+
+As news of her disappearance spread, her family launched a social media campaign requesting the public to help locate the teenager. Friends, fellow shooters and sports enthusiasts widely shared her photographs, hoping someone would provide information that could assist the investigation. The incident soon gained national attention, with many expressing concern over the safety of the young athlete.<br><br>
+
+Police teams continued their search throughout the following day, examining CCTV footage from multiple locations and questioning people who may have seen her. Investigators explored every possible lead while urging the public not to circulate unverified rumours that could interfere with the search operation.<br><br>
+
+The search ended successfully when Damayanti was found safe near Ramkrishnapur Ghat in Howrah nearly two days after she went missing. Police confirmed that she was safe and was taken for medical evaluation and further questioning as part of the ongoing investigation.<br><br>
+
+According to preliminary information shared by investigators, Damayanti reportedly told police that she had left home because she was feeling overwhelmed by the pressure of balancing competitive shooting with her academic responsibilities. Officials, however, said the investigation is still ongoing and that every aspect of the case will be examined before drawing final conclusions.<br><br>
+
+At this stage, police have not indicated any evidence suggesting abduction or other criminal activity. Authorities continue to investigate the circumstances surrounding her disappearance while ensuring the teenager receives appropriate support. Officials have also urged people not to speculate until the inquiry is completed.<br><br>
+
+The incident has once again highlighted the immense pressure that young athletes often face while managing competitive sports, education and personal expectations. Experts have repeatedly stressed the importance of providing mental health support to talented athletes competing at high levels from an early age. Although Damayanti's safe recovery has brought relief to her family, friends and supporters, investigators continue to examine the events that led to her brief disappearance.`,
+
+  url: "national-shooter-damayanti-sen-missing-found-safe-howrah",
+
+  image: "damayanti-sen-missing-howrah-shooter.jpeg",
+
+  category: "Sports",
+
+  date: "July 19, 2026"
+},
+
+  {
   title: "Salman Khan and Nayanthara Set for Major Austria and Europe Shooting Schedule for Upcoming Action Entertainer",
 
   description: "Salman Khan and Nayanthara are reportedly preparing for an extensive international shooting schedule across Austria and other parts of Europe. The next filming leg is expected to feature some of the biggest action sequences of the movie, with large-scale production planned for August.",
