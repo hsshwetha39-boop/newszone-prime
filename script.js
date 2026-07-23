@@ -73,6 +73,178 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Viral Post Claims NEET 2026 Topper Chose Studies Over Protests; Social Media Debate Intensifies",
+
+  description: "A viral social media post claiming that NEET 2026 joint topper Prashnul Bansal stayed home to study instead of joining protests has sparked widespread debate online. The claim has circulated across multiple platforms, but the statement should be treated as unverified unless officially confirmed.",
+
+  content: `A social media post featuring an individual identified as NEET 2026 joint topper Prashnul Bansal has gone viral, claiming that he chose to stay home and focus on his studies instead of participating in protests related to the NEET examination. The post has attracted significant attention on social media, where users have been debating the balance between academic preparation and public demonstrations.<br><br>
+
+According to the viral post, the alleged statement suggests that Bansal believed spending time improving his knowledge and examination performance was a better use of his time than taking part in protests. The message has been widely shared by users expressing different opinions on how students should respond during periods of educational controversy.<br><br>
+
+However, the claim circulating online has not been independently verified through any official statement from Prashnul Bansal or the National Testing Agency (NTA). As of now, there is no official confirmation that the viral quote accurately reflects his views. Readers should therefore treat the post as an unverified social media claim rather than a confirmed statement.<br><br>
+
+The viral post comes at a time when the NEET examination continues to dominate national discussions. Student groups, political parties and education activists have raised concerns over various aspects of the examination process, leading to demonstrations in several parts of the country. At the same time, many students have continued preparing for their academic goals while avoiding public protests.<br><br>
+
+The post has generated mixed reactions online. Some social media users praised the approach of prioritising studies and personal academic goals, arguing that students should remain focused on their education. Others maintained that peaceful protests are an important democratic right and that students should be free to decide whether to participate in demonstrations without facing criticism.<br><br>
+
+The debate has highlighted the broader discussion surrounding student choice, academic responsibility and civic participation. While some believe preparing for competitive examinations should remain the highest priority, others argue that students also have the right to raise concerns about policies affecting their education and future.<br><br>
+
+Since the information is currently based on a widely shared social media post, readers are advised to wait for official clarification before treating the alleged statement as authentic. Until verified by reliable sources or by the individual concerned, the claim should be regarded as unconfirmed.<br><br>`,
+
+  url: "viral-post-neet-2026-topper-prashnul-bansal-study-over-protests",
+
+  image: "neet-2026-topper-viral-post.jpeg",
+
+  category: "viral",
+
+  date: "July 23, 2026"
+},
+
+  {
+  title: "Viral JNU Protest Claims Raise Questions Over Student Choice and Campus Demonstrations",
+
+  description: "A viral social media post has sparked debate after some Jawaharlal Nehru University (JNU) students allegedly claimed they were pressured to leave classes and participate in campus protests. The claims have generated widespread discussion online but remain unverified.",
+
+  content: `A social media post discussing ongoing protests at Jawaharlal Nehru University (JNU) has gone viral, drawing attention to claims made by some students regarding their participation in campus demonstrations. According to the viral post, a few students alleged that they were being pressured to leave classrooms and join protest activities despite having academic commitments.<br><br>
+
+The post features interviews with individuals identified as JNU students, who claim that their examinations are approaching and that they would prefer to continue attending classes. They alleged that they were encouraged or pressured to participate in protest activities instead of focusing on their studies. These claims have circulated widely across social media platforms and have triggered debate about student rights, academic freedom and campus politics.<br><br>
+
+The allegations have not been independently verified, and there has been no official confirmation establishing that students were systematically forced to participate in protests. As a result, the claims should be treated as allegations rather than confirmed facts until verified by the university or relevant authorities.<br><br>
+
+The viral post has generated mixed reactions online. Some users argued that students should have complete freedom to decide whether to attend classes or participate in demonstrations, while others questioned the authenticity and broader context of the claims. The issue has become a topic of discussion among students, educators and political observers.<br><br>
+
+Student protests have long been a part of campus life at JNU, with demonstrations frequently taking place over issues related to education policy, administration and national affairs. However, debates often emerge over balancing the right to protest with the academic interests of students who wish to continue their regular classes.<br><br>
+
+As of now, neither Jawaharlal Nehru University nor the authorities shown in the viral social media discussions have issued any official statement confirming the specific allegations presented in the post. The matter continues to be discussed online, and further clarification may emerge if the university or concerned authorities respond publicly.<br><br>
+
+Since the information currently circulating is primarily based on viral social media posts and interviews, readers are advised to rely on official statements and verified information before drawing conclusions about the incident.<br><br>`,
+
+  url: "viral-jnu-protest-claims-student-choice-campus-demonstrations",
+
+  image: "jnu-protest-viral-claims.jpeg",
+
+  category: "viral",
+
+  date: "July 23, 2026"
+},
+
+  {
+  title: "Actress Ramya Backs Rahul Gandhi, Criticises PM Modi Over Remarks on Governance",
+
+  description: "Actress and former Congress leader Ramya has expressed her support for Rahul Gandhi amid the ongoing political row over the student protests and the NEET controversy. She also criticised Prime Minister Narendra Modi, saying his actions do not reflect the values of Hinduism.",
+
+  content: `Actress and former Congress leader Divya Spandana, popularly known as Ramya, has extended her full support to Congress MP Rahul Gandhi following the Opposition's protest over the NEET controversy and the police action against demonstrators in New Delhi.<br><br>
+
+Reacting to the recent developments, Ramya said Rahul Gandhi's stand on the issue was justified. She supported his demand that accountability should be fixed for the police action taken against protesting students and Opposition leaders during the demonstration near the Prime Minister's residence.<br><br>
+
+Ramya also criticised Prime Minister Narendra Modi, alleging that his approach to governance does not reflect the teachings and values associated with Hinduism. She further claimed that arrogance had become a defining feature of the current leadership, echoing Rahul Gandhi's criticism of the Central Government.<br><br>
+
+Her comments came after Rahul Gandhi and several leaders from the INDIA bloc, including Samajwadi Party chief Akhilesh Yadav, were detained by Delhi Police while attempting to march towards the Prime Minister's residence as part of a protest over the NEET issue and the government's handling of student concerns.<br><br>
+
+The actress stated that democratic protests should be respected and that the voices of students deserve to be heard. She argued that instead of suppressing demonstrations, the government should address the concerns raised by students and ensure greater transparency and accountability in matters related to education.<br><br>
+
+Ramya's remarks have sparked fresh political debate on social media, with supporters of both the ruling BJP and the Opposition sharing contrasting views. While Congress supporters welcomed her statement, BJP leaders and supporters criticised her comments, leading to intense online discussions.<br><br>
+
+The political controversy surrounding the NEET issue continues to dominate national discourse, with Opposition parties demanding accountability from the Central Government while the BJP maintains that appropriate steps are being taken to strengthen the examination system and address concerns raised by students.<br><br>`,
+
+  url: "actress-ramya-supports-rahul-gandhi-criticises-pm-modi-neet-protest",
+
+  image: "actress-ramya-rahul-gandhi-support.jpeg",
+
+  category: "Politics",
+
+  date: "July 23, 2026"
+},
+
+  {
+  title: "Florida Woman Accused of Posing as Teen to Exploit Minor Boys; Faces Multiple Serious Charges",
+
+  description: "A 23-year-old woman from Tampa, Florida, has been arrested after investigators alleged that she posed online as a teenage girl to target underage boys. Authorities say she faces multiple charges following an extensive investigation.",
+
+  content: `A 23-year-old woman from Tampa, Florida, identified as Alyssa Ann Zinger, has been arrested following an investigation into allegations that she used fake online identities to contact and exploit underage boys. According to investigators, the accused is currently being held without bond as the criminal case proceeds through the legal system.<br><br>
+
+Investigators allege that Zinger created online profiles portraying herself as a 14-year-old homeschooled teenager on social media and messaging platforms. Authorities claim the fake identity was allegedly used to gain the trust of young boys between the ages of 12 and 15 before engaging in inappropriate communication and other alleged criminal acts.<br><br>
+
+Law enforcement officials say the investigation uncovered multiple alleged victims, leading prosecutors to file several serious charges. Court proceedings have reportedly begun, and the case is expected to continue as investigators review additional evidence and interview those connected to the allegations.<br><br>
+
+The allegations have drawn widespread attention on social media after court photographs and details of the arrest began circulating online. Many users expressed shock over the nature of the accusations, while others urged the public to avoid drawing conclusions until the judicial process is completed.<br><br>
+
+During court proceedings, reports indicated that the accused's father described his daughter as a victim, a claim that has also circulated widely on social media. However, this statement represents a family member's position and does not alter the criminal allegations filed by prosecutors. The court will ultimately determine the facts of the case based on the evidence presented during legal proceedings.<br><br>
+
+Authorities have not announced any final verdict, and the allegations remain before the court. Under the legal process in the United States, every accused person is presumed innocent unless proven guilty in court. The investigation remains ongoing, and additional information may emerge as the case progresses.<br><br>
+
+The case has also renewed discussions about online child safety, the risks associated with anonymous social media accounts, and the importance of educating children and parents about digital safety. Law enforcement agencies continue to encourage parents to monitor children's online activities and report any suspicious behaviour involving minors.<br><br>`,
+
+  url: "florida-woman-alyssa-ann-zinger-accused-posing-as-teen-targeting-minors",
+
+  image: "alyssa-ann-zinger-florida-case.jpeg",
+
+  category: "World",
+
+  date: "July 22, 2026"
+},
+
+  {
+  title: "Rahul Gandhi, Akhilesh Yadav Among Opposition Leaders Detained During Congress Protest Near PM's Residence Over NEET Row",
+
+  description: "Congress leaders, including Rahul Gandhi and Akhilesh Yadav, were detained by Delhi Police during a protest near Prime Minister Narendra Modi's residence over the NEET controversy. The Opposition accused the Centre of failing to address students' concerns and demanded accountability.",
+
+  content: `Several senior Opposition leaders, including Congress MP Rahul Gandhi and Samajwadi Party chief Akhilesh Yadav, were detained by Delhi Police on Tuesday after participating in a protest near Prime Minister Narendra Modi's official residence in New Delhi. The demonstration was organised by the Congress over the ongoing NEET controversy and the party's allegations regarding the government's handling of issues affecting students.<br><br>
+
+The protest witnessed the participation of several leaders from the INDIA bloc, who marched towards the Prime Minister's residence demanding accountability from the Central Government. Security personnel stopped the protesters before they could reach the high-security zone, following which Delhi Police detained several leaders to prevent further escalation.<br><br>
+
+Congress leaders said the protest was aimed at highlighting the concerns of students and demanding action over the NEET controversy. The party also criticised the government's response to recent demonstrations by students and alleged that their voices were being ignored instead of being addressed through meaningful reforms.<br><br>
+
+Rahul Gandhi accused the Centre of failing to protect the future of students and reiterated the Opposition's demand for greater transparency and accountability in the examination system. Other Opposition leaders echoed similar concerns, calling for immediate corrective measures and a thorough response to the issues surrounding NEET.<br><br>
+
+Akhilesh Yadav joined the protest in support of the Congress and said students across the country deserved a fair and transparent examination process. Leaders from multiple Opposition parties participated in the demonstration, describing it as a united effort to raise issues affecting young aspirants and their families.<br><br>
+
+Delhi Police detained the protesters after they entered the restricted area surrounding the Prime Minister's residence. The leaders were later taken away from the protest site as authorities maintained that security protocols around the Prime Minister's residence could not be violated. :contentReference[oaicite:0]{index=0}
+
+The protest comes amid continuing political and public debate over the NEET examination. Opposition parties have intensified their criticism of the Centre, demanding greater accountability and reforms in the examination process, while the government has maintained that appropriate steps are being taken to strengthen the system and address concerns. :contentReference[oaicite:1]{index=1}
+
+The detention of Rahul Gandhi, Akhilesh Yadav and other Opposition leaders has further intensified the political confrontation between the ruling BJP and the Opposition. Both sides continue to exchange sharp criticism as the NEET issue remains one of the country's most closely watched political and educational debates.<br><br>`,
+
+  url: "rahul-gandhi-akhilesh-yadav-detained-congress-protest-neet-pm-residence",
+
+  image: "rahul-gandhi-akhilesh-yadav-neet-protest.jpeg",
+
+  category: "Politics",
+
+  date: "July 22, 2026"
+},
+
+  {
+  title: "TVK Demands NEET Be Scrapped, Urges Centre to Give Full Control of Medical Education to States",
+
+  description: "Tamilaga Vettri Kazhagam (TVK) has called on the Central Government to abolish the NEET examination and transfer complete control over medical education to state governments. The party also demanded that education be moved to the State List or that a separate Concurrent List be created to strengthen states' powers.",
+
+  content: `Tamilaga Vettri Kazhagam (TVK) has urged the Central Government to completely abolish the National Eligibility cum Entrance Test (NEET) and hand over full authority over medical education to state governments. The party said states should have the power to decide their own admission policies and manage medical education without central interference.<br><br>
+
+Reiterating its long-standing stand on the issue, TVK said the debate should not be limited to alleged irregularities in the NEET examination. Instead, the party argued that the examination itself should be scrapped and replaced with a system that allows states to independently regulate medical admissions based on their own educational policies and requirements.<br><br>
+
+According to the party, every state has different educational needs, student demographics and administrative priorities. A single nationwide entrance examination, it said, does not adequately address these differences. TVK believes state governments are better equipped to design admission systems that are fair and suitable for students in their respective regions.<br><br>
+
+As part of its proposal, the party called for education to be shifted from the Concurrent List to the State List under the Constitution, giving states exclusive authority over educational policies. If such a constitutional amendment cannot be implemented immediately, TVK suggested creating a separate framework that would grant states greater autonomy in matters related to medical education.<br><br>
+
+TVK maintained that its demand is not a temporary political position but a consistent policy aimed at strengthening the rights of states in the education sector. The party said decentralising decision-making would allow state governments to address local challenges more effectively while ensuring equal opportunities for students.<br><br>
+
+The party also criticised political parties that promised to abolish NEET during election campaigns but failed to fulfil those commitments after coming to power. TVK stated that students and parents deserve clear and honest policies rather than unfulfilled electoral promises.<br><br>
+
+The demand comes at a time when the NEET examination continues to face criticism over issues such as alleged irregularities, paper leak controversies and concerns regarding transparency. These developments have reignited discussions across the country about the future of the national medical entrance examination and the need for reforms in the admission process.<br><br>
+
+The renewed call by TVK is expected to add momentum to the ongoing national debate over medical education, the role of the Centre and the powers of state governments. As discussions continue, the issue remains one of the most significant topics in India's education policy landscape.<br><br>`,
+
+  url: "tvk-demands-scrapping-neet-full-state-control-medical-education",
+
+  image: "tvk-neet-demand.jpeg",
+
+  category: "National",
+
+  date: "July 22, 2026"
+},
+
+  {
   title: "Rishab Rikhiram Sharma to Make Bollywood Music Debut with 'Ramayana'; Sitar Maestro to Compose Trailer Title Track",
 
   description: "Internationally acclaimed sitar virtuoso Rishab Rikhiram Sharma is set to make his Bollywood music debut with Nitesh Tiwari's epic 'Ramayana'. The renowned musician has been roped in to compose the title track for the film's trailer and create signature themes for key characters, adding a fresh musical dimension to one of India's biggest cinematic projects.",
