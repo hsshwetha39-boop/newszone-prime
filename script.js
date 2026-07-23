@@ -73,6 +73,36 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "PM Narendra Modi Addresses NEET Paper Leak Row, Announces Fast-Track Courts for Swift Action",
+
+  description: "Prime Minister Narendra Modi has responded to the ongoing NEET paper leak controversy, announcing the establishment of fast-track courts to ensure speedy trials and strict punishment for those involved in examination paper leaks. He said protecting the future of students remains the government's top priority.",
+
+  content: `After weeks of nationwide debate over the NEET examination, paper leak allegations and student protests, Prime Minister Narendra Modi has publicly addressed the issue. In a statement shared on social media, the Prime Minister announced a series of measures aimed at ensuring strict action against those responsible for examination paper leaks and safeguarding the interests of students across the country.<br><br>
+
+Calling the welfare and future of young people the government's highest priority, PM Modi said fast-track courts will be set up to ensure swift trials and stringent punishment for individuals involved in examination paper leak cases. He added that the concerned authorities have been directed to take all necessary steps to implement the decision without delay.<br><br>
+
+The Prime Minister stated that these measures are part of the government's continued efforts to protect students and restore confidence in the country's examination system. He stressed that those who attempt to jeopardise the future of India's youth will face strict legal consequences.<br><br>
+
+The statement comes amid widespread protests and political debate surrounding the NEET examination. In recent weeks, students, parents and several political parties have raised concerns over alleged irregularities, paper leak claims and the transparency of the examination process. Demonstrations demanding accountability and reforms have been held in different parts of the country.<br><br>
+
+The government's latest announcement is expected to strengthen the legal response against organised examination fraud. Fast-track courts are intended to speed up investigations and trials so that cases involving paper leaks can be resolved more quickly, with stricter punishment for those found guilty under the law.<br><br>
+
+PM Modi also reiterated that protecting students' futures remains a top priority for his government. According to his statement, authorities have already been instructed to take every necessary administrative and legal measure to prevent similar incidents and ensure that the examination system remains fair and credible.<br><br>
+
+The Prime Minister's remarks have generated widespread reactions online. Supporters welcomed the announcement as a strong step towards tackling examination malpractice, while others said they would closely watch how quickly the promised measures are implemented and whether they lead to lasting reforms in the examination system.<br><br>
+
+The NEET controversy continues to remain one of the biggest education issues in the country. With the announcement of fast-track courts and stricter action against paper leak networks, the Centre has indicated its intention to strengthen enforcement while addressing concerns raised by students, parents and educational institutions.<br><br>`,
+
+  url: "pm-modi-announces-fast-track-courts-neet-paper-leak-action",
+
+  image: "pm-modi-neet-paper-leak-fast-track-courts.jpeg",
+
+  category: "National",
+
+  date: "July 23, 2026"
+},
+
+  {
   title: "Viral Post Claims NEET 2026 Topper Chose Studies Over Protests; Social Media Debate Intensifies",
 
   description: "A viral social media post claiming that NEET 2026 joint topper Prashnul Bansal stayed home to study instead of joining protests has sparked widespread debate online. The claim has circulated across multiple platforms, but the statement should be treated as unverified unless officially confirmed.",
@@ -179,7 +209,7 @@ The case has also renewed discussions about online child safety, the risks assoc
 
   image: "alyssa-ann-zinger-florida-case.jpeg",
 
-  category: "World",
+  category: "viral",
 
   date: "July 22, 2026"
 },
@@ -239,7 +269,7 @@ The renewed call by TVK is expected to add momentum to the ongoing national deba
 
   image: "tvk-neet-demand.jpeg",
 
-  category: "National",
+  category: "viral",
 
   date: "July 22, 2026"
 },
