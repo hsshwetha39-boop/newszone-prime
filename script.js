@@ -73,6 +73,146 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Viral Post Claims Salman Khan Urged Students to End Protest After PM Modi's Statement",
+
+  description: "A social media post claiming that actor Salman Khan appealed to students to return home after Prime Minister Narendra Modi's announcement on paper leaks has gone viral. However, the authenticity of the post has not been independently verified.",
+
+  content: `A social media post attributed to Bollywood actor Salman Khan has gone viral across multiple platforms, claiming that he appealed to students protesting over the alleged examination paper leak issue to return home following Prime Minister Narendra Modi's recent announcement on stricter action against paper leak cases.<br><br>
+
+According to the viral image, the alleged message states that students should remain the government's top priority and that they need not worry because strict action would be taken against those responsible for examination paper leaks. The post also claims Salman Khan expressed confidence in the Prime Minister's assurance and urged students to return to their parents and homes.<br><br>
+
+The viral post further includes a message addressed to activist Sonam Wangchuk, allegedly asking him to end his protest and hunger strike while expressing confidence that the government would take the necessary steps. The image has been widely circulated on social media, generating significant discussion among users.<br><br>
+
+However, the authenticity of the viral post has not been independently verified. As of now, there is no official confirmation from Salman Khan's verified social media accounts or his representatives establishing that he published the statement shown in the viral image. Readers should therefore treat the post as an unverified social media claim rather than a confirmed statement.<br><br>
+
+The image began circulating shortly after Prime Minister Narendra Modi announced that the government would establish fast-track courts for paper leak cases and introduce additional stringent measures to combat examination fraud. Since then, several social media posts claiming support from public figures have also gone viral.<br><br>
+
+The viral post has triggered mixed reactions online. While some users welcomed the alleged message and supported the call to trust the government's actions, others questioned whether the statement was genuine and urged people to verify the source before sharing it further.<br><br>
+
+Until an official statement is issued by Salman Khan or the alleged post is verified through authentic sources, the claims contained in the viral image should be regarded as unverified. Readers are advised to rely on official announcements and verified social media accounts for accurate information.<br><br>`,
+
+  url: "viral-claim-salman-khan-paper-leak-students-post",
+
+  image: "salman-khan-paper-leak-viral-post.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 23, 2026"
+},
+
+  {
+  title: "PM Narendra Modi Says More Stringent Measures Against Paper Leaks to Be Announced in Cabinet Meeting",
+
+  description: "Prime Minister Narendra Modi has announced that the Union Cabinet will unveil more stringent measures to tackle examination paper leaks. The announcement comes amid nationwide concerns over exam integrity and follows the government's decision to establish fast-track courts for paper leak cases.",
+
+  content: `Prime Minister Narendra Modi has announced that the Central Government will introduce additional stringent measures against examination paper leaks during the upcoming Union Cabinet meeting. In a video message shared on social media, the Prime Minister said the government is preparing stronger steps to protect the future of students and ensure strict action against those involved in examination-related fraud.<br><br>
+
+The announcement comes a day after PM Modi assured students that the government would establish fast-track courts to ensure speedy trials and stringent punishment for individuals involved in paper leak cases. He reiterated that safeguarding the interests of students remains one of the government's highest priorities and said more reforms are now on the way.<br><br>
+
+In his latest post, the Prime Minister stated that "more strict actions against paper leaks" will be taken up in the Cabinet meeting. While the government has not yet disclosed the complete details of the proposed measures, officials are expected to discuss stronger legal provisions and administrative reforms aimed at preventing future examination irregularities.<br><br>
+
+The announcement comes amid nationwide protests and growing public concern over alleged paper leaks in competitive examinations. Students, parents and education experts have been demanding greater transparency, accountability and stronger safeguards to restore confidence in the country's examination system.<br><br>
+
+The Centre has indicated that it intends to strengthen enforcement against organised examination fraud while ensuring that those responsible face swift legal consequences. More details about the proposed measures are expected to emerge following the Cabinet meeting and subsequent official announcements.`,
+
+  url: "pm-modi-announces-more-strict-paper-leak-measures-cabinet-meeting",
+
+  image: "pm-modi-paper-leak-cabinet-announcement.jpeg",
+
+  category: "politics",
+
+  date: "July 23, 2026"
+},
+
+  {
+  title: "Viral Post Claims Former Cisco Chairman John Chambers Praised PM Modi, Sparks Online Discussion",
+
+  description: "A social media post claiming that former Cisco Chairman John Chambers praised Prime Minister Narendra Modi and highlighted his leadership has gone viral. The statement circulating online has generated debate, but readers are advised to treat the claim with caution unless supported by an official source or verified public record.",
+
+  content: `A social media post featuring former Cisco Chairman John Chambers alongside Prime Minister Narendra Modi has gained significant attention online. The viral graphic claims that Chambers described PM Modi as a courageous leader and suggested that India's future growth could be at risk without his leadership. The post has been widely shared across multiple social media platforms, prompting discussion among users.<br><br>
+
+According to the viral post, the message praises Prime Minister Modi's leadership and argues that his role is important for India's future development. Supporters have circulated the graphic as an endorsement of the Prime Minister, while others have questioned the authenticity and context of the quoted statement.<br><br>
+
+As of now, the exact wording shown in the viral image has not been independently verified through an official statement, recent public speech or authenticated social media post from John Chambers. Readers are therefore advised to treat the quote as an unverified claim until confirmed by reliable official sources.<br><br>
+
+John Chambers served as the Executive Chairman and former Chief Executive Officer of Cisco Systems and has visited India on several occasions over the years. He has previously spoken publicly about India's technology sector, digital transformation and economic potential, while also interacting with Indian government leaders during various business events.<br><br>
+
+The viral post has generated mixed reactions online. Many users shared it as a message supporting Prime Minister Modi's leadership, while others called for evidence verifying that the statement was genuinely made by John Chambers in the form presented in the graphic.<br><br>
+
+Social media posts featuring quotes from well-known business leaders and public figures frequently go viral, but such claims may sometimes be presented without complete context or official attribution. Verifying the authenticity of widely circulated statements through credible sources remains important before treating them as factual.<br><br>
+
+The discussion surrounding the viral post continues across social media platforms. Until an official source or verified public record confirms the statement, the quote should be regarded as an unverified social media claim rather than an established fact.`,
+
+  url: "viral-post-john-chambers-praise-pm-modi-claim",
+
+  image: "john-chambers-pm-modi-viral-post.jpeg",
+
+  category: "Politics",
+
+  date: "July 23, 2026"
+},
+
+  {
+  title: "‘Godzilla vs. Kong’ Actress Kaylee Hottle Dies at 18 in Car Crash, Entertainment Industry Mourns Young Star",
+
+  description: "Kaylee Hottle, the deaf actress best known for playing Jia in 'Godzilla vs. Kong' and 'Godzilla x Kong: The New Empire', has died at the age of 18 following a car crash in Maryland. Her sudden death has prompted an outpouring of tributes from fans and the entertainment industry.",
+
+  content: `Kaylee Hottle, the young deaf actress who won global recognition for portraying Jia in 'Godzilla vs. Kong' and its sequel 'Godzilla x Kong: The New Empire', has died at the age of 18 following a tragic car crash in Maryland, United States. The heartbreaking news has left fans and the entertainment industry in shock, with tributes pouring in from across the world. <br><br>
+
+According to authorities, the accident occurred in Frederick County, Maryland, during the early hours of July 21. Officials said the vehicle carrying Kaylee veered off the road and crashed into a culvert. She suffered severe injuries and was rushed to a nearby trauma center, where she was later pronounced dead. Investigators have stated that excessive speed is believed to have been a contributing factor in the crash, although the investigation remains ongoing.<br><br>
+
+The Maryland Office of the Chief Medical Examiner confirmed that Kaylee died from multiple blunt force injuries sustained in the crash. Her death has been officially ruled an accident.<br><br>
+
+Kaylee's father, Joshua Hottle, confirmed the tragic news through an emotional video message shared in American Sign Language. Her family later requested privacy as they mourned the loss of their daughter, while friends, colleagues and supporters expressed condolences across social media.<br><br>
+
+Born into a multigenerational deaf family, Kaylee became an inspiration to millions after making her breakthrough in Hollywood. She earned widespread appreciation for her performance as Jia, the deaf orphan who shares a unique bond with Kong in the MonsterVerse films. Her portrayal was praised for bringing authentic deaf representation to mainstream cinema and earned her admiration from audiences around the world.<br><br>
+
+Apart from the 'Godzilla' franchise, Kaylee also appeared in an episode of 'Magnum P.I.' and became a role model for many young members of the deaf community. Her work helped increase awareness about accessibility and inclusion in the entertainment industry while inspiring aspiring actors with disabilities to pursue their dreams.<br><br>
+
+Following news of her death, fans, fellow actors and members of the deaf community shared heartfelt tributes celebrating her life and achievements. Many described her as a talented performer whose warmth, determination and inspiring journey left a lasting impact despite her young age.<br><br>
+
+Kaylee Hottle's untimely passing marks a significant loss for Hollywood and the global deaf community. Though her career was only beginning, her performances and advocacy for authentic representation will continue to inspire audiences for years to come.`,
+
+  url: "godzilla-vs-kong-actress-kaylee-hottle-dies-at-18-car-crash",
+
+  image: "kaylee-hottle-godzilla-vs-kong.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 23, 2026"
+},
+
+  {
+  title: "Nihang Sikhs Raise Concerns Over Conduct During Delhi Protest, Call for Action Against Miscreants",
+
+  description: "Several Nihang Sikhs who joined the ongoing protest at Delhi's Jantar Mantar in support of students have raised concerns over the conduct of certain individuals at the demonstration. Their statements, shared in viral videos, remain unverified and await official confirmation.",
+
+  content: `A fresh controversy has emerged from the ongoing protest at Delhi's Jantar Mantar after several Nihang Sikhs, who said they had joined the demonstration to support students, voiced concerns about the behaviour of some individuals present at the protest site. Videos and statements circulating on social media have sparked widespread discussion, although many of the claims have not yet been independently verified.<br><br>
+
+According to the Nihang Sikhs featured in the viral videos, they travelled to the protest venue with the intention of supporting students and ensuring that the demonstration remained peaceful. However, they alleged that certain individuals at the gathering were attempting to provoke police personnel despite officers maintaining restraint during the protest.<br><br>
+
+Some of the Nihang Sikhs further claimed that incidents involving damage to buses and other public property were taking place during the protest. They expressed concern that those who had gathered peacefully in support of students could eventually be blamed for acts allegedly committed by others present at the demonstration.<br><br>
+
+One individual also alleged that only a section of those participating in the protest were genuine students, while others were pursuing their own interests. These allegations have circulated widely on social media but have not been officially confirmed by the authorities or independently verified.<br><br>
+
+Another Nihang Sikh claimed he was verbally abused and injured after attempting to stop individuals from damaging public property. He alleged that objects, including bottles, were thrown at him while trying to prevent violence. These claims also remain unverified and are part of the ongoing discussions surrounding the protest.<br><br>
+
+The Nihang Sikhs appealed to Delhi Police to take strict action against anyone found responsible for attacking police personnel, damaging public property or engaging in unlawful activities. They maintained that peaceful protesters should not be held responsible for the actions of individuals who allegedly resorted to violence.<br><br>
+
+Videos showing confrontations involving protesters and Nihang Sikhs have been widely shared across social media platforms, leading to intense public debate. However, the authenticity and complete context of all the viral clips have not been independently established, and authorities have not yet issued any detailed findings regarding the incidents shown in the videos.<br><br>
+
+As investigations continue, the incident has renewed discussions about maintaining peaceful demonstrations, protecting public property and ensuring accountability for anyone found involved in unlawful acts. Until official investigations are completed, the allegations made in the viral videos should be treated as unverified claims rather than established facts.<br><br>`,
+
+  url: "nihang-sikhs-raise-concerns-over-conduct-at-delhi-jantar-mantar-protest",
+
+  image: "nihang-sikhs-jantar-mantar-protest.jpeg",
+
+  category: "National",
+
+  date: "July 23, 2026"
+},
+
+  {
   title: "PM Narendra Modi Addresses NEET Paper Leak Row, Announces Fast-Track Courts for Swift Action",
 
   description: "Prime Minister Narendra Modi has responded to the ongoing NEET paper leak controversy, announcing the establishment of fast-track courts to ensure speedy trials and strict punishment for those involved in examination paper leaks. He said protecting the future of students remains the government's top priority.",
@@ -97,7 +237,7 @@ The NEET controversy continues to remain one of the biggest education issues in 
 
   image: "pm-modi-neet-paper-leak-fast-track-courts.jpeg",
 
-  category: "National",
+  category: "trending",
 
   date: "July 23, 2026"
 },
@@ -119,7 +259,7 @@ The post has generated mixed reactions online. Some social media users praised t
 
 The debate has highlighted the broader discussion surrounding student choice, academic responsibility and civic participation. While some believe preparing for competitive examinations should remain the highest priority, others argue that students also have the right to raise concerns about policies affecting their education and future.<br><br>
 
-Since the information is currently based on a widely shared social media post, readers are advised to wait for official clarification before treating the alleged statement as authentic. Until verified by reliable sources or by the individual concerned, the claim should be regarded as unconfirmed.<br><br>`,
+Since the information is currently based on a widely shared social media post, readers are advised to wait for official clarification before treating the alleged statement as authentic. Until verified by reliable sources or by the individual concerned, the claim should be regarded as unconfirmed.`,
 
   url: "viral-post-neet-2026-topper-prashnul-bansal-study-over-protests",
 
