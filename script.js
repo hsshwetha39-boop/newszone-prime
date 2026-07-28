@@ -73,6 +73,68 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Marvel Unveils China-Exclusive Poster for 'Spider-Man: Brand New Day', Fans Call It the Film's Best Artwork Yet",
+
+  description: "Marvel has revealed a China-exclusive poster for Spider-Man: Brand New Day, giving fans a striking new look at the upcoming superhero film. The visually detailed artwork has quickly gone viral, with many calling it the best promotional poster released for the movie so far.",
+
+  content: `Marvel has officially unveiled a China-exclusive promotional poster for its upcoming film Spider-Man: Brand New Day, offering fans a fresh artistic interpretation of the iconic superhero ahead of the movie's release. The newly revealed artwork was showcased during a promotional event in China and has rapidly gained attention across social media, where many fans have described it as one of the most visually impressive Spider-Man posters released in recent years.<br><br>
+
+Unlike the standard promotional material released for global audiences, the China-exclusive poster adopts a distinctive artistic style inspired by traditional Chinese visual elements. The design features Spider-Man positioned at the centre of an elaborate spider motif surrounded by vibrant colours, intricate patterns and symbolic imagery, creating a unique blend of Marvel's superhero universe with Chinese-inspired artwork.<br><br>
+
+Images from the promotional event show the poster being officially unveiled on stage before an audience. The reveal has generated widespread excitement among Marvel fans, with photographs and videos from the event quickly spreading across social media platforms. The artwork has become a major talking point among fans discussing the film's marketing campaign.<br><br>
+
+Following the reveal, social media users praised the creativity and attention to detail in the poster. Many described it as the strongest promotional artwork released for Spider-Man: Brand New Day so far, while others expressed hope that Marvel would also make the design available internationally as a collector's poster or limited-edition print.<br><br>
+
+Marvel has increasingly created region-specific promotional material for major film releases as part of its global marketing strategy. Country-exclusive posters often feature artistic styles and cultural influences designed to connect with local audiences while also generating worldwide interest among collectors and Marvel enthusiasts.<br><br>
+
+Spider-Man: Brand New Day is one of Marvel Studios' most anticipated upcoming superhero films, with fans eagerly waiting for additional trailers, character reveals and story details. The release of the China-exclusive poster has further increased excitement surrounding the project and sparked fresh discussion about the movie across online fan communities.<br><br>
+
+Although the poster has received widespread praise, Marvel has not announced whether the artwork will be used outside China or released as part of the film's international marketing campaign. At present, it appears to be a special promotional design created specifically for the Chinese market.<br><br>
+
+As anticipation for Spider-Man: Brand New Day continues to build, the newly unveiled poster has become one of the most talked-about pieces of promotional material for the film. Fans around the world are now eagerly waiting to see what additional artwork, trailers and announcements Marvel will release in the lead-up to the movie's theatrical debut.<br><br>`,
+
+  url: "marvel-unveils-china-exclusive-spider-man-brand-new-day-poster",
+
+  image: "spider-man-brand-new-day-china-exclusive-poster.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 28, 2026"
+},
+
+  {
+  title: "R. Madhavan Praises IAS Officer Prathap M for Transforming 1,200 Abandoned Borewells Into Rainwater Harvesting Systems",
+
+  description: "Actor R. Madhavan has praised IAS officer Prathap M for converting more than 1,200 abandoned borewells into rainwater harvesting structures in Tamil Nadu. The initiative reportedly raised groundwater levels by 5 to 10 feet and helped revive wells, benefiting farmers and local communities.",
+
+  content: `Actor R. Madhavan has applauded a remarkable water conservation initiative led by Tamil Nadu IAS officer Prathap M, who transformed more than 1,200 abandoned borewells into rainwater harvesting and groundwater recharge structures. The actor shared the story on social media, calling attention to an innovative, low-cost solution that has significantly improved groundwater availability in several parts of Tamil Nadu.<br><br>
+
+The project was implemented during Prathap M's tenure as the District Collector of Tiruvallur district. Instead of permanently sealing abandoned borewells that had run dry over the years, the district administration converted them into recharge structures capable of directing rainwater back into underground aquifers. The idea focused on making use of existing infrastructure rather than investing in expensive new construction projects, allowing rainwater that would otherwise flow into drains to replenish depleted groundwater reserves.<br><br>
+
+According to reports, more than 1,200 unused borewells across the district were redesigned to function as rainwater harvesting units. During the monsoon season, rainwater was channelled into these structures, enabling it to percolate deep underground and naturally recharge aquifers. Officials reported that after the first successful monsoon following the implementation of the project, groundwater levels increased by approximately five to ten feet in several locations.<br><br>
+
+The improvement in groundwater availability produced visible benefits for local communities. Wells that had remained dry for years reportedly began holding water again, while hand pumps in several villages became operational after long periods of inactivity. Farmers also experienced improved access to water for irrigation, reducing dependence on expensive tanker supplies and helping agricultural activities recover in areas previously affected by water scarcity.<br><br>
+
+Prathap M's approach has attracted widespread appreciation because it relied on practical planning instead of large financial investments. Rather than launching a costly infrastructure programme, the administration identified abandoned borewells as an existing resource that could be repurposed for groundwater recharge. The project demonstrated how sustainable water management can often be achieved through innovative thinking, local participation and efficient use of available infrastructure.<br><br>
+
+The IAS officer's background has also drawn attention. Born into a farming family in Tamil Nadu, Prathap M grew up witnessing the challenges caused by water shortages. Those early experiences reportedly influenced his commitment to groundwater conservation and sustainable water management after joining the Indian Administrative Service. His understanding of agricultural challenges played an important role in designing a solution that directly benefited rural communities.<br><br>
+
+R. Madhavan highlighted the initiative as an example of how dedicated public servants can bring meaningful change without requiring massive budgets. The actor, who frequently shares inspiring stories about innovation, education and social impact, praised the officer's work for demonstrating that simple ideas backed by determination can produce long-lasting environmental benefits. His social media post has further increased public awareness of the project and generated appreciation for sustainable governance.<br><br>
+
+Water conservation experts have long emphasised the importance of groundwater recharge as India faces increasing pressure on water resources due to rapid urbanisation, changing rainfall patterns and excessive groundwater extraction. Projects that restore natural recharge systems are increasingly being viewed as essential for improving long-term water security in both rural and urban areas.<br><br>
+
+The success of the Tiruvallur initiative has encouraged discussions about whether similar models can be adopted in other districts facing groundwater depletion. By converting abandoned borewells into rainwater harvesting structures instead of leaving them unused, the project offers a scalable and cost-effective solution that could help strengthen water conservation efforts across the country while supporting farming communities and improving groundwater sustainability for future generations.<br><br>`,
+
+  url: "r-madhavan-praises-ias-officer-prathap-m-rainwater-harvesting-borewells",
+
+  image: "madhavan-prathap-m-rainwater-harvesting.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 28, 2026"
+},
+
+  {
   title: "PM Modi Announces High-Powered Exam Reforms Task Force Led by Nandan Nilekani to Restore Trust in India's Examination System",
 
   description: "Prime Minister Narendra Modi has announced a high-powered task force headed by Infosys co-founder Nandan Nilekani to recommend major reforms in India's examination system. The initiative aims to improve transparency, security and technology in competitive examinations following recent paper leak controversies.",
