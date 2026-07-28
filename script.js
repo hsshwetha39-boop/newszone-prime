@@ -73,6 +73,186 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "PM Modi Announces High-Powered Exam Reforms Task Force Led by Nandan Nilekani to Restore Trust in India's Examination System",
+
+  description: "Prime Minister Narendra Modi has announced a high-powered task force headed by Infosys co-founder Nandan Nilekani to recommend major reforms in India's examination system. The initiative aims to improve transparency, security and technology in competitive examinations following recent paper leak controversies.",
+
+  content: `Prime Minister Narendra Modi has announced the formation of a high-powered task force on examination reforms, appointing Infosys co-founder and technology expert Nandan Nilekani to lead the initiative. The announcement comes as the Central Government moves to strengthen India's examination system following nationwide concerns over question paper leaks and examination fraud. The task force has been constituted to recommend long-term reforms that make public examinations more transparent, reliable and technology-driven.<br><br>
+
+The announcement was made by the Prime Minister through an official message, stating that the new panel would focus on comprehensive examination reforms and prepare a roadmap to improve the credibility of competitive examinations across the country. The government said the recommendations of the committee would be implemented as quickly as possible after the report is submitted. :contentReference[oaicite:0]{index=0}<br><br>
+
+According to the government, the committee will be headed by Nandan Nilekani, best known as the co-founder of Infosys and the architect of India's Aadhaar digital identity programme. The task force is expected to include experts from technology, education, science and public administration who will examine existing weaknesses in the examination system and recommend modern, technology-based solutions to prevent future irregularities. :contentReference[oaicite:1]{index=1}<br><br>
+
+The decision follows widespread public concern over recent examination paper leak incidents that affected competitive examinations and triggered nationwide protests demanding greater accountability and reforms. In response, the government has already initiated stricter legal measures against examination fraud and announced that further legislative changes will be introduced to strengthen the integrity of public examinations. :contentReference[oaicite:2]{index=2}<br><br>
+
+Officials have indicated that the task force will study how advanced technologies, digital security systems, artificial intelligence and stronger examination processes can be integrated to reduce opportunities for paper leaks, impersonation and other forms of malpractice. The objective is to create an examination framework that is secure, transparent and capable of maintaining public confidence in merit-based recruitment and admissions. :contentReference[oaicite:3]{index=3}<br><br>
+
+The government has also proposed amendments to laws governing public examinations, including tougher punishments for those involved in paper leaks and organised examination fraud. The proposed changes include higher fines, longer prison sentences and stricter action against institutions or organisations found guilty of compromising examination integrity. These measures are intended to protect students and ensure that competitive examinations remain fair for all candidates. :contentReference[oaicite:4]{index=4}<br><br>
+
+Education experts believe the formation of the high-powered panel could become one of the most significant reforms of India's examination system in recent years. The recommendations are expected to address technological safeguards, examination management, digital infrastructure, candidate verification and secure handling of question papers, with the broader goal of rebuilding trust among students and parents. :contentReference[oaicite:5]{index=5}<br><br>
+
+The announcement has generated widespread discussion across the country. Many students and parents have welcomed the initiative, expressing hope that stronger safeguards and modern technology will reduce examination malpractice. Others have stressed that the effectiveness of the reforms will ultimately depend on how quickly the recommendations are implemented and enforced across examination agencies. :contentReference[oaicite:6]{index=6}<br><br>
+
+With the establishment of the Nandan Nilekani-led task force, the Centre has signalled its intention to undertake comprehensive reforms aimed at creating a more dependable examination system. The panel's recommendations are expected to play a key role in shaping the future of competitive examinations in India while strengthening transparency, accountability and public confidence in the years ahead. :contentReference[oaicite:7]{index=7}`,
+
+  url: "pm-modi-nandan-nilekani-exam-reforms-task-force-india",
+
+  image: "pm-modi-nandan-nilekani-exam-reforms-task-force.jpeg",
+
+  category: "Education",
+
+  date: "July 28, 2026"
+},
+
+  {
+  title: "Model Rhiya Ahir Alleges Online Abuse After Viral Protest Image, Files Cyber Crime Complaint",
+
+  description: "Model Rhiya Ahir has alleged that she faced online abuse, threats and morphed images after a photograph of her during a protest went viral. She has reportedly filed a cyber crime complaint seeking action against those responsible.",
+
+  content: `Model Rhiya Ahir has reportedly approached the cyber crime authorities after alleging that she became the target of widespread online abuse following the circulation of her photographs from a recent public protest. According to reports, the model claimed that she received abusive messages, threats and defamatory content after images of her standing in front of a police vehicle during the demonstration went viral on social media.<br><br>
+
+The photograph, which showed Rhiya Ahir confronting or standing in front of a police van during the protest, attracted significant attention online and quickly spread across multiple social media platforms. While many users praised her for participating in the demonstration, others criticised her, resulting in heated debates and extensive online discussions.<br><br>
+
+According to the complaint, Rhiya Ahir alleged that the online harassment went beyond criticism. She claimed that unknown individuals circulated morphed images, shared offensive content using her photographs and sent threatening messages through social media platforms. She has reportedly sought legal action against those responsible for creating and distributing the alleged abusive material.<br><br>
+
+Reports indicate that the cyber complaint includes allegations of online intimidation, circulation of manipulated images and targeted harassment. Authorities are expected to examine the complaint and determine whether any offences under applicable cyber laws have been committed. Any investigation and legal action will depend on the evidence collected during the inquiry.<br><br>
+
+The incident has once again highlighted growing concerns over online harassment faced by individuals whose photographs become widely circulated during public events. Digital rights advocates have repeatedly warned that manipulated images, abusive posts and anonymous threats can have a serious impact on victims and have called for stricter enforcement against cyber abuse.<br><br>
+
+The matter has also generated mixed reactions on social media. While several users expressed support for Rhiya Ahir and condemned the alleged online harassment, others continued to debate her participation in the protest. Many users urged people to avoid sharing unverified or manipulated content and to respect the privacy and dignity of individuals featured in viral images.<br><br>
+
+At the time of publishing, the allegations regarding online abuse, threats and morphed images are based on Rhiya Ahir's reported complaint. The investigation into the matter is expected to determine the identity of those responsible and whether any criminal offences have been committed. No findings establishing the allegations have been publicly announced so far.<br><br>
+
+The case serves as another reminder of the growing challenges posed by cyber harassment and the misuse of digital platforms. As the complaint proceeds through the legal process, further updates are expected once authorities provide official information regarding the investigation and any action taken against the alleged offenders.<br><br>`,
+
+  url: "rhiya-ahir-cyber-complaint-online-abuse-morphed-images-protest",
+
+  image: "rhiya-ahir-cyber-complaint.jpeg",
+
+  category: "National",
+
+  date: "July 27, 2026"
+},
+
+  {
+  title: "Viral Posts Claim Actress Jyotika Praised Abhijeet Dipke and Saurav Das; No Verified Statement Confirms the Quote",
+
+  description: "Social media posts claiming that actress Jyotika praised Abhijeet Dipke and Saurav Das have gone viral. However, there is no verified public statement from the actress confirming the quote circulating online.",
+
+  content: `A series of social media posts claiming that actress Jyotika praised Abhijeet Dipke and Saurav Das has sparked widespread discussion online. The viral graphics attribute a statement to the actress saying that, as mothers, they would want to raise their children to be like the two individuals and that she was proud of Gen Z for being fearless and unfiltered. The posts have been widely shared across multiple social media platforms.<br><br>
+
+The screenshots circulating online also claim that Jyotika thanked CJP for making young people fearless. The alleged remarks have triggered mixed reactions among social media users, with some expressing support for the statement while others criticised the actress based on the quote attributed to her.<br><br>
+
+As the posts gained traction, several users questioned whether the statement was genuine and whether Jyotika had actually made such remarks in a public interview, social media post or press interaction. Others urged people not to draw conclusions solely from viral graphics without verifying their authenticity.<br><br>
+
+At the time of publishing, there is no verified public statement, official social media post or confirmed interview from Jyotika that independently confirms the exact quote circulating in the viral images. Likewise, no official clarification from the actress or her representatives addressing the viral claim was publicly available.<br><br>
+
+The controversy has emerged amid heightened social media discussions surrounding CJP and several individuals associated with the organisation. Numerous claims, screenshots and edited graphics have been circulating online in recent days, making it important to distinguish verified information from unconfirmed social media content.<br><br>
+
+Social media graphics can spread rapidly and may not always accurately represent a person's actual words or views. Images containing quotations are frequently shared without supporting video, audio or official documentation, making independent verification essential before treating such claims as factual.<br><br>
+
+Readers are advised to treat the statement attributed to Jyotika as an unverified social media claim unless supported by an official video, interview, verified social media post or a public clarification from the actress herself. At present, the authenticity of the quote shown in the viral posts has not been independently confirmed.<br><br>
+
+If Jyotika or her representatives issue an official response, or if verifiable evidence confirming or denying the quote becomes available, it may provide greater clarity. Until then, the claims circulating in the viral posts should not be presented as established facts.<br><br>`,
+
+  url: "viral-claim-jyotika-praised-abhijeet-dipke-saurav-das-unverified",
+
+  image: "jyotika-viral-quote-cjp-claim.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 27, 2026"
+},
+
+  {
+  title: "Viral Posts Question CJP Leadership After Private Party Videos Surface; Claims Remain Unverified",
+
+  description: "Social media posts alleging that several CJP leaders attended a private celebration while protests were underway have gone viral. The claims have triggered online debate, but many allegations circulating on social media remain unverified and have not been officially confirmed.",
+
+  content: `A series of social media posts and videos claiming that leaders associated with CJP attended a private celebration during an ongoing protest have sparked widespread discussion online. The posts allege that videos from a gathering surfaced while demonstrations were taking place, leading to criticism from some social media users over the organisation's leadership and planning.<br><br>
+
+According to the viral posts, individuals identified as Abhijeet Dipke, Vijeta Dahiya, Neha Bora, Saurav Das and Ashutosh Ranka have come under criticism from online users. The posts claim that some of these leaders were either absent or not actively present during crucial moments of the protest while videos from a private event were circulating on social media. These allegations have been widely shared but remain unverified.<br><br>
+
+The viral content also questions the planning and execution of the protest, alleging that participants were left confused because of the absence of a clearly communicated route, uncertainty regarding permissions and a lack of visible on-ground leadership. These claims have been repeated across several social media accounts, although no official investigation or verified report has confirmed the allegations.<br><br>
+
+The circulation of videos showing individuals at what is described as a private celebration has further fuelled the controversy. Some social media users have interpreted the videos as evidence that organisers were not fully involved in managing the protest, while others have argued that the timing and context of the videos have not been independently verified and should not be treated as conclusive proof of any wrongdoing.<br><br>
+
+As the posts gained traction, reactions on social media became sharply divided. Critics questioned the leadership and decision-making of those associated with the organisation, while supporters urged people not to draw conclusions solely from viral videos or screenshots without official clarification. Many users also pointed out that clips shared online can sometimes lack context and may not accurately represent the sequence of events.<br><br>
+
+At the time of publishing, there has been no official statement from CJP or the individuals named in the viral posts responding to the specific allegations regarding the reported private celebration or the claims about their absence during key moments of the protest. Likewise, no official authority has confirmed the allegations circulating on social media.<br><br>
+
+Because the claims are based primarily on viral social media posts and videos, they should be treated as unverified allegations rather than established facts. Readers are advised to rely on official statements, verified reports and confirmed evidence before reaching conclusions about the events or the individuals involved.<br><br>
+
+If official responses, verified evidence or investigation findings become available, they may provide additional clarity regarding the allegations currently circulating online. Until then, the claims remain part of an ongoing social media discussion and should not be presented as confirmed facts.<br><br>`,
+
+  url: "viral-cjp-private-party-videos-leadership-controversy-unverified-claims",
+
+  image: "cjp-private-party-viral-controversy.jpeg",
+
+  category: "viral",
+
+  date: "July 27, 2026"
+},
+
+  {
+  title: "Viral Claim Says Priyanka Chopra Followed CJP Founder Abhijeet Dipke on Instagram, Sparks Online Discussion",
+
+  description: "A social media post claiming that actress Priyanka Chopra has followed CJP founder Abhijeet Dipke on Instagram has gone viral. The reported follow has triggered widespread discussion online, but no official statement has been issued regarding the reason behind it.",
+
+  content: `A social media claim suggesting that global actress Priyanka Chopra has followed Abhijeet Dipke, the founder of CJP, on Instagram has attracted significant attention across social media platforms. Screenshots showing Dipke's verified Instagram profile appearing in Priyanka Chopra's following list have been widely shared, leading to speculation about the reason behind the reported follow.<br><br>
+
+The viral posts claim that Priyanka Chopra recently followed Abhijeet Dipke on Instagram, prompting discussions among fans, political observers and social media users. Within hours of the screenshots circulating online, the topic began trending on multiple platforms, with users sharing different interpretations of the development.<br><br>
+
+As of now, neither Priyanka Chopra nor Abhijeet Dipke has publicly commented on the reported Instagram follow. There has also been no official explanation regarding whether the follow is related to any upcoming collaboration, campaign, personal acquaintance or any other activity. Without an official statement, the reason behind the reported follow remains unknown.<br><br>
+
+Social media users have reacted in different ways to the viral claim. While some described it as an ordinary social media activity that should not be overinterpreted, others attempted to link it to possible future projects or public engagements. Several users also urged people to avoid drawing conclusions solely based on an Instagram follow, noting that social media interactions do not necessarily indicate support, endorsement or collaboration.<br><br>
+
+Instagram follows by celebrities frequently become the subject of online speculation, particularly when they involve well-known public personalities. In many cases, such interactions later turn out to have no larger significance, while in others they may eventually be connected to professional projects or public appearances. Until official clarification is provided, any assumptions regarding the purpose of the reported follow remain speculative.<br><br>
+
+At present, the only information circulating publicly is that Priyanka Chopra has reportedly followed Abhijeet Dipke's Instagram account. No verified announcement has been made explaining the reason behind the reported action, and no official confirmation has linked it to any specific event, initiative or partnership.<br><br>
+
+Readers are advised to treat the ongoing discussions as social media speculation rather than confirmed news. Any further developments or official statements from the individuals involved may provide additional clarity in the coming days. Until then, claims regarding the motive or significance of the reported Instagram follow remain unverified.<br><br>`,
+
+  url: "priyanka-chopra-reportedly-follows-abhijeet-dipke-instagram-viral-claim",
+
+  image: "priyanka-chopra-abhijeet-dipke-instagram-follow.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 27, 2026"
+},
+
+  {
+  title: "Mirabai Chanu Creates History With Third Straight Commonwealth Games Gold, Wins India's First Gold in Glasgow 2026",
+
+  description: "Olympic medallist Mirabai Chanu scripted history by winning her third consecutive Commonwealth Games gold medal in Glasgow 2026. The Indian weightlifting star dominated the women's 48kg event, shattered records and opened India's gold medal account at the Games.",
+
+  content: `India's star weightlifter Mirabai Chanu added another glorious chapter to her remarkable career by winning the gold medal in the women's 48kg category at the 2026 Commonwealth Games in Glasgow. With the victory, she became the first Indian to win three consecutive Commonwealth Games gold medals in weightlifting while also giving India its first gold medal of the Glasgow Games.<br><br>
+
+Competing as one of the favourites in the event, Mirabai once again demonstrated why she is regarded as one of the finest weightlifters in the world. She produced a commanding total lift of 190kg, successfully lifting 85kg in the snatch and 105kg in the clean and jerk to comfortably finish ahead of her rivals. Her performance also set new Commonwealth Games and Commonwealth records in the snatch event, highlighting her dominance on the international stage. :contentReference[oaicite:0]{index=0}<br><br>
+
+Although she missed her opening attempts in both the snatch and clean and jerk, Mirabai showed tremendous composure by recovering strongly on her subsequent lifts. After successfully clearing 85kg in the snatch and 105kg in the clean and jerk, she had already secured the gold medal and chose not to attempt her final lift. Nigeria's Ruth Nyong claimed the silver medal, while Malaysia's Irene Jane Henry finished with bronze. :contentReference[oaicite:1]{index=1}<br><br>
+
+The victory completed a historic golden hat-trick for Mirabai, who had earlier won Commonwealth Games gold medals at Gold Coast 2018 and Birmingham 2022. She had also won a silver medal at the 2014 Commonwealth Games in Glasgow, taking her overall Commonwealth Games medal tally to four and further strengthening her legacy as one of India's greatest weightlifters. :contentReference[oaicite:2]{index=2}<br><br>
+
+Following her triumph, Mirabai expressed gratitude for the support she has received throughout her career. She dedicated the achievement to her family, coaches and support staff, acknowledging the sacrifices they made during her journey. The Olympic silver medallist also revealed that winning this title was particularly challenging because she had battled injuries and underwent an extremely demanding weight-management routine before the competition. She disclosed that she had avoided food and even water for several days to meet the weight limit for the event. :contentReference[oaicite:3]{index=3}<br><br>
+
+Prime Minister Narendra Modi congratulated Mirabai Chanu on her historic achievement, praising her exceptional consistency and describing her latest performance as another proud moment for Indian weightlifting. In his message, he said she continues to inspire millions of Indians through her dedication, perseverance and excellence on the international stage. :contentReference[oaicite:4]{index=4}<br><br>
+
+Mirabai's victory has been celebrated across the country, with athletes, sports personalities and fans applauding her remarkable consistency over the years. Her success also provided India with a perfect start in weightlifting at the Glasgow Commonwealth Games and boosted the country's medal campaign. :contentReference[oaicite:5]{index=5}<br><br>
+
+Over the years, Mirabai Chanu has emerged as one of India's most successful athletes, winning an Olympic silver medal, World Championship medals, Commonwealth titles and several international honours. Her latest achievement further cements her place among the greatest weightlifters in Commonwealth Games history and serves as an inspiration for aspiring athletes across the country. :contentReference[oaicite:6]{index=6}<br><br>`,
+
+  url: "mirabai-chanu-third-consecutive-commonwealth-games-gold-glasgow-2026",
+
+  image: "mirabai-chanu-commonwealth-games-2026-gold.jpeg",
+
+  category: "Sports",
+
+  date: "July 27, 2026"
+},
+
+  {
   title: "Viral Post Claims Salman Khan Urged Students to End Protest After PM Modi's Statement",
 
   description: "A social media post claiming that actor Salman Khan appealed to students to return home after Prime Minister Narendra Modi's announcement on paper leaks has gone viral. However, the authenticity of the post has not been independently verified.",
