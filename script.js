@@ -73,6 +73,94 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Shilpa Shetty Denies Viral Reservation Post, Says Fake Screenshot Was Falsely Linked to Her",
+
+  description: "Actress Shilpa Shetty has dismissed a viral social media screenshot carrying comments on caste-based reservation that were falsely attributed to her. Calling the post fabricated and malicious, she urged people not to believe or share the misinformation.",
+
+  content: `Bollywood actress Shilpa Shetty has strongly denied a viral social media post on caste-based reservation that was falsely attributed to her. The controversy began after a screenshot, claiming to be from her Instagram Story, spread rapidly across social media and messaging platforms, leading to widespread debate on the sensitive issue.<br><br>
+
+The viral screenshot carried remarks opposing caste-based reservation and claimed that doctors should treat only patients belonging to their own caste for a few years so that people would eventually question the reservation system. The post also included a statement claiming that "skill" cannot be achieved through reservation. As the screenshot gained traction online, many users assumed it had been posted by the actress without verifying its authenticity.<br><br>
+
+Following the circulation of the screenshot, Shilpa Shetty issued an official clarification through her verified social media account. She categorically denied ever making the statement and described the viral screenshot as completely fabricated and malicious. The actress said she was shocked to see false statements being attached to her name and appealed to the public not to believe or circulate the fake content.<br><br>
+
+Her clarification makes it clear that the opinions expressed in the viral screenshot do not represent her views. She also highlighted the growing problem of misinformation on social media, where fabricated screenshots and edited posts are often circulated using the names of well-known personalities to attract attention and generate controversy.<br><br>
+
+Independent fact-checks also found no evidence that the reservation-related statement originated from any of Shilpa Shetty's official social media accounts. Investigations concluded that the screenshot being shared online was fabricated, supporting the actress's public denial. The viral image should therefore be treated as fake content and not as an authentic post made by her.<br><br>
+
+The incident has once again highlighted how quickly unverified screenshots can spread across the internet, particularly when they involve public figures and socially sensitive issues. Such posts often gain significant traction before an official clarification reaches the public, making it important for users to verify claims before sharing them further.<br><br>
+
+As of now, the only confirmed information is that Shilpa Shetty has rejected the viral reservation-related screenshot and stated that it is fake. There is no verified evidence that she ever posted or endorsed the message circulating on social media, and any claims suggesting otherwise are false.<br><br>`,
+
+  url: "shilpa-shetty-denies-viral-reservation-post",
+
+  image: "shilpa-shetty-denies-viral-reservation-post.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 28, 2026"
+},
+
+  {
+  title: "Reports Claim Virat Kohli Purchased ₹18.29 Crore Property in India Amid Ongoing London Relocation Speculation",
+
+  description: "Reports have claimed that Virat Kohli has purchased a residential property worth ₹18.29 crore in India, prompting fresh discussion about his future plans. However, neither Virat Kohli nor Anushka Sharma has officially commented on the reported purchase or speculation surrounding their long-term residence.",
+
+  content: `Fresh reports claiming that cricketer Virat Kohli has purchased a residential property worth ₹18.29 crore in India have sparked widespread discussion on social media. The reported investment has led many fans to speculate about the couple's future plans, particularly amid ongoing rumours that Kohli and actor Anushka Sharma may relocate to London for an extended period.<br><br>
+
+According to the circulating reports, the property purchase has reignited conversations about whether the couple intends to continue spending significant time in India despite repeated speculation surrounding a possible move abroad. The reports have attracted considerable attention online, with many social media users interpreting the alleged investment as a sign that Kohli may maintain a strong residential presence in India.<br><br>
+
+The discussion gained momentum after several social media posts linked the reported property purchase with earlier rumours about the family's future residence. Over the past few years, speculation regarding Kohli and Sharma relocating to London has frequently surfaced online, although no official confirmation has been issued regarding any permanent move.<br><br>
+
+As of now, neither Virat Kohli nor Anushka Sharma has publicly confirmed the reported ₹18.29 crore property purchase. The couple has also not issued any official statement regarding their long-term residence, relocation plans or whether they intend to settle outside India.<br><br>
+
+Because of the absence of an official confirmation, claims suggesting that the reported property purchase means the couple has cancelled or changed any relocation plans remain speculative. Such conclusions are based on social media discussions and online interpretations rather than verified statements from the couple or their representatives.<br><br>
+
+The reports have nevertheless generated significant interest among cricket fans and entertainment followers, with many expressing curiosity about Kohli's future after international cricket and where the family plans to spend most of its time. Others have urged caution, noting that purchasing property does not necessarily indicate a change in long-term residence plans.<br><br>
+
+Until an official statement is released, the reported property purchase and its connection to Virat Kohli's future residence should be treated as unconfirmed. Any claims linking the investment to the couple's long-term plans remain speculative and have not been verified by Kohli or Sharma.<br><br>`,
+
+  url: "virat-kohli-reported-18-29-crore-property-india-london-relocation-speculation",
+
+  image: "virat-kohli-18-29-crore-property-reports.jpeg",
+
+  category: "Sports",
+
+  date: "July 29, 2026"
+},
+
+  {
+  title: "Mohammad Junaid Dismisses Rift Rumours With CJP, Urges Supporters Not to Believe False Claims",
+
+  description: "Mohammad Junaid has denied rumours of differences with the CJP leadership, saying the organisation continues to support him. The party has also reaffirmed its backing, calling reports of an internal rift false and misleading.",
+
+  content: `Mohammad Junaid has publicly dismissed speculation about an alleged rift with the CJP leadership, urging supporters not to believe false rumours circulating on social media. His clarification comes after several online posts and unverified claims suggested that differences had emerged between him and senior leaders of the organisation following the conclusion of the recent nationwide student movement.<br><br>
+
+In a video message shared publicly, Junaid stated that there was no disagreement between him and the party leadership. He said the movement remained united and alleged that false rumours were being spread to weaken the organisation and create unnecessary confusion among supporters. He also said that the party's top leadership continued to stand with him.<br><br>
+
+The controversy gained momentum after multiple social media posts claimed that Junaid had been sidelined by the organisation after the protests ended. Some posts even alleged that party leaders had stopped communicating with him and had excluded him from post-protest activities. These claims quickly went viral, leading to widespread speculation about internal divisions within the organisation.<br><br>
+
+Responding to the rumours, the CJP also issued an official clarification reaffirming its support for Junaid. The organisation stated that he remains an important member of the movement and continues to receive the party's full support. It further described the reports of an internal dispute as false and misleading.<br><br>
+
+Party representatives also clarified that Junaid is safe and continues to receive legal and organisational assistance. According to the statement, the party has always respected his contribution to the movement and will continue to stand by him while pursuing its campaign for education reforms and examination transparency.<br><br>
+
+Junaid came into the national spotlight during the student protests after voluntarily arranging food and drinking water for thousands of protesters over several weeks. His efforts earned appreciation from many participants and supporters, making him one of the prominent faces associated with the movement.<br><br>
+
+The clarification follows recent controversy surrounding alleged police action involving Junaid's family. While Junaid and the organisation had earlier raised concerns over alleged police harassment, authorities denied detaining any of his family members. Those claims remain disputed, and no conclusive official findings have been announced regarding the allegations.<br><br>
+
+The episode also highlights how quickly unverified claims can spread on social media during major political or public movements. Viral posts, edited videos and selective clips can often create misleading narratives before official clarifications are issued, making verification essential before accepting such claims as fact.<br><br>
+
+As of now, both Mohammad Junaid and the CJP leadership have categorically rejected rumours of any internal rift. Their statements maintain that the organisation remains united and have urged supporters not to spread or believe unverified information circulating online.<br><br>`,
+
+  url: "mohammad-junaid-denies-cjp-rift-rumours",
+
+  image: "mohammad-junaid-cjp-rift-rumours.jpeg",
+
+  category: "Politics",
+
+  date: "July 29, 2026"
+},
+
+  {
   title: "Marvel Unveils China-Exclusive Poster for 'Spider-Man: Brand New Day', Fans Call It the Film's Best Artwork Yet",
 
   description: "Marvel has revealed a China-exclusive poster for Spider-Man: Brand New Day, giving fans a striking new look at the upcoming superhero film. The visually detailed artwork has quickly gone viral, with many calling it the best promotional poster released for the movie so far.",
@@ -96,6 +184,34 @@ As anticipation for Spider-Man: Brand New Day continues to build, the newly unve
   url: "marvel-unveils-china-exclusive-spider-man-brand-new-day-poster",
 
   image: "spider-man-brand-new-day-china-exclusive-poster.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 28, 2026"
+},
+
+{
+  title: "Viral Post Claims Shilpa Shetty Shared Instagram Story on Caste-Based Reservation, No Official Clarification Yet",
+
+  description: "A screenshot circulating on social media claims actress Shilpa Shetty shared an Instagram Story expressing views on caste-based reservation. The post has gone viral, but there has been no official clarification from the actress regarding the authenticity or context of the screenshot.",
+
+  content: `A screenshot claiming to show an Instagram Story posted by actress Shilpa Shetty has gone viral across social media platforms, triggering widespread discussion over caste-based reservation. The image attributes a message to the actress expressing an opinion on reservation policies, leading to mixed reactions from users online.<br><br>
+
+The viral screenshot contains a statement suggesting that doctors should treat only patients from their own caste categories for a few years so that people would eventually question caste-based reservation. The message concludes by claiming that "skill" cannot be achieved through reservation. The screenshot has been widely shared across multiple social media platforms, with many users debating both its content and authenticity.<br><br>
+
+Several social media pages have circulated the screenshot while claiming that it was posted on Shilpa Shetty's official Instagram Story. As the post gained traction, users expressed sharply divided opinions, with some supporting the reported statement and others criticising the views attributed to the actress.<br><br>
+
+At the time of writing, Shilpa Shetty has not publicly confirmed whether the viral screenshot is genuine. The actress has also not issued any official statement addressing the circulating image or the opinions attributed to her. In the absence of an official clarification, the authenticity of the screenshot and the context surrounding it remain unverified.<br><br>
+
+Because the claim is based primarily on screenshots circulating online, it should be treated as a viral social media claim rather than confirmed information. Screenshots can sometimes be shared without full context, and there is currently no official confirmation establishing that the post originated from the actress's verified account.<br><br>
+
+The incident has once again highlighted how social media posts and screenshots can rapidly become the subject of nationwide discussion, particularly when they involve public figures and sensitive topics such as reservation policies. Viral content often spreads much faster than official responses, making verification an important part of public discourse.<br><br>
+
+Until Shilpa Shetty or her representatives issue an official clarification, claims regarding the viral Instagram Story remain unverified. Readers are advised to rely on official statements before drawing conclusions about the authenticity of the screenshot or the views attributed to the actress.<br><br>`,
+
+  url: "viral-claim-shilpa-shetty-instagram-story-caste-reservation",
+
+  image: "shilpa-shetty-viral-instagram-story-reservation.jpeg",
 
   category: "Entertainment",
 
