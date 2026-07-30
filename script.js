@@ -73,6 +73,34 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Zendaya Stuns in Tamara Ralph Couture at 'Spider-Man: Brand New Day' London Premiere",
+
+  description: "Hollywood star Zendaya turned heads at the London premiere of 'Spider-Man: Brand New Day' in a custom Tamara Ralph couture gown from the Fall 2026 collection. Her glamorous appearance quickly became one of the evening's biggest fashion highlights.",
+
+  content: `Zendaya made a striking fashion statement at the London premiere of 'Spider-Man: Brand New Day', captivating fans and photographers with an elegant couture look. The actress arrived wearing a custom-designed gown by renowned fashion house Tamara Ralph, drawing widespread attention on social media and in the fashion world.<br><br>
+
+For the premiere, Zendaya chose an ivory-white fitted gown from Tamara Ralph's Fall 2026 Couture collection. The dress featured intricate crystal embellishments, structured corset detailing and delicate beaded shoulder chains, creating a sophisticated red-carpet appearance. The dramatic mermaid-style silhouette and flowing train added to the gown's luxurious appeal.<br><br>
+
+The actress completed the look with minimal jewellery, allowing the craftsmanship of the couture gown to remain the centre of attention. Her voluminous natural hairstyle and understated makeup complemented the outfit, giving the overall styling a timeless and elegant finish.<br><br>
+
+The London premiere of 'Spider-Man: Brand New Day' attracted fans from around the world as the latest installment in the popular superhero franchise prepares for its theatrical release. Zendaya's appearance quickly became one of the most talked-about moments from the event, with images and videos circulating widely across social media platforms.<br><br>
+
+Fashion enthusiasts praised the actress for once again delivering a memorable red-carpet look. Many users described the outfit as one of her strongest fashion appearances in recent months, applauding the blend of classic couture design with modern detailing.<br><br>
+
+Zendaya has built a reputation for making bold yet elegant fashion choices at international premieres and award ceremonies. Her collaborations with leading luxury designers have consistently earned praise from fashion critics, making each of her public appearances a major style event.<br><br>
+
+Images from the premiere continue to trend online, with fans highlighting the craftsmanship of the Tamara Ralph couture gown and Zendaya's polished styling. The appearance has further reinforced her status as one of Hollywood's most influential fashion icons, while adding another memorable look to her impressive red-carpet portfolio.<br><br>`,
+
+  url: "zendaya-tamara-ralph-couture-spider-man-brand-new-day-london-premiere",
+
+  image: "zendaya-spider-man-brand-new-day-london-premiere.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 30, 2026"
+},
+
+  {
   title: "Over 7,000 Karnataka Students Test HIV Positive: State Plans Large-Scale Campus Screening and Awareness Drive",
 
   description: "Karnataka is set to strengthen HIV awareness, counselling and screening programmes in colleges after more than 7,000 students aged 18–25 tested HIV positive. The initiative focuses on early diagnosis, treatment and reducing stigma among young adults.",
