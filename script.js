@@ -73,6 +73,126 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "Over 7,000 Karnataka Students Test HIV Positive: State Plans Large-Scale Campus Screening and Awareness Drive",
+
+  description: "Karnataka is set to strengthen HIV awareness, counselling and screening programmes in colleges after more than 7,000 students aged 18–25 tested HIV positive. The initiative focuses on early diagnosis, treatment and reducing stigma among young adults.",
+
+  content: `The Karnataka government is preparing to expand HIV screening, counselling and awareness programmes across government, aided and private colleges after more than 7,000 students between the ages of 18 and 25 were reported to have tested HIV positive. The move is aimed at improving early detection, ensuring timely treatment and increasing awareness about HIV among young adults.<br><br>
+
+According to the available data, the state plans to conduct confidential HIV screening drives, counselling sessions and awareness campaigns on college campuses. Health authorities believe that encouraging voluntary testing among students will help identify infections at an early stage, allowing affected individuals to begin treatment sooner and reducing the chances of unknowingly transmitting the virus to others.<br><br>
+
+Officials have also expressed concern over the number of people who may be living with HIV without being aware of their infection. Estimates indicate that more than 54,000 people in Karnataka could be HIV positive without knowing their status, highlighting the importance of expanding testing facilities and increasing public awareness.<br><br>
+
+The initiative is intended not only to detect infections early but also to reduce the stigma associated with HIV. Health experts say fear, misinformation and social discrimination often discourage people from getting tested. By conducting awareness programmes in educational institutions, the government hopes more young people will voluntarily come forward for confidential screening and counselling.<br><br>
+
+According to the latest available estimates from the National AIDS Control Organisation (NACO), Karnataka has one of the highest numbers of people living with HIV in the country, with an estimated 2.6 lakh people currently living with the virus. This has prompted the state to intensify prevention and awareness efforts, particularly among young adults who represent an important target group for public health interventions.<br><br>
+
+Medical experts emphasise that HIV is no longer considered a life-threatening condition when diagnosed early and treated appropriately. Modern antiretroviral therapy (ART) enables people living with HIV to lead long, healthy and productive lives while significantly lowering the risk of transmitting the virus to others when treatment is followed consistently.<br><br>
+
+Health officials have stressed that all screening programmes will be conducted with strict confidentiality and supported by professional counselling services. The objective is to create a supportive environment where students can seek testing, obtain accurate information and access medical care without fear of discrimination or social stigma.<br><br>
+
+The proposed awareness campaign is expected to include educational sessions on HIV prevention, safe health practices, the importance of regular testing and the availability of free treatment services through government healthcare facilities. Officials believe these measures will help improve public understanding of HIV while encouraging responsible health behaviour among students.<br><br>
+
+The government's initiative reflects a broader public health strategy focused on early diagnosis, awareness and timely treatment rather than fear or stigma. Authorities hope that expanding testing and counselling services across colleges will strengthen HIV prevention efforts and improve access to healthcare for young people throughout Karnataka.<br><br>`,
+
+  url: "karnataka-hiv-positive-students-college-screening-awareness-drive",
+
+  image: "karnataka-hiv-students-awareness-drive.jpeg",
+
+  category: "Health",
+
+  date: "July 30, 2026"
+},
+
+  {
+  title: "Bhumi Pednekar to Share Screen With Rishab Shetty in 'The Pride of Bharat: Chhatrapati Shivaji Maharaj'?",
+
+  description: "A social media post claiming that Bollywood actress Bhumi Pednekar has joined Rishab Shetty's upcoming historical film 'The Pride of Bharat: Chhatrapati Shivaji Maharaj' has gone viral. Here's what is known so far.",
+
+  content: `A social media post claiming that Bollywood actress Bhumi Pednekar will star opposite Rishab Shetty in the upcoming historical film 'The Pride of Bharat: Chhatrapati Shivaji Maharaj' has been widely shared online. The post has sparked discussions among cinema fans, with many expressing excitement over the possibility of the two actors appearing together on screen.<br><br>
+
+According to the viral post, Bhumi Pednekar has been selected as the female lead in the film. The claim quickly gained traction across social media platforms, where users began sharing posters and congratulatory messages even though no official announcement accompanied many of the posts.<br><br>
+
+As of now, there has been no official confirmation from the film's makers, Rishab Shetty, Bhumi Pednekar or the production team verifying that the actress has been cast in the project. In the absence of an official statement, the viral claim should be treated as unverified.<br><br>
+
+'The Pride of Bharat: Chhatrapati Shivaji Maharaj' is one of Rishab Shetty's most anticipated projects and is based on the life of the legendary Maratha ruler Chhatrapati Shivaji Maharaj. The film has generated significant interest ever since it was announced, with fans closely following every development related to its cast and production.<br><br>
+
+Large-scale historical films often attract speculation regarding casting choices long before official announcements are made. As a result, several rumours and fan-made posters frequently circulate on social media, making it important to distinguish between confirmed information and unverified claims.<br><br>
+
+While many fans have welcomed the possibility of Bhumi Pednekar joining the film, there is currently no verified evidence confirming her involvement. Until the filmmakers issue an official announcement, reports about her casting remain speculative.<br><br>
+
+Viewers are advised to rely on official updates from the production house or the actors themselves for confirmed information regarding the film's cast. Any social media post claiming Bhumi Pednekar's participation without official confirmation should be treated as an unverified viral claim rather than established fact.<br><br>`,
+
+  url: "bhumi-pednekar-rishab-shetty-chhatrapati-shivaji-maharaj-viral-claim",
+
+  image: "bhumi-pednekar-rishab-shetty-shivaji-maharaj.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 30, 2026"
+},
+
+  {
+  title: "Kangana Ranaut Defends Controversial Remarks, Says 'Keep Obscenity Inside Your Room, Not on the Streets'",
+
+  description: "Actor and BJP MP Kangana Ranaut has defended her recent controversial comments in a new Instagram video, saying public obscenity and abusive behaviour should not be normalised. Her remarks have triggered fresh political and social debate online.",
+
+  content: `Actor and BJP MP Kangana Ranaut has once again found herself at the centre of controversy after sharing a video on Instagram defending her recent remarks about young protesters. Responding to criticism over her earlier statements, Kangana said that obscenity and abusive behaviour should remain a private matter and should not be brought onto public streets. Her comments have reignited debate across social media and political circles.<br><br>
+
+In the video, Kangana questioned whether parents would encourage such behaviour among their own children. She argued that public spaces should reflect dignity and respect, adding that vulgar language, abusive slogans and offensive conduct should not be accepted as normal. According to her, expressing opinions or protesting does not justify the use of indecent behaviour in public.<br><br>
+
+The actress also referred to the abusive slogans allegedly raised against Prime Minister Narendra Modi during recent demonstrations. She said people have the right to disagree with political leaders, but personal insults and offensive language directed at individuals or their families cross the limits of acceptable public discourse. She maintained that criticism should remain respectful even during protests.<br><br>
+
+Kangana further stated that many people hold Prime Minister Narendra Modi in high regard and that public figures should be criticised through democratic means rather than through abusive or vulgar expressions. She emphasised that disagreements in a democracy should be expressed responsibly without encouraging hatred or indecency.<br><br>
+
+Her latest Instagram video comes after widespread backlash over her earlier comments describing a section of Generation Z in harsh terms. Those remarks drew criticism from political leaders, public personalities and social media users, while others defended her right to express her views. The new video appears to be her attempt to explain the reasoning behind those earlier statements rather than withdraw them.<br><br>
+
+The controversy has also led to fresh political exchanges, with leaders from opposition parties criticising Kangana's language and accusing her of making sweeping generalisations about young people. Supporters, however, have argued that she was speaking against abusive public behaviour rather than targeting an entire generation.<br><br>
+
+The discussion has generated extensive reactions across social media, where users remain divided over Kangana's comments. While some praised her call for maintaining decorum in public life, others argued that her choice of words was unnecessarily provocative and likely to deepen the ongoing controversy.<br><br>
+
+As of now, Kangana Ranaut has not withdrawn her statements. Instead, she continues to defend her position through social media, insisting that public protests should remain respectful and free from abusive or obscene conduct. The debate surrounding her remarks continues to attract widespread attention online and in political discussions.<br><br>`,
+
+  url: "kangana-ranaut-instagram-obscenity-public-comments",
+
+  image: "kangana-ranaut-instagram-video-public-obscenity.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 30, 2026"
+},
+
+  {
+  title: "Actress Eva Grover Alleges Ex-Husband Hyder Ali Khan Forced Her to Sleep With Directors During Marriage",
+
+  description: "Television actress Eva Grover has made serious allegations against her former husband Hyder Ali Khan, the stepbrother of actor Aamir Khan. She claimed she faced physical abuse, mental harassment and was pressured to have relationships with film directors during their marriage.",
+
+  content: `Television actress Eva Grover has made a series of serious allegations against her former husband Hyder Ali Khan, the stepbrother of Bollywood actor Aamir Khan. In a recent interview, the actress spoke about what she described as an abusive marriage, claiming she was subjected to physical violence, emotional harassment and repeated pressure to establish physical relationships with film directors and other men for financial reasons.<br><br>
+
+Eva Grover revealed that she married Hyder Ali Khan after knowing him for only 18 days. Despite strong opposition from her family, the couple entered into an interfaith marriage believing they would build a happy life together. However, according to the actress, the relationship deteriorated soon after their wedding, and she allegedly began experiencing abuse inside the marriage.<br><br>
+
+According to Eva, she later discovered that Hyder Ali Khan was suffering from schizophrenia, something she claims she was unaware of before the marriage. She alleged that his behaviour gradually became violent and unpredictable, resulting in repeated incidents of physical assault and severe mental trauma.<br><br>
+
+The actress further claimed that her former husband pressured her to have physical relationships with film directors and other men to earn money for household expenses, including paying electricity bills and managing daily family needs. She described these alleged demands as one of the most disturbing experiences she faced during the marriage and said she refused to comply despite the pressure.<br><br>
+
+Eva also alleged that the abuse continued for several years before she finally decided to end the relationship. She has previously stated that the courage to walk away from the marriage came because of her daughter, whose future motivated her to leave the abusive environment and rebuild her life independently.<br><br>
+
+Following the divorce, Eva focused on rebuilding her career in the entertainment industry. She has since appeared in several television serials and has spoken publicly on multiple occasions about domestic abuse, encouraging women facing similar situations to seek help and not remain silent out of fear or social pressure.<br><br>
+
+As of now, the allegations made by Eva Grover are her personal claims and account of her marriage. There has been no public response from Hyder Ali Khan regarding these latest allegations, and the accusations have not been adjudicated in a court of law. Readers should therefore treat the allegations as claims made by the actress unless further official developments emerge.<br><br>
+
+The interview has generated significant discussion on social media, with many users expressing support for Eva Grover for sharing her experiences, while others have called for all parties to be given an opportunity to present their version of events. The episode has once again drawn attention to conversations around domestic abuse, coercive relationships and the importance of providing support to survivors who choose to speak publicly about their experiences.<br><br>`,
+
+  url: "eva-grover-alleges-abuse-hyder-ali-khan-marriage",
+
+  image: "eva-grover-hyder-ali-khan-allegations.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 30, 2026"
+},
+
+  {
   title: "Shilpa Shetty Denies Viral Reservation Post, Says Fake Screenshot Was Falsely Linked to Her",
 
   description: "Actress Shilpa Shetty has dismissed a viral social media screenshot carrying comments on caste-based reservation that were falsely attributed to her. Calling the post fabricated and malicious, she urged people not to believe or share the misinformation.",
