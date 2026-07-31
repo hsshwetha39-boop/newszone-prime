@@ -73,6 +73,126 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "London Eye Lights Up With Giant Spider Emblem Ahead of 'Spider-Man: Brand New Day' Release",
+
+  description: "The London Eye transformed into a spectacular Spider-Man-themed attraction as a giant spider emblem and web illuminated the iconic landmark ahead of the release of 'Spider-Man: Brand New Day'. The unique promotional event quickly went viral online.",
+
+  content: `The global promotional campaign for 'Spider-Man: Brand New Day' continued with another eye-catching event as London's iconic London Eye was transformed into a massive Spider-Man display. The famous observation wheel was illuminated in Spider-Man's signature red and blue colours while a giant spider emblem and web appeared across the structure, creating a breathtaking spectacle on the banks of the River Thames.<br><br>
+
+The large-scale installation attracted thousands of onlookers who gathered along the riverfront to witness the unique transformation. Visitors stopped to photograph and record videos of the illuminated landmark, while aerial footage captured from nearby buildings and boats quickly spread across social media platforms.<br><br>
+
+The enormous spider web stretched across the London Eye, turning one of the United Kingdom's most recognisable landmarks into a dramatic tribute to Marvel's legendary superhero. The striking visual display became one of the biggest talking points among movie fans and tourists visiting the city.<br><br>
+
+Images and videos of the event rapidly gained traction online, with fans praising the creativity and scale of the promotional campaign. Many described the activation as one of the most impressive movie marketing events ever staged at the London Eye, highlighting its cinematic visual effects and immersive presentation.<br><br>
+
+The London Eye activation forms part of a wider international promotional campaign for 'Spider-Man: Brand New Day'. Similar large-scale displays have already appeared at famous landmarks including New York's Brooklyn Bridge and the Empire State Building, where giant Spider-Man-themed installations were created to celebrate the upcoming release.<br><br>
+
+The campaign reflects the filmmakers' strategy of bringing Spider-Man into real-world city landmarks, allowing fans to experience the excitement beyond traditional movie promotions. These immersive installations have generated significant engagement across social media and helped build anticipation among audiences worldwide.<br><br>
+
+Movie enthusiasts from different countries have shared photographs and videos of the London Eye display, helping the event trend across multiple social media platforms. Fans praised the use of one of London's most iconic attractions to celebrate the return of Marvel's friendly neighbourhood superhero.<br><br>
+
+'Spider-Man: Brand New Day' is scheduled for a worldwide theatrical release soon, and its international promotional campaign continues to capture attention with spectacular landmark activations. The London Eye display has become another memorable chapter in the film's global marketing campaign, further increasing excitement ahead of its release.<br><br>`,
+
+  url: "london-eye-spider-man-brand-new-day-promotion",
+
+  image: "london-eye-spider-man-brand-new-day.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 30, 2026"
+},
+
+  {
+  title: "Empire State Building Glows Red With Giant Spider Emblem Ahead of 'Spider-Man: Brand New Day' Release",
+
+  description: "The Empire State Building was transformed with a massive Spider-Man emblem as part of the promotional campaign for 'Spider-Man: Brand New Day'. Tom Holland and Zendaya also appeared during the special New York event, drawing huge crowds and online attention.",
+
+  content: `The promotional campaign for 'Spider-Man: Brand New Day' continued to captivate fans as New York City's iconic Empire State Building became the latest landmark to receive a spectacular Spider-Man-themed makeover. The building was illuminated in red while a giant Spider-Man emblem appeared across its façade, creating one of the film's most visually striking promotional events.<br><br>
+
+The special activation was organised ahead of the film's theatrical release and attracted large crowds across Manhattan. Fans gathered around the landmark to witness the unique display, with many stopping along Fifth Avenue to photograph and record videos as the Spider-Man symbol lit up one of New York's most famous skyscrapers.<br><br>
+
+Lead stars Tom Holland and Zendaya were also spotted beneath the Empire State Building during the event. The actors greeted fans and posed for photographs, adding to the excitement surrounding the promotion. Their appearance quickly became one of the most widely shared moments from the evening across social media platforms.<br><br>
+
+Images and videos from the event rapidly spread online, with fans praising the creativity and scale of the promotional campaign. Photos captured from nearby rooftops, city streets and taxi windows showcased the illuminated landmark from multiple angles, helping the event gain global attention within hours.<br><br>
+
+The Empire State Building has long been associated with Spider-Man through Marvel comics and several film adaptations, making it a fitting venue for the latest promotional event. The giant Spider-Man emblem projected onto the building celebrated the superhero's iconic connection with New York City, which has served as the backdrop for many of his adventures over the years.<br><br>
+
+The Empire State Building display follows another high-profile promotional stunt in which a massive spider web and giant spider installation appeared on the Brooklyn Bridge. Together, these large-scale activations have transformed some of New York's most recognisable landmarks into immersive Spider-Man experiences ahead of the film's release.<br><br>
+
+Movie enthusiasts and Marvel fans have widely praised the innovative marketing campaign, describing it as one of the most ambitious promotional efforts for a superhero film in recent years. The combination of iconic locations, immersive visual installations and appearances by the lead cast has significantly boosted excitement for the upcoming release.<br><br>
+
+'Spider-Man: Brand New Day' is scheduled for a worldwide theatrical release soon, and the ongoing promotional events continue to build anticipation among audiences. With spectacular citywide installations and fan engagement activities, the makers are ensuring that the film remains one of the most talked-about entertainment releases of the year.<br><br>`,
+
+  url: "empire-state-building-spider-man-brand-new-day-promotion",
+
+  image: "empire-state-building-spider-man-brand-new-day.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 30, 2026"
+},
+
+  {
+  title: "Giant Spider Web Covers Brooklyn Bridge as 'Spider-Man: Brand New Day' Promotion Stuns Fans",
+
+  description: "The makers of 'Spider-Man: Brand New Day' have launched a spectacular promotional campaign in New York by installing a massive spider web and giant spider on the Brooklyn Bridge. The unique marketing event has gone viral across social media.",
+
+  content: `The promotional campaign for 'Spider-Man: Brand New Day' has captured global attention after a giant spider web and massive spider installation appeared on New York City's iconic Brooklyn Bridge. The eye-catching display has quickly become one of the most talked-about movie promotions of the year, drawing large crowds of visitors and Spider-Man fans.<br><br>
+
+Images and videos shared online show the enormous spider web stretching across sections of the Brooklyn Bridge, with a giant spider positioned at its centre. The installation transforms one of New York's most recognisable landmarks into a dramatic tribute to Marvel's legendary superhero, creating a striking visual spectacle for tourists and local residents alike.<br><br>
+
+Hollywood actor Tom Holland, who returns as Peter Parker in 'Spider-Man: Brand New Day', was also seen visiting the location during the promotional event. Photographs from the campaign show the actor posing near the bridge while pointing towards the giant spider installation, delighting fans gathered at the venue.<br><br>
+
+The large-scale promotional event is part of the marketing campaign leading up to the release of 'Spider-Man: Brand New Day'. The film has already generated significant excitement among Marvel fans, and the Brooklyn Bridge installation has further increased anticipation by creating a memorable real-world experience inspired by the superhero's iconic web-slinging adventures.<br><br>
+
+Soon after the installation was unveiled, photographs and videos began circulating widely across social media platforms. Fans praised the creativity behind the campaign, with many describing it as one of the most impressive outdoor promotional events organised for a superhero film in recent years.<br><br>
+
+The Brooklyn Bridge has long been associated with Spider-Man through comics, animated series and previous films, making it a fitting location for the latest promotional activity. The giant web installation pays homage to the character's connection with New York City, which has always served as the backdrop for many of Spider-Man's adventures.<br><br>
+
+The promotional campaign has attracted tourists, content creators and Marvel enthusiasts eager to photograph the installation. The spectacular display has also helped generate additional online buzz ahead of the film's theatrical release, with thousands of images and videos being shared across digital platforms.<br><br>
+
+'Spider-Man: Brand New Day' is among the most anticipated Hollywood releases of the year. With innovative promotional campaigns such as the Brooklyn Bridge installation, the makers continue to build excitement among audiences as the film prepares for its worldwide release.<br><br>`,
+
+  url: "spider-man-brand-new-day-brooklyn-bridge-giant-spider-web-promotion",
+
+  image: "spider-man-brand-new-day-brooklyn-bridge-promotion.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 30, 2026"
+},
+
+  {
+  title: "‘Ramayana’ Trailer Unveiled: Ranbir Kapoor, Yash and Sai Pallavi Lead Epic Mythological Spectacle",
+
+  description: "The much-awaited trailer of Nitesh Tiwari's 'Ramayana' has been released, offering audiences a first glimpse of the grand mythological epic starring Ranbir Kapoor, Yash, Sai Pallavi and Sunny Deol. The film is scheduled for a worldwide theatrical release during Diwali 2026.",
+
+  content: `The makers of 'Ramayana' have officially unveiled the first trailer of the ambitious mythological epic, giving audiences a glimpse of one of the biggest Indian film productions in recent years. Directed by Nitesh Tiwari and produced by Namit Malhotra, the film has generated enormous anticipation for its large-scale visual effects, star-studded cast and global theatrical release planned for Diwali 2026.<br><br>
+
+The trailer introduces Ranbir Kapoor as Lord Rama, while Kannada superstar Yash appears in the powerful role of Ravana. Actress Sai Pallavi portrays Goddess Sita, and veteran actor Sunny Deol takes on the role of Lord Hanuman. The first visuals highlight grand battle sequences, elaborate sets and high-end visual effects, reflecting the makers' effort to recreate the epic on an international scale.<br><br>
+
+Music for the film has been composed by internationally acclaimed composer Hans Zimmer along with Oscar-winning Indian composer A.R. Rahman. The lyrics have been written by poet and lyricist Kumar Vishwas, adding another major collaboration to the project.<br><br>
+
+The film is being presented as a global cinematic experience and has been specially filmed for IMAX screens. According to the official announcement, Sony Pictures Entertainment will handle worldwide distribution, while Dharma Productions has been entrusted with the North India theatrical distribution. The music rights are with T-Series.<br><br>
+
+Produced under the banner of Monster Mind Creations, 'Ramayana' is among the most expensive and technically ambitious Indian films currently in production. The makers have focused heavily on visual storytelling, large-scale action sequences and advanced CGI to bring one of India's most celebrated epics to the big screen.<br><br>
+
+Soon after the trailer was released, it began trending across social media platforms, with fans praising the film's visuals, production quality and casting. Many viewers expressed excitement about seeing Ranbir Kapoor, Yash, Sai Pallavi and Sunny Deol together in a mythological epic, while discussions around the film quickly dominated online entertainment conversations.<br><br>
+
+The project has attracted nationwide attention since its announcement because of its ensemble cast and international production standards. Expectations remain high as audiences await further promotional material ahead of its theatrical release.<br><br>
+
+'Ramayana' is scheduled to release in cinemas worldwide during Diwali 2026. With its combination of acclaimed actors, internationally recognised music composers and large-scale production values, the film is expected to be one of the biggest cinematic releases of the year.<br><br>`,
+
+  url: "ramayana-trailer-ranbir-kapoor-yash-sai-pallavi-diwali-2026",
+
+  image: "ramayana-trailer-ranbir-yash-sai-pallavi.jpeg",
+
+  category: "Entertainment",
+
+  date: "July 30, 2026"
+},
+
+  {
   title: "Zendaya Stuns in Tamara Ralph Couture at 'Spider-Man: Brand New Day' London Premiere",
 
   description: "Hollywood star Zendaya turned heads at the London premiere of 'Spider-Man: Brand New Day' in a custom Tamara Ralph couture gown from the Fall 2026 collection. Her glamorous appearance quickly became one of the evening's biggest fashion highlights.",
