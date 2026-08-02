@@ -73,6 +73,156 @@ container.appendChild(card);
 // MANUAL NEWS DATA
 const manualNews = [
   {
+  title: "How Priyanka Chopra's 'Mary Kom' Inspired Pakistan's First Female Commonwealth Games Boxing Medallist Fatima Zahra",
+
+  description: "Pakistan's first female Commonwealth Games boxing medallist Fatima Zahra has revealed that watching Priyanka Chopra's biographical film 'Mary Kom' inspired her to take up boxing. Her historic bronze medal has become a landmark moment for women's boxing in Pakistan.",
+
+  content: `Pakistan's boxing history reached a new milestone after 22-year-old Fatima Zahra became the country's first female boxer to win a medal at the Commonwealth Games. Competing in the women's 60kg category, Zahra secured a bronze medal, marking a historic achievement for Pakistan on the international sporting stage.<br><br>
+
+Following her success, Fatima shared that her journey into boxing began after watching the 2014 biographical film 'Mary Kom', in which Priyanka Chopra portrayed India's legendary six-time world champion MC Mary Kom. The film left a lasting impression on her when she was around 10 years old and inspired her to pursue boxing despite the limited opportunities available for women in the sport in Pakistan.<br><br>
+
+Growing up in Pakistan's Punjab province, Fatima said she had very few female boxing role models within her own country. Instead, she looked across the border to Mary Kom, whose remarkable career, resilience and achievements became a source of motivation. She has expressed deep respect for the Indian boxing icon and credited her journey for influencing her own sporting ambitions.<br><br>
+
+Fatima's bronze medal represents a breakthrough for Pakistani women's boxing. Until now, no Pakistani woman had won a boxing medal at the Commonwealth Games, making her achievement a significant chapter in the country's sporting history. Her performance has been widely praised for opening new possibilities for aspiring female athletes in Pakistan.<br><br>
+
+The film 'Mary Kom' was released in 2014 and chronicled the inspiring life of the Indian boxing champion, highlighting her struggles, determination and rise to becoming one of the world's greatest boxers. Priyanka Chopra's portrayal introduced Mary Kom's story to audiences across South Asia and beyond, inspiring countless young athletes, including Fatima Zahra.<br><br>
+
+Fatima's achievement also highlights how sporting stories and films can transcend national boundaries. Although she grew up in a different country with different sporting challenges, the message of perseverance shown in Mary Kom's journey encouraged her to believe that success in boxing was possible through dedication and hard work.<br><br>
+
+Her historic medal has been celebrated by sports fans and officials in Pakistan, with many describing it as a landmark moment for women's participation in combat sports. The achievement is expected to encourage greater support for female boxers and inspire more young girls to take up the sport in the coming years.<br><br>
+
+As Fatima Zahra continues her boxing career, her success stands as a reminder of the lasting impact inspirational athletes and films can have across borders. Her journey from watching a biographical sports film as a child to becoming Pakistan's first female Commonwealth Games boxing medallist reflects the universal power of determination, representation and ambition.<br><br>`,
+
+  url: "fatima-zahra-inspired-by-priyanka-chopra-mary-kom-biopic-commonwealth-games",
+
+  image: "fatima-zahra-mary-kom-inspiration-commonwealth-games.jpeg",
+
+  category: "Sports",
+
+  date: "August 2, 2026"
+},
+
+  {
+  title: "Meet Karnataka's 'Scholarship Master': 83-Year-Old Retired Teacher Helped 1 Lakh Students Receive ₹5 Crore in Financial Aid",
+
+  description: "K. Narayana Naik, an 83-year-old retired government school teacher from Karnataka, has spent more than two decades helping over one lakh financially disadvantaged students secure scholarships worth nearly ₹5 crore. His selfless mission has earned him the title 'Scholarship Master.'",
+
+  content: `At an age when most people choose a quiet retired life, 83-year-old K. Narayana Naik from Karnataka continues to travel across Dakshina Kannada and Udupi districts with a single mission—to ensure that no deserving student is forced to abandon education because of financial difficulties. Over the past two decades, the retired government school teacher has helped more than one lakh students obtain scholarships worth nearly ₹5 crore, earning him widespread respect and the nickname "Scholarship Master."<br><br>
+
+Naik's dedication began long before his retirement. During his teaching career, he witnessed countless bright students struggling to continue their education due to poverty and lack of awareness about scholarship opportunities. After retiring in 2001, he decided to devote his time entirely to guiding students and their families through the scholarship application process, turning his retirement into a full-time social mission.<br><br>
+
+Every year, Naik personally visits hundreds of schools, colleges, polytechnic institutes, ITIs and educational institutions across coastal Karnataka. He also travels to students' homes, meets their families, verifies their financial background and helps them identify scholarships for which they are eligible. From filling out application forms to following up with government departments and charitable organisations, he remains involved until the financial assistance reaches the student.<br><br>
+
+Despite living on a modest pension, Naik spends a significant portion of his monthly income on travel and other expenses related to his mission. He has continued covering long distances on his motorcycle and through public transport, believing that every deserving student deserves access to higher education regardless of financial circumstances.<br><br>
+
+Naik's own childhood struggles played a major role in shaping his life's purpose. Born into a poor farming family, he faced severe financial hardship while pursuing his education. Determined to continue studying despite difficult circumstances, he eventually completed his B.Ed. along with postgraduate degrees in Kannada and Hindi before dedicating 38 years to government school education.<br><br>
+
+Over the years, Naik has developed extensive knowledge about scholarships offered by government departments, private trusts, charitable foundations and educational organisations. Many students and parents are unaware that such financial assistance exists, and Naik has made it his life's mission to bridge that information gap so deserving candidates can pursue higher education without financial barriers.<br><br>
+
+His tireless efforts have transformed the lives of thousands of students who have gone on to pursue professional courses, university degrees and successful careers. Educational institutions and local officials have praised his commitment, noting that his guidance has enabled countless rural and economically weaker students to continue their education instead of dropping out due to financial constraints.<br><br>
+
+K. Narayana Naik's extraordinary journey stands as a powerful reminder that one person's dedication can create a lasting impact on society. Through years of selfless service, the retired teacher has helped open the doors of education for more than one lakh students, proving that compassion, perseverance and a commitment to public service can change countless lives for the better.<br><br>`,
+
+  url: "k-narayana-naik-scholarship-master-helped-one-lakh-students",
+
+  image: "k-narayana-naik-scholarship-master.jpeg",
+
+  category: "Education",
+
+  date: "August 2, 2026"
+},
+
+  {
+  title: "India's Bhumika Shajwani Crowned Mrs Earth Elite 2026, Brings Global Honour Home",
+
+  description: "Indian entrepreneur and digital creator Bhumika Shajwani has been crowned Mrs Earth Elite 2026 at the international Mrs Earth pageant. Her victory celebrates not only beauty and confidence but also her commitment to environmental awareness, women's empowerment and social impact.",
+
+  content: `India has added another prestigious international beauty title to its achievements after Bhumika Shajwani was crowned Mrs Earth Elite 2026 at the global Mrs Earth pageant. Her victory marks a proud moment for the country, highlighting Indian representation on an international platform that celebrates beauty, leadership and environmental responsibility.<br><br>
+
+The international pageant brought together married women from several countries, with contestants competing in multiple categories while advocating for social and environmental causes. Bhumika impressed the judges with her confidence, communication skills, stage presence and commitment to meaningful initiatives, ultimately earning the Elite Mrs Earth 2026 crown.<br><br>
+
+Bhumika Shajwani is known as an entrepreneur, digital creator and advertising business owner. Throughout the competition, she focused on promoting women's empowerment and community-driven sustainability initiatives, reflecting the core values of the Mrs Earth platform, which encourages contestants to become ambassadors for environmental awareness and positive social change.<br><br>
+
+The Mrs Earth pageant goes beyond traditional beauty competitions by encouraging participants to support environmental conservation, community development and charitable initiatives. Contestants are evaluated not only on their appearance and stage performance but also on their advocacy, leadership qualities and ability to inspire positive change.<br><br>
+
+According to Bhumika, winning the international title was the result of months of preparation, discipline and dedication. She described the journey as one that demanded physical fitness, confidence, communication skills and a clear purpose, making the crown even more meaningful after months of hard work.<br><br>
+
+Her victory has been widely welcomed by supporters, pageant enthusiasts and members of the Indian fashion and beauty industry. Many congratulated her for bringing another international honour to India while showcasing the growing global influence of Indian contestants in beauty pageants.<br><br>
+
+The 2026 Mrs Earth pageant featured winners across several categories, with participants representing different countries and regions. Bhumika's Elite Mrs Earth title adds another milestone to India's growing success in international pageantry and reinforces the country's strong presence in global beauty competitions.<br><br>
+
+With the Mrs Earth Elite 2026 crown, Bhumika Shajwani is expected to continue promoting environmental awareness, women's leadership and community service through various national and international initiatives during her reign. Her achievement serves as an inspiration for aspiring contestants who hope to represent India on global platforms while creating meaningful social impact.<br><br>`,
+
+  url: "bhumika-shajwani-crowned-mrs-earth-elite-2026-india",
+
+  image: "bhumika-shajwani-mrs-earth-elite-2026.jpeg",
+
+  category: "Entertainment",
+
+  date: "August 2, 2026"
+},
+
+  {
+  title: "Abhijeet Dipke Questions PM Modi's 'Forgiveness' Message, Social Media Post Sparks Fresh Political Debate",
+
+  description: "A social media comment attributed to CJP founder Abhijeet Dipke has gone viral after he reacted to Prime Minister Narendra Modi's message on forgiveness. The post has triggered widespread discussion online, with supporters and critics offering differing views.",
+
+  content: `A social media post attributed to CJP founder Abhijeet Dipke has generated widespread discussion after he reacted to Prime Minister Narendra Modi's recent message on forgiveness and moving forward. The comment quickly gained traction across social media platforms, becoming the subject of political debate and online reactions.<br><br>
+
+According to screenshots circulating online, Dipke responded to the Prime Minister's message by asking whether the idea of forgiveness would also extend to legal cases. The comment, written in Hindi, questioned if forgiveness would be limited to social media statements or whether pending legal cases would also be withdrawn. The post has since been widely shared by users across multiple platforms.<br><br>
+
+The screenshots show Prime Minister Narendra Modi delivering a video message while also displaying the alleged comment attributed to Dipke. As the images spread online, many users interpreted the response as a criticism of the Prime Minister's remarks, while others viewed it as a political statement intended to highlight ongoing legal issues.<br><br>
+
+The post has sparked mixed reactions on social media. Supporters of Dipke argued that the comment raises a legitimate question about accountability and legal proceedings, while critics accused him of politicising a message that was intended to encourage reconciliation and moving forward.<br><br>
+
+As of now, the viral discussion remains largely confined to social media platforms. No official clarification has been issued by the Prime Minister's Office regarding the viral comment, and there has been no official response publicly addressing the online debate surrounding the post.<br><br>
+
+It is important to note that the claims and interpretations circulating online are based primarily on viral social media posts and screenshots. The broader conclusions being drawn by users have not been independently verified through official government statements or court records.<br><br>
+
+The episode has once again highlighted how political comments shared on social media can quickly become the centre of nationwide discussions. With thousands of users sharing their opinions, the conversation continues to evolve as more reactions emerge online.<br><br>
+
+Since the matter is based on a viral social media exchange, readers should distinguish between verified facts and public opinion. Unless supported by official statements or independently verified information, claims and interpretations circulating online should be treated as part of an ongoing social media discussion rather than confirmed developments.<br><br>`,
+
+  url: "abhijeet-dipke-reacts-pm-modi-forgiveness-message-viral-post",
+
+  image: "abhijeet-dipke-pm-modi-forgiveness-post.jpeg",
+
+  category: "Politics",
+
+  date: "August 2, 2026"
+},
+
+  {
+  title: "Sai Pallavi's Sita Look in 'Ramayana' Divides Internet, Social Media Debates Beauty Standards",
+
+  description: "Sai Pallavi's portrayal of Goddess Sita in 'Ramayana: Part 1' has sparked a heated discussion online. While some users questioned whether she fits the traditional image of Sita, many others defended her, saying the role should be judged by performance and character rather than conventional beauty standards.",
+
+  content: `The release of the trailer for 'Ramayana: Part 1' has created massive buzz across the country, but it has also triggered a heated debate on social media over Sai Pallavi's portrayal of Goddess Sita. While the film has been widely appreciated for its grand visuals and star-studded cast, a section of internet users has questioned whether Sai Pallavi is the right choice to play one of the most revered characters in Indian mythology.<br><br>
+
+Soon after the trailer was released, several posts and discussions began trending online, with some users claiming that Sai Pallavi did not match their traditional image of Sita. Critics argued that her appearance lacked the divine aura they associated with the character, leading to thousands of comments, memes and debates across social media platforms.<br><br>
+
+However, a large number of fans came out in support of the actress, arguing that Sita's identity is defined by her virtues, compassion, courage and devotion rather than conventional beauty standards. Many praised Sai Pallavi's natural screen presence and expressive acting, saying her simplicity makes her an ideal choice for portraying the iconic character.<br><br>
+
+The discussion soon expanded beyond Sai Pallavi's casting, with many users debating how mythological characters should be portrayed in modern cinema. While some preferred a more glamorous interpretation, others believed authenticity and emotional depth were far more important than physical appearance when bringing such legendary figures to life.<br><br>
+
+The trailer has also sparked conversations about the film's costume design, with some viewers suggesting that certain outfits appear more contemporary than expected for a story set in the Treta Yuga. Others defended the creative choices, stating that cinematic adaptations often balance historical inspiration with artistic interpretation.<br><br>
+
+Despite the online criticism, the overall response to the trailer has remained overwhelmingly positive. Audiences have praised the film's scale, visual effects, background score and performances by Ranbir Kapoor, Yash, Sai Pallavi and the rest of the cast, making 'Ramayana: Part 1' one of the biggest entertainment topics currently trending online.<br><br>
+
+Sai Pallavi has previously spoken about portraying Goddess Sita, describing the role as a blessing rather than an achievement. She said she approached the character with prayer, meditation and deep respect, expressing hope that audiences would connect with her performance and the values represented by Sita.<br><br>
+
+As of now, neither Sai Pallavi nor the filmmakers have officially responded to the latest online debate surrounding her appearance in the trailer. The discussion continues to reflect differing opinions among social media users, while anticipation for 'Ramayana: Part 1' remains exceptionally high ahead of its theatrical release.<br><br>`,
+
+  url: "sai-pallavi-sita-ramayana-part-1-online-beauty-debate",
+
+  image: "sai-pallavi-sita-ramayana-part-1.jpeg",
+
+  category: "Entertainment",
+
+  date: "August 2, 2026"
+},
+
+  {
   title: "London Eye Lights Up With Giant Spider Emblem Ahead of 'Spider-Man: Brand New Day' Release",
 
   description: "The London Eye transformed into a spectacular Spider-Man-themed attraction as a giant spider emblem and web illuminated the iconic landmark ahead of the release of 'Spider-Man: Brand New Day'. The unique promotional event quickly went viral online.",
