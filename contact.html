@@ -1,88 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>
-Contact NewsZone Prime | News Support & Feedback
-</title>
-
-    <meta name="description"
-content="Contact NewsZone Prime for questions, feedback, or support regarding news and website services.">
-
-<meta name="robots"
-content="index,follow">
-
-<link rel="icon"
-type="image/jpeg"
-href="logo.png">
-
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact NewsZone Prime | Feedback &amp; Story Tips</title>
+<meta name="description" content="Contact NewsZone Prime for feedback, story tips, corrections or support.">
+<meta name="robots" content="index,follow">
+<link rel="icon" type="image/png" href="logo.png">
+<link rel="canonical" href="https://hsshwetha39-boop.github.io/newszone-prime/contact.html">
+<meta property="og:site_name" content="NewsZone Prime">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Contact NewsZone Prime | Feedback &amp; Story Tips">
+<meta property="og:description" content="Contact NewsZone Prime for feedback, story tips, corrections or support.">
+<meta property="og:url" content="https://hsshwetha39-boop.github.io/newszone-prime/contact.html">
+<meta property="og:image" content="https://hsshwetha39-boop.github.io/newszone-prime/logo.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Contact NewsZone Prime | Feedback &amp; Story Tips">
+<meta name="twitter:description" content="Contact NewsZone Prime for feedback, story tips, corrections or support.">
+<meta name="twitter:image" content="https://hsshwetha39-boop.github.io/newszone-prime/logo.png">
+<meta name="theme-color" content="#111111">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SDHM4EKKVE"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-SDHM4EKKVE');
+</script>
 <link rel="stylesheet" href="style.css">
 
-<link rel="canonical"
-href="https://hsshwetha39-boop.github.io/newszone-prime/contact.html">
 </head>
-<body>
-
+<body data-root="">
 <nav class="navbar">
-
-    <h2 class="logo">
-        <img
-src="logo.png"
-alt="NewsZone Prime Logo"
-loading="eager">
-        <span>NEWSZONE PRIME</span>
-    </h2>
-
-    <div class="nav-right">
-
-        <button class="menu-btn" onclick="toggleMenu()">☰</button>
+  <h2 class="logo"><a class="logo-link" href="index.html">
+    <img src="logo.png" alt="NewsZone Prime logo" width="33" height="33">
+    <span>NZ PRIME</span></a></h2>
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="Search News..." aria-label="Search news">
+    <span id="clearBtn" role="button" aria-label="Clear search">❌</span>
+  </div>
+  <div class="nav-right">
+    <div class="nav-links" id="navLinks">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="disclaimer.html">Disclaimer</a>
     </div>
-
-    <div class="nav-links">
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="contact.html">Contact</a>
-        <a href="privacy.html">Privacy Policy</a>
-    </div>
-
+    <button id="darkBtn" onclick="toggleDarkMode()" aria-label="Toggle dark mode">🌙</button>
+    <button class="menu-btn" onclick="toggleMenu()" aria-label="Open menu">☰</button>
+  </div>
 </nav>
-
-<div class="contact-section">
-    <h1>Contact Us</h1>
-    <p>We would love to hear from you!</p>
-
-    <div class="contact-info">
-        <p>
-<b>Email:</b>
-
-<a href="mailto:hsshwetha13@gmail.com">
-hsshwetha13@gmail.com
-</a>
-
-</p>
-    </div>
-
-<form class="contact-form">
-    <input
-type="text"
-placeholder="Your Name"
-required>
-    <input
-type="email"
-placeholder="Your Email"
-required>
-    <textarea
-rows="4"
-placeholder="Your Message"
-required>
-</textarea>
-    <br>
-    <button type="submit">Send Message</button>
+<main class="contact-section">
+<h1>Contact Us</h1>
+<p>We would love to hear from you. Send us feedback, story tips, or corrections.</p>
+<p class="form-success" id="formSuccess" style="display:none">✅ Thank you! Your message has been sent.</p>
+<div class="contact-info"><p><b>Email:</b> <a href="mailto:hsshwetha13@gmail.com">hsshwetha13@gmail.com</a></p></div>
+<form class="contact-form" action="https://formsubmit.co/hsshwetha13@gmail.com" method="POST">
+  <input type="hidden" name="_subject" value="New message from NewsZone Prime">
+  <input type="hidden" name="_next" value="https://hsshwetha39-boop.github.io/newszone-prime/contact.html?sent=1">
+  <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+  <input type="text" name="name" placeholder="Your Name" required>
+  <input type="email" name="email" placeholder="Your Email" required>
+  <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+  <br><button type="submit">Send Message</button>
 </form>
-
-</div>
-
+</main>
+<footer>
+  <div class="footer-content">
+    <h3>📰 NEWSZONE PRIME</h3>
+    <p>Your daily source of trending news, entertainment, and updates.</p>
+    <div class="footer-links">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="disclaimer.html">Disclaimer</a>
+    </div>
+    <p>Contact: <a href="mailto:hsshwetha13@gmail.com">hsshwetha13@gmail.com</a></p>
+    <p class="copyright">© 2026 NewsZone Prime. All rights reserved.</p>
+  </div>
+</footer>
 <script src="script.js"></script>
 </body>
 </html>

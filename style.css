@@ -7,12 +7,14 @@
 body, html {
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
-  width: 100%;
+  max-width: 100%;
   font-family: Arial;
   background: linear-gradient(to right, #f5f7fa, #e4ecf7);
   line-height: 1.6;
 }
+
+/* clip (not hidden) so the page can never scroll sideways without turning body into a scroll box */
+body { overflow-x: clip; }
 
 html {
   scroll-behavior: smooth;
@@ -1140,3 +1142,120 @@ margin-top:30px;
 font-size:22px;
 
 }
+
+/* ==========================================================
+   ADDITIONS (article pages, load more, shared navbar, dark mode)
+   ========================================================== */
+.logo-link { display: flex; align-items: center; gap: 5px; color: inherit; }
+.logo-link img { height: 33px; width: auto; }
+
+.breaking-news a { color: #fff; }
+.breaking-news a:hover { text-decoration: underline; }
+
+.empty-state { grid-column: 1 / -1; text-align: center; margin-top: 40px; }
+
+.load-more {
+  display: none;
+  margin: 10px auto 40px;
+  padding: 12px 30px;
+  background: #111;
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.load-more:hover { background: #00bcd4; }
+
+.article-top { max-width: 750px; margin: 15px auto 8px; padding: 0 20px; }
+.back-link {
+  display: inline-block;
+  background: #111;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+.back-link:hover { background: #333; }
+
+.breadcrumb { font-size: 14px; color: #777; margin-bottom: 12px !important; }
+.breadcrumb a { color: #0a8a9a; font-weight: 600; }
+.news-details h1 { line-height: 1.3; }
+.article-hero { display: block; width: 100%; height: auto; border-radius: 10px; margin: 20px 0; }
+.article-figure { margin: 20px 0; }
+.article-figure img { display: block; width: 100%; height: auto; border-radius: 10px; margin: 0; }
+.article-note { font-size: 14px !important; color: #777 !important; margin-top: 25px; }
+.article-note a { color: #0a8a9a; text-decoration: underline; }
+.news-details a { overflow-wrap: anywhere; }
+
+.form-success {
+  background: #e6f9ee;
+  color: #1a7f42;
+  padding: 12px;
+  border-radius: 8px;
+  margin: 15px 0;
+}
+
+.policy-container ul, .policy-container li { color: #555; }
+.policy-container a, .contact-section a { color: #0a8a9a; text-decoration: underline; }
+
+/* Dark mode for the inner pages */
+.dark-mode .news-details,
+.dark-mode .policy-container,
+.dark-mode .about-section,
+.dark-mode .contact-section { background: #1e1e1e; color: #e5e5e5; }
+.dark-mode .news-details h1,
+.dark-mode .news-details h3,
+.dark-mode .policy-container h1,
+.dark-mode .policy-container h2,
+.dark-mode .contact-section h1 { color: #fff; }
+.dark-mode .news-details p,
+.dark-mode .policy-container p,
+.dark-mode .contact-section p { color: #cfcfcf; }
+.dark-mode #related-news { background: #2a2a2a; }
+.dark-mode #related-news a { color: #eee; border-color: #444; }
+.dark-mode .contact-info { background: #2a2a2a; }
+.dark-mode .contact-form input,
+.dark-mode .contact-form textarea { background: #2a2a2a; color: #fff; border-color: #444; }
+
+@media (max-width: 768px) {
+  .news-details { margin: 10px 10px 40px; padding: 18px; }
+  .news-details h1 { font-size: 24px; }
+  .news-details p { font-size: 16px; }
+  .policy-container { margin: 20px 10px; padding: 22px; }
+  .policy-container h1 { font-size: 30px; }
+  .policy-container h2 { font-size: 22px; }
+}
+
+/* Ticker: start immediately instead of waiting for long text to scroll in */
+@keyframes tickerMove { from { transform: translateX(0); } to { transform: translateX(-100%); } }
+.breaking-news .scroll-text { animation: tickerMove 45s linear infinite; }
+.breaking-news:hover .scroll-text { animation-play-state: paused; }
+
+.news-details .breadcrumb { font-size: 14px; color: #777; }
+
+@media (min-width: 769px) {
+  .news-container { max-width: 1280px; margin: 0 auto; padding: 20px 24px; }
+}
+
+@media (max-width: 768px) {
+  .nav-links { top: 44px; height: calc(100vh - 44px); }
+}
+
+/* Empty homepage (before first article is published) */
+.empty-home {
+  grid-column: 1 / -1;
+  text-align: center;
+  background: #fff;
+  border-radius: 15px;
+  padding: 50px 24px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+.empty-home h2 { margin-bottom: 10px; color: #111; }
+.empty-home p { color: #555; }
+.empty-home a { color: #0a8a9a; text-decoration: underline; }
+.dark-mode .empty-home { background: #1e1e1e; }
+.dark-mode .empty-home h2 { color: #fff; }
+.dark-mode .empty-home p { color: #cfcfcf; }
+.empty-home { min-height: 40vh; display: flex; flex-direction: column; justify-content: center; }
