@@ -2,6 +2,22 @@
 const PAGE_SIZE = 12;
 const manualNews = [
  {
+  "title": "Sonu Nigam Introduces 19-Year-Old Son Nevaan Nigam With Debut Short Film 'Slide'",
+  "description": "Sonu Nigam introduced his 19-year-old son Nevaan's first project, the sci-fi short film Slide, with an emotional Diwali post about his hard work.",
+  "slug": "sonu-nigam-son-nevaan-nigam-debut-short-film-slide",
+  "image": "sonu-nigam-nevaan-nigam-slide-debut.jpg",
+  "category": "entertainment",
+  "date": "November 8, 2026"
+ },
+ {
+  "title": "Salman Khan Questions ₹4,000 Crore Ramayana Budget Talk, Says Focus Should Be on Ram, Sita and Ravana",
+  "description": "Salman Khan says Ramayana should be discussed for its story, not its ₹4,000 crore budget, and recalls a Ramayana film he once shelved with his brother.",
+  "slug": "salman-khan-questions-ramayana-4000-crore-budget-focus-characters",
+  "image": "salman-khan-ramayana-budget-comments.jpg",
+  "category": "entertainment",
+  "date": "November 8, 2026"
+ },
+ {
   "title": "Chiranjeevi Meets Amit Shah Over AI Deepfake Misuse, Seeks Stronger Protection for Artists",
   "description": "Chiranjeevi and Ram Charan met Amit Shah on November 2 to seek stronger safeguards against AI deepfakes. The government promised an urgent examination.",
   "slug": "chiranjeevi-amit-shah-meeting-ai-deepfake-misuse-artists-protection",
