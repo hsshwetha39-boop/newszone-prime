@@ -2,6 +2,38 @@
 const PAGE_SIZE = 12;
 const manualNews = [
  {
+  "title": "Katrina Kaif and Vicky Kaushal Reveal Son Vihaan's Face for the First Time on Diwali, Call It Their 'Brightest Diwali Yet'",
+  "description": "Katrina Kaif and Vicky Kaushal shared the first clear photo of son Vihaan on Diwali, a day after his first birthday, calling it their brightest yet.",
+  "slug": "katrina-kaif-vicky-kaushal-reveal-son-vihaan-face-diwali-2026",
+  "image": "katrina-kaif-vicky-kaushal-son-vihaan-diwali-2026.jpg",
+  "category": "entertainment",
+  "date": "November 9, 2026"
+ },
+ {
+  "title": "Priyanka Chopra Shares Diwali Family Album With Nick Jonas and Daughter Malti From Los Angeles",
+  "description": "Priyanka Chopra shared photos of her Diwali in Los Angeles with Nick Jonas and daughter Malti, in festive outfits amid candles, flowers and warm lights.",
+  "slug": "priyanka-chopra-diwali-family-photos-nick-jonas-malti-2026",
+  "image": "priyanka-chopra-nick-jonas-malti-diwali-2026.jpg",
+  "category": "entertainment",
+  "date": "November 9, 2026"
+ },
+ {
+  "title": "Prerna Wanvari Challenges 'First Indian Presenter' Claim About Vijay Sethupathi at International Emmy Awards",
+  "description": "Prerna Wanvari says Vijay Sethupathi is not the first Indian presenter at the International Emmys, recalling earlier appearances by Indian TV stars.",
+  "slug": "prerna-wanvari-challenges-vijay-sethupathi-first-indian-emmy-presenter-claim",
+  "image": "prerna-wanvari-vijay-sethupathi-international-emmy-awards.jpg",
+  "category": "entertainment",
+  "date": "November 9, 2026"
+ },
+ {
+  "title": "PM Modi Visits LK Advani on 99th Birthday as Veteran BJP Leader Enters His 100th Year",
+  "description": "PM Modi visited veteran BJP leader LK Advani at his Delhi residence on his 99th birthday, as the BJP held a puja and havan at its headquarters.",
+  "slug": "pm-modi-visits-lk-advani-99th-birthday-enters-100th-year",
+  "image": "pm-modi-visits-lk-advani-birthday-2026.jpg",
+  "category": "india",
+  "date": "November 9, 2026"
+ },
+ {
   "title": "Sonu Nigam Introduces 19-Year-Old Son Nevaan Nigam With Debut Short Film 'Slide'",
   "description": "Sonu Nigam introduced his 19-year-old son Nevaan's first project, the sci-fi short film Slide, with an emotional Diwali post about his hard work.",
   "slug": "sonu-nigam-son-nevaan-nigam-debut-short-film-slide",
