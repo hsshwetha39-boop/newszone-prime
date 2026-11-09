@@ -34,6 +34,14 @@ const manualNews = [
   "date": "November 9, 2026"
  },
  {
+  "title": "Karnataka CM DK Shivakumar and Daughter Aishwarya Face Backlash Over Remarks on Government School Teachers",
+  "description": "Teachers' groups and educationists criticised remarks by Karnataka CM DK Shivakumar and his daughter Aishwarya about government school teachers.",
+  "slug": "karnataka-dk-shivakumar-daughter-aishwarya-remarks-government-school-teachers-controversy",
+  "image": "dk-shivakumar-aishwarya-government-school-teachers-controversy.jpg",
+  "category": "karnataka",
+  "date": "November 9, 2026"
+ },
+ {
   "title": "Sonu Nigam Introduces 19-Year-Old Son Nevaan Nigam With Debut Short Film 'Slide'",
   "description": "Sonu Nigam introduced his 19-year-old son Nevaan's first project, the sci-fi short film Slide, with an emotional Diwali post about his hard work.",
   "slug": "sonu-nigam-son-nevaan-nigam-debut-short-film-slide",
