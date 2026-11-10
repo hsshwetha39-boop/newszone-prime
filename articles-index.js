@@ -42,6 +42,14 @@ const manualNews = [
   "date": "November 9, 2026"
  },
  {
+  "title": "Ramayana Makers Issue Legal Notice Over Theatre Recordings, Warn of Criminal Action Citing Bombay High Court Orders",
+  "description": "Ramayana: Part 1 makers warned against recording and sharing theatre footage, citing Bombay High Court orders of November 2 and 6, 2026.",
+  "slug": "ramayana-makers-legal-notice-theatre-recordings-bombay-high-court-orders",
+  "image": "ramayana-part-1-makers-legal-warning-theatre-recordings.jpg",
+  "category": "entertainment",
+  "date": "November 9, 2026"
+ },
+ {
   "title": "Sonu Nigam Introduces 19-Year-Old Son Nevaan Nigam With Debut Short Film 'Slide'",
   "description": "Sonu Nigam introduced his 19-year-old son Nevaan's first project, the sci-fi short film Slide, with an emotional Diwali post about his hard work.",
   "slug": "sonu-nigam-son-nevaan-nigam-debut-short-film-slide",
