@@ -50,6 +50,14 @@ const manualNews = [
   "date": "November 9, 2026"
  },
  {
+  "title": "Director Shankar Praises Yash as a 'Lovable Villain' in Ramayana, Applauds Film's VFX and Music",
+  "description": "Director Shankar praised Yash's Ravana as a 'lovable villain' and called Ramayana a spectacle, applauding its VFX, music and sound design.",
+  "slug": "director-shankar-praises-yash-ravana-lovable-villain-ramayana-vfx-music",
+  "image": "director-shankar-yash-ravana-ramayana-review.jpg",
+  "category": "entertainment",
+  "date": "November 9, 2026"
+ },
+ {
   "title": "Sonu Nigam Introduces 19-Year-Old Son Nevaan Nigam With Debut Short Film 'Slide'",
   "description": "Sonu Nigam introduced his 19-year-old son Nevaan's first project, the sci-fi short film Slide, with an emotional Diwali post about his hard work.",
   "slug": "sonu-nigam-son-nevaan-nigam-debut-short-film-slide",
